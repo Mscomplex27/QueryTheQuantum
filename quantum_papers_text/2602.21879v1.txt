@@ -1,0 +1,5 @@
+Title: Quantum Error Mitigation Simulates General Non-Hermitian Dynamics
+Authors: Hiroki Kuji, Suguru Endo, Tetsuro Nikuni, Ryusuke Hamazaki, Yuichiro Matsuzaki
+Categories: quant-ph, cond-mat.dis-nn
+Published: 2026-02-25 13:04:32+00:00
+Abstract: While non-Hermitian Hamiltonians enable exotic dynamical phenomena, implementing their nonunitary time evolution on near-term quantum devices remains challenging. We propose a hardware-friendly protocol that simulates non-Hermitian dynamics without continuous monitoring. Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) evolution via classical Gaussian white-noise averaging and to subsequently cancel the quantum-jump contribution at the level of the measured observable using stochastic quantum error mitigation (QEM). The scheme requires no ancillas or controlled time-evolution, while the mitigation layer uses only single-qubit operations. We validate the method through numerical simulations of a model with asymmetric hopping, interaction, and disorder. Our work provides a programmable and ancilla-free framework investigating exotic dynamics that are not completely-positive and trace-preserving using QEM.

@@ -1,0 +1,5 @@
+Title: Long-time storage of entangled logical states in decoherence-free subspaces
+Authors: L. Zhang, Y. -L. Xu, Y. -K. Wu, C. Zhang, Z. -B. Cui, Y. -Y. Chen, W. -Q. Lian, J. -Y. Ma, B. -X. Qi, Y. -F. Pu, Z. -C. Zhou, L. He, P. -Y. Hou, L. -M. Duan
+Categories: quant-ph
+Published: 2026-03-07 13:01:25+00:00
+Abstract: The maintenance of quantum entanglement lays the elementary building block of quantum information processing, requiring an integration of long coherence time, sufficient storage capacity, and high-fidelity entangling gates. Here we encode two-qubit entangled states into the decoherence-free subspaces (DFS) of four ions in a cryogenic trap. By crosstalk-free sympathetic cooling under dual-type encoding and multi-state detection which discards the collision-induced leakage error, we achieve a storage lifetime of about one hour for the entangled logical states. We further study the second-order DFS and show its advantage in suppressing the spatially nonuniform noise over the first-order DFS. Our work paves the way for applications of DFS quantum memories in quantum computing, quantum network and precision measurement.

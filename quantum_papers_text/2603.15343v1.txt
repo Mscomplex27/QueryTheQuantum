@@ -1,0 +1,5 @@
+Title: Ab Initio Study of Erbium Point Defects in 4H-SiC for Quantum Devices
+Authors: Michael Kuban
+Categories: quant-ph, physics.comp-ph
+Published: 2026-03-16 14:29:23+00:00
+Abstract: Identifying scalable materials systems that exhibit quantum behavior is a central challenge in quantum information science. Point defects in certain wide-bandgap semiconductors are promising in this regard due to the maturity of semiconductor manufacturing and ion implantation technology. Single erbium defect centers in 4H-SiC are examples of such defects that provide access to discrete defect-induced electron energy levels within the bulk material bandgap, which can be utilized for a variety of quantum technologies, such as single-photon emission for secure communication and distributed quantum computing. This work presents a first-principles study of erbium point defects in 4H-SiC using density functional theory. These results provide materials-level support for the development of Er point defects in 4H-SiC as a scalable platform for quantum devices, helping to bridge the gap between quantum physics and the practical realization of quantum networks.

@@ -1,0 +1,5 @@
+Title: Chiral and pair superfluidity in triangular ladder produced by state-dependent Kronig-Penney lattice
+Authors: Domantas Burba, Giedrius Žlabys, Dzmitry Viarbitski, Thomas Busch, Gediminas Juzeliūnas
+Categories: cond-mat.quant-gas, quant-ph
+Published: 2026-03-04 19:00:02+00:00
+Abstract: We propose a concrete realization of a triangular ladder for ultracold atoms, which simultaneously hosts geometric frustration and unusual two-body interactions, and in particular controllable pair hopping and density-induced tunneling. This is done by means of a spin-dependent Kronig-Penney lattice created using a spatially-dependent tripod-type atom-light coupling. We apply density matrix renormalization group (DMRG) calculations to derive the quantum phase diagram. We find that pair tunneling stabilizes a robust pair superfluid, characterized by power-law decay of pair correlations. Additionally, a chiral superfluid arises from frustration induced by competing nearest neighbor (NN) and next-nearest neighbor (NNN) tunnelings. Finally, in the high barrier regime, we map our system onto the XXZ spin model and find the exact phase transition points.

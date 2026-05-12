@@ -1,0 +1,5 @@
+Title: Quantum Simulation of Hyperbolic Equations and the Nonexistence of a Dirac Path Measure
+Authors: Sumita Datta
+Categories: quant-ph
+Published: 2026-04-09 05:59:17+00:00
+Abstract: We revisit the longstanding issue of why no well defined probability measure exists corresponding to a classical (Kolmogorov) path integral representation of the Dirac equation in Minkowski space. Two complementary perspectives are compared: (i) Zastawniak's observation that the distributional character of the Dirac propagator (presence of derivatives of the delta distribution) obstructs the construction of a nonnegative transition kernel, and (ii) the indefinite signature of the Minkowski metric which prevents positivity of the action and yields oscillatory integrals. We show how these viewpoints can be unified as different manifestations of a single mathematical obstruction from measure theoretical point of view, and we discuss consequences for stochastic representations of relativistic first-order equations.

@@ -1,0 +1,9 @@
+Title: An Introduction to Quantum Graphs and Current Applications
+Authors: Gregory Berkolaiko, Sven Gnutzmann
+Categories: quant-ph, math-ph
+Published: 2026-04-14 13:00:51+00:00
+Abstract: Quantum graphs are a paradigmatic model for quantum chaos as well as for spectral theory.
+  We give a concise didactical introduction to quantum graphs, or Schrödinger Hamiltonians on
+  metric graphs, with a focus on results related
+  to quantum chaos, periodic orbit theory and spectral theory. We summarise related
+  seminal results, and give an overview over a few more recent developments.

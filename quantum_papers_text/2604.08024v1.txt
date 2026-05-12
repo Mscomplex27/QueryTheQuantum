@@ -1,0 +1,5 @@
+Title: Fixing semi-classical physics from first principles: how to derive effective classical-quantum dynamics from open quantum theory
+Authors: Isaac Layton
+Categories: quant-ph
+Published: 2026-04-09 09:25:12+00:00
+Abstract: Semi-classical approaches approximate fully quantum descriptions with partially classical ones. Here we use a toy model to highlight the failings of the standard mean-field semi-classical approach, and show how including environmental decoherence can lead to improved semi-classical theories that are exact descriptions of the original quantum dynamics. In doing so, we show how consistent models of classical-quantum dynamics can arise as effective descriptions of open quantum systems.

@@ -1,0 +1,5 @@
+Title: Gain-induced spectral non-degeneracy in type-II parametric down-conversion
+Authors: Behnood Taheri, Denis Kopylov, Manfred Hammer, Torsten Meier, Jens Förstner, Polina Sharapova
+Categories: quant-ph
+Published: 2026-03-02 09:39:00+00:00
+Abstract: We demonstrate the novel effect of gain-induced spectral shifts in the type-II parametric down-conversion (PDC) process, which results in a transition from degenerate to non-degenerate PDC with increasing parametric gain. This effect, originating from the second-order dispersion terms, significantly alters the properties of PDC in the high-gain regime, where it leads to increased distinguishability of the generated photon pairs. The effect is established by evaluating a rigorous theoretical model, which is based on solving a system of coupled integro-differential equations for monochromatic operators. The widely used spatially-averaged approximate model fails to reproduce this important effect.

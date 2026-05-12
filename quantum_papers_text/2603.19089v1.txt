@@ -1,0 +1,5 @@
+Title: Practical Quantum Broadcasting
+Authors: Ximing Wang, Yunlong Xiao
+Categories: quant-ph
+Published: 2026-03-19 16:14:12+00:00
+Abstract: Incorporating sample efficiency, by requiring the number of states consumed by broadcasting does not exceed that of a naive prepare-and-distribute strategy, gives rise to the no practical quantum broadcasting theorem. To navigate this limitation, we introduce approximate and probabilistic virtual broadcasting and derive analytic expressions for their optimal sample complexity overheads. Allowing deviations at the receivers restores sample efficiency even in the 1-to-2 approximate setting, whereas probabilistic protocols obey a stronger no-go theorem that excludes all sample efficient 1-to-2 implementations for arbitrary dimension and success probability. Rather counterintuitive, this obstruction does not persist at larger receiver numbers: for qubit systems, practical 1-to-6 virtual broadcasting becomes attainable. These results elevate sample complexity from a technical constraint to a defining operational principle, opening an unexplored route to the efficient distribution of quantum information.

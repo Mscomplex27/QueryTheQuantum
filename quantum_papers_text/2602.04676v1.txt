@@ -1,0 +1,5 @@
+Title: Pre-optimization of quantum circuits, barren plateaus and classical simulability: tensor networks to unlock the variational quantum eigensolver
+Authors: Baptiste Anselme Martin, Thomas Ayral
+Categories: quant-ph
+Published: 2026-02-04 15:49:55+00:00
+Abstract: Variational quantum algorithms are practical approaches to prepare ground states, but their potential for quantum advantage remains unclear. Here, we use differentiable 2D tensor networks (TN) to optimize parameterized quantum circuits that prepare the ground state of the transverse field Ising model (TFIM). Our method enables the preparation of states with high energy accuracy, even for large systems beyond 1D. We show that TN pre-optimization can mitigate the barren plateau issue by giving access to enhanced gradient zones that do not shrink exponentially with system size. We evaluate the classical simulation cost evaluating energies at these warm-starts, and identify regimes where quantum hardware offers better scaling than TN simulations.

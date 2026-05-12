@@ -1,0 +1,5 @@
+Title: Superactivation of genuine multipartite Bell nonlocality from two-party entanglement
+Authors: Markus Miethlinger, Riccardo Castellano, Pavel Sekatski, Nicolas Brunner
+Categories: quant-ph
+Published: 2026-03-18 14:46:39+00:00
+Abstract: Characterizing the relation between entanglement and Bell nonlocality is a long-standing open problem, notably challenging in the multipartite case. Here we investigate the effect of superactivation of genuine multipartite nonlocality. Specifically, we show that starting from multipartite states that feature only two-party entanglement (hence almost fully separable), it is possible to obtain GMNL in the many-copy regime. This represents the weakest possible resource for GMNL superactivation. On the technical side, we develop an efficient and practical criterion for certifying GMNL superactivation based on network entangled states, as well as a perfect parallel repetition result for the Khot-Vishnoi Bell game, which are of independent interest.

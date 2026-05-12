@@ -1,0 +1,5 @@
+Title: Light-Cone Structure of Propagation of Entanglement
+Authors: Israel Michael Sigal
+Categories: quant-ph, math-ph, math.FA
+Published: 2026-04-29 20:19:04+00:00
+Abstract: For a wide class of bipartite systems with localized couplings, we establish existence of an effective light-cone for propagation of entanglement. This result yields a hard lower bound on the time it takes, under ideal conditions (no loss, no decoherence), to transport entanglement to a distant location (say, a node of a graph-structured quantum network), or to maintain it there.

@@ -1,0 +1,5 @@
+Title: Quantum Time Synchronization of Star Networks
+Authors: Brian J. Rollick, Zhensheng Jia, Bernardo A. Huberman
+Categories: quant-ph, cs.ET, cs.NI
+Published: 2026-03-04 22:29:27+00:00
+Abstract: We extend the single source approach of Valencia et al in order to synchronize the clocks of an N user start network, connected both through fiber and in free space. Entangled photon pairs from a centralized SPDC source are distributed through a 1 by N splitter to four remote users arranged in a star topology. Using commercially available single photon detectors and time taggers, we achieve median time precision of 50 ps for atomic oscillators and 20 ps for GPS displayed oscillators in our Kalman models. Thus, we achieve three order of magnitude improvement over GPS alone. By monitoring the drift fo the correlation peaks over time, we also extract the frequency skew between users's local clocks to 35ps/s precision. From these measurements, e3ach user can compute its offset and drift relative to every other user, achieving full network synchronization without a central clock.

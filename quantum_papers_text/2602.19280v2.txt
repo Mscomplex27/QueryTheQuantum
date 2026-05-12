@@ -1,0 +1,5 @@
+Title: Entanglement dynamics of many-body quantum states: sensitivity to system conditions and a hidden universality
+Authors: Devanshu Shekhar, Pragya Shukla
+Categories: quant-ph, cond-mat.stat-mech, math-ph
+Published: 2026-02-22 17:25:57+00:00
+Abstract: We consider physical Hamiltonians that can be represented by the multiparametric Gaussian ensembles, theoretically derive the state ensembles for its eigenstates and analyze the effect of varying system conditions on its bipartite entanglement entropy. Our approach leads to a single parametric based common mathematical formulation for the evolution of the entanglement statistics of different states of a given Hamiltonian or different Hamiltonians subjected to same symmetry constraints. The parameter turns out to be a single functional of the system parameters and thereby reveals a deep web of connection hidden underneath different quantum states.

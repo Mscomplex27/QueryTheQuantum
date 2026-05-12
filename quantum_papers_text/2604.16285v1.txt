@@ -1,0 +1,5 @@
+Title: How to unitarily map between any two pure states with a single closed-form exponential
+Authors: Peter T. J. Bradshaw, Marcus Gouveia, Jonte R. Hance
+Categories: quant-ph, math-ph
+Published: 2026-04-17 17:47:07+00:00
+Abstract: It is well-known that any two pure quantum states (in the same Hilbert space) can be mapped to any other using unitary transformations. However, previous approaches to this problem required two explicit bases for the Hilbert space, one each for the initial and target states, and thus their complexity necessarily scales with the dimension of the Hilbert space. In this Letter, we show how to utilize novel algebraic methods to construct a closed-form exponential unitary transformation which achieves this in general, using only a single unitary generator. This construction is independent of any bases and agnostic to the dimension of the Hilbert space. We highlight the usefulness of this tool for studying relationships between systems of pure states in quantum information theory, as well in elementary analyses of quantum circuits and unitary operators.

@@ -1,0 +1,5 @@
+Title: Universal monitored dynamics in multimode bosonic systems
+Authors: Shivam Patel, Catherine McCarthy, Ahana Chakraborty, Jordan Huang, Thomas J. DiNapoli, Romain Vasseur, J. H. Pixley, Srivatsan Chakram
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-13 16:17:43+00:00
+Abstract: We propose a route to study monitored many-body dynamics in multimode bosonic systems using circuit quantum electrodynamics. In this experimental setting, we construct several bosonic models comprising brickwork circuits built from beam-splitter gates, local parity measurements, and optional on-site Hubbard interactions, and diagnose their monitored dynamics via ancilla purification and a learnability-based probe. Under parity measurements, generic gate sets exhibit behavior that is largely consistent with a conventional measurement-induced phase transition, while a special class of beam-splitter circuits shows an apparent critical-like high-measurement regime in which purification times scale linearly with system size. We show that for realistic noise, gate, and measurement rates, these signatures are observable with near-term circuit QED hardware.

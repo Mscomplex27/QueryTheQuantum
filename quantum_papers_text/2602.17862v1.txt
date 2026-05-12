@@ -1,0 +1,5 @@
+Title: Quantum superresolution and noise spectroscopy with quantum computing
+Authors: James W. Gardner, Federico Belliardo, Gideon Lee, Tuvia Gefen, Liang Jiang
+Categories: quant-ph
+Published: 2026-02-19 21:56:06+00:00
+Abstract: Quantum metrology of an incoherent signal is a canonical sensing problem related to superresolution and noise spectroscopy. We show that quantum computing can accelerate searches for a weak incoherent signal when the signal and noise are not precisely known. In particular, we consider weak Schur sampling, density matrix exponentiation, and quantum signal processing for testing the rank, purity, and spectral gap of the unknown quantum state to detect the incoherent signal. We show that these algorithms are faster than full-state tomography, which scales with the dimension of the Hilbert space. We apply our results to detecting exoplanets, stochastic gravitational waves, ultralight dark matter, geontropic quantum gravity, and Pauli noise.

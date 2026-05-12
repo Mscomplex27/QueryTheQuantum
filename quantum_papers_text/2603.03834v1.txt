@@ -1,0 +1,5 @@
+Title: Local vs global dynamics in a dissipative qubit-impurity system
+Authors: Giuseppe Emanuele Chiatto, Giuliano Chiriacó, Elisabetta Paladino, Giuseppe Antonio Falci
+Categories: quant-ph
+Published: 2026-03-04 08:35:22+00:00
+Abstract: We analyse the dynamics of a qubit coupled to a dissipative impurity by comparing local and global derivation schemes of a Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) master equation within the Born-Markov and full secular (FS) approximations. We show that the local approach correctly captures a crossover in the dynamics of the qubit coherence, while the FS approximation restricts the validity of the global approach to regimes with well-separated energy scales. Our results clarify the domains of validity of the two approaches and show that the local scheme provides a better GKSL description of the qubit dynamics in the experimentally relevant parameter regime.

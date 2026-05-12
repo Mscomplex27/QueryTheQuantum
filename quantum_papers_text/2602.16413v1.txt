@@ -1,0 +1,5 @@
+Title: Measurement Induced Subradiance
+Authors: Ipsita Bar, Aditi Thakar, B. Prasanna Venkatesh
+Categories: quant-ph
+Published: 2026-02-18 12:44:50+00:00
+Abstract: Preparing subradiant steady states of collectively emitting quantum two-level emitters (TLEs) is hindered by their dark, weakly interacting nature. Existing approaches rely on patterned driving, local control, or structured environments. We propose a platform-independent protocol based on projective measurements on a single TLE. For permutation-symmetric ensembles, a single measurement yields appreciable occupation of single-excitation subradiant steady states. For generic arrays, repeated measurements on one emitter drive the unmeasured TLEs into a nearly pure state with large overlap with the subradiant Dicke subspace.

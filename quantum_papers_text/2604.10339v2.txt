@@ -1,0 +1,5 @@
+Title: Complementary Quantum Time Distributions from a Single Operational Protocol
+Authors: Mathieu Beau
+Categories: quant-ph
+Published: 2026-04-11 19:56:16+00:00
+Abstract: A single operational protocol based on free evolution and projective measurements yields inequivalent quantum time distributions through distinct post-processing procedures. We construct an activity-based time-of-flow (TF) distribution and a presence-based quantum stroboscopic (QS) distribution, providing complementary operational notions of time. Applied to tunneling, the regional QS mean saturates, whereas the TF mean first decreases in the Hartman regime and then grows for larger barrier widths. Within this framework, we provide an operational interpretation of the Hartman effect in terms of quantum time distributions associated with flow through the exit region and occupation within the barrier, capturing the mechanism of early penetration, dominant reflection, and spectrally filtered transmission.

@@ -1,0 +1,5 @@
+Title: Coupled-Layer Construction of Quantum Product Codes
+Authors: Shuyu Zhang, Tzu-Chieh Wei, Nathanan Tantivasadakarn
+Categories: quant-ph, cond-mat.str-el
+Published: 2026-03-09 17:59:59+00:00
+Abstract: Product codes are a class of quantum error correcting codes built from two or more constituent codes. They have recently gained prominence for a breakthrough yielding quantum low-density parity-check (qLDPC) codes with favorable scaling of both code distance and encoding rate. However, despite its powerful algebraic formulation, the physical mechanism for assembling a general product code from its constituents remains unclear. In this letter, we show that the tensor and balanced product codes admit an intuitive coupled-layer construction by taking a stack of one code and condensing a set of excitations in the pattern given by the checks of the other code. Our framework accommodates both classical or quantum CSS input codes, unifies known physical mechanisms for constructing higher dimensional topological phases via anyon condensation, and naturally extends to non-topological codes.

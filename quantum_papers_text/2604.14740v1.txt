@@ -1,0 +1,5 @@
+Title: Quantum Mpemba Effect in Non-Equilibrium Quantum Thermometry
+Authors: Zi-Shen Li, Yuxiang Yang
+Categories: quant-ph
+Published: 2026-04-16 07:53:58+00:00
+Abstract: The quantum Mpemba effect (QMpE) describes an anomalous thermalization phenomenon in which quantum states initially far from equilibrium can approach thermal equilibrium faster than states that begin closer to it. While this effect has been extensively studied in various frameworks, its practical implications for quantum information processing remain largely unexplored. We investigate the relationship between QMpE and quantum thermometry, focusing on non-equilibrium scenarios where measurements are performed during early-stage thermalization. In a Markovian model, we rigorously prove that the initial states that are optimal for thermometry exhibit QMpE with high probability and thermalize faster than most initial states. Our results reveal a fundamental connection between quantum thermodynamics and thermometry, suggesting that QMpE can be harnessed to enhance temperature estimation with quantum probes.

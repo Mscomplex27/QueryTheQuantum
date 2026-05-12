@@ -1,0 +1,5 @@
+Title: Architectural Foundations for Checkpointing and Restoration in Quantum HPC Systems
+Authors: Qiang Guan, Qinglei Cao, Xiaoyi Lu, Siyuan Niu
+Categories: quant-ph, cs.DC
+Published: 2026-02-10 01:37:58+00:00
+Abstract: In this work, we explore the design of the checkpointing and restoration for quantum HPC that leverages dynamic circuit technology to enable restartable and resilient quantum execution. Rather than attempting to checkpoint quantum states, our approach redefines checkpointing as a control flow and algorithmic state problem. By exploiting mid-circuit measurements, classical feed forward, and conditional execution supported by dynamic circuits, we capture sufficient program state to allow correct restoration of quantum workflows after interruption or failure. This design aligns naturally with iterative and staged quantum algorithms such as variational eigensolvers, quantum approximate optimization, and time-stepping methods commonly used in quantum simulation and scientific computing.

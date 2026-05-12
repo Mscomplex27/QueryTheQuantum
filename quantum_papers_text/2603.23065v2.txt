@@ -1,0 +1,5 @@
+Title: Bell Experiments Revisited: A Numerical Approach Based on De Broglie--Bohm Theory
+Authors: Tim Dartois, Signe Seidelin, Aurélien Drezet
+Categories: quant-ph
+Published: 2026-03-24 11:02:12+00:00
+Abstract: We present a complete and rigorous model of an EPR--Bell-type experiment within the framework of the de Broglie--Bohm theory. The purpose of this work is to show explicitly how a deterministic hidden-variable theory can reproduce all quantum-mechanical predictions, including the violation of Bell inequalities. Combining analytical arguments with numerical simulations, our approach offers a unified and transparent illustration of the central ingredients of de Broglie--Bohm theory, including particle trajectories, spin dynamics, and quantum entanglement. The model is designed to be pedagogical and self-contained, making it suitable for readers seeking a concrete understanding of how a nonlocal hidden-variable theory can describe the EPR--Bell experiment and illustrate Bell's theorem.

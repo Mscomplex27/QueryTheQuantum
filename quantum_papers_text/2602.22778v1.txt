@@ -1,0 +1,5 @@
+Title: Generating entangled polaritonic condensates by pumping with entangled pairs of photons
+Authors: N. A. Asriyan, A. A. Elistratov, A. V. Kavokin
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-02-26 09:13:18+00:00
+Abstract: We investigate the steady state of two single-mode uniform spatially separated polaritonic conden- sates exposed to resonant pumping with entangled pairs of photons. We demonstrate the principal possibility of driving the system to an entangled state despite its exposure to noises arising from the excitonic reservoir and photon leakage through the microcavity mirrors. Estimates are provided for the flux of entangled particles required to drive the system into a steady state that violates the partial-transpose criterion for entanglement. Furthermore, we trace the evolution of the system after a sudden disappearance of the entangled pumping. Our analysis provides estimates for the entanglement lifetime in a system of two exciton-polariton condensates

@@ -1,0 +1,5 @@
+Title: Bargmann Scenarios
+Authors: Rafael Wagner
+Categories: quant-ph
+Published: 2026-04-20 20:55:39+00:00
+Abstract: Considerable effort has been devoted to developing techniques for witnessing and characterizing quantum resources that emerge from collective properties of a set of states. In this context, Bargmann invariants play a central role: they witness coherence and related resources, and underpin important applications. In this work, we introduce a unified formalism that fully characterizes and organizes the capability of Bargmann invariants to witness different manifestations of coherence in sets of states. It is formulated around the construction of Bargmann scenarios, which specify relevant tuples of Bargmann invariants, and Bargmann polytopes, which describe the values that said invariants can have when the states are incoherent. We study their basic geometry, connect them to existing formalisms, and illustrate their physical relevance. Our construction opens new opportunities for the certification of quantum devices and lays the path toward a full quantum resource theory based entirely on multivariate traces of states.

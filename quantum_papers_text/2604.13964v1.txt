@@ -1,0 +1,5 @@
+Title: Dimensioning of Quantum Memories for Distilled Quantum EPR Packets
+Authors: Lorenzo Valentini, Diego Forlivesi, Andrea Talarico, Marco Chiani
+Categories: quant-ph
+Published: 2026-04-15 15:14:41+00:00
+Abstract: The quantum Internet envisions a network where information is transmitted through entanglement, with Einstein-Podolsky-Rosen (EPR) pairs serving as one of the fundamental carriers. In this work, we propose a framework for dimensioning quantum memories capable of storing distilled EPR pairs useful to transmitting and manage quantum error correcting codes. Using a Markov chain model, we capture the stochastic evolution of stored entangled states in quantum memories, linking memory performance to system parameters such as technology characteristics and initial entanglement fidelity. Building on this framework, we provide analytical tools and design principles for optimizing memory architectures that preserve high-fidelity entanglement over time, ensuring the availability of encoded quantum resources necessary for several operations in future quantum Internet infrastructures transmitting EPR packets.

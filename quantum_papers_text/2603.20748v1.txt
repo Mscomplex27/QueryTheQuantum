@@ -1,0 +1,5 @@
+Title: Beyond the Magic Square Game: Widening the Gap for Two Bell States
+Authors: Tony Lau
+Categories: quant-ph
+Published: 2026-03-21 10:36:07+00:00
+Abstract: We demonstrate that the largest gap between the entangled value and the classical value for a one-round two-player nonlocal game with a perfect entangled strategy using two Bell states of entanglement is at least $\frac{4}{35}$, improving on the gap of $\frac{1}{9}$ achieved by the Mermin-Peres magic square game. We do so by explicitly constructing a nonlocal game with classical value $\frac{31}{35}$ using the full symmetry of the 2-qubit Pauli group.

@@ -1,0 +1,5 @@
+Title: Efficient time-series prediction on NISQ devices via time-delayed quantum extreme learning machine
+Authors: Mio Kawanabe, Saud Cindrak, Kathy Luedge, Jun-ichi Shirakashi, Tetsuo Shibuya, Hiroshi Imai
+Categories: quant-ph
+Published: 2026-02-25 04:03:41+00:00
+Abstract: We proposed a time-delayed quantum extreme learning machine (TD-QELM) for efficient time-series prediction on noisy intermediate-scale quantum (NISQ) devices. By encoding multiple past inputs simultaneously, TD-QELM achieves shallow circuit depth independent of sequence length, thereby, mitigating noise accumulation and reducing computational complexity. Experiments using the NARMA benchmark on both noiseless simulations and IBM's 127-qubit processor demonstrate that TD-QELM consistently outperforms conventional quantum reservoir computing in prediction accuracy and noise robustness. These results highlight TD-QELM as a practical and scalable framework for time-series learning on current NISQ hardware.

@@ -1,0 +1,5 @@
+Title: Bounding the entanglement of a state from its spectrum
+Authors: Jofre Abellanet-Vidal, Guillem Müller-Rigat, Albert Rico, Anna Sanpera
+Categories: quant-ph
+Published: 2026-04-02 18:00:04+00:00
+Abstract: Recent efforts have focused on characterizing the set of separable states that cannot be made entangled by any global unitary transformation. Here we characterize the set of states whose entanglement content cannot be increased under any unitary. By employing linear maps (and their inverses), we derive constraints on the achievable degree of entanglement from the spectrum of the density matrix. In particular, we focus on the negativity and the Schmidt number. Our approach yields analytical and practical criteria for quantifying the entanglement content of full-rank states in arbitrary dimensions using only a subset of their eigenvalues. Moreover, some of the derived conditions can be used to bound the spectra of Schmidt number witnesses.

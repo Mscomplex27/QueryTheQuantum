@@ -1,0 +1,5 @@
+Title: Probing Coherent Many-Body Spin Dynamics in a Molecular Tweezer Array Quantum Simulator
+Authors: Yukai Lu, Connor M. Holland, Callum L. Welsh, Xing-Yan Chen, Lawrence W. Cheuk
+Categories: cond-mat.quant-gas, physics.atom-ph, quant-ph
+Published: 2026-03-19 16:17:34+00:00
+Abstract: Models of interacting quantum spins are used in many areas of physics ranging from the study of magnetism and strongly correlated materials to quantum sensing. In this work, we study coherent many-body dynamics of interacting spin models realized using polar molecules trapped in rearrangeable optical tweezer arrays. Specifically, we encode quantum spins in long-lived rotational states and use the electric dipolar interaction between molecules, together with Floquet Hamiltonian engineering, to realize $1/r^3$ XXZ and XYZ models. We microscopically probe several types of coherent dynamics in these models, including quantum walks of single spin excitations, the emergence of magnon bound states, and coherent creation and annihilation of magnon pairs. Our results establish molecular tweezer arrays as a new quantum simulation platform for interacting quantum spin models.

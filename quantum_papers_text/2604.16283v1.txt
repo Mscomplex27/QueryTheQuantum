@@ -1,0 +1,5 @@
+Title: Boson correlations are spurious for classical states
+Authors: Daniel E. Salazar, Fabrice P. Laussy
+Categories: quant-ph, cond-mat.stat-mech, physics.optics
+Published: 2026-04-17 17:45:19+00:00
+Abstract: We show that boson correlations from quantum states with a Glauber-Sudarshan representation of their density matrix which provides a well-behaved probability distribution -- including coherent states, thermal states, and all states that can be deemed classical -- are a manifestation of the Simpson paradox: they are spurious correlations from statistical (ensemble) averages over uncorrelated measurements made in varying geometries, due to a process of symmetry-breaking as a confounding factor. Bosonic correlations encoded by the wavefunction appear to be formed in the geometry assumed, which however is not that of the statistical ensemble but varies from realization to realization. This calls to distinguish between quantum and statistical averages and sheds new understandings on the fundamental problems of nonclassicality and quantum advantage.

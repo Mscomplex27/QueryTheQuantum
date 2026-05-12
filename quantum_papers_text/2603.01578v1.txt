@@ -1,0 +1,5 @@
+Title: QuMeld: A Modular Framework for Benchmarking Qubit Mapping Algorithms
+Authors: Gabrielius Keibas, Linas Petkevičius
+Categories: quant-ph
+Published: 2026-03-02 08:06:41+00:00
+Abstract: The qubit mapping problem is a challenge in quantum computing that is related to mapping logical qubits to the physical ones on the quantum computer. Due to the diversity of quantum computer topologies and circuits, numerous approaches solving this problem exist. Finding the best solution for specific combination of topology and circuit remains difficult and no unified framework currently exists for systematically evaluating and comparing qubit mapping algorithms across different cases. We present QuMeld, an open-source framework that is designed for solving this issue. The framework currently supports six qubit mapping algorithms, sixteen quantum computer topologies and multiple evaluation metrics. The modular design of the framework allows integration of new mapping algorithms, quantum circuits, hardware topologies, and evaluation metrics, ensuring extensibility and adaptability to future developments.

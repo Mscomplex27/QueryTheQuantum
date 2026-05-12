@@ -1,0 +1,5 @@
+Title: The Contextual Modal Logic of a Wigner's Friend Generalization
+Authors: Felipe Dilho Alves, João Carlos Alves Barata
+Categories: math-ph, quant-ph
+Published: 2026-03-30 21:39:05+00:00
+Abstract: Quantum mechanics has been subject to logical scrutiny since its inception. The behavior of quantum systems, which are fundamentally dissimilar from classical systems, often appears to point to a logical inconsistency in quantum mechanics, allegedly leading to contradictions in the prediction of experimental measurements--though such contradictions have never materialized. A recent example of this type of inquiry into the logical well-posedness of quantum mechanics is the Frauchiger-Renner Gedankenexperiment, which purports to demonstrate that quantum mechanics is logically inconsistent. In this article, we show that by considering the property of contextuality in quantum systems--as predicted by the Kochen-Specker theorem--the supposed contradiction proposed by Frauchiger and Renner becomes logically inaccessible.

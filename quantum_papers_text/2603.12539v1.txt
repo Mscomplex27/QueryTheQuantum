@@ -1,0 +1,5 @@
+Title: Tighter monogamy and polygamy relations in multiparty quantum systems
+Authors: Chenxiao Wang, Limin Gao
+Categories: quant-ph
+Published: 2026-03-13 00:37:54+00:00
+Abstract: The monogamy and polygamy properties of quantum entanglement characterize fundamental constraints on the distribution of entanglement in multipartite quantum systems. In this paper, we investigate tighter monogamy and polygamy relations for multipartite entanglement. By establishing a new mathematical inequality, we derive a family of improved monogamy and polygamy inequalities for tripartite quantum systems and further extend these results to general multipartite systems. Comparisons with existing results show that the obtained bounds are tighter. Illustrative examples are provided to demonstrate the effectiveness of the proposed relations.

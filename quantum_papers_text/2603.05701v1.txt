@@ -1,0 +1,5 @@
+Title: Steady-State Multiparticle Entanglement via Dissipative Engineering in Waveguide QED
+Authors: Joan Alba, Jacob Thornfeldt Hansen, Jean-Baptiste S. Béguin, Anders S. Sørensen
+Categories: quant-ph
+Published: 2026-03-05 21:53:32+00:00
+Abstract: We propose a simple scheme for the dissipative generation of entangled states of multiple emitters coupled to a waveguide. Our approach exploits collective interactions arising from the formation of subradiant and superradiant excited states, combined with the quantum Zeno effect. We show that, starting from an arbitrary initial state, the system deterministically evolves toward a W-type entangled steady state, with an infidelity that scales inversely with the cooperativity. The protocol is scalable to an arbitrary number of emitters. We further analyze the impact of additional experimental imperfections and present a detailed implementation based on trapped $^{133}$Cs atoms.

@@ -1,0 +1,5 @@
+Title: Spin-entanglement of an atomic pair through coupling to their thermal motion
+Authors: Poramaporn Ruksasakchai, Lucile Sanchez, Marvin Weyland, Mikkel F. Andersen, Scott Parkins, Stuart S. Szigeti
+Categories: quant-ph
+Published: 2026-02-10 01:45:54+00:00
+Abstract: The spin-dynamics of two alkali atoms in an optical tweezer is driven by spin-changing collisions that couple the spin-state of the atoms to their relative motion. This paper experimentally studies the resulting spin-states when the relative motion is in a thermal state with k B T much larger than the energies of the spin-states that take part in the dynamics. We find that an initially unentangled spin-state can evolve into an entangled state. This is contrary to the common case when coupling a quantum system to hot degrees of freedom leads to loss of entanglement and not its generation. Moreover, we show that the generated entanglement is technologically useful as it, in principle, can enhance the sensitivity of measurements beyond the standard quantum limit. This may provide a promising avenue for robust entanglement generation for future technologies.

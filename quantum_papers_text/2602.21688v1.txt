@@ -1,0 +1,5 @@
+Title: Revealing entanglement through local features of phase-space distributions
+Authors: Elena Callus, Martin Gärttner, Tobias Haas
+Categories: quant-ph
+Published: 2026-02-25 08:43:30+00:00
+Abstract: We formulate an infinite hierarchy of continuous-variable separability criteria in terms of quasiprobability distributions and their derivatives evaluated at individual points in phase space. Our approach is equivalent to the Peres--Horodecki criterion and sheds light on how distillable entanglement manifests in the phase-space picture. We demonstrate that already the lowest-order variant constitutes a powerful method for detecting the elusive non-Gaussian entanglement of relevant state families. Further, we devise a simple measurement scheme that relies solely on passive linear transformations and coherent ancillas. By strategically probing specific phase-space regions, our method offers clear advantages over existing techniques that rely on access to the full phase-space distributions.

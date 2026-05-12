@@ -1,0 +1,5 @@
+Title: Enhanced dissipative criticality at an exceptional point
+Authors: Jongjun M. Lee
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-04-10 20:38:15+00:00
+Abstract: Exceptional points (EPs) represent non-Hermitian degeneracies where eigenvalues and eigenvectors coalesce, giving rise to enhanced sensitivity and critically damped dynamics. We demonstrate that when an EP coincides with a dissipative phase transition in an extended open Dicke model of two cavities coupled to a collective spin, the critical fluctuations are strongly amplified and governed by modified critical exponents. Numerical results reveal enhanced critical scaling in both the normal and superradiant phases, in agreement with an analytical theory based on EP-induced Jordan-block dynamics. Our results establish EPs as a mechanism to engineer critical scaling in open quantum systems, with potential applications to critical quantum sensing.

@@ -1,0 +1,5 @@
+Title: Spatial Entanglement Sudden Death in Spin Chains at All Temperatures
+Authors: Samuel O. Scalet
+Categories: quant-ph, cond-mat.stat-mech, math-ph
+Published: 2026-02-24 08:54:38+00:00
+Abstract: We prove a finite entanglement length for the Gibbs state of any local Hamiltonian on a spin chain at any finite temperature: After removing an interval of size at least equal to the entanglement length, the remaining left and right half-chains are in a separable state.

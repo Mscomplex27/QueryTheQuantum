@@ -1,0 +1,5 @@
+Title: Bell Inequalities from Polyhedral Sampling
+Authors: Christian Staufenbiel
+Categories: quant-ph
+Published: 2026-04-22 20:09:20+00:00
+Abstract: Bell inequalities play a central role in certifying quantum correlations and underpin protocols such as device-independent quantum key distribution. However, enumerating all Bell inequalities for a given scenario remains intractable beyond the simplest cases, as it requires solving a computationally hard facet enumeration problem on the associated Bell polytope. We propose the Adjacency Sampling method, which builds on the Adjacency Decomposition method but sacrifices completeness for speed. On previously solved Bell polytopes, the method reproduces every known class of inequalities. For scenarios where no complete enumeration exists, it greatly exceeds existing partial results: in $\mathcal{L}_{3,3,3,3}$ we obtain over $1.29 \times 10^8$ classes, more than 25 times the previous count; in $\mathcal{L}_{4,5,2,2}$ we nearly triple the known list to 49\,358 classes; and for $\mathcal{L}_{4,6,2,2}$ we report over 4.3 million classes.

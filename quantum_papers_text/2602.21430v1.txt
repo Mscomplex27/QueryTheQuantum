@@ -1,0 +1,5 @@
+Title: Markovian Embeddings of Non-Markovian Open System Dynamics
+Authors: Meng Xu, J. T. Stockburger, J. Ankerhold
+Categories: quant-ph
+Published: 2026-02-24 23:07:43+00:00
+Abstract: Embedding non-Markovian open quantum dynamics into an enlarged Markovian space offers a powerful route to nonperturbative simulations, where the dynamics of the extended space can be governed by multiple distinct Markovian equations. We show that these distinct embeddings arise from different unravelings of Gaussian bath self-energies, generating a family of deterministic, time-local equations for the extended system. Using the Brownian-oscillator spectral density as an illustrative example, we clarify the relationships among existing approaches, including the Hierarchical Equations of Motion (HEOM) and the Lindblad--pseudomode formalism, and demonstrate how this framework enables numerically stable and efficient simulations. This work provides both a transparent theoretical foundation for embedding techniques and a flexible platform for developing new methods to simulate non-Markovian quantum dynamics.

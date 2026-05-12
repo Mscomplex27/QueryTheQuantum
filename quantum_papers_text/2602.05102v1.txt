@@ -1,0 +1,5 @@
+Title: Quantum computational imaging and sensing
+Authors: Mohan Sarovar
+Categories: quant-ph, physics.optics
+Published: 2026-02-04 22:36:48+00:00
+Abstract: We present a new framework for imaging and sensing based on utilizing a quantum computer to coherently process quantum information in an electromagnetic field. We describe the framework, its potential to provide improvements in imaging and sensing performance and present an example application, the design of coherent receivers for optical communication. Finally, we go over the improvements in quantum technologies required to fully realize quantum computational imaging and sensing.

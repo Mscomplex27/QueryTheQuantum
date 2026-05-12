@@ -1,0 +1,22 @@
+Title: The Algebraic Landscape of Kochen-Specker Sets in Dimension Three
+Authors: Michael Kernaghan
+Categories: quant-ph
+Published: 2026-03-17 17:31:59+00:00
+Abstract: We present a computational survey of Kochen-Specker (KS) uncolorability in three-dimensional Hilbert
+  space across two-symbol coordinate alphabets $\mathcal{A} = \{0, \pm 1, \pm x\}$ drawn from
+  quadratic, cyclotomic, and golden-ratio number fields. In every tested raw alphabet (before
+  cross-product completion), KS sets arise only when $x$ supports one of two cancellation mechanisms:
+  modulus-2 cancellation (the generator satisfies $|x|^2 = 2$, as in $|\sqrt{2}|^2=2$,
+  $|\sqrt{-2}|^2=2$, or $|α|^2=2$; the integer case $1+1=2$ is the degenerate additive instance)
+  or phase cancellation (a vanishing sum of unit-modulus terms, as in $1+ω+ω^2=0$).
+  Alphabets whose generators have $|x|^2 \geq 3$ and are not roots of unity produce orthogonal triples
+  but not KS-uncolorability in our survey. This empirical pattern explains why constructions cluster
+  into at least six discrete algebraic islands among the tested fields (with a seventh, cubic island
+  confirmed at higher cost). Two yield potentially new KS graph types: the Heegner-7 ring
+  $\mathbb{Z}[(1+\sqrt{-7})/2]$ (43 vectors) and the golden ratio field $\mathbb{Q}(\varphi)$ (52
+  vectors, revealed only by cross-product completion); $\mathbb{Z}[\sqrt{-2}]$ provides a new
+  algebraic realization of a known Peres-type graph. Using SAT-based bipartite KS-uncolorability, we
+  verify the input counts of Trandafir and Cabello for three islands (exact) and establish upper
+  bounds for three others. The golden ratio island is a boundary case: its raw alphabet satisfies
+  neither mechanism, but cross-product completion introduces effective modulus-2 cancellations.
+  Whether the two-mechanism pattern extends to all number fields remains an open question.

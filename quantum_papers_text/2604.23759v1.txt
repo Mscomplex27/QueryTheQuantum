@@ -1,0 +1,5 @@
+Title: Symmetry-Guided Design of Quantum Couplers in Dirac materials: AA-Bilayer Graphene Coupler
+Authors: Petr Červenka, Vít Jakubský
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-04-26 15:20:02+00:00
+Abstract: We develop a theoretical framework for designing quantum couplers based on Dirac materials that can modulate the polarization of transmitted quasiparticles without significantly perturbing their propagation. We analyze in detail the conditions required for perfect transmission (Klein tunneling) together with controlled polarization transformation of the incoming states. We then discuss an explicit model of a quantum coupler composed of AA-stacked bilayer graphene nanoribbons with armchair edges and a localized interlayer interaction. Perfect transmission through the desired polarization channels is examined for both narrow and wide couplers. We show that the transmission of polarized states can be finely tuned by external fields.

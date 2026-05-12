@@ -1,0 +1,5 @@
+Title: Tensor Decomposition for Non-Clifford Gate Minimization
+Authors: Kirill Khoruzhii, Patrick Gelß, Sebastian Pokutta
+Categories: quant-ph, cs.DS
+Published: 2026-02-17 01:11:07+00:00
+Abstract: Fault-tolerant quantum computation requires minimizing non-Clifford gates, whose implementation via magic state distillation dominates the resource costs. While $T$-count minimization is well-studied, dedicated $CCZ$ factories shift the natural target to direct Toffoli minimization. We develop algebraic methods for this problem, building on a connection between Toffoli count and tensor decomposition over $\mathbb{F}_2$. On standard benchmarks, these methods match or improve all reported results for both Toffoli and $T$-count, with most circuits completing in under a minute on a single CPU instead of thousands of TPUs used by prior work.

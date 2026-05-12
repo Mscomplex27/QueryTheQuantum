@@ -1,0 +1,5 @@
+Title: On some signatures of Lie-Hamilton System in Quantum Hamilton Jacobi Equation
+Authors: Arindam Chakraborty
+Categories: quant-ph
+Published: 2026-02-26 05:22:30+00:00
+Abstract: The general forms of Quantum Hamilton Jacobi Equation for a particle of constant mass, position dependent effective mass and non-Hermitian Effective mass Swanson model have been considered. It has been found that the said equations can be recast in the form of Cayley-Klein Riccati equations which admit a Lie-Hamilton structure. The possible expressions of Lie symmetry and Lie Integral have also been considered.

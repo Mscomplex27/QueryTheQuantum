@@ -1,0 +1,5 @@
+Title: Single-copy stabilizer learning: average case and worst case
+Authors: Gyungmin Cho, Dohun Kim
+Categories: quant-ph
+Published: 2026-04-27 06:44:48+00:00
+Abstract: We study single-copy stabilizer learning, the problem of identifying a stabilizer group of dimension $n-t$ from an $n$-qubit quantum state $ρ$. We obtain two complementary results. First, in the average case, logarithmic-depth local Clifford circuits suffice to efficiently learn almost all stabilizer groups with $t=O(\log n)$, instead of the linear-depth measurements required in previous approaches. We support this result with numerical simulations for systems of up to 100 qubits. Second, we show that, in the worst case, any adaptive single-copy measurement scheme requires a number of samples that scales exponentially in $t$. Together with existing results on two-copy learning, our findings suggest that, for large $t$, identifying Pauli symmetries of a quantum system exhibits a quantum advantage in the learning setting.

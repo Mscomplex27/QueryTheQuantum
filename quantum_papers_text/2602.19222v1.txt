@@ -1,0 +1,5 @@
+Title: Ion-atom two-qubit quantum gate based on phonon blockade
+Authors: Subhra Mudli, Bimalendu Deb
+Categories: quant-ph
+Published: 2026-02-22 15:09:43+00:00
+Abstract: In a previous paper [S. Mudli {\it et al.} Phys. Rev. A 110, 062618 (2024)], it was shown that a trapped ion can mediate interaction between two largely separated Rydberg atoms, and this mediated interaction can be leveraged to perform a universal two-qubit gate operation between neutral atom qubits in optical tweezers. In this paper, we demonstrate the universal two-qubit CNOT gate with high fidelity between an ionic and an atomic qubit relying on Rydberg excitation of the atom and the resulting phonon blockade in the motional states of the harmonically trapped ion. The phonon blockade arises due to strong ion-atom interaction when the atom is excited to a Rydberg state. These demonstrations suggest that an ion-atom hybrid system can serve as a resourceful platform or module for quantum computing and quantum networking as it can utilize the best features of charged as well as neutral atom qubits.

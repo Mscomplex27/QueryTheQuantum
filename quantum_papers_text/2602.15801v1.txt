@@ -1,0 +1,5 @@
+Title: Deformed Heisenberg algebra and its Hilbert space representations
+Authors: Latévi M. Lawson, Ibrahim Nonkané, Kinvi Kangni
+Categories: math-ph, hep-th, quant-ph
+Published: 2026-02-17 18:41:30+00:00
+Abstract: A deformation of Heisenberg algebra induces among other consequences a loss of Hermiticity of some operators that generate this algebra. Therefore, these operators are not Hermitian, nor is the Hamiltonian operator built from them. In the present paper, we propose a position deformation of Heisenberg algebra with both maximal length and minimal momentum uncertainties. By using a pseudo-similarity transformation to the non-Hermitian operators, we prove their Hermiticity with a suitable positive-definite pseudo-metric operator. We then construct Hilbert space representations associated with these pseudo-Hermitian operators. Finally, we study the eigenvalue problem of a free particle in this deformed space and we show that this deformation curved the quantum levels allowing particles to jump from one state to another with low energy transitions.

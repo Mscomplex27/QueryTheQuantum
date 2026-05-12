@@ -1,0 +1,5 @@
+Title: Engineering magnetically insensitive qubits in metastable electronic D-states of trapped ions
+Authors: Ksenia Sosnova, Martin Lichtman, Allison Carter, Nora Crocker, Christopher Monroe
+Categories: quant-ph, physics.atom-ph
+Published: 2026-04-18 02:22:11+00:00
+Abstract: Ion trap quantum computers often store qubits on field-sensitive S_1/2 ground state Zeeman levels of the valence electron, such as in 40Ca+, 88Sr+, and 138Ba+ atomic systems. We experimentally synthesize magnetically insensitive qubit states in multiple metastable electronic D_3/2 Zeeman levels in such an atomic system. We demonstrate coherent operations within the D_3/2 manifold of 138Ba+, including coherent flopping between the synthesized qubit states, and our results agree with theory. Such an encoding may allow for more flexible use of atomic levels for photonic interfaces, and with a measured improvement in the qubit coherence time T2* by a factor of 3, this lays the foundation for further improvement for quantum computing and network applications.

@@ -1,0 +1,5 @@
+Title: Computing logical error thresholds with the Pauli Frame Sparse Representation
+Authors: Thomas Tuloup, Thomas Ayral
+Categories: quant-ph
+Published: 2026-03-15 23:54:37+00:00
+Abstract: We introduce a sparse classical representation, a truncation strategy and a shot-efficient sampling method to push the classical prediction of quantum error correction thresholds beyond Clifford operations and Pauli errors. As two illustrations of the potential of our method, we first show that coherent noise error thresholds, when computed at the circuit level (i.e taking into account full syndrome circuits) for distances up to d=9, are systematically overestimated (by a factor of about 4) by a Pauli-twirling approximation of the noise. We then apply our method to the recently introduced magic-state cultivation protocol. We show, through shot-efficient importance sampling, that, at distance d=5, the multiplicative factor between the T-gate and the S-gate injection error rate is not the one conjectured from low-d computations: it can be as large as 7.

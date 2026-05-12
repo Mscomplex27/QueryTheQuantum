@@ -1,0 +1,5 @@
+Title: Entanglement harvesting in conformal field theory
+Authors: Kelly Wurtz, Caroline Lima, Robert C. Myers, Eduardo Martín-Martínez
+Categories: quant-ph, hep-th
+Published: 2026-02-06 19:00:01+00:00
+Abstract: We study entanglement harvesting in general $d$-dimensional conformal field theories using pointlike Unruh-DeWitt detectors coupled to scalar primary operators. This extends standard harvesting protocols beyond free fields to interacting conformal theories and arbitrary spatial dimensions. We find that increasing the operator scaling dimension suppresses both negativity and mutual information, reflecting the faster decay of correlations. For holographic CFTs, we show that bulk effective field theory enables a separation between field-harvested and communication-mediated entanglement. We also derive asymptotic, closed-form approximations that agree well with numerical results.

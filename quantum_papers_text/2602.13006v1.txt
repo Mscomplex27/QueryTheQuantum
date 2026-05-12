@@ -1,0 +1,5 @@
+Title: Effective classical potential for quantum statistical averages
+Authors: Vijay Ganesh Sadhasivam, Stuart C. Althorpe, Venkat Kapil
+Categories: quant-ph, physics.chem-ph
+Published: 2026-02-13 15:14:39+00:00
+Abstract: We present an effective potential that allows quantum thermal expectation values of a position-dependent observable to be estimated as a classical ensemble average of the corresponding function. We follow the approach of Feynman and Hibbs, but perform the mean-field treatment of quantum fluctuations about the path starting point rather than the path centroid. Furthermore, rather than performing a full variational optimization of the potential, we explore approximate functional forms that yield a numerical robustness. The resulting closed-form potential is exact in the classical and harmonic limits; benchmarks against exact position distributions for one-dimensional quartic, Morse, and double-well potentials, show good agreement for potentials with harmonic support.

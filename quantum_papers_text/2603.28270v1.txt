@@ -1,0 +1,5 @@
+Title: Quantum engineering with ultracold polar molecules using trap-induced resonances
+Authors: Sakthikumaran Ravichandran, Piotr Kulik, Krzysztof Jachymski
+Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
+Published: 2026-03-30 10:53:59+00:00
+Abstract: Polar molecules represent a promising platform for quantum simulation and computation protocols. Highly controllable arrays of optical tweezers are now accessible in experiments, allowing for unprecedented control of individual molecules. Motional dephasing is typically seen as an obstacle in quantum computing scenarios. Here, we instead consider using the trap structure as a resource for implementing efficient quantum gates. By numerically solving the two-body problem of dipoles trapped in separate tweezers, we identify trap-induced resonances that can serve as the mechanism for achieving state-dependent dynamics and can be further utilized for quantum sensing.

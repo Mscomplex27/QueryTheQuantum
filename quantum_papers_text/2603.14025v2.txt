@@ -1,0 +1,5 @@
+Title: Quantum Dynamical Entropy and Dissipative Information Flows
+Authors: Giovanni Nichele, Fabio Benatti
+Categories: quant-ph, math-ph
+Published: 2026-03-14 16:55:57+00:00
+Abstract: The Alicki-Lindblad-Fannes dynamical (ALF) entropy measures the rate at which new information is gathered about a quantum system by inspecting its long-time evolution. We propose an extension of the ALF entropy to open quantum dynamics as a measure of back-flow of information from the environment. Such a proposal is stronger than the existing ones based only on the open system reduced dynamics. In the case of a qubit collisionally coupled to a classical spin chain, we obtain an exact expression for the $\textit{open-system ALF entropy}$ explicitly depending on the environment correlations. An extreme case shows how the information flow from environment to system corresponds to vanishing entropy production as for reversible finite quantum systems.

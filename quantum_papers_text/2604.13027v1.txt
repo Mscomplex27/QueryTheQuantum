@@ -1,0 +1,5 @@
+Title: Floquet Many-Body Cages
+Authors: Tom Ben-Ami, Roderich Moessner, Markus Heyl
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-04-14 17:57:58+00:00
+Abstract: Many-body cages have very recently emerged as a general route for nonergodic behaviour in quantum matter. Here, we show that new types of many-body cages can be engineered in Floquet circuits with the potential to realize novel nonequilibrium quantum states. For that purpose, we first identify an explicit, general construction of Floquet circuits capable of hosting many-body cages. We then present a generic strategy to engineer and structure Floquet many-body cages. We demonstrate the developed scheme for the quantum hard disk model as a generic constrained model system, realizable for instance in Rydberg atom arrays. We construct Floquet circuits yielding Floquet many-body cages with topological properties and $π$-quasienergy modes, implying `time crystalline' spatiotemporal order. Our results can be directly extended to general quantum circuits, thus providing a new tool to engineer nonequilibrium behaviour in driven systems.

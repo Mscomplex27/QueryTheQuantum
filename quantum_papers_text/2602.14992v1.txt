@@ -1,0 +1,5 @@
+Title: Rotational Quantum Friction via Spontaneous Decay
+Authors: Nicolas Schüler, O. J. Franca, Michael Vaz, Hervé Bercegol, Stefan Yoshi Buhmann
+Categories: quant-ph, physics.optics
+Published: 2026-02-16 18:22:05+00:00
+Abstract: A fascinating effect belonging to the field of vacuum forces and fluctuations is that of quantum friction. It refers to the prediction of a dissipative force acting on a moving object due to the quantum vacuum field. In this work, we investigate rotational quantum friction where a diatomic polar molecule rotates around its own center of mass in free space. We quantize the rotational motion and investigate the resulting dissipation due to spontaneous decay. We find in the Markovian regime that a friction torque $\propto Ω^3$ persists even for zero temperature, and in agreement with the classical result in the limit of large rotational quantum number $l$. Within the non-Markovian short-time regime we find a friction $\proptoΩ$.

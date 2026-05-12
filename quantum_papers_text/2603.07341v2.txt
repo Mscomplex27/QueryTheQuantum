@@ -1,0 +1,5 @@
+Title: paces: Parallelized Application of Co-Evolving Subspaces, a method for computing quantum dynamics on GPUs
+Authors: R. Kevin Kessing
+Categories: quant-ph, physics.chem-ph, physics.comp-ph
+Published: 2026-03-07 21:04:14+00:00
+Abstract: An efficient method of solving the time-dependent Schrödinger equation for pure states is described: At each timestep, a restricted subspace of the total Hilbert space is systematically and naturally constructed via the image of repeated applications of the Hamiltonian operator, and the time evolution is computed exactly within said subspace. The subspace is dynamically recomputed such that it co-evolves with the state vector. The method is built from the ground up as a parallel algorithm for graphics processing units and suited to Hamiltonians that are sparse in a given basis. We benchmark the method by comparing its results for a 1D Holstein model to previously published multiset-MPS results, and then apply the method to compute optical spectra and non-equilibrium dynamics of one-, two- and three-dimensional model chromophore nanoaggregates.

@@ -1,0 +1,5 @@
+Title: A lesson from a small particle about quantum theory with strong implications for cosmology
+Authors: Daniel Sudarsky, Octavio Guerrero
+Categories: quant-ph
+Published: 2026-02-16 05:00:04+00:00
+Abstract: The establishment of extremely strong bounds on the magnitude of the electric dipole moment of the neutron, a quantity that is of great importance for determining the level of time reversal symmetry respected by the strong interactions, offers an important lesson regarding the manner in which quantum uncertainties are interpreted in the inflationary cosmological account of the generation of the primordial inhomogeneities that give rise to the universe's structure. The identification of quantum uncertainties with actual stochastic fluctuations, a standard aspect of the current physical account for the emergence of the cosmic structure, is called into question. This opens the door for novel aspects of physics that are needed in order to provide a satisfactory account that is both conceptually clear and does not conflict with the use of quantum theory in other settings.

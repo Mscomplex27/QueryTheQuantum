@@ -1,0 +1,5 @@
+Title: Implementation of a shooting technique for quantum optimal control on spin qudits
+Authors: Paul-Louis Etienney, Paul-Antoine Hervieux, Denis Jankovic, Killian Lutz, Emmanuel Franck, Jean-Gabriel Hartmann
+Categories: quant-ph
+Published: 2026-03-23 08:22:19+00:00
+Abstract: High-fidelity control of quantum systems is essential for scalable quantum technologies. We introduce a shooting-based method which yields smooth control pulses designed to implement gates on discrete quantum systems, and demonstrate its performances through numerical simulations on systems inspired from single molecule magnets. Our method efficiently decomposes quantum gates into electromagnetic pulses, and determines control pulses which are faster than GRAPE, all the more as the system's dimension increases.

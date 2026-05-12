@@ -1,0 +1,5 @@
+Title: Parsimonious Quantum Low-Density Parity-Check Code Surgery
+Authors: Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williamson
+Categories: quant-ph, math-ph
+Published: 2026-03-05 11:52:57+00:00
+Abstract: Quantum code surgery offers a flexible, low-overhead framework for executing logical measurements within quantum error-correcting codes. It encompasses several fault-tolerant logical computation schemes, including parallel surgery, universal adapters and fast surgery, and serves as the key primitive in extractor architectures. The efficiency of these schemes crucially depends on constructing low-overhead ancilla systems for measuring arbitrary logical operators in general quantum Low-Density Parity-Check (qLDPC) codes. In this work, we introduce a method to construct an ancilla system of qubit size $O(W \log W)$ to measure an arbitrary logical Pauli operator of weight $W$ in any qLDPC stabilizer code. This new construction immediately reduces the asymptotic overhead across various quantum code surgery schemes.

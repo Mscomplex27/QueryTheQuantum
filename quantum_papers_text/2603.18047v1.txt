@@ -1,0 +1,5 @@
+Title: Some Studies On Exact Solutions Of Models In Noncommutative Spaces
+Authors: Manjari Dutta
+Categories: quant-ph, hep-th
+Published: 2026-03-17 12:19:06+00:00
+Abstract: The central theme of my thesis is to explore various simple prototype models that are exactly solvable in the framework of time dependent noncommutative spaces. By adopting the methodology provided by the Lewis Riesenfeld theory, we developed a procedure for obtaining a class of exact solutions for such model systems. We analyzed these solutions by deriving the energy expectation values analytically and representing those energy dynamics graphically. We also examined the explicit existence of a non-zero Berry geometric phase in the noncommutative framework and analyzed the role of noncommutativity in generating a non-trivial Berry phase when the model Hamiltonian and the noncommutative parameters are periodic in time. Overall, my thesis contributes to a deeper understanding of quantum theory in time dependent noncommutative backgrounds and indicates a strong possibility for developing a consistent quantum theory within such frameworks.

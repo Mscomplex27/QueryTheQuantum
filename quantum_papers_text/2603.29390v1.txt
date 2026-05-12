@@ -1,0 +1,5 @@
+Title: Nonlinear hydrodynamic response of a quantum Hall system
+Authors: Hiroki Isobe
+Categories: cond-mat.mes-hall, cond-mat.str-el, physics.flu-dyn, quant-ph
+Published: 2026-03-31 07:56:17+00:00
+Abstract: The quantum Hall effect realizes a quantized Hall resistance $R_{xy} = h/(νe^2)$ whereas the longitudinal resistance vanishes. The quantized value consists of the fundamental physical quantities, the elementary charge $e$ and the Planck constant $h$, along with an integer or fractional constant $ν$. High precision measurements of $R_{xy}$ allude to a linear relation between the applied current $I$ and the Hall voltage $V_\mathrm{H}$. Here, we argue that a nonlinear relation between $I$ and $V_\mathrm{H}$ could arise when the electric field is spatially inhomogeneous. We first discuss that the linear $I$-$V_\mathrm{H}$ relation holds with Galilean invariance. Then we consider a hydrodynamic description of a quantum Hall liquid to deal with an axially symmetric electric field. It reveals a nonlinear electronic response arising from the centrifugal force exerted on a curved flow and the density gradient invoked by vorticity.

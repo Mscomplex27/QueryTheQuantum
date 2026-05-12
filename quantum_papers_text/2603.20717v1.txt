@@ -1,0 +1,5 @@
+Title: Extreme points of absolutely PPT states with exactly three distinct eigenvalues
+Authors: Nalan Wang, Lin Chen, Zhiwei Song
+Categories: quant-ph
+Published: 2026-03-21 08:52:03+00:00
+Abstract: Whether the sets of absolutely separable (AS) and absolutely two-qutrit positive-partial-transpose (AP) states are the same has been an open problem in entanglement theory for decades. Since they are both convex sets, we investigate the boundary and extreme points of full-rank two-qutrit AP states with exactly three distinct eigenvalues. We show that every boundary point is an extreme point, with exactly one exception. We explicitly characterize the expressions of such points, each of which turns out to contain at most one parameter in some intervals. When the parameter approaches the ends of intervals, most points become the known extreme points of exactly two distinct eigenvalues. We present our results by tables and figures.

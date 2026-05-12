@@ -1,0 +1,5 @@
+Title: Perspective of Fermi's golden rule and its generalizations in chemical physics
+Authors: Seogjoo J. Jang, Goun Kim, Young Min Rhee
+Categories: physics.chem-ph, quant-ph
+Published: 2026-03-30 12:40:21+00:00
+Abstract: This perspective provides a succinct history of Fermi's golden rule (FGR), overview of its derivation, assumptions, and representative forms. Major applications of FGR, mostly in the field of chemical physics, are reviewed. These illustrate the broad applicability and success of FGR. Ambiguities and open issues encountered in practical applications of FGR are clarified. Recent advances in generalizations of FGR and computational methods for practical applications are addressed.

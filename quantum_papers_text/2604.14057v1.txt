@@ -1,0 +1,5 @@
+Title: Distributed quantum-classical hybrid algorithm for solving K-SAT problem
+Authors: Huaijing Huang, Daowen Qiu, Le Luo, Paulo Mateus
+Categories: quant-ph
+Published: 2026-04-15 16:36:42+00:00
+Abstract: Recently, Dunjko et al.(PRL, 2018) proposed an algorithm for accelerating the solution of 3-satisfiability problems using a small-scale quantum computer. In this paper, we design a distributed quantum-classical hybrid algorithm for solving K-satisfiability problems. Under resource-constrained conditions, our algorithm achieves a significant acceleration in the core term of the exponential time complexity. The proposed algorithm is a generalization of the algorithm by Dunjko et al. Compared with their algorithm, our algorithm requires a smaller number of qubits. More importantly, the proposed algorithm does not rely on any quantum communication.

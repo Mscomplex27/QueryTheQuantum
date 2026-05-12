@@ -1,0 +1,5 @@
+Title: Quantum geometry of the non-Hermitian skin effect
+Authors: Ken-Ichiro Imura, Kohei Kawabata
+Categories: cond-mat.mes-hall, physics.optics, quant-ph
+Published: 2026-04-11 05:51:53+00:00
+Abstract: The non-Hermitian skin effect is nonreciprocity-induced localization phenomena in which a macroscopic number of eigenstates accumulate anomalously at the boundary, accompanied by the extreme sensitivity to boundary conditions. Here, we develop a geometric characterization of the non-Hermitian skin effect. We demonstrate that the localization length scale associated with the skin effect is encoded in the quantum metric defined solely from right eigenstates, but not in the biorthogonal quantum metric. Moreover, we show that the quantum metrics exhibit the power-law divergences at gapless points that depend on the different boundary conditions. We also reveal that cusps of the generalized Brillouin zone in non-Bloch band theory are signaled by discontinuities in the quantum metrics. We illustrate these behavior using prototypical non-Hermitian models, such as the Hatano-Nelson model and the non-Hermitian, nonreciprocal Su-Schrieffer-Heeger model.

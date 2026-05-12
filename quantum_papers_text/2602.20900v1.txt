@@ -1,0 +1,5 @@
+Title: Error correction with brickwork Clifford circuits
+Authors: Twan Kroll, Jonas Helsen
+Categories: quant-ph
+Published: 2026-02-24 13:35:33+00:00
+Abstract: We prove that random 1D Clifford brickwork circuits form (in expectation) good approximate quantum error correction codes in logarithmic depth. Our proof makes use of the statistical mechanics techniques for random circuits developed by Dalzell et al. [PRX Quantum 3, 010333], adapted extensively to our own purpose. We also consider exact error correction, where we give matching upper and lower bounds for the required depth in which random 1D Clifford brickwork circuits become error correcting.

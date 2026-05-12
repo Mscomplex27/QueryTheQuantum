@@ -1,0 +1,5 @@
+Title: Quantum Simulation of Collective Neutrino Oscillations using Dicke States
+Authors: Katarina Bleau, Nikolina Ilic, Joachim Kopp, Ushak Rahaman, Xin Yue Yu
+Categories: quant-ph, astro-ph.HE, hep-ph
+Published: 2026-04-08 18:00:06+00:00
+Abstract: In dense neutrino gases, which exist for instance in supernovae, the flavour states of different neutrinos may become entangled with one another. The theoretical description of such systems may therefore call for simulations on a quantum computer. Existing quantum simulations of simple toy systems are not optimal in the sense that they do not fully exploit the symmetries of the system. Here, we propose a new class of qubit-efficient algorithms based on Dicke states and the $su(2)$ spin algebra. We demonstrate the excellent performance of these algorithms both on classical and on quantum hardware.

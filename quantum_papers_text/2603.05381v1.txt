@@ -1,0 +1,5 @@
+Title: Achieving Thresholds via Standalone Belief Propagation on Surface Codes
+Authors: Pedro Hack, Luca Menti, Francisco Lazaro, Alexandru Paler
+Categories: quant-ph
+Published: 2026-03-05 17:11:48+00:00
+Abstract: The usual belief propagation (BP) decoders are, in general, exchanging local information on the Tanner graph of the quantum error-correcting (QEC) code and, in particular, are known to not have a threshold for the surface code. We propose novel BP decoders that exchange messages on the decoding graph and obtain code capacity thresholds via standalone BP for the surface code under depolarizing noise. Our approach, similarly to the minimum weight perfect matching (MWPM) decoder, is applicable to any graphlike QEC code. The thresholds observed with our decoders are close to those obtained by MWPM. This result opens the path towards scalable hardware-accelerated implementations of MWPM-compatible decoders.

@@ -1,0 +1,5 @@
+Title: Thermodynamic uncertainty relation under continuous measurement and feedback with quantum-classical-transfer entropy
+Authors: Kaito Tojo, Takahiro Sagawa, Ken Funo
+Categories: cond-mat.stat-mech, quant-ph
+Published: 2026-02-26 15:22:22+00:00
+Abstract: We derive a thermodynamic uncertainty relation (TUR) under quantum continuous measurement and feedback control. By incorporating the quantum-classical-transfer entropy, which quantifies the information gained by continuous measurement, we show that the precision of currents is constrained by information-thermodynamic costs such as the entropy production and information gain. Our result shows that information gain has the potential to enhance the precision of currents beyond the bounds set by the conventional TUR. We illustrate the bound with a driven two-level system under continuous measurement and feedback, demonstrating that feedback achieves higher precision of currents while suppressing the entropy production.

@@ -1,0 +1,5 @@
+Title: Fundamental Limits on QBER and Distance in Quantum Key Distribution
+Authors: Stefano Pirandola
+Categories: quant-ph, math-ph, physics.app-ph, physics.optics, physics.space-ph
+Published: 2026-02-25 19:00:02+00:00
+Abstract: Quantum key distribution (QKD) enables information-theoretic secure communication, yet its ultimate tolerance to noise and achievable transmission distance remain fundamentally constrained. We establish the maximum quantum bit error rate (QBER) compatible with secure QKD and derive corresponding upper bounds on communication distance. Our results follow from a fundamental capacity threshold for qubit Pauli channels and apply to protocols based on two or more mutually unbiased bases, using either single-photon or weak coherent sources. By connecting information-theoretic limits to realistic physical noise models, we obtain universal bounds on achievable distances in fiber and free-space links, including diffraction-limited constraints relevant to deep-space quantum communications. These findings clarify the ultimate noise robustness of QKD and delineate the fundamental boundaries of secure quantum communication.

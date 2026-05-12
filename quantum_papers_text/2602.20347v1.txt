@@ -1,0 +1,5 @@
+Title: A note on the conceptual problems on the Unruh effect
+Authors: Hideyasu Yamashita
+Categories: gr-qc, math-ph, quant-ph
+Published: 2026-02-23 20:45:09+00:00
+Abstract: This brief note is written with a somewhat similar purpose to Earman's 2011 paper on the conceptual problems on the Unruh effect. However, we confine ourselves to Sewell's modular approach to the Unruh effect, which is based on the theorems of Tomita-Takesaki and Bisognano-Wichmann. This approach is rigorous, and has an advantage of being model-independent. However, we will see that a number of conceptual problems remain unsolved on this approach.

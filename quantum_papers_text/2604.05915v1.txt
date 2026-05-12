@@ -1,0 +1,5 @@
+Title: Quantum advantage in transfer of quantum states
+Authors: Andrei Stepanenko, Kseniia Chernova, Maxim Gorlach
+Categories: quant-ph, cond-mat.mes-hall, physics.optics
+Published: 2026-04-07 14:16:22+00:00
+Abstract: Quantum advantage, broadly understood as the ability of quantum systems to significantly outperform their classical counterparts, underpins current interest to quantum technologies and is a topic of active investigation. In many situations, its existence is subject to debate, and the areas of supremacy of large-scale quantum systems are not well defined. Here, we uncover a novel niche where quantum advantage can be clearly defined and proven. We study a time-optimal transfer of excitations in the lattice involving both nearest-neighbor and longer-range couplings. We prove that the quantum-mechanical property of a particle to propagate along several trajectories simultaneously speeds up the transfer process, which takes a shorter time compared to any particular trajectory and thus provides a clear example of quantum advantage.

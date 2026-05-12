@@ -1,0 +1,49 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# Configuration with secrets
+server_config.json
+configs/server_config.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+venv-*/
+
+# ChromaDB persistent storage
+chroma_db/
+chroma_db_*
+
+# TigerGraph local data (if any)
+tigergraph_data/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# Test files
+test_connection.py
+
+# Benchmark output (optional – you can keep if you want to share results)
+# benchmark_results_*.csv
+
+# Large data files
+*.onnx
+*.bin
+*.pkl
+
+# Backup files
+*.bak

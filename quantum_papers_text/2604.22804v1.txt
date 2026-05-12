@@ -1,0 +1,5 @@
+Title: Deterministic Multi-User Identification over Bosonic Channels
+Authors: Gökhan Elmas, Janis Nötzel
+Categories: quant-ph, cs.IT
+Published: 2026-04-13 21:35:46+00:00
+Abstract: We study deterministic multi-user identification over bosonic channels using coherent-state signatures. Each user is assigned a coherent product state under an average energy constraint, and identification is performed by a user-specific binary quantum test. In contrast to classical multi-user identification models based on shared codebooks, this formulation associates each receiver with a geometric signature in high-dimensional phase space. Using metric entropy bounds, we show that the identification capacity exhibits a near-k log k scaling behavior.

@@ -1,0 +1,5 @@
+Title: Enhanced Emission from Boron-Vacancy Center in Rhombohedral Boron Nitride
+Authors: Nasrin Estaji, Ismaeil Abdolhosseini Sarsari, Gergő Thiering, Adam Gali
+Categories: quant-ph, cond-mat.mtrl-sci
+Published: 2026-03-22 22:14:50+00:00
+Abstract: Various stacking combinations of the two-dimensional (2D) boron nitride (BN) honeycomb lattice can significantly modify the properties of the resulting 2D BN crystal. Here, we demonstrate through first-principles calculations that the brightness of the negatively charged boron-vacancy center (V$_\text{B}^{-}$) is enhanced by at least one order of magnitude in rhombohedral BN (rBN) compared to hexagonal BN (hBN), while the spin properties remain either comparable or even improved. This enhancement arises from the reduced symmetry of the crystal field in rBN. Our results suggest that room-temperature single-spin coherent control of V$_\text{B}^{-}$ is feasible in rBN, enabling its application as a single-spin quantum sensor in this 2D host. These findings demonstrate that engineered stacking of BN layers provides a powerful means to tailor the properties of embedded quantum defects.

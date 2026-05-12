@@ -1,0 +1,5 @@
+Title: Fully selective charging of a quantum battery by a purely quantum charger
+Authors: Yohan Vianna, Marcelo F. Santos
+Categories: quant-ph, physics.app-ph, physics.atom-ph
+Published: 2026-03-18 18:26:42+00:00
+Abstract: In this paper we discuss a protocol for charging a two-level quantum battery using a bipartite charger composed of two quantum harmonic oscillators. As one of its features, it allows us to fully charge the battery and is universally optimal in the regime of a single excitation added as energy input. We also make use of a selective interaction to extend the protocol for a different class of quantum states and show that, in this case, the presence of quantum coherence can be harnessed as energetic resource to charge multiple similar batteries. Among these, we also explore symmetries of the derived effective dynamics to quickly discuss how the same protocol can be adapted to the task of \textit{active state resetting}, a task which is particularly useful in the quantum computation area.

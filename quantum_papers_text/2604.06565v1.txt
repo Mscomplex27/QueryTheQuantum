@@ -1,0 +1,5 @@
+Title: Discrete-variable assisted error correction of continuous-variable quantum information
+Authors: Negin Razian, En-Jui Chang, Hoi-Kwan Lau
+Categories: quant-ph
+Published: 2026-04-08 01:28:54+00:00
+Abstract: Robust continuous-variable (CV) quantum information processing requires correcting realistic errors in bosonic systems, but all existing schemes rely on auxiliary Gottesman-Kitaev-Preskill (GKP) states which the preparation and operation are demanding in many platforms. In this work, we propose a novel CV quantum error correction (QEC) scheme that utilizes a broadly accessible resource: discrete-variable (DV) ancilla. Our scheme extracts information about CV displacement to the DV ancilla, measuring that allows counteracting the unwanted displacement error. We show that a simple single-qubit ancilla can already suppress CV infidelity by more than 20%. By concatenating with DV QEC codes, our scheme is robust against the physical errors in hybrid CV-DV systems, and yields a new class of oscillator-in-oscillator code that does not involve GKP states. Our work facilitates the implementation of CV QEC on realistic platforms.

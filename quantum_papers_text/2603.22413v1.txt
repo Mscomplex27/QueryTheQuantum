@@ -1,0 +1,5 @@
+Title: Casimir Geometry as a Probe of Short Range Forces
+Authors: Xiaolin Ma, Volodymyr Takhistov, Hideo Iizuka
+Categories: hep-ph, hep-ex, quant-ph
+Published: 2026-03-23 18:00:16+00:00
+Abstract: Casimir force searches provide among the most sensitive laboratory probes of new short range interactions. Existing constraints rely almost exclusively on a single geometry. We show that Casimir geometry constitutes an independent observable, as Yukawa-type interactions and Casimir background exhibit different geometric scaling for bulk forces and surface quantum effects. We derive the first constraints from sphere-sphere and plate-plate geometries, thereby completing the canonical set of Casimir geometries, obtaining the most stringent Casimir-based bounds for $λ\lesssim 10^{-8}~\mathrm{m}$. Our results establish geometry as a new handle for systematic searches for short range forces.

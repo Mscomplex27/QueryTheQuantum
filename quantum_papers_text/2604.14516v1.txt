@@ -1,0 +1,5 @@
+Title: Linear Optical Schemes to Postselect High-Dimensional Dicke States
+Authors: Daniel Bhatti, William J. Munro, Seungbeom Chin
+Categories: quant-ph
+Published: 2026-04-16 01:13:24+00:00
+Abstract: Multipartite entanglement is an essential quantum resource for various distributed quantum applications. One promising method for preparing multipartite entanglement is to interfere independent photons at linear optical interference setups. While heralding the successful interference and thereby the state generation is often costly, postselecting entangled states provides an achievable alternative in this framework. We introduce a family of interference schemes for postselecting symmetric qudit Dicke states, useful resources in quantum communication and variational quantum computing. We present schemes with and without ancillary photons and show that using ancillary photons can exceed the upper bound on the success probability of schemes without ancillary photons. Our results accommodate a wide range of linear optical schemes, providing multiple viable approaches for postselecting Dicke states.

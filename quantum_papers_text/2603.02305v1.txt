@@ -1,0 +1,5 @@
+Title: TIMES-ADAPT: A Quantum algorithm for real-time evolution in low-energy subspaces using fixed-depth circuits
+Authors: Bharath Sambasivam, Kyle Sherbert, Karunya Shirali, Nicholas J. Mayhall, Edwin Barnes, Sophia E. Economou
+Categories: quant-ph
+Published: 2026-03-02 19:00:00+00:00
+Abstract: We propose a new variational quantum algorithm, which we refer to as TIMES-ADAPT, that prepares time-evolved states in a low-energy or symmetric subspace of a time-independent Hamiltonian on a quantum computer. Using a specially trained unitary that diagonalizes the Hamiltonian in a subspace, we construct fixed-depth circuits for real-time evolution in the subspace, where time only enters as a circuit parameter. We present two versions of the algorithm depending on whether the initial state is specified in the energy eigenbasis or computational basis. We consider two important applications of our methods: wave packet evolution and energy transport in spin systems. We benchmark our algorithms using variants of the Heisenberg XXZ model.

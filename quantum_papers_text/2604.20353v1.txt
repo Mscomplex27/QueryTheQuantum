@@ -1,0 +1,5 @@
+Title: Comment on "Quantum Limits to Incoherent Imaging are Achieved by Linear Interferometry"
+Authors: George Brumpton, Aiman Khan, Helia Hooshmand, Samanta Piano, Gerardo Adesso
+Categories: quant-ph
+Published: 2026-04-22 08:56:07+00:00
+Abstract: We show that the construction of the linear interferometer in the Supplemental Material of arXiv:1909.09581 is flawed, leading to a generally suboptimal solution. We then provide the correct derivation of the optimal interferometric configuration that achieves the quantum Fisher information limit for imaging N weak incoherent emitters.

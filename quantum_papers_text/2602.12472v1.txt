@@ -1,0 +1,5 @@
+Title: Dynamic Programming Principle and Stabilization for Mean-Field Quantum Filtering Systems
+Authors: Sofiane Chalal, Nina H. Amini, Hamed Amini, Mathieu Laurière
+Categories: quant-ph, math.OC
+Published: 2026-02-12 22:58:26+00:00
+Abstract: Working within the quantum filtering framework, we establish a dynamic programming principle in an infinite-dimensional setting by embedding the state space into the Hilbert-Schmidt space. We then study a stabilization problem for continuously monitored Ising-coupled qubits and, in the mean-field limit, demonstrate quantum state reduction together with exponential convergence toward prescribed eigenstates under suitable feedback laws.

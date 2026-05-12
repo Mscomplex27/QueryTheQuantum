@@ -1,0 +1,5 @@
+Title: The 27-qubit Counterexample to the LU-LC Conjecture is Minimal
+Authors: Nathan Claudet
+Categories: quant-ph, cs.DM
+Published: 2026-03-26 09:18:10+00:00
+Abstract: It was once conjectured that two graph states are local unitary (LU) equivalent if and only if they are local Clifford (LC) equivalent. This so-called LU-LC conjecture was disproved in 2007, as a pair of 27-qubit graph states that are LU-equivalent, but not LC-equivalent, was discovered. We prove that this counterexample to the LU-LC conjecture is minimal. In other words, for graph states on up to 26 qubits, the notions of LU-equivalence and LC-equivalence coincide. This result is obtained by studying the structure of 2-local complementation, a special case of the recently introduced r-local complementation, and a generalization of the well-known local complementation. We make use of a connection with triorthogonal codes and Reed-Muller codes.

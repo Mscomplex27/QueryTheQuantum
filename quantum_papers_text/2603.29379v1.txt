@@ -1,0 +1,5 @@
+Title: YZ-plane measurement-based quantum computation: Universality and Parity Architecture implementation
+Authors: Jaroslav Kysela, Katharina Ludwig, Nitica Sakharwade, Anette Messinger, Wolfgang Lechner
+Categories: quant-ph
+Published: 2026-03-31 07:49:33+00:00
+Abstract: We define the class of register-logic graphs and prove that any uniformly deterministic measurement-based quantum computation (MBQC) where the inputs coincide with the outputs must be driven on such graphs by measurements in the $YZ$ plane of the Bloch sphere. This observation is revisited in the context that goes beyond uniform determinism, where we present a universal $YZ$-plane-only measurement pattern and establish a connection between $YZ$-plane-only and $XZ$-plane-only patterns. These results conclude the line of research on universal patterns with measurements restricted to one of the principal planes of the Bloch sphere. We further demonstrate, within the framework of the Parity Architecture, that $YZ$-plane patterns with the register-logic graph can be embedded into another graph with purely local interactions, and we extend this case to the scenario of universal quantum computation.

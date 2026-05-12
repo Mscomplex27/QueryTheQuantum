@@ -1,0 +1,5 @@
+Title: Observation of Erratic Non-Hermitian Skin Effect in Phononic Crystals
+Authors: Yujian Yuan, Jie Liu, He Gao, Jiamin Guo, Zhongming Gu, Jie Zhu
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-04-26 13:55:44+00:00
+Abstract: The erratic non-Hermitian skin effect (ENHSE), emerging from the interplay between disorders and locally nonreciprocal yet globally reciprocal couplings, has reshaped the conventional bulk-boundary correspondence through its disorder-dependent localization properties. Here, we experimentally observe the dynamical phenomena of ENHSE in phononic crystals with disordered imaginary gauge fields. The erratic localization occurs in the bulk independent of the excitation position, with the main and satellite peaks precisely located at the local maxima of the cumulative gauge field in accordance with random-walk extreme-value statistics. Remarkably, the selective manipulation of satellite peaks can be realized by tuning the staggered disorder strengths in a dimerized chain. These findings can deepen the understanding of non-Hermitian physics and establish a new route for disorder-engineered non-Hermitian wave control.

@@ -1,0 +1,5 @@
+Title: Analogue Hawking radiation in nonlinear quantum optics
+Authors: Isaac Bernal, Miguel A. Cortés-Ortiz, David Bermudez
+Categories: gr-qc, physics.optics, quant-ph
+Published: 2026-03-03 21:17:10+00:00
+Abstract: The Hawking effect can be understood as a broad kinematic phenomenon associated with mode behavior near a horizon. While astrophysical black holes produce one specific realization of this radiation, this perspective inspires extensive theoretical and experimental efforts to create event horizons in diverse physical systems to observe the resulting analogue Hawking emission. One of the most successful realizations is the fiber-optical analogue, based on nonlinear quantum optics. In these notes, we introduce and motivate this system while outlining the theoretical concepts underlying the gravitational analogy. Finally, we review key experiments and discuss their impact on the field.

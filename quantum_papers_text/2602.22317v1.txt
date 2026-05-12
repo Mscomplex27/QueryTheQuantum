@@ -1,0 +1,5 @@
+Title: Partial Reversibility and Counterdiabatic Driving in Nearly Integrable Systems
+Authors: Rohan Banerjee, Shahyad Khamnei, Anatoli Polkovnikov, Stewart Morawetz
+Categories: quant-ph, cond-mat.stat-mech, nlin.CD
+Published: 2026-02-25 19:00:02+00:00
+Abstract: Adiabatic (or reversible) processes are the key concept unifying our understanding of thermodynamics and dynamical systems. Reversibility in the thermodynamic sense is understood as entropy-preserving processes, such as in the idealized Carnot engine, whereas in integrable dynamical systems it is understood as the conservation of the action variables. Between these two idealized limits, however, where the phase space can become mixed, things are much less clear. In this work, we first determine the extent to which reversible processes are even possible in this regime. We then explore how the dissipative losses resulting from rapidly driving these kinds of systems can be fought by approximate counterdiabatic driving. Finally, we argue that much of the phenomenology should be the same for quantum many-body systems with large degeneracy in the presence of integrability breaking perturbations.

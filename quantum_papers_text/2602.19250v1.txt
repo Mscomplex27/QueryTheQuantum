@@ -1,0 +1,5 @@
+Title: Eigenstate-assisted realization of general quantum controlled unitaries with a fixed cost
+Authors: Carlos Navas-Merlo, Juan Carlos García-Escartín
+Categories: quant-ph
+Published: 2026-02-22 16:06:01+00:00
+Abstract: Controlled unitary gates are a basic element in many quantum algorithms. Converting a general unitary $U$ with a known decomposition into its controlled version, controlled-$U$, can introduce a large overhead in terms of the depth of the circuit. We present a general method to take any unitary $U$ into controlled-$U$ using a fixed circuit with 4 CNOT gates and 2 Toffoli gates per qubit. For $n$-qubit unitaries and one control qubit, we require $2n+1$ qubits and a circuit that can generate an eigenstate of $U$, for which there are many cost-effective known algorithms. The method also works for any black block implementation of $U$, achieving a constant-depth realization independent of its decomposition. We illustrate its use in the Hadamard test and discuss applications to variational and quantum machine-learning algorithms.

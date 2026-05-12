@@ -1,0 +1,5 @@
+Title: High-flux sub-Poissonian twin-beam generation from warm atomic vapor
+Authors: Priya Drashni, Hari P. Lamsal, Belle A. White, Noah A. Crum, George Siopsis, Tian Li
+Categories: quant-ph
+Published: 2026-04-20 20:55:31+00:00
+Abstract: We demonstrate sub-Poissonian twin-beam generation via near-degenerate spontaneous four-wave mixing in warm $^{85}\mathrm{Rb}$ at 795 nm. The twin beams exhibit approximately $5.5~\mathrm{dB}$ of intensity-difference squeezing in free space and about $3~\mathrm{dB}$ after coupling into polarization-maintaining fibers. Time-resolved photon counting yields Mandel parameters of $Q \approx -0.7$ for each beam, revealing strong photon-number squeezing in each beam individually. The temporal correlation between the twin photons exhibits a distinctive flat-topped profile, reflecting multiple $χ^{(3)}$ processes in the atomic medium and showing excellent agreement with theory. This fiber-compatible, near atomic-resonance, high-flux sub-Poissonian twin-photon source is well suited for integration into scalable quantum-enhanced sensing and information processing applications.

@@ -1,0 +1,5 @@
+Title: Coherent control of optomechanical entanglement and steering via dual parametric amplification
+Authors: Jinhao Jia, Yingru Li, Ran Liang, Mei Zhang
+Categories: quant-ph
+Published: 2026-04-16 15:41:33+00:00
+Abstract: We propose a coherent-control scheme for engineering quantum correlations in a cavity optomechanical (COM) system consisting of a driven optical cavity with an embedded nonlinear medium and a membrane, assisted by a coherent feedback loop. The nonlinear medium and the membrane are pumped to implement optical and mechanical parametric amplifications with controllable modulation frequencies and pump amplitudes. Through the combined modulation of the two parametric amplifications and the coherent feedback loop, we engineer the effective cavity decay rate and the distribution of quantum fluctuations, thereby strengthening quantum correlations and improving their robustness against thermal noise. Our scheme provides an efficient route to realizing highly tunable, strong, thermally robust quantum correlations in COM systems, which is promising for the protection of fragile quantum resources.

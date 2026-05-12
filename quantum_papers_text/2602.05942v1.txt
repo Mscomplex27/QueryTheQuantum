@@ -1,0 +1,5 @@
+Title: On the Efimov Effect for Four Particles in Dimension Two
+Authors: Jonathan Rau, Marvin R. Schulz
+Categories: math-ph, quant-ph
+Published: 2026-02-05 17:57:00+00:00
+Abstract: We prove that the Schrödinger operator describing four particles in two dimensions, interacting solely through short-range three-body forces, can possess infinitely many bound states. This holds under the assumption that each three-body subsystem has a virtual level at zero energy. Our result establishes an analog of the Efimov effect for such four-particle systems in two dimensions.

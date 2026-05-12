@@ -1,0 +1,5 @@
+Title: Quantum control and signal enhancement exploiting the Stokes-anti-Stokes coherence
+Authors: Wen-Zhao Zhang, Keye Zhang, Jie Li
+Categories: quant-ph, cond-mat.mes-hall, physics.optics
+Published: 2026-03-29 10:02:06+00:00
+Abstract: We present a theoretical framework for the coherent coupling between Stokes and anti-Stokes scattering processes, revealing interference phenomena inaccessible to either process alone. Within a dispersive-interaction model beyond the resolved-sideband limit, we show that classical driving and system linewidth coherently links the two channels, enabling phase-controlled interference. Destructive interference induces intrinsic asymmetry in dispersively coupled systems, enabling coherent control of quantum information storage and transfer, while constructive interference leads to exponential signal amplification and thus enhanced quantum detection. This work establishes a unified picture for understanding Stokes-anti-Stokes coherence as a fundamental mechanism underlying both quantum control and metrology. Furthermore, it suggests that these functionalities can be further enhanced by implementing Stokes-anti-Stokes arrays.

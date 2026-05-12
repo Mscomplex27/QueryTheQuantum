@@ -1,0 +1,5 @@
+Title: En Route to a Standard QMA1 vs. QCMA Oracle Separation
+Authors: David Miloschewsky, Supartha Podder, Dorian Rudolph
+Categories: quant-ph, cs.CC
+Published: 2026-04-29 17:38:20+00:00
+Abstract: We study the power of quantum witnesses under perfect completeness. We construct a classical oracle relative to which a language lies in $\mathsf{QMA}_1$ but not in $\mathsf{QCMA}$ when the $\mathsf{QCMA}$ verifier is only allowed polynomially many adaptive rounds and exponentially many parallel queries per round. Additionally, we derandomize the permutation-oracle separation of Fefferman and Kimmel, obtaining an in-place oracle separation between $\mathsf{QMA}_1$ and $\mathsf{QCMA}$. Furthermore, we focus on $\mathsf{QCMA}$ and $\mathsf{QMA}$ with an exponentially small gap, where we show a separation assuming the gap is fixed, but not when it may be arbitrarily small. Finally, we derive consequences for approximate ground-state preparation from sparse Hamiltonian oracle access, including a bounded-adaptivity frustration-free variant.

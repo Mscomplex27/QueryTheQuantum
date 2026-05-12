@@ -1,0 +1,5 @@
+Title: Geometric control of maximal entanglement via bound states in the continuum
+Authors: Alexis R. Legón, Mario Miranda Rojas, Pedro Orellana, Ariel Norambuena
+Categories: quant-ph
+Published: 2026-02-26 15:07:52+00:00
+Abstract: Bound states in the continuum (BiCs) convert dissipative open systems into effectively closed quantum subspaces through destructive interference. We show that two identical giant atoms coupled to a one-dimensional waveguide support BICs that coincide with maximally entangled atomic states. Most importantly, entanglement is predominantly determined by the geometric design; the ratio of intra-atomic connection lengths fixes the concurrence, while the propagation phase between atoms selects a family of Bell-like states. We further analyze the dynamical stability of these maximally entangled BICs under exact time evolution, revealing a clear hierarchy of robustness against parameter perturbations. Our results establish an analytical bridge between symmetry, geometry, entanglement, and BICs in giant-atom waveguide platforms.

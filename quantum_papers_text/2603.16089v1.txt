@@ -1,0 +1,5 @@
+Title: N-Cavity-Magnon Polariton Blockade via Kerr Nonlinearity
+Authors: Zhe-Qi Yang, Xiao-Yu Bi, Zhi-Rong Zhong
+Categories: quant-ph
+Published: 2026-03-17 03:25:32+00:00
+Abstract: We theoretically propose a scheme to realize a $n$-cavity-magnon polariton blockade in a cavity-magnon system by utilizing the Kerr nonlinearity. Cavity-magnon polaritons are hybrid quasiparticles formed by the strong coupling between cavity photons and magnons. The Kerr nonlinearity introduces anharmonicity into the polariton energy spectrum, which in turn enables the blockade effect. We demonstrate that when the external driving frequency is resonant with the transition to the $n$th polariton excited state, a perfect $n$-polariton blockade is achieved. Moreover, increasing the driving strength enhances higher-order blockade while maintaining high purity. Our work pioneers the field of cavity-magnon polariton blockade, opens a new avenue for the preparation of controllable quantum resources and holds significant potential for applications in the fields of quantum communication and quantum information processing.

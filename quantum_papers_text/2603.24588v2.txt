@@ -1,0 +1,5 @@
+Title: Finite-Degree Quantum LDPC Codes Reaching the Gilbert-Varshamov Bound
+Authors: Kenta Kasai
+Categories: quant-ph, cs.IT
+Published: 2026-03-25 17:57:31+00:00
+Abstract: We construct asymptotically good nested Calderbank-Shor-Steane (CSS) code pairs from Hsu-Anastasopoulos codes and MacKay-Neal codes. In the fixed-degree regime, we prove that the coding rate stays bounded away from zero and that the relative distances on both sides stay bounded away from zero with probability tending to one as the blocklength grows. Moreover, within an explicit low-degree search window, we determine exactly which even regular degree choices in our construction attain the classical Gilbert-Varshamov (GV) bound on both constituent sides, and consequently the CSS GV bound at fixed finite degree.

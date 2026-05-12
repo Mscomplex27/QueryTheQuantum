@@ -1,0 +1,5 @@
+Title: Infinite reduction in absorbing time in quantum walks over classical ones
+Authors: Shuva Mondal, Amrita Mandal, Ujjwal Sen
+Categories: quant-ph
+Published: 2026-02-16 16:10:25+00:00
+Abstract: We study the absorption time and spreading rate of the discrete-time quantum walk propagating on a line in the presence or absence of an absorber. We analytically establish that in the presence of an absorber, the average absorption time of the quantum walker is finite, contrary to the behavior of a classical random walker, indicating an infinite resource reduction on moving over to a quantum version of a walker. Furthermore, numerical simulations indicate a reversal of this behavior due to the insertion of disorder in the walker's step lengths. Additionally, we demonstrate that in the presence of an absorber, there is a speed-up in the spreading rate, and that a disordered quantum walk that is sub-ballistic regains the ballistic spreading of a clean quantum walk.

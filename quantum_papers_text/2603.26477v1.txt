@@ -1,0 +1,5 @@
+Title: Caloric Phenomena and Stirling-Cycle Performance in Heisenberg- Kitaev Magnon Systems
+Authors: Bastian Castorene, Martin HvE Groves, Francisco J. Peña, Nicolas Vidal-Silva, Miguel Letelier, Roberto E. Troncoso, Felipe Barra, Patricio Vargas
+Categories: cond-mat.stat-mech, quant-ph
+Published: 2026-03-27 14:42:12+00:00
+Abstract: We investigate the Stirling-cycle performance of a Heisenberg--Kitaev magnonic medium with Dzyaloshinskii--Moriya (DM) interactions. Using linear spin-wave theory, we show the DM interaction preserves spectral symmetry, yielding even caloric responses and symmetric Stirling engine efficiency. In contrast, bond-dependent Kitaev exchange asymmetrically distorts the magnonic density of states, enabling distinct direct and inverse caloric effects. Consequently, Kitaev-driven cycles achieve significantly higher efficiencies than DM-driven protocols, approaching a high-performance saturation regime for negative couplings. This establishes exchange-anisotropic magnets as highly tunable platforms for nanoscale solid-state energy conversion.

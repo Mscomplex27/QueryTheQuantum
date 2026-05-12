@@ -1,0 +1,5 @@
+Title: Towards spintronics via tunneling through asymmetric barriers
+Authors: Elvira Bilokon, Valeriia Bilokon, Stanislava Litvinova, Denys I. Bondar, Andrii Sotnikov
+Categories: quant-ph
+Published: 2026-03-18 18:34:30+00:00
+Abstract: Spin transport typically relies on direct manipulation of the spin degree of freedom via magnetic fields, spin-orbit coupling, or engineered spin-dependent potentials. We show theoretically that directional spin currents can arise in a relatively simple setting - a one-dimensional interacting fermionic ring with static, spin-independent asymmetric barriers. By introducing asymmetric potential barrier geometry, spin-resolved circulating currents emerge on a closed chain even for symmetric initial configurations. The effect can be enhanced or reversed by appropriate initial state preparation and tuning the barrier asymmetry to resonant conditions.

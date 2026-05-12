@@ -1,0 +1,5 @@
+Title: Dynamics of ideal quantum measurement of a spin 1 with a Curie-Weiss magnet
+Authors: Theodorus Maria Nieuwenhuizen
+Categories: quant-ph, cond-mat.other
+Published: 2026-03-07 11:29:32+00:00
+Abstract: Quantum measurement is a dynamical process of an apparatus coupled to a test system. Ideal measurement of the $z$-component of a spin-$\frac{1}{2}$ ($s_z=\pm\frac{1}{2}$) has been modeled by the Curie-Weiss model for quantum measurement. Recently, the model was generalized to higher spin and the thermodynamics was solved. Here the dynamics is considered. To this end, the dynamics for spin-$\frac{1}{2}$ case are cast in general notation. The dynamics of the measurement of the $z$-component of a spin-1 ($s_z=0,\pm 1$) are solved in detail and evaluated numerically. Energy costs of the measurement, which are macroscopic, are evaluated. Generalization to higher spin is straightforward.

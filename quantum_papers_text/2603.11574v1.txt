@@ -1,0 +1,5 @@
+Title: Surpassing Quantum Noise Limits with Nonlinear Amplification
+Authors: Ya-Long Ren, Rong-Teng Cao, Sheng-Li Ma, Ren Zhang, Fu-Li Li, Franco Nori, Peng-Bo Li
+Categories: quant-ph
+Published: 2026-03-12 05:59:24+00:00
+Abstract: Linear quantum amplifiers are indispensable tools for quantum technologies, yet their performance is fundamentally limited by quantum noise, precluding any signal-to-noise ratio (SNR) enhancement unless supplemented by post-selection or non-classical resources. To surpass this limitation, we propose a nonlinear quantum amplification strategy that exploits the interplay between a gain-stabilized bright eigenmode of a coupled two-mode bosonic system and Kerr nonlinearity. We demonstrate that this interplay enables the signal gain to surpass the noise gain in a selected quadrature, leading to a net increase in the SNR beyond the quantum limits of conventional linear amplifiers. Our work thus establishes a novel nonlinear amplification paradigm capable of enhancing the SNR, with promising applications across quantum information processing, quantum communications, and quantum metrology.

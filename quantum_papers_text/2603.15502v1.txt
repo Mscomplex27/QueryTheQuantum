@@ -1,0 +1,5 @@
+Title: Robust high-order quantum simulation using finite-width pulses
+Authors: Leeseok Kim, Milad Marvian
+Categories: quant-ph
+Published: 2026-03-16 16:31:48+00:00
+Abstract: We present a general framework for promoting first-order pulse sequences in quantum simulation to higher-order sequences that maintain robustness in the presence of finite pulse-width effects. Our approach maps a given first-order pulse sequence to a first-order Trotter formula, applies higher-order Trotter-formula constructions, and then compiles the resulting evolution back into physically implementable finite-width pulses via dynamically corrected gates. The resulting sequences achieve arbitrarily high-order error scaling with respect to the control cycle time of the underlying first-order sequence while maintaining robustness to finite pulse-width effects. The framework also enables the use of multi-product formulas for more efficient constructions. We apply the framework to several physically motivated quantum-simulation tasks and numerically verify the predicted error scalings.

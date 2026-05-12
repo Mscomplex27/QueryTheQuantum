@@ -1,0 +1,5 @@
+Title: Entanglement-Assisted Codes Outside the Stabilizer Framework
+Authors: Jaszmine DeFranco, Andrew Nemec
+Categories: quant-ph, cs.IT
+Published: 2026-03-03 17:42:12+00:00
+Abstract: We show how entanglement-assisted codes can be constructed from arbitrary quantum codes by associating them with quantum codes for erasure channels. If a subset of physical qubits is correctable for an erasure error, then it naturally forms the receiver's share of a bipartite state that can be used for entanglement-assisted communications, both in the noiseless and noisy ebit error models. In the case of degenerate codes, we show that the receiver's share of the bipartite state can sometimes be compressed, at the cost of potentially reduced error-correction ability in the noisy ebit error model. We also give examples of permutation-invariant and XP-stabilizer entanglement-assisted codes, the first outside of the stabilizer and codeword-stabilized frameworks.

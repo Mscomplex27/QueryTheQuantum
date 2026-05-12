@@ -1,0 +1,5 @@
+Title: HyQuRP: Hybrid quantum-classical neural network with rotational and permutational equivariance for 3D point clouds
+Authors: Semin Park, Chae-Yeun Park
+Categories: quant-ph, cs.LG
+Published: 2026-02-06 04:32:42+00:00
+Abstract: We introduce HyQuRP, a hybrid quantum-classical neural network equivariant to rotational and permutational symmetries. While existing equivariant quantum machine learning models often rely on ad hoc constructions, HyQuRP is built upon the formal foundations of group representation theory. In the sparse-point regime, HyQuRP consistently outperforms strong classical and quantum baselines across multiple benchmarks. For example, when six subsampled points are used, HyQuRP ($\sim$1.5K parameters) achieves 76.13% accuracy on the 5-class ModelNet benchmark, compared to approximately 71% for PointNet, PointMamba, and PointTransformer with similar parameter counts. These results highlight HyQuRP's exceptional data efficiency and suggest the potential of quantum machine learning models for processing 3D point cloud data.

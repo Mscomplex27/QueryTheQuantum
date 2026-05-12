@@ -1,0 +1,5 @@
+Title: Qubit Routing for (Almost) Free
+Authors: Arianne Meijer-van de Griend
+Categories: quant-ph, cs.CC
+Published: 2026-04-21 17:43:44+00:00
+Abstract: In this paper, we give a mathematical proof that bounds the number of CNOT gates required to synthesize an $n$ qubit phase polynomial with $g$ terms to be at least $O(\frac{gn}{\max (\log g, 1)})$ and at most $O(gn)$. However, when targeting restricted hardware, not all CNOTs are allowed. If we were to use SWAP-based methods to route the qubits on the architecture such that the earlier synthesized gates are natively allowed, we increase the number of CNOTs by a routing overhead factor of $O(\log n) \leq α\leq O(n \log^2 n)$. However, if we only synthesize allowed gates, we do not need to route any qubits. Moreover, in that case the routing overhead factor is $1 \leq α\leq 4 \simeq O(1)$. Additionally, since phase polynomials and Hadamard gates together form a universal gate set, we get qubit routing for almost free.

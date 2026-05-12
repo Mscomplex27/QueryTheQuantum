@@ -1,0 +1,5 @@
+Title: Wandering range of robust quantum symmetries
+Authors: Daniel Burgarth, Paolo Facchi, Marilena Ligabò, Vito Viesti, Kazuya Yuasa
+Categories: quant-ph, math-ph
+Published: 2026-04-15 14:01:45+00:00
+Abstract: This paper introduces the concept of the wandering range of a robust symmetry $S$ of a Hamiltonian $H$. This quantity measures how the perturbed time evolution $\mathrm{e}^{\mathrm{i}t(H+\varepsilon V)} S \mathrm{e}^{-\mathrm{i} t(H+\varepsilon V)}$ deviates from its unperturbed counterpart $\mathrm{e}^{\mathrm{i} tH} S\mathrm{e}^{-\mathrm{i} tH} = S$. Although the wandering range does not necessarily scale linearly with the perturbation strength $\varepsilon$, we identify conditions under which this linear behavior is recovered and we obtain explicit nonperturbative bounds.

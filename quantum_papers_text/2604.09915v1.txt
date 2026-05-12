@@ -1,0 +1,5 @@
+Title: Phase-enhanced excitations in pumped collective nuclear systems
+Authors: Mihai A. Macovei, Fabian Richter, Adriana Pálffy
+Categories: quant-ph
+Published: 2026-04-10 21:19:05+00:00
+Abstract: The quantum dynamics of an externally driven ensemble of nuclear two-level systems embedded in a leaky broadband cavity is investigated theoretically. In the considered scenario both the nuclear ensemble and the cavity mode are coherently pumped by two externally applied x-ray electromagnetic fields. When the frequencies of the applied coherent fields are identical, cross-correlations among the existing decay channels increase the nuclear excitation probabilities depending on the phase difference of the applied fields. Our results show that the excited state of the nuclear ensemble may exhibit sub- to super-Poissonian nuclear statistics, demonstrating induced correlations during photon absorption or emission processes. The role of cross-correlations for the superradiant decay and the collective Lamb shift of the ensemble is also investigated.

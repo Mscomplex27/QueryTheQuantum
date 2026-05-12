@@ -1,0 +1,5 @@
+Title: A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver
+Authors: Ashutosh P. Tripathi, Nilmani Mathur, Vikram Tripathi
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-02-19 18:59:36+00:00
+Abstract: The Variational Quantum Eigensolver (VQE) is a leading hybrid quantum-classical algorithm for simulating many-body systems in the NISQ era. Its effectiveness, however, depends on the faithful preparation of eigenstates, which becomes challenging in degenerate and strongly entangled regimes. We study this problem using the transverse-field Ising model (TFIM) with periodic boundary conditions in one, two, and three dimensions, considering systems of up to 27 qubits. We employ different ansatzes: the hardware-efficient EfficientSU2 from Qiskit, the physics-inspired Hamiltonian Variational Ansatz (HVA) and HVA with symmetry breaking, and benchmark their performance using energy variance, entanglement entropy, spin correlations, and magnetization.

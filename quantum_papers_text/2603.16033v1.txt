@@ -1,0 +1,5 @@
+Title: Summary overview of present state of basic electrostatic field electron emission theory
+Authors: Richard G. Forbes
+Categories: cond-mat.mes-hall, cond-mat.mtrl-sci, quant-ph
+Published: 2026-03-17 00:40:29+00:00
+Abstract: This technical note provides a high-level overview of the present state of basic field electron emission (FE) theory, as suitable for use in the context of technological applications of FE theory. At present there is much theoretical confusion in FE literature, and a partial breakdown of the peer review system. Even in sensitive technological contexts, many papers have stated and used out-of-date theory that makes current-density predictions that are several hundred times less than those of modern FE theory. A primary aim of this note is to help reduce the confusion and error in future published FE literature. It is not intended as a detailed review of FE theory.

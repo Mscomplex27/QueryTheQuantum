@@ -1,0 +1,5 @@
+Title: Quantum Uncertainty and Entropy
+Authors: Giovanni Chesi, Lorenzo Maccone
+Categories: quant-ph
+Published: 2026-04-10 14:53:37+00:00
+Abstract: We review the plethora of uncertainty relations that appear in quantum mechanics and their nuances. We present both foundational applications, e.g. in understanding and defining complementarity, and practical applications, e.g. in quantum metrology and cryptography. Both variance- and entropy-based uncertainties are covered here.

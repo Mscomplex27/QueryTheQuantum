@@ -1,0 +1,5 @@
+Title: A Chip-Scale Transmitter Module for Real-Time Continuous-Variable QKD
+Authors: Igor Servello, Martin Hauer, Moritz Baier, Emmeran Sollner, Peter Gleißner, Sebastian Randel, Ulrich Eismann, Emanuel Eichhammer, Imran Khan
+Categories: quant-ph, physics.optics
+Published: 2026-03-13 18:02:09+00:00
+Abstract: Continuous-variable quantum key distribution (CV-QKD) enables secure communication over standard telecom infrastructure, yet its scaling is stalled by bulky, discrete optical hardware. We address this bottleneck by demonstrating a real-time CV-QKD system driven by a chip-scale hybrid transmitter built from commercial telecom components. By integrating a micro-optic external-cavity laser with a monolithic photonic integrated IQ modulator, we provide high performance, enabling secret-key generation over 102 km of optical fiber, while reducing the size of the optics by 95%. Moreover, real-time operation overcomes the offline post-processing bottlenecks of experimental setups. This work bridges laboratory demonstrations and field-deployable technology, with a scalable architecture for cost-effective quantum networks.

@@ -1,0 +1,5 @@
+Title: Sequence and Image Transformations with Monarq: Quantum Implementations for NISQ Devices
+Authors: Jan Balewski, Roel Van Beeumen, E. Wes Bethel, Talita Perciano
+Categories: quant-ph
+Published: 2026-03-03 23:19:34+00:00
+Abstract: We introduce Monarq, a unified quantum data processing framework that combines QCrank encoding with the EHands protocol for polynomial transformations, and demonstrate its implementation on noisy intermediate-scale quantum (NISQ) hardware. This framework provides fundamental quantum building blocks for signal and image processing tasks, including convolution, discrete-time Fourier transform (DFT), squared gradient computation, and edge detection, serving as a reference for a broad class of data processing applications on near-term quantum devices.

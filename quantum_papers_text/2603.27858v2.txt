@@ -1,0 +1,5 @@
+Title: Exponentially cheaper coherent phase estimation via uncontrolled unitaries
+Authors: Mirko Amico
+Categories: quant-ph
+Published: 2026-03-29 20:27:18+00:00
+Abstract: Phase kickback is a fundamental primitive that is used in many quantum algorithms, such as quantum phase estimation. Here we observe that by using information about the controlled unitary, we can replace the controlled unitary with an uncontrolled one at the cost of introducing controlled state preparations. We then show how this modified phase kickback can be used as part of the quantum phase estimation algorithm when the goal is to estimate the phase of an eigenstate whose preparation procedure is known. We prove that this yields an exponential reduction in the number of two-qubit gates for an m-bit phase estimation in the relevant limit. Examples of applications are also presented. Naturally, this can be adapted to any algorithm that uses the phase kickback phenomenon and satisfies the assumptions.

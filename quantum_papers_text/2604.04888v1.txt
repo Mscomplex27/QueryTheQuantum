@@ -1,0 +1,5 @@
+Title: Cloning Encrypted Quantum States in Arbitrary Dimensions
+Authors: Filip-Ioan Ceară
+Categories: quant-ph
+Published: 2026-04-06 17:37:05+00:00
+Abstract: Recently, Yamaguchi and Kempf [Phys. Rev. Lett. 136:010801, arXiv:2501.02757] proved that encrypted qubits can be cloned. In this work, we generalize the encrypted cloning protocol and prove that it also applies to higher-order quantum systems. Given that a straightforward generalization of the protocol using the exponential of the shift and phase operators fails to satisfy the unitary requirement for a quantum gate, we propose a different approach. We introduce a new operator to be used in the encryption process and show that it is unitary. We adapt the decryption operator from the reference paper to fit in the framework of multi-level quantum systems. We analyze the circuit implementation of the proposed operators and show that the overhead imposed by larger dimensions scales linearly with qudit dimension.

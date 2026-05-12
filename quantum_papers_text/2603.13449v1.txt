@@ -1,0 +1,5 @@
+Title: Zeeman effect in hydrogen treated in classical physics with classical zero-point radiation
+Authors: Timothy H. Boyer
+Categories: physics.class-ph, quant-ph
+Published: 2026-03-13 13:59:54+00:00
+Abstract: The Zeeman effect for the low resonant energy states of hydrogen is treated with classical electrodynamics including classical zero-point radiation. The electron is regarded as a classical charged particle in a Coulomb potential. The "space quantization" of old quantum theory, the Sommerfeld relativistic result, and the Stern-Gerlach experiment are all considered.

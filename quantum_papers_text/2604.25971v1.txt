@@ -1,0 +1,5 @@
+Title: A Lie-algebraic Criterion for the Universality of Exponentiated Quantum Gates
+Authors: Yinuo Xue, Qian Chen, Jing-Song Huang
+Categories: quant-ph
+Published: 2026-04-28 07:36:28+00:00
+Abstract: We present a criterion that serves as the basis for a polynomial-time algorithm to decide whether a finite set of qudit gates exponentiated by some Hamiltonians is universal. Our approach formulates universality in Lie algebraic terms and applies Borel--de Siebenthal theory with a diagonal generator having incommensurate spectrum. In this framework, nonuniversality is detected by invariant subspaces, equivalently by a graph-connectivity obstruction, while universality is repaired by adding generators that couple disconnected components. We further prove that two generators are sufficient for universal control. Our work reveals a profound link between qudit universality and irreducibility of Lie algebra representations.

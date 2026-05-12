@@ -1,0 +1,7 @@
+Title: Partial majorization and Schur concave functions on the sets of quantum and classical states
+Authors: M. E. Shirokov
+Categories: quant-ph, cs.IT, math-ph
+Published: 2026-04-14 17:59:12+00:00
+Abstract: We construct for a Schur concave function $f$ on the set of quantum states a tight upper bound on the difference $f(ρ)-f(σ)$ for a quantum state $ρ$ with finite $f(ρ)$ and any quantum state $σ$ $m$-partially majorized by the state $ρ$ in the sense described in [1]. We also obtain a tight upper bound on this difference under the additional condition $\frac{1}{2}\|ρ-σ\|_1\leq\varepsilon$ and find simple sufficient conditions for vanishing this bound with $\,\min\{\varepsilon,1/m\}\to0\,$.
+  The obtained results are applied to the von Neumann entropy. The concept of $\varepsilon$-sufficient majorization rank of a quantum state with finite entropy is introduced and a tight upper bound on this quantity is derived and applied to the Gibbs states of a quantum oscillator.
+  We also show how the obtained results can be reformulated for Schur concave functions on the set of probability distributions with a finite or countable set of outcomes.

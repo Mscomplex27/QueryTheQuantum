@@ -1,0 +1,5 @@
+Title: Pointwise mutual information bounded by stochastic Fisher information
+Authors: Pedro B. Melo
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-13 02:09:59+00:00
+Abstract: We derive general upper bounds to pointwise mutual information in terms of stochastic Fisher information and show these bounds average to known results in the literature for bounds to mutual information in terms of Fisher information. These results deepen the connection between information-theoretical quantities and are shown to hold in general cases. We test the bounds in classical systems and provide a quantum generalization. Our results are useful for stochastic dynamics, quantum sensing and quantum communication, providing a less costly way to realize and saturate the bounds.

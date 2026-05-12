@@ -1,0 +1,5 @@
+Title: Comment on "Relativistic covariance and nonlinear quantum mechanics: Tomonaga-Schwinger analysis''
+Authors: Lajos Diósi
+Categories: quant-ph
+Published: 2026-02-06 16:36:29+00:00
+Abstract: Contrary to the central claim (Hsu, 2026) published in Physics Letters B, the Tomonaga--Schwinger equation remains covariant despite the nonlinear modification of it. The proof of covariance becomes simple after the loopholes and mistakes in Hsu's arguments are identified.

@@ -1,0 +1,5 @@
+Title: Optimised Inference of Quantum Phenomena in High-Energy Collider Experiments
+Authors: Hai-Chau Nguyen, Gilberto Tetlalmatzi-Xolocotzi, Carmen Diez Pardos, Otfried Gühne, Matthias Kleinmann
+Categories: hep-ph, hep-ex, quant-ph
+Published: 2026-04-29 19:30:05+00:00
+Abstract: Entanglement, a fundamental phenomenon of quantum theory, has recently been observed in processes in high-energy physics. This opens new avenues for probing quantum effects in relativistic regimes, but also poses conceptual and technical challenges. We develop a general framework based on shadow tomography techniques for characterising spin-spin correlations in collider experiments. This improves the analysis of spin-spin entanglement, where relativistic motion couples spin and momentum and the momenta of the investigated particles are not under experimental control. As a proof of concept we illustrate the application of our formalism to top quark pair production at the Large Hadron Collider at CERN. The framework, however, is general and flexible and can be readily applied to more complex final states and systems with more particles.

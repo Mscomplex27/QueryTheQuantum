@@ -1,0 +1,5 @@
+Title: A Nonequilibrium Equation of State for a Turbulent 2D Bose Gas
+Authors: Yi Jiang, Nikolai Maslov, Andrey Karailiev, Christoph Eigen, Martin Gazo, Zoran Hadzibabic
+Categories: cond-mat.quant-gas, cond-mat.stat-mech, physics.atom-ph, quant-ph
+Published: 2026-02-05 19:05:17+00:00
+Abstract: Nonequilibrium equations of state can provide an effective thermodynamic-like description of far-from-equilibrium systems. We experimentally construct such an equation for a direct energy cascade in a turbulent two-dimensional Bose gas. Our homogeneous gas is continuously driven on a large length scale and, with matching dissipation on a small length scale, exhibits a nonthermal but stationary power-law momentum distribution. Our equation of state links the cascade amplitude with the underlying scale-invariant energy flux, and can, for different drive strengths, gas densities, and interaction strengths, be recast into a universal power-law form using scalings consistent with the Gross-Pitaevskii model.

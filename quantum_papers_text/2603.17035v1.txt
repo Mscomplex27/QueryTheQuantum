@@ -1,0 +1,5 @@
+Title: Dissipative adaptation in a driven spin-boson model within the path-integral formalism
+Authors: Elisa Iahn Goettems, Ricardo J. S. Afonso, Diogo O. Soares-Pinto, Daniel Valente
+Categories: quant-ph
+Published: 2026-03-17 18:16:30+00:00
+Abstract: We investigate the dissipative adaptation hypothesis in a quantum regime using a system-reservoir approach. This hypothesis proposes that self-organization arises from a system's ability to dissipate the work transiently absorbed from an external drive. We analyze the quantum dynamics of a driven open system described by a time-dependent spin-boson Hamiltonian modeling a particle in a metastable double-well potential with controllable asymmetry. We explore how the work provided by the dynamic potential is related to the transition probability between the two ground states of the double well. These studies motivate further investigations of the driven spin-boson model toward an understanding of the system's evolution and its thermodynamic implications.

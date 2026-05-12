@@ -1,0 +1,5 @@
+Title: Climbing the Clifford Hierarchy
+Authors: Luca Bastioni, Samuel Glandon, Tefjol Pllaha, Madison Stewart, Phillip Waitkevich
+Categories: quant-ph
+Published: 2026-03-12 15:56:43+00:00
+Abstract: The Clifford Hierarchy has been a central topic in quantum computation due to its strong connections with fault-tolerant quantum computation, magic state distillation, and more. Nevertheless, only sections of the hierarchy are fully understood, such as diagonal gates and third level gates. The diagonal part of the hierarchy can be climbed by taking square roots and adding controls. Similarly, square roots of Pauli gates (first level) are Clifford gates (climb to the second level). Based on this theme, we study gates whose square roots climb to the next level. In particular, we fully characterize Clifford gates whose square roots climb to the third level.

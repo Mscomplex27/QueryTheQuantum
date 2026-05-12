@@ -1,0 +1,5 @@
+Title: Cryptographic Fragility of Standard Quantum Repeater Protocols
+Authors: Abhishek Sadhu, Sharu Theresa Jose
+Categories: quant-ph
+Published: 2026-02-26 14:30:03+00:00
+Abstract: The security of the proposed quantum Internet relies on repeater protocols designed under the assumption of stochastic, characterizable noise. We demonstrate that in adversarial environments this assumption induces performance vulnerabilities for computationally bounded repeater nodes. We show that the standard BBPSSW distillation protocol recursively purifies error syndromes rather than entanglement. This leads to a state of low fidelity despite diagnostic metrics indicating perfect convergence. Moreover, we show that the verifier cannot check the adversarial influence via the maximum likelihood estimation algorithm since it is blind to computationally bounded observers. To address these vulnerabilities, we propose a Cryptographic Network Stack centered on a trapdoor verification protocol. The protocol exploits private randomness to restore operational stability without requiring channel characterization.

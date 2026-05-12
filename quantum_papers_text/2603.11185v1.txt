@@ -1,0 +1,5 @@
+Title: Engineering Higher-order Effective Hamiltonians
+Authors: Jiahui Chen, David Cory
+Categories: quant-ph
+Published: 2026-03-11 18:00:19+00:00
+Abstract: Advancing quantum technologies requires precise and robust coherent control of quantum systems. Robust higher-order Hamiltonian engineering is essential for high-precision control and for accessing effective dynamics absent at zeroth order. Here, we introduce a systematic methodology for achieving the precision, robustness, and complexity required for quantum control through the engineering of higher-order processes and effective Hamiltonians. We identify the minimal subspace of achievable effective Hamiltonian at each order and provide universal cost functions for achieving desired targets. Examples include robust sequences for decoupling, three-body interactions and detuning/interaction correlations.

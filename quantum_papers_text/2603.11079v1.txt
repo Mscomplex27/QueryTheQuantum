@@ -1,0 +1,5 @@
+Title: Quantum batteries and time dilation
+Authors: Esteban Martínez-Vargas
+Categories: quant-ph
+Published: 2026-03-10 22:07:00+00:00
+Abstract: Is spacetime fundamental or can it be derived through quantum interactions? We propose here a way to describe time dilation solely from quantum mechanics. First we start by observing that any operational notion of time must imply some sort of regular motion and, crucially, some sort of memory. Thus the clock model we use here is a simple example of a quantum memory: a charging battery. We describe here the charging of such batteries with quantum open dynamics. The expected value of these batteries grow linearly in time like $\varphi t$. The open dynamics is dependent on an auxiliar state $σ$. Therefore, with a different auxiliar state we have a different $\varphi$. We can describe time dilation and thus a metric this way. We exemplify with a black hole metric.

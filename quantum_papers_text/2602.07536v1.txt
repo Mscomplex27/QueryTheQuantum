@@ -1,0 +1,5 @@
+Title: Characterization of Autofluorescence in Optical Fibers for NV-based Sensing Applications
+Authors: Stefan Johansson, Alexander Bukschat, Dennis Lönard, Alena Erlenbach, Jonas Gutsche, Artur Widera
+Categories: quant-ph, physics.optics
+Published: 2026-02-07 13:19:58+00:00
+Abstract: Optical fibers are crucial for guiding light in various sensing applications. Especially for quantum sensors such as the nitrogen-vacancy (NV) center in diamond, they enable light control and device miniaturization. However, fluorescence and scattering within the fiber, often referred to as fiber background, autofluorescence, or autoluminescence, can overlap spectrally with the NV centers' fluorescence, degrading the signal-to-noise ratio and thus limiting sensor sensitivity. Here, we investigate the optical spectra of standard optical fibers, considering material dependencies, physical influences, and their fluorescence scaling with excitation power and wavelength. Our results identify spectral components and fiber types with minimal unwanted background signals, guiding the selection of optimal fibers for NV-based quantum sensing.

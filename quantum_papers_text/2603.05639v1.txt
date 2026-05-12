@@ -1,0 +1,5 @@
+Title: Quantum Wavemetry via the Mth-Power Unitary of a Mach-Zehnder Interferometer
+Authors: B. S. Ham
+Categories: quant-ph
+Published: 2026-03-05 19:50:39+00:00
+Abstract: A quantum wavemetry scheme based on the coherence de Broglie wavelength (CBW) is proposed using an M coupled Mach Zehnder interferometer (MZI) architecture to achieve superresolution sensing and metrology. Although CBW does not attain the Heisenberg limit, it circumvents the key practical limitations of N00N state based quantum sensing, including restricted photon number N, reduced fringe visibility, and strong susceptibility to photon loss. The CBW approach enables loss tolerant operation with arbitrarily large M, while maintaining near unity fringe visibility. Fully compatible with coherence optics, the CBW scheme can be directly integrated into conventional wavemetry systems, providing both superresolution and enhanced sensitivity. A proof of principle experiment demonstrating CBW based superresolution is implemented using a Sagnac integrated round trip MZI structure for M=2, validating the feasibility of the proposed quantum wavemetry design.

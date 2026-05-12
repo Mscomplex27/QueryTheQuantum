@@ -1,0 +1,5 @@
+Title: Device-independent quantum cryptography with input leakage
+Authors: Víctor Zapatero, Marcos Curty
+Categories: quant-ph
+Published: 2026-04-22 13:52:34+00:00
+Abstract: Device-independence is the gold standard of quantum cryptography. To meet this standard, a central assumption is that no information leakage occurs during protocol execution. We relax this assumption by analyzing CHSH-based randomness certification and key distribution with partial leakage of the inputs, modeled in terms of a noisy channel. Our results quantify the certifiable local randomness and the secret key rate as a function of the magnitude of the input leakage.

@@ -1,0 +1,5 @@
+Title: Enhanced security in Quantum Token protocols using Hybrid Spin-Photon Interfaces
+Authors: Durga Bhaktavatsala Rao Dasari, Yang Wang, Jörg Wrachtrup
+Categories: quant-ph
+Published: 2026-03-10 10:31:05+00:00
+Abstract: Quantum token protocols enable unforgeable quantum tokens promising unconditional security beyond classical cryptographic assumptions. We show here that the three stages of the Quantum token protocols involving the preparation, storage and verification can be made more secure when involving spin-photon interfaces that leverage high fidelity hybrid tripartite (spin-photon-spin) entanglement, Bell state measurements and highly coherent spin quantum memories. Further we describe the physical implementation of various stages of the protocol using the hybrid electron and nuclear spins in diamond interfaced with time-bin photons.

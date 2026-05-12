@@ -1,0 +1,5 @@
+Title: Enhanced quantum violation of a non-contextual inequality and witnessing quantum dimension
+Authors: Ritwija Roy, Anindya Biswas
+Categories: quant-ph
+Published: 2026-03-27 06:17:41+00:00
+Abstract: We consider a non-contextual inequality in the sequential measurement scenario and derive the optimal quantum violation of it without assuming the dimension of the system. Since the measurement is dichotomic and the dimension of the quantum system is arbitrary, we formulate the concept of degeneracy-breaking (DB) measurement depending on how many projectors are being used in the sequential measurement. We demonstrate that by increasing the number of projectors involved in the sequential measurement (thereby making the measurement more degeneracy breaking) the quantum violation of non-contextual inequality can be enhanced and can even reach up to its algebraic maximum. We demonstrate that the optimal quantum violations for different number of projectors serves as a quantum dimension witness.

@@ -1,0 +1,5 @@
+Title: Probing Electrostatic Disorder via g-Tensor Geometry
+Authors: Edmondo Valvo, Christian Ventura-Meinersen, Michele Jakob, Stefano Bosco, Tereza Vakhtel, Maximilian Rimbach-Russ
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-04-10 16:34:34+00:00
+Abstract: Low-frequency charge noise induced by fluctuating electrostatic disorder is a major limitation for semiconductor hole spin qubits. Here, we analyze the quasistatic response of a hole spin qubit to individual two-level fluctuators (TLFs). We show that, due to the anisotropy of the g-tensor, the qubit response depends on the geometry of the fluctuator-induced dipolar perturbation. We then propose a readout protocol that isolates selected g-tensor components through an accumulated Berry phase and estimate, within our readout model, an order-unity signal-to-noise ratio with a total protocol time in the tens of microseconds. Finally, using microscopic simulations, we compute the quantum Fisher information (QFI) to identify magnetic field directions and confinement regimes in which the qubit is most sensitive to disorder-induced variations of selected g-tensor components.

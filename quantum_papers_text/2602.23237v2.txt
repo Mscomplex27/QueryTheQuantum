@@ -1,0 +1,5 @@
+Title: Polarization-selective quantum cooperative response in dual-species atom arrays
+Authors: Huan Wang, Shangguo Zhu, Yun Long, Fei Zhang, Yinghui Guo, Mingbo Pu, Xiangang Luo
+Categories: quant-ph, cond-mat.quant-gas, physics.atom-ph, physics.optics
+Published: 2026-02-26 17:12:54+00:00
+Abstract: Atom arrays have emerged as a powerful platform for quantum light-matter interfaces, yet single-species arrays are constrained by in-plane symmetry, restricting polarization control. Here we investigate the cooperative optical response of dual-species subwavelength atom arrays, in which intrinsic polarizability difference breaks in-plane symmetry. By engineering the lattice constants and detunings, the arrays exhibit polarization-dependent subradiant modes, enabling complete reflection of a specific polarization component. Leveraging this mechanism, we assemble array units as functional pixels and demonstrate a scalable polarization-selective quantum light modulator. Our work establishes a dynamically reconfigurable atomic-photonic platform for versatile subwavelength quantum optical elements.

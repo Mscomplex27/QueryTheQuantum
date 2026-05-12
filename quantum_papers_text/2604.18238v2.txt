@@ -1,0 +1,5 @@
+Title: Equivalence of Local Dynamical Hidden-Variable Models to Static Bell Locality
+Authors: Ming Yang
+Categories: quant-ph
+Published: 2026-04-20 13:23:09+00:00
+Abstract: Bell's theorem establishes a fundamental incompatibility between quantum mechanics and local realism. However, persistent physical intuition suggests that local dynamical evolution or measurement-induced disturbances of hidden variables might bypass this constraint. We establish a generalized transition-kernel framework encompassing arbitrary local dynamics and rigorously prove a collapse theorem: any strictly local dynamical model is mathematically isomorphic to a static Bell model. We reveal that attempts to circumvent this equivalence--including historical temporal models and recent macroscopic pilot-wave hydrodynamic analogs--inevitably harbor explicit nonlocality (parameter dependence) or forfeit measurement independence. Our results establish a universal boundary: nonlocal statistical correlations can never be synthesized by purely local dynamical complexity.

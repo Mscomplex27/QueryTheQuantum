@@ -1,0 +1,5 @@
+Title: Clifford synthesis via generalized S and CZ gates
+Authors: Vadym Kliuchnikov, Marcus P. da Silva
+Categories: quant-ph
+Published: 2026-03-25 18:54:46+00:00
+Abstract: We show that any $n$-qubit Clifford unitary can be implemented using at most $2n$ multi-qubit joint measurements. All the multi-qubit joint measurements used for implementing the Clifford unitary can be chosen to form at most two sets of independent mutually-commuting measurements. Each of these sets is of size at most $n$. This enables very flexible space-time trade-offs when implementing Clifford unitaries. We also discuss a version of the result that relies on multi-target CNOTs and is more relevant for targeting fault-tolerant hardware based on Quantum LDPC codes.

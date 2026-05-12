@@ -1,0 +1,5 @@
+Title: Parameter-optimal unitary synthesis with flag decompositions
+Authors: Korbinian Kottmann, David Wierichs, Guillermo Alonso-Linaje, Nathan Killoran
+Categories: quant-ph
+Published: 2026-03-20 18:00:06+00:00
+Abstract: We introduce the flag decomposition as a central tool for unitary synthesis. It lets us carve out a diagonal unitary with $2^n$ degrees of freedom in such a way that the remaining flag circuit is parametrized by the optimal number of $4^n-2^n$ rotations. This enables us to produce parameter-optimal quantum circuits for generic unitaries and matrix product state preparation. Our approach improves upon the state of the art, both when compiling down to the {Clifford + Rot} gate set with what we call selective de-multiplexing, and when using phase gradient resource states together with quantum arithmetic to implement multiplexed rotations. All of our synthesis methods are efficiently implementable in terms of recursive Cartan decompositions realized by standard linear algebra routines, making them applicable to all practically relevant system sizes.

@@ -1,0 +1,5 @@
+Title: Incoherence-assisted mode excitation in non-Hermitian resonant systems
+Authors: Amin Hashemi, Vinzenz Zimmermann, Armando Perez-Leija, Andrea Blanco-Redondo
+Categories: physics.optics, quant-ph
+Published: 2026-04-16 21:57:33+00:00
+Abstract: We introduce and experimentally demonstrate an approach for selective mode excitation in non-Hermitian resonant systems using incoherent light. This method eliminates the need for precise phase control that is often required in coherent excitation schemes. Using this technique on a silicon photonic platform with coupled ring resonators, we successfully excite the topological edge state of a non-Hermitian Su-Schrieffer-Heeger (SSH) model. Our work shows that incoherence-assisted excitation is a robust and passive strategy for topological state preparation, which broadens the scope of non-Hermitian topological photonics thereby providing a practical and experimentally viable tool for selective mode excitation.

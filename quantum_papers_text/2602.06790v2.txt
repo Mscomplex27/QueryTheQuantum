@@ -1,0 +1,5 @@
+Title: Heralding efficiency and brightness optimization of a micro-ring resonator via tunable coupling
+Authors: Nathan Moses, Marcus J. Clark, Alex S. Clark, Siddarth K. Joshi, Imad I. Faruque
+Categories: quant-ph
+Published: 2026-02-06 15:50:33+00:00
+Abstract: Efficient and bright single photon sources on photonic chips are key to scaling quantum technologies. Spontaneous four wave mixing in micro-ring resonators creates excellent narrowband and tunable photon sources. We experimentally demonstrate the optimization of heralding efficiency and brightness by tuning the coupling of the pump, signal and idler modes into the resonator whilst operating in a pulsed pump regime. We observe a maximum detected pair rate of over 93,000~coincidences per second in a moderately over-coupled regime, alongside a high intrinsic idler heralding efficiency of 97.87$\pm$8.97\% when operating close to maximal over-coupling. The measured dependence on coupling strength is in strong agreement with theoretical predictions, experimentally validating the predicted trade-off between brightness and heralding efficiency.

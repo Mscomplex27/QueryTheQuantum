@@ -1,0 +1,5 @@
+Title: Stabilization of bulk quantum orders in finite Rydberg atom arrays
+Authors: Yash M. Lokare, Matthew J. Coley-O'Rourke
+Categories: cond-mat.quant-gas, physics.atom-ph, quant-ph
+Published: 2026-04-20 22:21:24+00:00
+Abstract: Arrays of ultracold neutral atoms, also known as Rydberg atom arrays, are rapidly developing into a powerful and versatile platform for quantum simulation. However, theoretical predictions about the bulk quantum phases of matter present in these systems have often diverged from experimental realizations on finite-sized arrays due to the strong effects of the boundaries. Here we propose a general, experimentally straightforward strategy to mitigate the effects of the boundaries and thus enable finite-sized arrays to stabilize bulk-like quantum order. Our scheme makes use of the properties of the ubiquitous disordered phase in Rydberg systems, driving the boundaries into an unbiased set of configurations that depend on the bulk physics. We numerically demonstrate the efficacy of this protocol in one- and two-dimensional systems on both ordered and critical phases.

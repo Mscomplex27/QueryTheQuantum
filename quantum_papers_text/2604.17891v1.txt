@@ -1,0 +1,5 @@
+Title: Numerical simulation methods for quantum sensing at parametric criticality
+Authors: Kirill Petrovnin, Jiaming Wang, Gheorghe Sorin Paraoanu
+Categories: quant-ph
+Published: 2026-04-20 07:04:06+00:00
+Abstract: Microwave photon detection is a key technology for low-temperature superconducting electronics and quantum information processing. A promising possibility is to use switching processes in parametric superconducting devices at criticality, which can be triggered by small perturbations. Here we demonstrate the unique sensing properties of the superconducting Kerr parametric resonator when operated in the proximity of the phase transition boundary. We utilize a semiclassical approximation to provide numerical and analytical results for the Heisenberg-Langevin and Fokker-Planck equations that describe the switching mechanism. We show that the probability of switching events is enhanced by probe input states with energies down to single quanta levels.

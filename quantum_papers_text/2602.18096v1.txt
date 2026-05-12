@@ -1,0 +1,5 @@
+Title: Pulsed coherent spectroscopy of a quantum emitter in hexagonal Boron Nitride
+Authors: Jake Horder, Hugo Quard, Kenji Watanabe, Takashi Taniguchi, Nathan Coste, Igor Aharonovich
+Categories: quant-ph
+Published: 2026-02-20 09:35:51+00:00
+Abstract: Defects in solid-state systems constitute a promising platform for the realization of deterministic quantum emitters. Among many candidate materials and emitters, point defects in hexagonal Boron Nitride (hBN) have recently emerged as particularly promising. In this work, we probe the coherence of an individual B center with a zero phonon line at 436 nm, under pulsed resonant excitation. We observe power-dependent Rabi oscillations up to 5π, demonstrating optical coherent control of the transition. We achieve an excellent single photon purity of 93% at π-pulse. Furthermore, we probe the coherence of the two-level system using Ramsey interferometry, revealing an inhomogeneous coherence time of T_2*=0.60 ns. These results establish B centers in hBN as viable candidates for triggered, coherent quantum emitters and represent an important step towards their integration into quantum photonic platforms.

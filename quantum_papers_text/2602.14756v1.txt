@@ -1,0 +1,5 @@
+Title: Multi-level spectral navigation with geometric diabatic-adiabatic control
+Authors: Christian Ventura-Meinersen, Edmondo Valvo, Stefano Bosco, Maximilian Rimbach-Russ
+Categories: quant-ph
+Published: 2026-02-16 14:01:15+00:00
+Abstract: We introduce a geometric framework for efficient few-parameter pulse optimization in multi-level quantum systems, enabling high-fidelity state transfer beyond the adiabatic limit. Our method interpolates smoothly between adiabatic and diabatic dynamics to minimize unwanted excitations and maximize desired transitions even within a multi-level structure. Crucially, for single-parameter pulse control, the optimization reduces to solving a first-order ordinary differential equation. We showcase the flexibility of our diabatic-adiabatic protocols through two examples in spin-based quantum information processing: state initialization and qubit state transfer.

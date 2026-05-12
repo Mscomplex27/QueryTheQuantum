@@ -1,0 +1,5 @@
+Title: Quantum tomography of $H \to ZZ, WW$ beyond leading order
+Authors: J. A. Aguilar-Saavedra, Pier Paolo Giardino
+Categories: hep-ph, hep-ex, quant-ph
+Published: 2026-03-11 20:27:35+00:00
+Abstract: We revisit quantum tomography of $H \to ZZ$ and $H \to WW$ in the presence of higher-order corrections. We verify that neither the use of an effective spin analysing power (only for $ZZ$) or a photon veto are sufficient to render the naively-constructed spin density operators physical. A subtraction of higher-order corrections is thus necessary to perform consistent quantum tomography. Such corrections are small when compared to expected experimental uncertainties with current data. As a by-product, we point out the striking possibility to observe parity-violating effects in $H \to WW$.

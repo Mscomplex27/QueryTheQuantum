@@ -1,0 +1,5 @@
+Title: Adaptive Negativity Estimation via Collective Measurements
+Authors: Martin Zeman, Vojtěch Trávníček, Antonín Černoch, Jan Soubusta, Karel Lemr
+Categories: quant-ph
+Published: 2026-03-26 15:31:35+00:00
+Abstract: This paper explores an efficient method for entanglement quantification in two-qubit and qubit-qutrit quantum systems based upon the framework of collective measurements in conjunction with machine learning. We introduce an adaptive measurement procedure in which measurement settings are dynamically adjusted based on prior measurement outcomes aiming to optimize the inference precision given a limited number of these measurement settings. The procedure makes use of the Long Short-Term Memory networks to recurrently process collective measurements on two copies of the investigated states. Obtained results demonstrate the tangible benefits of the adaptive measurements in comparison to previously described non-adaptive strategies.

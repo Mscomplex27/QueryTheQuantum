@@ -1,0 +1,5 @@
+Title: Wavefunction Collapse in String Theory
+Authors: Nissan Itzhaki
+Categories: hep-th, quant-ph
+Published: 2026-03-25 15:36:41+00:00
+Abstract: One of the most intriguing proposals for wavefunction collapse is the Diosi Penrose model, in which collapse is driven by stochastic fluctuations of the Newtonian potential. We argue that a closely related effective structure can emerge in string theory if, as recently suggested, the present cosmic acceleration is sourced by instant folded strings and their decay products. A key difference, however, is that in this stringy setting the noise is naturally colored in time rather than white. As a result, the scenario is significantly less constrained by existing experiments than the standard Diosi Penrose model.

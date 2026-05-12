@@ -1,0 +1,5 @@
+Title: An Undergraduate Course in Quantum Computing
+Authors: Peter Young
+Categories: quant-ph
+Published: 2026-04-12 01:06:49+00:00
+Abstract: This is the text for a one quarter or one semester undergraduate course on quantum computing that has been given at the University of California Santa Cruz. It is intended for students in the physical sciences who have already studied linear algebra (though a review of this topic is given in the course). No prior knowledge of quantum mechanics is required. The most important topics covered are Shor's algorithm and an introduction to quantum error correction. Most of the text is a build-up to these topics.

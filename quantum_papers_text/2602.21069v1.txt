@@ -1,0 +1,5 @@
+Title: Quantum Coherence of Top Quark Pairs Produced at LHC
+Authors: Saeed Haddadi, Majid Azizi, Artur Czerwinski
+Categories: hep-ph, quant-ph
+Published: 2026-02-24 16:29:50+00:00
+Abstract: We study quantum coherence in top-antitop production at the LHC by comparing Standard Model predictions with CMS data across different kinematic regimes. Theory and experiment are statistically consistent in the near-threshold and boosted central regions, confirming that the spin-density framework captures the dominant helicity-interference structure. The intermediate-mass window shows a noticeable deviation, indicating enhanced sensitivity to radiative QCD effects. This work reinterprets measured spin-correlation data within a quantum-coherence framework, thereby introducing coherence as a complementary and experimentally grounded probe of the Standard Model spin structure and a potentially sensitive diagnostic of new-physics effects in the top-quark sector.

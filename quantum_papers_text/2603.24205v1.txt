@@ -1,0 +1,5 @@
+Title: Mitigating Dynamic Crosstalk with Optimal Control
+Authors: Matthias G. Krauss, Luise C. Butzke, Christiane P. Koch
+Categories: quant-ph
+Published: 2026-03-25 11:29:45+00:00
+Abstract: The prevalence of quantum crosstalk is an important barrier to scaling frequency-addressable qubit architectures, with dynamic crosstalk being particularly difficult to detect and suppress. This form of crosstalk refers to unintended interactions driven by the gate control fields themselves. Here, we minimize dynamic crosstalk using quantum optimal control based on the perfect entangler spectrum, where spectral peaks signal unwanted entanglement with spectator qubits. Focusing on parametric gates in tunable coupler systems, we derive pulse shapes that eliminate dynamic crosstalk. Remarkably, only minimal pulse modifications are required to mitigate the form of crosstalk that is otherwise most difficult to predict. The ability to suppress dynamic crosstalk via the perfect entangler spectrum establishes a generalizable control principle for eliminating unwanted interactions in quantum hardware.

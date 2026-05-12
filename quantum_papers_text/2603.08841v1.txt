@@ -1,0 +1,5 @@
+Title: Universal Non-stabilizerness Dynamics Across Quantum Phase Transitions
+Authors: András Grabarits, Adolfo del Campo
+Categories: quant-ph
+Published: 2026-03-09 19:00:00+00:00
+Abstract: Quantum magic and non-stabilizerness are important quantum resources that characterize computational power beyond classically simulable Clifford operations and are therefore essential for achieving quantum advantage. While non-stabilizerness has so far been investigated only at equilibrium, here we extend its dynamics to time-dependent drivings across quantum phase transitions. In particular, we show that the stabilizer Rényi entropies and the cumulants of the Pauli spectrum exhibit universal power-law scaling with the driving rate in slow processes. Moreover, we show that the logarithmic Pauli spectrum is asymptotically Gaussian, implying a lognormal distribution for the Pauli spectrum values. Our results are explicitly demonstrated by exact results in the transverse-field Ising model and by analytical approximations in long-range Kitaev models.

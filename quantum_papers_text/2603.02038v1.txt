@@ -1,0 +1,5 @@
+Title: Using anti-squeezed Schrödinger cat states for detection of a given phase shift
+Authors: V. L. Gorshenin, K. D. Dyadkin, S. D. Chikalkin
+Categories: quant-ph
+Published: 2026-03-02 16:23:17+00:00
+Abstract: We propose to use the antisqueezing-enhanced non-Gaussian Schrödinger cat quantum states of the probing light for the task of detection of a given phase shift in optical interferometers. We show that the antisqueezing allows to increase the robustness of the setup to optical losses. We find the optimal degrees of the antisqueezing for experimentally achievable values of the Schrödinger cat amplitude and the optical losses and compare the resulting sensitivity with the one provided by the Gaussian squeezed states.

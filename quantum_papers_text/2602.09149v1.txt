@@ -1,0 +1,5 @@
+Title: Quantum annealing and condensed matter physics
+Authors: Viv Kendon, Nicholas Chancellor
+Categories: quant-ph, cond-mat.dis-nn
+Published: 2026-02-09 19:52:44+00:00
+Abstract: Quantum annealing leverages the properties of interacting quantum spin systems to solve computational problems, typically optimisation problems. Current hardware now has capabilities that can be used to solve condensed matter physics problems, too. In this topical review, we provide an overview of quantum annealing aimed at condensed matter physicists, to show the mutual benefits of working together to understand and improve how quantum annealers work, and to use them to advance condensed matter physics.

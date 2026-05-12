@@ -1,0 +1,5 @@
+Title: Discovery of the Solution to the "Einstein-Podolsky-Rosen Paradox"
+Authors: Roman Schnabel
+Categories: quant-ph, physics.hist-ph
+Published: 2026-04-10 18:57:32+00:00
+Abstract: In 1935, Albert Einstein, Boris Podolsky and Nathan Rosen (EPR) published a thought experiment that is entirely correct, has been demonstrated in real experiments, and is now the most famous in quantum physics. Their pioneering work described, for the first time, quantum correlations and can be regarded as a very early glimpse into today's 'deep' quantum technologies, by which I mean those that enhance functionality by making use of quantum correlations. However, their work also contains a paradox that Erwin Schroedinger had already recognised as such in 1935 and which has since been cemented by the so-called Bell experiments. Here, I am now able to pinpoint the origin of the paradox within the chain of reasoning, which ultimately resolves the paradox.

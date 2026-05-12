@@ -1,0 +1,5 @@
+Title: Inverse Design of Strongly Localized Topological $π$ Modes in One-Dimensional Nonperiodic Systems
+Authors: Fumitatsu Iwase
+Categories: cond-mat.dis-nn, quant-ph
+Published: 2026-03-31 14:45:08+00:00
+Abstract: This study investigates the spatial confinement of topological $π$-modes in one-dimensional chiral-symmetric systems. In conventional periodic and quasiperiodic structures, edge-mode wave functions inevitably penetrate the bulk. To suppress this, inverse design of a potential sequence is performed using a generative model under a global topological constraint. The generated sequence reveals a characteristic structure consisting of a topological boundary layer and a macroscopic S-dense domain, leading to enhanced confinement ($ξ=0.85$) while preserving topology. Based on the physical principle extracted from this result, a minimal heterostructure composed of only two S-blocks is manually constructed, which further reduces the localization length to $ξ=0.75$. These results provide a compact design principle for strongly localized topological states.

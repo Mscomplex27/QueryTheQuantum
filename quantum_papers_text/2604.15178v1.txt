@@ -1,0 +1,5 @@
+Title: Minimum energy and photon content in PT symmetric metamaterials
+Authors: J. B. Pendry, S. A. R. Horsley
+Categories: physics.optics, quant-ph
+Published: 2026-04-16 15:59:38+00:00
+Abstract: In the context of waves in space time modulated materials, we ask two questions how much energy does it cost to break time reversal symmetry and transition to a PT symmetric state. and can a PT symmetric system have a ground state in the sense that no photons are present. Our model system is a periodic metamaterial set in virtual motion with velocity cg to become a space-time crystal. We find that the expectation of energy content is always increased on breaking symmetry. At the same time breaking T symmetry introduces photon-pairs even when we start from a T symmetric ground state empty of photons, except in certain pathological examples which we describe. For a range of velocities, PT symmetry is broken so that energy must be continuously invested to preserve motion, creating a trail of photon pairs. Here energy must be continuously invested to preserve motion. We make an analogy with acoustic radiation generated from breaking the sound barrier.

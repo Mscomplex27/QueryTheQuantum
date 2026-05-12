@@ -1,0 +1,5 @@
+Title: Generating quantum entanglement from sunlight
+Authors: Cheng Li, Jasvinder Brar, Michael Küblböck, Jeremy Upham, Hanieh Fattahi, Robert W. Boyd
+Categories: quant-ph, physics.optics
+Published: 2026-02-17 15:30:09+00:00
+Abstract: Energy consumption is becoming a serious bottleneck for integrating quantum technologies within the existing global information infrastructure. In photonic architectures, considerable energy overheads stem from using lasers, whose high coherence was long considered indispensable for quantum state preparation. Here, we demonstrate that natural, incoherent sunlight can successfully produce quantum-entangled states via spontaneous parametric down-conversion. We detect polarization-entangled photon pairs with a concurrence of $0.905\pm0.053$ and a Bell state fidelity of $0.939\pm0.027$. Importantly, the system violates Bell's inequality with $S=2.5408\pm0.2171$, exceeding the classical threshold of 2, while maintaining generation rates comparable to laser-based setups. These findings pave the way for sustainable quantum applications in resource-limited environments like interplanetary missions.

@@ -1,0 +1,5 @@
+Title: A note on entanglement detection via the generalized realignment moments
+Authors: Xiaofen Huang, Xishun Zhu, Bin Chen, Naihuan Jing, Shao-Ming Fei
+Categories: quant-ph
+Published: 2026-02-24 10:44:17+00:00
+Abstract: The experimental detection of quantum entanglement is of great importance in quantum information processing. We present two separability criteria based on the generalized realignment moments. By incorporating additional parameters, these criteria prove to be more flexible and stronger than some of existing ones. Detailed examples are given to demonstrate their availability and feasibility for entanglement detection.

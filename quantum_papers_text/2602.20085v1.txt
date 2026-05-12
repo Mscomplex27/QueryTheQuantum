@@ -1,0 +1,5 @@
+Title: Nonlinear quantum optomechanics in a Fano-mirror microcavity system
+Authors: Lei Du, Juliette Monsel, Witlef Wieczorek, Janine Splettstoesser
+Categories: quant-ph
+Published: 2026-02-23 17:52:02+00:00
+Abstract: We study a Fano-mirror optomechanical system in the quantum nonlinear regime. In this system, two strongly lossy optical modes hybridize through both coherent and dissipative couplings to form an effective optical mode with a drastically reduced linewidth. This linewidth reduction enables the system to access the single-photon strong-coupling and sideband-resolved regimes simultaneously. We formulate the system dynamics using an effective master-equation approach and benchmark it against quantum Langevin and dressed-state master-equation descriptions. With experimentally realistic parameters, we predict clear quantum signatures, including photon blockade and the generation of mechanical cat states. Our work establishes the Fano-mirror architecture as a promising platform for harnessing single-photon optomechanical nonlinearities for quantum state engineering under achievable experimental conditions.

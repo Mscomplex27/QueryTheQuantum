@@ -1,0 +1,5 @@
+Title: Chaotic Dynamics and Quantum Transport
+Authors: Andrey R. Kolovsky
+Categories: nlin.CD, quant-ph
+Published: 2026-04-14 07:46:15+00:00
+Abstract: This chapter gives an overview of transport problems where chaotic dynamics of the system plays a crucial role. We begin with single-particle transport problems and then come to conservative and then dissipative systems of identical particles, which follows the historical way of developing the theory of Quantum Chaos over the past 40 years. We also include brief descriptions of key laboratory experiments on the discussed transport problems.

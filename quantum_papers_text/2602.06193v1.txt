@@ -1,0 +1,5 @@
+Title: Experimental Quantum Bernoulli Factories via Bell-Basis Measurements
+Authors: Tanay Roy
+Categories: quant-ph
+Published: 2026-02-05 21:07:42+00:00
+Abstract: Randomness processing in the Bernoulli factory framework provides a concrete setting in which quantum resources can outperform classical ones. We experimentally demonstrate an entanglement-assisted quantum Bernoulli factory based on Bell-basis measurements of two identical input quoins prepared on IBM superconducting hardware. Using only the measurement outcomes (and no external classical randomness source), we realize the classically inconstructible Bernoulli doubling primitive $f(p)=2p$ and, as intermediate outputs from the same Bell-measurement statistics, an exact fair coin $f(p)=1/2$ and the classically inconstructible function $f(p)=4p(1-p)$. We benchmark the measured output biases against ideal predictions and discuss the impact of device noise. Our results establish a simple, resource-efficient experimental primitive for quantum-to-classical randomness processing and support the viability of quantum Bernoulli factories for quantum-enhanced stochastic simulation and sampling tasks.

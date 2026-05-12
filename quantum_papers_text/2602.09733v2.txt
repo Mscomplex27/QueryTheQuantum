@@ -1,0 +1,5 @@
+Title: Error-mitigated quantum state tomography using neural networks
+Authors: Yixuan Hu, Mengru Ma, Jiangwei Shang
+Categories: quant-ph
+Published: 2026-02-10 12:42:23+00:00
+Abstract: The reliable characterization of quantum states is a fundamental task in quantum information science. For this purpose, quantum state tomography provides a standard framework for reconstructing quantum states from measurement data, yet it is often degraded by experimental noise. Mitigating such noise is therefore essential for the accurate estimation of the states in realistic settings. In this work, we propose a scalable tomography method based on multilayer perceptron networks that mitigate unknown noise through supervised learning. This approach is data-driven and thus does not rely on explicit assumptions about the noise model or measurement, making it readily extendable to general quantum systems. Numerical simulations, ranging from special pure states to random mixed states, demonstrate that the proposed method effectively mitigates noise across a broad range of scenarios, compared with the case without mitigation.

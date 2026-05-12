@@ -1,0 +1,5 @@
+Title: Integrability breaking in semiclassical strings in Koopman-Krylov space
+Authors: Rathindra Nath Das, Saskia Demulder
+Categories: hep-th, nlin.CD, quant-ph
+Published: 2026-02-26 19:00:00+00:00
+Abstract: While very powerful, integrability in semiclassical string solutions is known to be a rare property. Motivated by the need to understand and characterise the large landscape of non-integrable string dynamics, we extend Krylov methods for probing chaos to classical systems. We introduce a Koopman-Krylov framework, formulated in the Koopman-von Neumann description of classical mechanics and implemented via a generator extended dynamic mode decomposition (gEDMD) approximation of the Koopman generator acting on observables. Using this framework, we study how integrability-breaking deformations of integrable string dynamics induce characteristic redistributions of spectral weight, leading to observable-dependent delocalisation and spreading in Krylov space. We illustrate the Koopman-Krylov diagnostics across three classes of non-integrable semiclassical string solutions.

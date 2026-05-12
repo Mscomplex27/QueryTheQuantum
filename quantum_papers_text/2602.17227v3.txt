@@ -1,0 +1,5 @@
+Title: Quantum key distribution over a metropolitan network using an integrated photonics based prototype
+Authors: Maria Ana Pereira, Giulio Gualandi, Rebecka Sax, Alberto Boaron, Raphaël Houlmann, Roberto Osellame, Rob Thew, Hugo Zbinden
+Categories: quant-ph
+Published: 2026-02-19 10:18:37+00:00
+Abstract: An industrial-scale adoption of Quantum Key Distribution (QKD) requires the development of practical, stable, resilient and cost-effective hardware that can be manufactured at large scales. In this work we present a high-speed (1.25GHz), field-deployable QKD prototype based on integrated photonics, that is consolidated into standard 19-inch rack compatible units. Through integrated photonics, the system prioritizes autonomous long-term stability in metropolitan settings. The architecture is further simplified by removing the need for chromatic dispersion compensation over metropolitan distances (below 100km). We demonstrate continuous key exchange over more than 4 km of metropolitan optical fiber, where the prototype maintained stable, uninterrupted operation across a measurement spanning more than 12 day-night cycles without manual intervention.

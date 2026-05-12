@@ -1,0 +1,5 @@
+Title: Trapped bosons in mean field QED, nonlinear resonance cascades and dynamical BEC formation
+Authors: Thomas Chen, Ali Mezher
+Categories: math-ph, math.AP, quant-ph
+Published: 2026-04-13 17:29:54+00:00
+Abstract: In this paper, we study a system of bosons trapped in a confining potential, interacting with a quantized field of coherent photons in the mean field description of non-relativistic Quantum Electrodynamics (QED) obtained by [N. Leopold and P. Pickl , 2017]. We derive the effective nonlinear cascade equations governing the emission and absorption of coherent photons by the boson subsystem in a combined weak-coupling and macroscopic time limit. We demonstrate that solutions to this nonlinear cascade describe a monotone decreasing energy flow in the boson subsystem. Thereby, we prove that a Bose-Einstein condensate (BEC) forms dynamically, under conservation of the total boson $L^2$ mass. We note that this process is crucially different from thermal relaxation to the ground state, and fundamentally depends on the nonlinear nature of the cascade dynamics.

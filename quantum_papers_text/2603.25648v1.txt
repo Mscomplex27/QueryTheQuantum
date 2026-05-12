@@ -1,0 +1,5 @@
+Title: Prediction of new superconducting bilayers heterostructures using quantum confinement and proximity effects
+Authors: Giovanni A. Ummarino, Alessio Zaccone
+Categories: cond-mat.supr-con, cond-mat.mes-hall, cond-mat.mtrl-sci, quant-ph
+Published: 2026-03-26 17:00:15+00:00
+Abstract: A central challenge in nanoscale superconductivity is to understand and exploit the combined action of quantum confinement and proximity effects in experimentally realistic metallic heterostructures. We theoretically investigate superconducting bilayer heterostructures in which these two effects coexist. Using a generalized Eliashberg framework that incorporates both quantum confinement and proximity coupling, we show that their interplay can substantially enhance the superconducting critical temperature. In particular, the theory predicts superconductivity in selected bilayers whose constituent materials are nonsuperconducting or only weakly superconducting in the bulk. These results identify quantum-confined bilayers as a promising route to engineering emergent superconductivity in metallic heterostructures.

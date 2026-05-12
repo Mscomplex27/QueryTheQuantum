@@ -1,0 +1,5 @@
+Title: Entanglement transference and non-inertial quantum reference frames
+Authors: Everett A. Patterson, Sijia Wang, Robert B. Mann
+Categories: quant-ph, gr-qc, hep-th
+Published: 2026-03-24 18:00:04+00:00
+Abstract: Given the recent interest in perspectival quantum reference frames (QRFs), we ask how quantum properties in the perspectival picture relate to their global, non-perspectival counterparts. It is instructive to establish this link, as most known results in quantum information theory are derived in the latter context. Specifically, we find sufficient conditions under which global entanglement decomposes into a combination of perspectival entanglement and coherence -- a phenomenon that we call entanglement transference. We apply this result to non-inertial QRFs, in particular, revisiting the problem of entanglement degradation. We find that entanglement degradation in the perspectival picture can be offset by an increase in coherence resources. The non-inertial problem may also provide clues to understanding perspectival QRFs in curved spacetime.

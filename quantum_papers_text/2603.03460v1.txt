@@ -1,0 +1,5 @@
+Title: Spectral statistics and localization properties of a $C_3$-symmetric billiard
+Authors: Matic Orel, Marko Robnik
+Categories: quant-ph
+Published: 2026-03-03 19:16:28+00:00
+Abstract: We revisit the spectral statistics of the C$_3$--symmetric billiard introduced by Dembowski [Phys. Rev. E, R4516 (2000)], which exhibits both GOE and GUE statistics depending on the symmetry block. Using high--precision Beyn's contour--integral method for the nonlinear Fredholm eigenvalue problem with built-in separation of irreducible subspaces, we compute 2.8x10$^5$ eigenvalues in each symmetry subspace, enabling statistically meaningful comparisons with random matrix theory. The improved spectra reveal clear GOE--GUE correspondence and resolve previously observed deviations in long--range spectral correlations. Furthermore, we analyze phase--space eigenstate localization through the distribution of entropy localization measures, which, for chaotic states follow a Beta distribution whose standard deviation decays as a power--law with energy, consistent with the onset of quantum ergodicity as described by Schnirelman's theorem.

@@ -1,0 +1,5 @@
+Title: Normal mode splitting induced synchronization blockade in coupled quantum van der Pol oscillators
+Authors: Nissi Thomas, M. Senthilvelan
+Categories: quant-ph
+Published: 2026-02-06 11:45:48+00:00
+Abstract: We report a normal-mode induced synchronization blockade in coupled quantum van der Pol oscillators under the influence of external drive. In this mechanism, the coupling hybridizes the oscillator modes into spectrally split normal modes. The destructive interference between the transitions to these modes blocks synchronization. We find that this blockade can be controlled simply by tuning the coupling strength and detuning allowing dynamic manipulation of quantum synchronization through collective mode dynamics. We analyze the phase-locking behaviour using perturbation analysis. Further, by deriving steady-state probability amplitudes we show how the energy redistribution and spectral splitting forms the basis of the blockade. Our results might provide new insights into how synchronization can be controlled in quantum systems.

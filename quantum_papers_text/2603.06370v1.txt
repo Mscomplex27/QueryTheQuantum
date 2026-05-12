@@ -1,0 +1,5 @@
+Title: Quantum Feedback Cooling without State Filtering
+Authors: Lorenzo Franceschetti, Francesco Ticozzi
+Categories: quant-ph
+Published: 2026-03-06 15:23:03+00:00
+Abstract: We introduce a state-based feedback law that stabilizes quantum states or subspaces associated with extremal values of a continuously monitored observable - a problem motivated by quantum cooling tasks. We then propose an output-based approximation that uses simple filtering of the measurement record to emulate the required feedback signal, thereby avoiding full real-time quantum state estimation, a key bottleneck for implementing and scaling filtering-based feedback control. The performance of the resulting strategy is demonstrated numerically on two test-bed models for feedback cooling.

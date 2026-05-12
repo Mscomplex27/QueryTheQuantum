@@ -1,0 +1,5 @@
+Title: Quantum Network Simulation and Emulation: A Roadmap for Quantum Internet Design
+Authors: Brian Doolittle, Michael Cubeddu
+Categories: quant-ph
+Published: 2026-03-02 15:37:03+00:00
+Abstract: Quantum networks are advancing the information technology infrastructure of society. Simulation and emulation software tools have emerged to support the design, development, and deployment of quantum networks, however, classical simulation and emulation methods have major bottlenecks in the error, latency, and cost that they can achieve at scale. In this work, we review quantum network simulation and emulation tools, including foundational principles, state-of-the-art tools, and bottlenecks. We then discuss how quantum technologies can address these challenges, and we construct a roadmap for the adoption of quantum simulation and emulation tools, emphasizing codesign with quantum network testbeds.

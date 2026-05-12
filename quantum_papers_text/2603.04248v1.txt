@@ -1,0 +1,5 @@
+Title: Progress on artificial flat band systems: classifying, perturbing, applying
+Authors: Carlo Danieli, Sergej Flach
+Categories: cond-mat.mes-hall, physics.optics, quant-ph
+Published: 2026-03-04 16:37:37+00:00
+Abstract: We highlight recent progress in the study of artificial flat band systems with a threefold focus. First, we discuss single-particle flat band physics, which has advanced through the design of various flat band generators. These generators rely on the classification of flat bands in terms of compact localized states - their fundamental building blocks. A related development is the complete real-space description of flat band projectors. Next, we review studies on perturbations of flat bands, which provide new insights into the effects of disorder and, more importantly, the intricate interplay between many-body interactions and flat band physics. Finally, we survey the growing number of experimental realizations of flat bands across diverse physical platforms.

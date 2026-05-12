@@ -1,0 +1,5 @@
+Title: Correlated inhomogeneous absorption profiles across distinct optical transitions in a rare-earth doped crystal
+Authors: Flora Segur, Sacha Welinski, Alban Ferrier, Perrine Berger, Anne Louchet-Chauvet
+Categories: physics.optics, cond-mat.mtrl-sci, quant-ph
+Published: 2026-02-25 15:26:15+00:00
+Abstract: In rare-earth ion-doped crystals, inhomogeneous absorption profiles reflect the distribution of local environments experienced by individual ions. While each optical transition probes this distribution differently, their fine spectral structures may retain correlations arising from shared local perturbations. In this paper, we present a low-temperature, high-resolution spectroscopic study in Er$^{3+}$:YSO of the transition $^{4}I_{15/2}$ - $^{4}I_{11/2}$ at 980 nm and compare it to the well-known transition $^{4}I_{15/2}$ - $^{4}I_{13/2}$ at 1.5 $μ$m. Using spectral hole burning on one transition while monitoring the other, we uncover for the first time spectral correlations between two optical transitions, providing new insight into the microscopic origin of inhomogeneous distributions in rare-earth-doped crystals.

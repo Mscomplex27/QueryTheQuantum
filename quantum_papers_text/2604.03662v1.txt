@@ -1,0 +1,5 @@
+Title: Quantum Realization of the Wallis Formula
+Authors: Bin Ye, Ruitao Chen, Lei Yin
+Categories: quant-ph, hep-th
+Published: 2026-04-04 09:29:20+00:00
+Abstract: We present a unified quantum-mechanical derivation of the Wallis formula from two solvable radial systems: the circular states of the three-dimensional isotropic harmonic oscillator and the lowest-radial-branch states of the planar Fock--Darwin problem, including the lowest Landau level sector. In both cases, the radial probability density has the exact form $P(r)\propto r^νe^{-λr^2}$, which yields the scale-independent reciprocal observable $Q=\langle r\rangle\langle r^{-1}\rangle$. The two systems realize the even and odd half-integer Gamma-function branches of the same moment formula, so that the associated finite Wallis partial products are determined by $Q$ in one case and by $Q^{-1}$ in the other. In the large-angular-momentum regime, the corresponding states become localized on a thin spherical shell or a narrow annulus, with vanishing relative radial width, so that $Q\to1$ and both finite-product representations reduce to the Wallis formula for $π$.

@@ -1,0 +1,5 @@
+Title: Adversarial quantum teleportation
+Authors: Nehad AttaElmanan AbdElrahim Mabrouk, Barry C Sanders
+Categories: quant-ph
+Published: 2026-04-17 21:20:13+00:00
+Abstract: Claims of successful quantum teleportation are backed up by showing that fidelity exceeds some specified threshold, but whether fidelity is the performance metric and what the threshold should be has been a subject of vigorous debate. We construct adversarial models for quantum teleportation, i.e., involving cheating parties, and show that fidelity thresholds can be justified in the context of the type of adversary trying to prove unsuccessful quantum teleportation has been successful. In particular we show how previously established average-fidelity thresholds of 1/2 and 2/3 arise from our adversarial approach. Mathematically, we describe adversarial quantum teleportation as a multi-partite protocol with explicit quantum-logic circuits in both honest and cheating settings, and our methods are relevant beyond quantum teleportation to other quantum-information gadgets.

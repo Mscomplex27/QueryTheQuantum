@@ -1,0 +1,5 @@
+Title: From Random Fringes to Deterministic Response: Statistical Foundations of Time-Reversed Young Interferometry
+Authors: Jianming Wen
+Categories: physics.optics, physics.app-ph, quant-ph, stat.OT
+Published: 2026-04-26 16:40:59+00:00
+Abstract: Young interference is usually read as the gradual statistical accumulation of random detection events. Here we show that a time-reversed Young (TRY) geometry has a different statistical character: the fringe is not a marginal distribution of detector positions, but a conditional response indexed by a programmed source coordinate. With a fixed detector and a scanned source basis, the observable is an operational hybrid correlator between detector signal and source label. The resulting interference is deterministic at the response-function level, while noise enters only through estimation precision. We formulate this distinction using Fisher information, estimator variance, and noise scaling, clarifying why TRY naturally supports calibration, lock-in readout, null-fringe sensing, and source-plane superresolution.

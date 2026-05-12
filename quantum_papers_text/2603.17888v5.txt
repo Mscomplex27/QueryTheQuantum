@@ -1,0 +1,5 @@
+Title: On single-frequency asymptotics for the Maxwell-Bloch equations: pure states
+Authors: A. I. Komech, E. A. Kopylova
+Categories: math.AP, math-ph, quant-ph
+Published: 2026-03-18 16:13:31+00:00
+Abstract: We consider damped driven Maxwell-Bloch equations for a single-mode Maxwell field coupled to a two-level molecule. The equations are used for semiclassical description of the laser action. Our main result is the construction of solutions with single-frequency asymptotics of the Maxwell field in the case of quasiperiodic pumping. The asymptotics hold for solutions with harmonic initial values which are stationary states of averaged reduced equations in the interaction picture. We calculate all harmonic states and analyse their stability. Our calculations rely on the Hopf reduction by the gauge symmetry group U(1). The asymptotics follow by an extension of the averaging theory of Bogolyubov--Eckhaus--Sanchez-Palencia onto dynamical systems on manifolds.The key role in the application of the averaging theory is played by a special a priori estimate.

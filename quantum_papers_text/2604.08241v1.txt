@@ -1,0 +1,5 @@
+Title: Evaluating the performance of a weak-field homodyne receiver in quadrature phase-shift keying optical communication
+Authors: Silvia Cassina, Alex Pozzoli, Michele N. Notarnicola, Marco Lamperti, Stefano Olivares, Alessia Allevi
+Categories: quant-ph
+Published: 2026-04-09 13:32:51+00:00
+Abstract: Quantum communication protocols require efficient detection schemes to maximize the information transfer rate between the sender and the receiver. To this aim, we have demonstrated that weak-field receivers, merging wave-like and particle-like features, can be considered as a valid alternative to already existing receivers, such as optical homodyne detection. To better emphasize the potential of our receiver, in this work we consider a proof of concept for quaternary communication based on coherent states with the same amplitude and different phase values. The encoding in phase requires a fine control of phase noise obtained through a feedback system. The results achieved in terms of mutual information and secret key generation rate encourage further increase of the alphabet towards an approximately continuous phase modulation.

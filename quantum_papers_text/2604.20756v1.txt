@@ -1,0 +1,5 @@
+Title: Comment on 'The axiom of choice and the no-signalling principle'
+Authors: Martti Karvonen
+Categories: quant-ph
+Published: 2026-04-22 16:44:45+00:00
+Abstract: The main claim of arXiv:2206.08467 is that "functional (deterministic) no-signalling resources can be stronger than probabilistic ones" a certain nonlocal game on a Bell scenario with countably many parties. We disagree and argue that (i) under standard definitions, deterministic no-signalling resources are always probabilistic no-signalling resources; (ii) the deterministic strategy considered in arXiv:2206.08467 can be promoted to a genuinely probabilistic strategy with similar properties and (iii) a key step in the derivation in arXiv:2206.08467, claimed to hold for all no-signalling strategies, implicitly assumes measurability, leaving a gap in the argument. We propose measurability assumptions which we conjecture would make this derivation rigorous. Taken together, the phenomenon highlighted in arXiv:2206.08467 is best understood as a difference between measurable and non-measurable no-signalling resources.

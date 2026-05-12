@@ -1,0 +1,5 @@
+Title: Time-dependent adiabatic elimination in matter-wave optics
+Authors: Samuel Böhringer, Alexander Bott, Eric P. Glasbrenner
+Categories: quant-ph
+Published: 2026-03-02 12:58:57+00:00
+Abstract: We show how the dynamics of a specific subset of states can be separated from the dynamic of the total quantum state via a time-dependent projector-based formalism of adiabatic elimination. Within our formalism, we assume explicit time dependency in the coupling between both subsystems. Additionally, we do not assume that the elements of the Hamiltonian commute, as in matter-wave optics this not given in general. Here the center-of-mass degrees of freedom frequently need to be taken into account. Our formalism allows to perform the adiabatic elimination in such a setting.

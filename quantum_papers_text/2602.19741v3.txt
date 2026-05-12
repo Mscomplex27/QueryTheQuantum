@@ -1,0 +1,5 @@
+Title: Two-parameter families of matrix product operator integrals of motion in Heisenberg spin chains
+Authors: Vsevolod I. Yashin
+Categories: cond-mat.stat-mech, math-ph, nlin.SI, quant-ph
+Published: 2026-02-23 11:37:46+00:00
+Abstract: Recently, Fendley et al. (2025) [arXiv:2511.04674] revealed a new simple way to demonstrate the integrability of XYZ Heisenberg model by constructing a one-parameter family of integrals of motion in the matrix product operator (MPO) form with bond dimension 4. In this work, I report on the discovery of two-parameter families of MPOs that commute with Heisenberg spin chain Hamiltonian in case of various anisotropies (XXX, XXZ, XX, XY and XYZ). These solutions are connected by taking appropriate limits. For all cases except XYZ, I also write down Floquet charges of two-step Floquet protocols corresponding to the Trotterization. I describe a symbolic algebra approach for finding such integrals of motion and speculate about possible generalizations and applications.

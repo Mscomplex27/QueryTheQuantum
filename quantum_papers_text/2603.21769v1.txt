@@ -1,0 +1,7 @@
+Title: Materials Beyond Hamiltonian Limits -- Quantum Measurement as a Resource for Material Design
+Authors: Jochen Mannhart
+Categories: cond-mat.stat-mech, cond-mat.mes-hall, cond-mat.mtrl-sci, quant-ph
+Published: 2026-03-23 10:06:49+00:00
+Abstract: Recent studies have identified materials and devices whose behavior lies beyond the scope of conventional electronic-structure theory. Such theories are formulated entirely in terms of Hamiltonian evolution and therefore describe only unitary dynamics and thus only a restricted class of quantum systems.
+  In contrast, electron systems that incorporate quantum measurement as an intrinsic dynamical element undergo Hamiltonian evolution interleaved with projection-induced state updates. This unitary-projective dynamics breaks constraints imposed by purely unitary evolution and permits stochastic population transfer between symmetry-related transport channels, thereby enabling fundamentally new material functionalities. This insight motivates the deliberate design of materials and devices that harness unitary-projective dynamics.
+  This article explores the foundations of unitary-projective electron dynamics and charts the resulting landscape of quantum materials and their functionalities. Model calculations demonstrate passive mesoscopic structures with intrinsic nonreciprocal single-electron transmission, materials exhibiting a novel category of magnetism, and possible platforms for energy harvesting and conversion with efficiencies that exceed the standard Carnot limit.

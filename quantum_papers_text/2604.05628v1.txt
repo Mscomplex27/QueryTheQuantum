@@ -1,0 +1,5 @@
+Title: Estimation of trace distance between two arbitrary quantum states
+Authors: Sanchita Ghosh, Anumita Mukhopadhyay, Anindita Bera, Prasenjit Deb, Shibdas Roy
+Categories: quant-ph
+Published: 2026-04-07 09:29:37+00:00
+Abstract: When it comes to discriminating between two quantum states, trace distance is one of the well-known metrics used in quantum computation and quantum information theory. While there are several quantum algorithms for calculating the trace distance between two quantum states, computing it for any two general density matrices remains computationally demanding. In this paper, we propose a quantum algorithm based on the exponentiation of the density matrix and the improved quantum phase estimation (IQPE) to determine the trace distance for both pure and mixed states, with a time complexity of $O(N^8)$ where $N$ is the number of qubits of the given states. We demonstrate its ability to predict the quantity with proof-of-principle simulations and also quantum hardware computations on the IBM quantum computers, confirming its promise for near-term quantum devices.

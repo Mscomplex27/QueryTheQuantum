@@ -1,0 +1,5 @@
+Title: Infinite multiverses and where to find them?
+Authors: Anubhav Kumar Srivastava, Pavel P. Popov, Guillem Müller-Rigat, Maciej Lewenstein
+Categories: physics.pop-ph, physics.hist-ph, quant-ph
+Published: 2026-02-04 16:08:03+00:00
+Abstract: Have you ever watched superhero movies like Spider-Man: Into the Spider-Verse? Or played games where your choices create different outcomes? What if we told you that in the real world, something even crazier might be happening all the time, right under our noses? Imagine shrinking down to the size of an atom. What you'd see wouldn't be like our everyday world at all! This is the realm of quantum physics, where the rules we know do not apply, where things exist everywhere and nowhere at once. The moment you observe something, it starts behaving differently. In this article, we will explore two of the many possible explanations for such phenomena, namely the Copenhagen interpretation and the many-worlds interpretation of quantum physics. We will also try to answer the question of whether there are many copies of you roaming around in different universes, and why you haven't met one.

@@ -1,0 +1,5 @@
+Title: Erasure Thresholds for Hyperbolic and Semi-Hyperbolic Surface Codes
+Authors: Aygul Azatovna Galimova
+Categories: quant-ph
+Published: 2026-02-11 02:09:35+00:00
+Abstract: We extend the circuit-level erasure noise model and Wang et al.\ quadratic expansion fitting of Chang et al.\ from planar surface codes to hyperbolic CSS surface codes. Under Chang et al.'s noise models, the $\{8,3\}$ Bolza fine-grained family threshold reaches $3.6\%$ under the general-Pauli models (which coincide at temporal resolution $η= 1$) and $4.7\%$ under the tailored spatially perfect model at $R_e = 1$ (pure erasure). The corresponding erasure-to-Pauli ratios ($5.0\times$ and $6.5\times$) match the surface code values to within $5\%$. Per-observable crossing-point analysis at $R_e = 1$ (Models 1--3) independently yields an erasure-to-Pauli ratio of $5.3\times$. These results establish that the erasure advantage extends to hyperbolic codes.

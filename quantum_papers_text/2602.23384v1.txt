@@ -1,0 +1,5 @@
+Title: Mathematical Paradoxes of Dirac Equation Representations
+Authors: V. P. Neznamov
+Categories: hep-th, hep-ph, quant-ph
+Published: 2026-02-15 14:02:02+00:00
+Abstract: This paper examines the Foldy-Wouthuysen and Feynman-Gell-Mann representations of the Dirac equation. The analysis is conducted for electrons and positrons interacting with electromagnetic fields. Versions of quantum electrodynamics are considered both within the scope of perturbation theory and in the nonperturbative case with strong electromagnetic fields. Mathematical artifacts that contradicting the physical premises of the theory are identified in the studied representations of the Dirac equation. These mathematical paradoxes are resolved if the theory only employs amplitude states (real and virtual) with positive energies.

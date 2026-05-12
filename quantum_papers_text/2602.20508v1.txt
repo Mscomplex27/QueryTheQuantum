@@ -1,0 +1,5 @@
+Title: Hilbert Space Black Hole Analog: Unidirectional Transport without Driving
+Authors: Elvira Bilokon, Valeriia Bilokon, Frank Großmann, Jason R. Williams, Denys I. Bondar
+Categories: quant-ph
+Published: 2026-02-24 03:19:26+00:00
+Abstract: Black holes permit matter to cross their event horizon in only one direction. We show that interacting bosons in optical lattices with asymmetric barrier exhibit an analogous phenomenon, creating unidirectional quantum transport without external driving or dissipation. This directionality emerges purely from many-body interactions, which cause asymmetric projection of the initial state onto transport-enabled or transport-forbidden sectors. The resulting dynamics create an effective one-way boundary in Hilbert space, forming a quantum analog of a black-hole event horizon. Our results establish interactions as a fundamentally new route to directional transport, enabling coherent rectification in atomtronic circuits by the use of intrinsic properties of the system only.

@@ -1,0 +1,5 @@
+Title: Phase-sensitive representation of Majorana stabilizer states
+Authors: Tomislav Begušić, Garnet Kin-Lic Chan
+Categories: quant-ph
+Published: 2026-02-19 18:29:06+00:00
+Abstract: Stabilizer states hold a special place in quantum information science due to their connection with quantum error correction and quantum circuit simulation. In the context of classical simulations of many-body physics, they are an example of states that can be both highly entangled and efficiently represented and transformed under Clifford operators. Recently, Clifford operators have been discussed in the context of fermionic quantum computation through their extension, the Majorana Clifford group. Here, we document the phase-sensitive form of the corresponding Majorana stabilizer states, as well as the algorithms for computing their amplitudes, their inner products, and update rules for transforming Majorana stabilizer states under Majorana Clifford gates.

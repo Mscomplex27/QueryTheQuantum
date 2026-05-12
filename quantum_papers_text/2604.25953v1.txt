@@ -1,0 +1,5 @@
+Title: Violation of a Monty-Hall constraint on determinism using a single qutrit
+Authors: Jorge Meza-Domínguez
+Categories: quant-ph, math-ph
+Published: 2026-04-24 21:23:07+00:00
+Abstract: We present a simple inequality that distinguishes deterministic hidden-variable theories (local or nonlocal) from standard quantum mechanics, using a single three-level system. The protocol is inspired by the Monty Hall puzzle: a coherent "descarte" procedure followed by a projective measurement. In any deterministic theory that respects the Monty Hall condition (the descarte never eliminates the real state), the probability of obtaining a chosen state after the descarte is exactly $1/3$. In contrast, quantum mechanics predicts $1/6$, due to the preparation of coherent superpositions. The inequality is violated by quantum mechanics, demonstrating that determinism (even without locality assumptions) is incompatible with quantum coherence in sequential measurements. An experimental implementation with photonic qutrits is proposed.

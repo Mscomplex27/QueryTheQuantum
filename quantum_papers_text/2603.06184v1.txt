@@ -1,0 +1,5 @@
+Title: Long-range mid-infrared energy transfer mediated by hyperbolic phonon polaritons
+Authors: Gonzalo Álvarez-Pérez, Simone De Liberato, Huatian Hu
+Categories: physics.optics, cond-mat.mes-hall, cond-mat.mtrl-sci, quant-ph
+Published: 2026-03-06 11:44:14+00:00
+Abstract: We provide a framework to theoretically describe long-range energy transfer in single and twisted two-dimensional hyperbolic slabs. We demonstrate that phonon polaritons (PhPs, quantum superpositions of photons and lattice vibrations in polar dielectrics) can mediate and enhance room-temperature energy transfer at ranges far exceeding those of conventional mid-infrared (MIR) platforms, and with extreme directionality. This is because the dipole-dipole interaction potential energy diverges along the asymptotes of the real-space hyperbolic opening angle. Our findings allow us to extend classical and quantum interactions between dipoles, typically strictly confined to the near-field, beyond several free-space MIR wavelengths. We use $α$-MoO$_3$ as a representative material, but this mechanism is not limited to the MIR: it is general to anisotropic media across the whole electromagnetic spectrum.

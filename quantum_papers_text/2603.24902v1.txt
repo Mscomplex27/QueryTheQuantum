@@ -1,0 +1,5 @@
+Title: The Pareto Frontiers of Magic and Entanglement: The Case of Two Qubits
+Authors: Alexander Roman, Marco Knipfer, Jogi Suda Neto, Konstantin T. Matchev, Katia Matcheva, Sergei Gleyzer
+Categories: quant-ph, cs.ET, hep-lat, hep-ph, hep-th
+Published: 2026-03-26 00:32:43+00:00
+Abstract: Magic and entanglement are two measures that are widely used to characterize quantum resources. We study the interplay between magic and entanglement in two-qubit systems, focusing on the two extremes: maximal magic and minimal magic for a given level of entanglement. We quantify magic by the Rényi entropy of order 2, $M_2$, and entanglement by the concurrence $Δ$. We find that the Pareto frontier of maximal magic $M_2^{(max)}(Δ)$ is composed of three separate segments, while the boundary of minimal magic $M_2^{(min)}(Δ)$ is a single continuous line. We derive simple analytical formulas for all these four cases, and explicitly parametrize all distinct quantum states of maximal or minimal magic at a given level of entanglement.

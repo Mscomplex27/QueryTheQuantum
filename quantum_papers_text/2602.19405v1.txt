@@ -1,0 +1,5 @@
+Title: Robust GHZ State Preparation via Majority-Voted Boundary Measurements
+Authors: Jean-Baptiste Waring, Sébastien Le Beux, Christophe Pere
+Categories: quant-ph
+Published: 2026-02-23 00:47:46+00:00
+Abstract: Preparing high-fidelity Greenberger-Horne-Zeilinger (GHZ) states on noisy quantum hardware remains challenging due to cumulative gate errors and decoherence. We introduce Group-Majority-Voting (Group-MV), a dynamic-circuit protocol that partitions arbitrary coupling graphs, prepares local GHZ states in parallel, and fuses them via majority-voted mid-circuit measurements. The majority vote over redundant boundary links mitigates measurement errors that would otherwise propagate through classical feedforward. We evaluate Group-MV on simulated Heavy-hex and Grid topologies for 30 through 60 qubits under a realistic noise regime. Group-MV generalizes to arbitrary GHZ sizes on arbitrary coupling topologies, achieving 2.4x higher fidelity than the Line Dynamic method while tracking the unitary baseline within 3%.

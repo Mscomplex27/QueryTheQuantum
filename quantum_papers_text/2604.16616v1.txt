@@ -1,0 +1,5 @@
+Title: Entropy Moduli and BKM Coercivity for Rank-Deficient Non-Commutative Markov Semigroups
+Authors: Hassan Nasreddine
+Categories: quant-ph
+Published: 2026-04-17 18:13:15+00:00
+Abstract: We study entropy-based certification for non-commutative Markov semigroups with rank-deficient stationary states. We introduce a boundary-activation functional that quantifies deviation from the support of the stationary state and prove a logarithmic lower bound on relative entropy in terms of this quantity, based on a BKM coercivity argument and an exact block-decomposition identity. Combining this estimate with dynamical bounds for Davies semigroups under a modified logarithmic Sobolev inequality, we show that, under explicit local conditions, entropy-based certification of convergence can exhibit a slowdown near the boundary regime, with a rate of order e^{-alpha t}/sqrt(alpha t). The mechanism is identified as a coherence-population effect and disappears for incoherent initial states, where classical Pinsker-type bounds are recovered.

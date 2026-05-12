@@ -1,0 +1,5 @@
+Title: Distributed g(2) Retrieval with Atomic Clocks: Eliminating Conventional Sync Protocols
+Authors: Md Mehdi Hassan, Jacob E. Humberd, Mohmad Junaid Ul Haq, Noah A. Crum, George Siopsis, Tian Li
+Categories: quant-ph
+Published: 2026-03-09 14:16:28+00:00
+Abstract: We demonstrate a method to measure coincidences between polarization-entangled photons distributed to distant locations, eliminating traditional synchronization by employing a compact, chip-scale atomic clock for precise timing.

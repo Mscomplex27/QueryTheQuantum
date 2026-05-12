@@ -1,0 +1,5 @@
+Title: Low-rank geometry of two-qubit gates
+Authors: Llorenç Balada Gaggioli
+Categories: quant-ph
+Published: 2026-04-16 14:59:22+00:00
+Abstract: We present a framework based on the determinantal geometry of two-qubit gates. Combining the Weyl chamber representation with operator Schmidt theory, we interpret gate synthesis as a distance problem to determinantal varieties. This gives an operational geometry to the Weyl chamber, quantifying nonlocal complexity. We show that the square root iSWAP gate is the closest perfect entangler to the variety of local operations, and that no perfect entangler can be approximated by a local gate with average gate fidelity above 79.8%. The three different determinantal costs form a synthesis-adapted coordinate system that encodes nonlocal complexity and generally reconstructs the Weyl chamber.

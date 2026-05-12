@@ -1,0 +1,5 @@
+Title: Symmetry-Fractionalized Skin Effects in Non-Hermitian Luttinger Liquids
+Authors: Christopher Ekman, Emil J. Bergholtz, Paolo Molignini
+Categories: cond-mat.str-el, cond-mat.quant-gas, quant-ph
+Published: 2026-03-30 18:00:00+00:00
+Abstract: In one dimension, strongly correlated gapless systems are highly constrained due to conformal invariance, leading to the decoupling of low energy degrees of freedom corresponding to different symmetry sectors. The most familiar example of this is spin-charge separation. Here, we extend this mechanism to the non-Hermitian realm by demonstrating that skin effects corresponding to different symmetry sectors exhibit an emergent decoupling. We establish this for $N$ flavor fermions and demonstrate it numerically for the special case of the Hubbard model, in which spin and charge skin effects separate at low energies. Finally, we construct an interaction-enabled $E_8$ skin effect with no free fermion counterpart.

@@ -1,0 +1,5 @@
+Title: Benchmarking Classical and Quantum Optimization Approaches for Rider-Order Assignment
+Authors: Tharrmashastha SAPV, Surya Prakash Palanivel, Jasjyot Singh Gulati, M Maruthu Pandi
+Categories: quant-ph
+Published: 2026-02-12 12:47:09+00:00
+Abstract: The logistics industry is widely regarded as a promising application domain for emerging optimization paradigms, including quantum computing. The Rider-Order Assignment problem is a practically motivated optimization problem arising in online food delivery and related logistics applications. While the problem is closely related to the classical matching problem, the inclusion of realistic operational constraints renders it computationally challenging. In this work, we formulate the Rider-Order Assignment problem as a constrained binary optimization problem and perform a comparative analysis of classical, quantum-inspired, and gate-based quantum solvers for this problem across multiple instance sizes. Solver performance is assessed using solution quality, computational runtime, and constraint satisfaction, with a consistent post-processing procedure applied to ensure feasibility.

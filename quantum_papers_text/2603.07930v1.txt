@@ -1,0 +1,6 @@
+Title: Quantum information advantage based on Bell inequalities
+Authors: Rahul Jain, Srijita Kundu
+Categories: quant-ph, cs.CC
+Published: 2026-03-09 03:50:37+00:00
+Abstract: Recently, Kretschmer et al. [KGD+25] presented an experimental demonstration of a proposed quantum information advantage protocol.
+  We present an alternate proposal based on a relation derived from parallel-repeated CHSH games. Our memory measure is based on an information measure and is different from [KGD+25], where they count the number of qubits. Our proposal has an efficient verifier and a noise-robust quantum prover which is arguably much more efficient compared to [KGD+25].

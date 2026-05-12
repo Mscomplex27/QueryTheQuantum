@@ -1,0 +1,5 @@
+Title: Local measurements and the entanglement transition in quantum spin chains
+Authors: Sven Bachmann, Mahsa Rahnama, Gabrielle Tournaire
+Categories: math-ph, quant-ph
+Published: 2026-02-05 17:28:35+00:00
+Abstract: We consider the transition between short-range entangled (SRE) and long-range ordered (and therefore long-range entangled) states of infinite quantum spin chains, which is induced by local measurements. Specifically, we assume that the initial state is in a non-trivial symmetry-protected topological phase with local symmetry group $\mathcal{G} = G \times H$, where $G$ is an Abelian subgroup. We show that the on-site measurements of the local $G$-charge on intervals of increasing lengths transform the initial SRE state into a family of states with increasingly long-range correlations. In particular, the post-measurement states cannot be uniformly short-range entangled. In the case where the initial state is obtained from a product state using a quantum cellular automaton, we construct the infinite-volume post-measurement state and exhibit almost local observables that are maximally correlated.

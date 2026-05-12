@@ -1,0 +1,5 @@
+Title: Application of a Quantum Amplitude Redistribution Algorithm to the Data Filtering Problem
+Authors: Karina Zakharova, Artem Chernikov, Sergey Sysoev
+Categories: quant-ph
+Published: 2026-04-27 17:45:29+00:00
+Abstract: This paper presents an analysis of the applicability of a quantum amplitude redistribution algorithm to the data filtering problem and the results of modeling the algorithm's operation in comparison with a median filter.

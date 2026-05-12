@@ -1,0 +1,5 @@
+Title: Floquet circuits inspired by holographic matrix models
+Authors: Yun Ma, Andrew Lucas
+Categories: quant-ph, hep-th
+Published: 2026-03-27 18:00:07+00:00
+Abstract: We argue that near-term experiments with neutral atoms in movable optical tweezers can simulate circuits that mimic the Trotterized time-evolution of simple matrix models in quantum mechanics. As a cartoon of this proposal, we study Floquet Clifford circuits which exhibit a number of signatures of fast scrambling. One such illustration is a simplified Hayden-Preskill recovery protocol, in which stabilizer quantum error correction replaces postselection.

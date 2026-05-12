@@ -1,0 +1,5 @@
+Title: Coherent Control of Population and Quantum Coherence in Superconducting Circuits
+Authors: Madan Mohan Mahana, Gunjan Yadav, Tarak Nath Dey
+Categories: quant-ph
+Published: 2026-02-27 12:35:56+00:00
+Abstract: Quantum mechanics, with its counterintuitive principles and probabilistic nature, has long been confined to the microscopic realm of atoms and photons. Yet, recent breakthroughs have pushed the boundaries of quantum behavior into the macroscopic world, where objects are visible to the naked eye and governed by classical physics. This review article traces the extraordinary progress toward achieving coherent control of population distributions among multiple quantum levels, as well as manipulation of absorption and refractive index, in such large-scale quantum systems, a feat once considered beyond reach.

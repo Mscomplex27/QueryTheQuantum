@@ -1,0 +1,5 @@
+Title: Exclusive Scattering Channels from Entanglement Structure in Real-Time Simulations
+Authors: Nikita A. Zemlevskiy
+Categories: quant-ph, hep-lat, hep-ph, nucl-th
+Published: 2026-03-16 17:59:59+00:00
+Abstract: A scattering event in a quantum field theory is a coherent superposition of all processes consistent with its symmetries and kinematics. While real-time simulations have progressed toward resolving individual channels, existing approaches rely on knowledge of the asymptotic particle wavefunctions. This work introduces an experimentally inspired method to isolate scattering channels in Matrix Product State simulations based on the entanglement structure of the late-time wavefunction. Schmidt decompositions at spatial bipartitions of the post-scattering state identify elastic and inelastic contributions, enabling deterministic detection of outgoing particles of specific species. This method may be used in settings beyond scattering and is applied to detect heavy particles produced in a collision in the one-dimensional Ising field theory. Natural extensions to quantum simulations of other systems and higher-order processes are discussed.

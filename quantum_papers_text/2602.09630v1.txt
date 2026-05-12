@@ -1,0 +1,5 @@
+Title: Entanglement suppression for $ΩΩ$ scattering
+Authors: Katsuyoshi Sone, Tao-Ran Hu, Feng-Kun Guo, Tetsuo Hyodo, Ian Low
+Categories: hep-ph, nucl-th, quant-ph
+Published: 2026-02-10 10:18:50+00:00
+Abstract: We study entanglement suppression in $s$-wave $ΩΩ$ scattering, where each baryon has spin $3/2$. By treating the $S$-matrix as a quantum operator acting on the spin states, we quantify its ability to generate entanglement and identify the conditions on the phase shifts of the spin channels that minimize entanglement generation in the system. In $ΩΩ$ scattering, only antisymmetric spin channels are allowed due to Fermi-Dirac statistics. Applying the entanglement-suppression framework to $ΩΩ$ scattering, we find two solutions for the phase shifts: one leading to a spin SU(4) symmetry and the other to a nonrelativistic conformal symmetry. We show that the solution associated with the nonrelativistic conformal symmetry originates from the specific structure of the Clebsch-Gordan coefficients in the $3/2 \otimes 3/2$ system.

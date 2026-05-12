@@ -1,0 +1,5 @@
+Title: Quantum stress and torsion distributions in the deuteron
+Authors: Wim Cosyn, Adam Freese, Alan Sosa
+Categories: nucl-th, hep-ph, quant-ph
+Published: 2026-02-20 15:51:54+00:00
+Abstract: Stress distributions in the deuteron are related to form factors of the asymmetric energy-momentum tensor through three-dimensional Fourier transforms. There are eleven such form factors, which we calculate in an impulse approximation. We compare the obtained form factors to prior results for the six form factors that have been previously calculated. We then elaborate on the formalism for relating the form factors to internal distributions of mass, mass flux, momentum, stresses, and forces, and obtain results for all of these distributions. We obtain the principal stresses for the symmetric part of the stress tensor, and show that the antisymmetric part describes reorientation of fermion spin by torsion stress when the nucleon moves between the S- and D-waves. Force distributions in the nucleons depend on the so-called non-conserved form factors through the Cauchy momentum equation, and are non-radial owing to the presence of tensor forces and spin-orbit coupling.

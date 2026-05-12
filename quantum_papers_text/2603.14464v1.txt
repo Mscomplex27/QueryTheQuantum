@@ -1,0 +1,5 @@
+Title: The Twin-World road to reality in quantum mechanics
+Authors: Daniel Braun
+Categories: quant-ph
+Published: 2026-03-15 16:13:46+00:00
+Abstract: I introduce a novel realistic, stochastic approach to quantum mechanics by extending the recently proposed grabit formalism \cite{braun_stochastic_2022} to two Twin Worlds. According to the picture developed, we live at the intersection of two worlds with identical stochastic laws of evolution. Our World is limited to that intersection, and only coincidence events from the two Twin Worlds, post-selected automatically by our restriction to the intersection, have physical reality in Our World. This fully reproduces standard non-relativistic quantum mechanics, including Born's rule and the violation of Bell's inequality. I derive the stochastic evolution equation in each Twin World that fully reproduces Schrödinger's equation for an arbitrary number of particles with arbitrary interactions, and demonstrate that hall-mark quantum effects such as tunnling are correctly reproduced.

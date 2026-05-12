@@ -1,0 +1,5 @@
+Title: Theory of x-ray scattering from optically pumped excitons in atomically thin semiconductors
+Authors: Joris Sturm, Andrei Benediktovitch, Nina Rohringer, Andreas Knorr
+Categories: cond-mat.mes-hall, cond-mat.mtrl-sci, quant-ph
+Published: 2026-03-20 11:41:22+00:00
+Abstract: We propose a framework to explore the internal charge distribution of mesoscopic quasiparticles by inelastic x-ray scattering, while also accounting for the conventional scattering from electrons. Specifically, we investigate a new contribution of intrinsic and optically pumped excitons (bound electron-hole pairs) to the x-ray scattering spectrum of transition metal dichalcogenides (TMDCs). The optical excitation leads to the creation of Wannier exciton populations, adding new quasi-elastic processes beyond the conventional electronic features to the x-ray scattering spectra. Differential spectra (with and without optical pumping) can be used to isolate and identify the internal charge distribution of the optically pumped excitons in the scattering response, potentially offering insights into many-body interactions and quasi-particle dynamics in 2D systems.

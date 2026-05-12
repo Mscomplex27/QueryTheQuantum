@@ -1,0 +1,5 @@
+Title: A theory of quantum error correction for permutation-invariant codes
+Authors: Yingkai Ouyang, Gavin K. Brennen
+Categories: quant-ph
+Published: 2026-02-14 07:05:03+00:00
+Abstract: We present for the first time a general theory of error correction for permutation invariant (PI) codes. Using representation theory of the symmetric group we construct efficient algorithms that can correct any correctible error on any PI code. These algorithms involve measurements of total angular momentum, quantum Schur transforms or logical state teleportations, and geometric phase gates. For erasure errors, or more generally deletion errors, on certain PI codes, we give a simpler quantum error correction algorithm.

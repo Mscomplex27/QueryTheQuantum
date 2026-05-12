@@ -1,0 +1,5 @@
+Title: Local integrals of motion encoded in a few eigenstates
+Authors: J. Pawłowski, P. Łydżba, M. Mierzejewski
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-03-02 13:38:16+00:00
+Abstract: Many properties of a quantum system can be obtained from just a single eigenstate of its Hamiltonian. For example, a single eigenstate can be used to determine whether a system is integrable or chaotic and, in the latter case, to establish its thermal properties. Focusing on the XXZ model, we show that the local integrals of motion, which lie at the heart of integrability, can also be estimated from a small number of eigenstates. Moreover, as the system size increases, fewer eigenstates are required, so that in the thermodynamic limit, the integrals of motion can be obtained from a vanishingly small fraction of all eigenstates. Interestingly, this property does not extend to integrals of motion arising solely from Hilbert space fragmentation, as found in the folded XXZ model, where the majority of eigenstates has to be used. This represents one of the few fundamental differences known between integrability and Hilbert space fragmentation.

@@ -1,0 +1,5 @@
+Title: Double Slit Experiment in the Heisenberg Picture of Quantum Mechanics
+Authors: Vlatko Vedral
+Categories: quant-ph
+Published: 2026-04-24 12:02:52+00:00
+Abstract: We present the standard double slit experiment with non-relativistic particles in the Heisenberg Picture of quantum mechanics. Our motivation is threefold. First and foremost, and contrary to some claims in the literature, we show that there is no need to talk about non-locality when explaining the interference fringes. Secondly, we emphasise the fact that even in the non-relativistic regime, and in order to preserve locality, we should define the position and momentum observables of a particle as functions of both space and time (and not just time). Thirdly, our presentation compares the projective measurements in the Heisenberg picture with the "Church of the Larger Hilbert Space", the latter of which is seldom discussed in the Heisenberg picture of quantum mechanics.

@@ -1,0 +1,6 @@
+Title: Drinfeld Center as Quantum State Monodromy over Bloch Hamiltonians around Defects
+Authors: Hisham Sati, Urs Schreiber
+Categories: cond-mat.str-el, math-ph, math.AT, quant-ph
+Published: 2026-03-23 14:34:17+00:00
+Abstract: The Drinfeld center fusion category $\mathcal{Z}(\mathrm{Vec}_G)$ famously models anyons in certain lattice models. Here we demonstrate how its fusion rules may also describe topological order in fractional topological insulator materials, in the vicinity of point defects in the Brillouin zone.
+  Concretely, we prove that $\mathcal{Z}(\mathrm{Vec}_G)$ reflects, locally over a punctured disk in the Brillouin zone, the monodromy (topological order) of gapped quantum states over the parameter space of Bloch Hamiltonians whose classifying space has fundamental group $G$.

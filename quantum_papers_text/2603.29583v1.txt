@@ -1,0 +1,5 @@
+Title: Double-weak-link interferometer of hard-core bosons in one dimension
+Authors: A. Takacs, J. Dubail, P. Calabrese
+Categories: cond-mat.quant-gas, cond-mat.stat-mech, quant-ph
+Published: 2026-03-31 11:04:10+00:00
+Abstract: We study the dynamics of a lattice hard-core boson gas released from a domain wall initial state in the presence of two weak links (defects). When the two defects are separated by a finite distance, the resulting density profile exhibits clear deviations from the standard Euler-scale hydrodynamic description of the gas, due to genuine quantum interference effects between the two defects. By analyzing the exact fermionic propagators, we show that repeated reflections at the defects give rise to interference fringes and coherent patterns that are beyond the reach of the (generalized) hydrodynamic description. We derive a closed analytic expression for the density profile during the expansion, explicitly highlighting the role played by these interference processes.

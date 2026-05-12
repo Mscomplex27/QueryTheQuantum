@@ -1,0 +1,5 @@
+Title: Divide et impera: hybrid multinomial classifiers from quantum binary models
+Authors: Simone Roncallo, Angela Rosy Morgillo, Seth Lloyd, Chiara Macchiavello, Lorenzo Maccone
+Categories: quant-ph
+Published: 2026-04-09 11:09:27+00:00
+Abstract: We investigate how to combine a collection of quantum binary models into a multinomial classifier. We employ a hybrid approach, adopting strategies like one-vs-one, one-vs-rest and a binary decision tree. We benchmark each method, by emphasizing their computational overhead and their impact on the quantum advantage. By comparison against a classical binary model (generalized using the same approach), we show that the decision tree represents a cost-effective solution, achieving similar accuracies to other methods with an overhead at most logarithmic in the total number of classes.

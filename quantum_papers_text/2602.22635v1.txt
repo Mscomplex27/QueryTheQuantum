@@ -1,0 +1,5 @@
+Title: Vibration induced transparency and absorption with two ion ensembles in a linear trap
+Authors: Wenjun Shao, Jian Li
+Categories: quant-ph
+Published: 2026-02-26 05:26:20+00:00
+Abstract: We study the spectra of collective low excitations of two atomic ion ensembles which are confined in a liner trap by addressing lases. When the left ensemble is driven by an external optical field, its corresponding response spectrum to the incident optical light shows a vibration-induced transparency phenomenon when the detuning of the laser addressing the ion is tuned to the first red sideband. In the case of the detuning tuned to the first blue sideband, the response spectrum shows a conversion from the absorption peak to the transparency window. Furthermore, we investigate the fluctuation spectra of the collective excitation modes of ion ensemble and show the similar phenomena.

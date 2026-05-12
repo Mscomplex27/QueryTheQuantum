@@ -1,0 +1,5 @@
+Title: A Perfectly Distributable Quantum-Classical Algorithm for Estimating Triangular Balance in a Signed Edge Stream
+Authors: Steven Kordonowy, Bibhas Adhikari, Hannes Leipold
+Categories: quant-ph, cs.CC
+Published: 2026-03-17 00:29:54+00:00
+Abstract: We develop a perfectly distributable quantum-classical streaming algorithm that processes signed edges to efficiently estimate the counts of triangles of diverse signed configurations in the single pass edge stream. Our approach introduces a quantum sketch register for processing the signed edge stream, together with measurement operators for query-pair calls in the quantum estimator, while a complementary classical estimator accounts for triangles not captured by the quantum procedure. This hybrid design yields a polynomial space advantage over purely classical approaches, extending known results from unsigned edge stream data to the signed setting. We quantify the lack of balance on random signed graph instances, showcasing how the classical and hybrid algorithms estimate balance in practice.

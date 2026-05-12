@@ -1,0 +1,5 @@
+Title: Interaction-Enabled Two- and Three-Fold Exceptional Points
+Authors: Musashi Kato, Tsuneya Yoshida
+Categories: cond-mat.mes-hall, cond-mat.str-el, quant-ph
+Published: 2026-02-15 08:56:36+00:00
+Abstract: We propose a novel type of exceptional points, dubbed interaction-enabled $n$-fold exceptional points [EP$n$s ($n=2,3$)] -- EP$n$s protected by topology that are prohibited at the non-interacting level. Specifically, we demonstrate that both bosonic and fermionic systems host such interaction-enabled EP$n$s ($n=2,3$) in parameter space that are protected by charge U(1), pseudo-spin-parity, and $PT$ symmetries. The interaction-enabled EP2s are protected by zero-dimensional topology and give rise to qualitative changes in the loss rate, an experimentally measurable quantity for cold atoms. Furthermore, we reveal that interactions enable EP3s protected by one-dimensional topology beyond the point-gap topological classifications, suggesting the potential presence of a broader class of interaction-enabled non-Hermitian degeneracies.

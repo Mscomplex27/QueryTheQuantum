@@ -1,0 +1,5 @@
+Title: Quantum Random Forest for the Regression Problem
+Authors: Kamil Khadiev, Liliya Safina
+Categories: quant-ph, cs.AI
+Published: 2026-03-24 04:27:17+00:00
+Abstract: The Random Forest model is one of the popular models of Machine learning. We present a quantum algorithm for testing (forecasting) process of the Random Forest machine learning model for the Regression problem. The presented algorithm is more efficient (in terms of query complexity or running time) than the classical counterpart.

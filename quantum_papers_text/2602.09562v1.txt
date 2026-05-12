@@ -1,0 +1,5 @@
+Title: Fidelity-Age-Aware Scheduling in Quantum Repeater Networks
+Authors: Ozgur Ercetin, Zafer Gedik
+Categories: quant-ph, cs.NI
+Published: 2026-02-10 09:14:28+00:00
+Abstract: Quantum repeater networks distribute entanglement over long distances but must balance fidelity, delay, and resource contention. Prior work optimized throughput and end-to-end fidelity, yet little attention has been paid to the freshness of entanglement-the time since a usable Bell pair was last delivered. We introduce the Fidelity-Age (FA) metric, which measures this interval for states whose fidelity exceeds a threshold Fmin. A renewal formulation links slot-level success probability to long-run average FA, enabling a stochastic control problem that minimizes FA under budget and memory limits. Two lightweight schedulers, FA-THR and FA-INDEX, approximate Lyapunov-drift-optimal control. Simulations on slotted repeater grids show that FA-aware scheduling preserves throughput while reducing extreme-age events by up to two orders of magnitude. Fidelity-Age thus provides a tractable, physically grounded metric for reliable and timely entanglement delivery in quantum networks.

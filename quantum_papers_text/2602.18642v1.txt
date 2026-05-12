@@ -1,0 +1,5 @@
+Title: Auto Quantum Machine Learning for Multisource Classification
+Authors: Tomasz Rybotycki, Sebastian Dziura, Piotr Gawron
+Categories: quant-ph, cs.CV, cs.LG
+Published: 2026-02-20 22:31:02+00:00
+Abstract: With fault-tolerant quantum computing on the horizon, there is growing interest in applying quantum computational methods to data-intensive scientific fields like remote sensing. Quantum machine learning (QML) has already demonstrated potential for such demanding tasks. One area of particular focus is quantum data fusion -- a complex data analysis problem that has attracted significant recent attention. In this work, we introduce an automated QML (AQML) approach for addressing data fusion challenges. We evaluate how AQML-generated quantum circuits perform compared to classical multilayer perceptrons (MLPs) and manually designed QML models when processing multisource inputs. Furthermore, we apply our method to change detection using the multispectral ONERA dataset, achieving improved accuracy over previously reported QML-based change detection results.

@@ -1,0 +1,5 @@
+Title: The empirical laws for Majorana fields in a curved spacetime
+Authors: Hideyasu Yamashita
+Categories: gr-qc, hep-th, math-ph, quant-ph
+Published: 2026-02-18 21:46:41+00:00
+Abstract: This article is a sequel to our previous paper (arXiv:2511.12311), where we considered the conceptual problem on the empirical laws for the Klein\textendash Gordon quantum field theory in curved spacetime (QFTCS), and we will consider the similar problems for the Majorana field on curved spacetime here. A ``law'' in theoretical physics is said to be observable or empirical only if it can be verified/falsified by some experimental procedure. The notion of empiricality/observability becomes far more unclear in QFTCS, than in QFT in Minkowski (flat) spacetime (QFTM), mainly because QFTCS lacks the notion of vacuum. This could potentially undermine the status of QFTCS as a physical (not only mathematical) theory. We consider this problem for the Majorana field in curved spacetime, and examine some examples of the empirical laws.

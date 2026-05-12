@@ -1,0 +1,5 @@
+Title: Optical repumping and atom number balancing in a two-color MOT
+Authors: Shubha Deutschle, Lőrinc Sárkány, Milán János Negyedi, József Fortágh, Andreas Günther, Philippe Wilhelm Courteille
+Categories: quant-ph, physics.atom-ph
+Published: 2026-02-24 19:17:13+00:00
+Abstract: We study a novel repumping transition for $^{88}$Sr atoms trapped in a 'blue' magneto-optical trap. We show that, while the repumping efficiency is about three orders of magnitude smaller than for traditional schemes, it is sufficient for recycling all atoms, provided the repumping laser beams are arranged to form a 'green' magneto- optical trap (MOT) helping to cool and confine the atoms and preventing their loss. Our main findings are: (i) that the green MOT configuration is able to trap 10 times more atoms in the blue MOT than using the green transition merely as a repump, and (ii) that the atom numbers in the two-color MOT can be balanced through experimental control parameters. The interest of this scheme lies in its capability of reaching low temperature and its suitability for continuous atomic beam generation.

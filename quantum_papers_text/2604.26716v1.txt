@@ -1,0 +1,5 @@
+Title: Delayed Choice Phenomena in the Projection Evolution Model
+Authors: Marek Góźdź, Andrzej Góźdź, Krzysztof Lider
+Categories: quant-ph
+Published: 2026-04-29 14:21:31+00:00
+Abstract: In the Schrödinger evolution of a quantum state time enters as a real parameter representing the coordinate. In a more consistent approach time should be defined as a quantum observable, with the evolution taking place in a four-dimensional spacetime. This is possible in the projection evolution model in which the wave function is defined in both space and time. This allows to construct the time operator and discuss the temporal structure of quantum processes. In this paper we discuss a photon travelling through a Mach-Zehnder interferometer, focusing the description on the temporal profile of the wave function. We show that in this approach the delayed-choice experiments can be explained by the temporal overlap of the photon and the devices in the interferometer.

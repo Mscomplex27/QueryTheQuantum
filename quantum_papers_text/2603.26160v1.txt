@@ -1,0 +1,5 @@
+Title: Distributed Quantum Discrete Logarithm Algorithm
+Authors: Renjie Xu, Daowen Qiu, Ligang Xiao, Le Luo, Xu Zhou
+Categories: quant-ph, cs.DC
+Published: 2026-03-27 08:23:46+00:00
+Abstract: Solving the discrete logarithm problem (DLP) with quantum computers is a fundamental task with important implications. Beyond Shor's algorithm, many researchers have proposed alternative solutions in recent years. However, due to current hardware limitations, the scale of DLP instances that can be addressed by quantum computers remains insufficient. To overcome this limitation, we propose a distributed quantum discrete logarithm algorithm that reduces the required quantum register size for solving DLPs. Specifically, we design a distributed quantum algorithm to determine whether the solution is contained in a given set. Based on this procedure, our method solves DLPs by identifying the intersection of sets containing the solution. Compared with Shor's original algorithm, our approach reduces the register size and can improve the success probability, while requiring no quantum communication.

@@ -1,0 +1,5 @@
+Title: Cascaded Optomechanical Sensing for Small Signals
+Authors: Marta Maria Marchese, Daniel Braun, Stefan Nimmrichter, Dennis Rätzel
+Categories: quant-ph
+Published: 2026-02-09 18:28:43+00:00
+Abstract: We propose a sensing scheme for detecting weak forces that achieves Heisenberg-limited sensitivity without relying on entanglement or other non-classical resources. Our scheme utilizes coherent averaging across a chain of N optomechanical cavities, unidirectionally coupled via a laser beam. As the beam passes through the cavities, it accumulates phase shifts induced by a common external force acting on the mechanical elements. Remarkably, this fully classical approach achieves the sensitivity scaling typically associated with quantum-enhanced protocols, providing a robust and experimentally feasible route to precision sensing. Potential applications range from high-sensitivity gravitational field measurements at the Large Hadron Collider to probing dark matter interactions and detecting gravitational waves. This work opens a new pathway for leveraging coherent light-matter interactions for force sensing.

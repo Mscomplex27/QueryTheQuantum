@@ -1,0 +1,5 @@
+Title: Semiclassical Ehrenfest paths in open quantum systems
+Authors: Xiao-Kan Guo
+Categories: quant-ph
+Published: 2026-04-30 02:15:01+00:00
+Abstract: We study the semiclassical Ehrenfest trajectories in open quantum systems. We first derive in explicit form the Fokker-Planck equation that governs the time evolution of the mixing measure for a Gaussian mixture. Then, we embed the generalized Ehrenfest theorem recently obtained for open quantum systems into this phase-space picture to study the time evolution of the expectations of observable with respect to the Gaussian mixture. We show how the coherent and irreversible contributions are microscopically separated. Our work provides a transparent phase-space interpretation of the emergence of classical trajectories in open quantum dynamics.

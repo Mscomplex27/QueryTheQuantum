@@ -1,0 +1,5 @@
+Title: If Quantum Measurements Are Secretly Continuous Nonunitary Processes, Weak Measurements Can Detect It
+Authors: Igor Prlina, Milutin Živković
+Categories: quant-ph
+Published: 2026-03-19 11:36:05+00:00
+Abstract: The standard approach to quantum measurements is to assume that they lead to effectively instantaneous collapse of the quantum state. However, if we assume that we are unable to enforce at what exact moment of time the measurement occurs due to a finite resolution of any time measurement device, at the level of the ensemble, the measurement would lead to an effectively nonunitary evolution involving a mixed state. Each individual ensemble member would face an instantaneous collapse at different moments of time. This process is completely indistinguishable from fundamental nonunitary evolution at the level of each individual ensemble member, within the framework of strong projective measurements. In this paper, we show that weak postselected measurements can distinguish these two types of evolution. An experimental protocol for determining the nature of quantum collapse is described, and the example of a hydrogen atom is analyzed in detail.

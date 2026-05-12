@@ -1,0 +1,5 @@
+Title: Between equilibrium and fluctuation: Einstein's heuristic argument and Boltzmann's principle
+Authors: Enric Pérez, Antonio Gil
+Categories: physics.hist-ph, cond-mat.stat-mech, quant-ph
+Published: 2026-02-11 10:59:19+00:00
+Abstract: We critically revisit Einstein's 1905 heuristic argument for lightquanta, considering its internal coherence and the scope of its applicability. We argue that Einstein's reasoning, often celebrated for its originality, is ambiguous because it can be understood as a fluctuation or as a comparison between equilibrium states. A historical and conceptual analysis of Einstein's use of Boltzmann's principle in those years reveals his evolving stance on its meaning and the role of probability, as well as his persistent doubts about the nature of radiation. We use our analysis to examine the limitations of extending the notion of Einstein's lightquanta across the electromagnetic spectrum: the relevant parameter is not the frequency, but the occupancy number.

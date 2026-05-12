@@ -1,0 +1,5 @@
+Title: Quantum limit of precision for phase estimation in squeezing-enhanced interferometry with a single-mode readout
+Authors: Dmitri B. Horoshko, Fedor Jelezko
+Categories: quant-ph
+Published: 2026-03-08 09:39:52+00:00
+Abstract: We consider an optical interferometer with coherent light in one input and a squeezed vacuum in another. Such an interferometer is known to beat the standard quantum limit of sensitivity to the difference of phase shifts in its arms. We find the ultimate limit of precision for such an interferometer by calculating quantum Fisher information of the mixed quantum state in one of the interferometer's outputs. We show that this information is asymptotically close to quantum Fisher information for the two-mode readout. We conclude that the single-mode readout is optimal for phase estimation in squeezing-enhanced interferometry.

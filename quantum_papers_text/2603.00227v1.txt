@@ -1,0 +1,5 @@
+Title: Tailored dissipation for directional transport in plasmonic ratchets
+Authors: Anna Sidorenko, Jan Mathis Giesen, Sebastian Eggert, Stefan Linden
+Categories: physics.optics, cond-mat.mes-hall, quant-ph
+Published: 2026-02-27 19:00:00+00:00
+Abstract: We present a joint experimental and theoretical study of a ratchet implemented in arra ys of evanescently coupled plasmonic waveguides with tailored losses. In this setup the time-periodic dissipation is the only active mechanism and notably, we find better rectified transport and lower losses in the transmitted signal with increased local dissipation. Using Floquet theory, we uncover a driving regime that allows efficient directional tr ansport for suitable driving frequencies and loss rates, which are linked to linear qu asienergy bands with minimal losses. These regions are separated from non-resonant beh avior by sharp transitions with characteristic exceptional points in the spectrum. Direct experimental observation of the Floquet-dissipative ratchet effect using a comb ination of real- and Fourier-space leakage radiation microscopy is provided.

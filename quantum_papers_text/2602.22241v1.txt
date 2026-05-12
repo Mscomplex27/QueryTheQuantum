@@ -1,0 +1,5 @@
+Title: Stochastic Neural Networks for Quantum Devices
+Authors: Bodo Rosenhahn, Tobias J. Osborne, Christoph Hirche
+Categories: quant-ph, cs.LG
+Published: 2026-02-24 10:16:10+00:00
+Abstract: This work presents a formulation to express and optimize stochastic neural networks as quantum circuits in gate-based quantum computing. Motivated by a classical perceptron, stochastic neurons are introduced and combined into a quantum neural network. The Kiefer-Wolfowitz algorithm in combination with simulated annealing is used for training the network weights. Several topologies and models are presented, including shallow fully connected networks, Hopfield Networks, Restricted Boltzmann Machines, Autoencoders and convolutional neural networks. We also demonstrate the combination of our optimized neural networks as an oracle for the Grover algorithm to realize a quantum generative AI model.

@@ -1,0 +1,5 @@
+Title: Double-sphere enhanced optomechanical spectroscopy constrains symmetron dark energy
+Authors: Jiawei Li, Ka-Di Zhu
+Categories: gr-qc, quant-ph
+Published: 2026-03-05 12:04:07+00:00
+Abstract: Screened scalar fields such as the symmetron provide a viable description of dark energy yet their laboratory detection remains challenging. We propose an optomechanical scheme to constrain symmetron interactions using two optically levitated nanospheres inside a cavity. The symmetron-mediated interaction induces an effective coupling which leads to a measurable splitting in the optomechanical resonance spectrum. We forecast constraints in the regime $μ\sim 10^{-2}$eV-$10^{-4}$ eV, which shows that this approach can improve existing laboratory bounds by up to several orders of magnitude, demonstrating the sensitivity of optomechanical spectroscopy to screened fifth forces.

@@ -1,0 +1,7 @@
+Title: Are LLMs Good For Quantum Software, Architecture, and System Design?
+Authors: Sourish Wawdhane, Poulami Das
+Categories: quant-ph, cs.AI
+Published: 2026-03-27 18:23:09+00:00
+Abstract: Quantum computers promise massive computational speedup for problems in many critical domains, such as physics, chemistry, cryptanalysis, healthcare, etc. However, despite decades of research, they remain far from entering an era of utility. The lack of mature software, architecture, and systems solutions capable of translating quantum-mechanical properties of algorithms into physical state transformations on qubit devices remains a key factor underlying the slow pace of technological progress. The problem worsens due to significant reliance on domain-specific expertise, especially for software developers, computer architects, and systems engineers. To address these limitations and accelerate large-scale high-performance quantum system design, we ask:
+  Can large language models (LLMs) help with solving quantum software, architecture, and systems problems?
+  In this work, we present a case study assessing the performance of LLMs on quantum system reasoning tasks. We evaluate nine frontier LLMs and compare their performance to graduate UT Austin students on a set of quantum computing problems. Finally, we recommend several directions along which research and engineering development efforts must be pursued.

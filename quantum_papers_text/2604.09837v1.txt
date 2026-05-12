@@ -1,0 +1,5 @@
+Title: Planted-solution SAT and Ising benchmarks from integer factorization
+Authors: Itay Hen
+Categories: quant-ph, cs.LO
+Published: 2026-04-10 19:09:24+00:00
+Abstract: We present a family of planted-solution benchmark instances for satisfiability (SAT) solvers and Ising optimization derived from integer factorization. Given two primes $p$ and $q$, the construction encodes the arithmetic constraints of $N = p \times q$ as a conjunctive normal form (CNF) formula whose satisfying assignments correspond to valid factorizations of~$N$. The known pair $(p,q)$ serves as a built-in ground truth, enabling unambiguous verification of solver output. We show that for two $d$-bit primes the total number of carry contractions is on the order of $d^4$. Empirical benchmarks with SAT solvers show that median runtime grows exponentially in the bit-length of the factors over the range tested. The construction provides a scalable, structured, and verifiable benchmark family controlled by a single parameter, accompanied by open-source generation software.

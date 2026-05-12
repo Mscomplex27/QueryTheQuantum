@@ -1,0 +1,5 @@
+Title: Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy
+Authors: Florian Millo, Pauline Rovillain, Massimiliano Marangolo, Daniel Stoeffler
+Categories: cond-mat.mes-hall, cond-mat.stat-mech, physics.comp-ph, quant-ph
+Published: 2026-03-20 16:30:15+00:00
+Abstract: We study the coupling mechanism of surface acoustic waves (SAW) with spin waves (SW) using micromagnetic analysis. The SAW magnetoacoustic excitation field is fully implemented, i.e., all strain and lattice-rotation terms are included. A realistic CoFeB film with a weak in-plane uniaxial anisotropy is considered. We investigate the conditions for efficient SAW--SW coupling, with particular emphasis on the case where the SAW propagates parallel to the external magnetic field, a configuration of special interest for magnonic applications. Remarkably, we find that the anisotropy orientation serves as a knob to tune the parallel resonant interaction. Overall, this work provides a unified and practical picture of SAW--SW coupling in thin magnetized films.

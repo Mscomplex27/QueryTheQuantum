@@ -1,0 +1,5 @@
+Title: Quantum Thermal Field Effect Transistor
+Authors: Abhijeet Kumar, Soniya Malik, P. Arumugam
+Categories: quant-ph, physics.app-ph
+Published: 2026-04-09 07:02:34+00:00
+Abstract: We propose and analyse a quantum thermal field-effect transistor (qtFET) composed of left-qubit, middle-qutrit, and right-qubit subsystems. In this architecture, the left qubit is coupled to the middle qutrit, which in turn interacts with the right qubit. Each subsystem interacts independently with its respective baths. The middle subsystem serves as a modulator. We have shown that the qtFET exhibits functionality analogous to that of a conventional electronic field-effect transistor (eFET). The left, right, and middle subsystems of the qtFET correspond to the drain, source, and gate of an eFET in a common gate configuration, respectively. Our results show that the qtFET can precisely modulate thermal currents, highlighting its potential as a fundamental building block for quantum thermal devices and amplifiers in emerging quantum technologies.

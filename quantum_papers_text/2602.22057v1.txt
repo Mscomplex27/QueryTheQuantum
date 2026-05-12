@@ -1,0 +1,5 @@
+Title: Quantum tomography for non-iid sources
+Authors: Leonardo Zambrano
+Categories: quant-ph
+Published: 2026-02-25 16:06:54+00:00
+Abstract: Quantum state and process tomography are typically analyzed under the assumption that devices emit independent and identically distributed (i.i.d.) states or channels. In realistic experiments, however, noise, drift, feedback, or adversarial behavior violate this assumption. We show that projected least-squares tomography remains statistically optimal even under fully adaptive state and channel preparation. Specifically, we prove that the sample complexity for reconstructing the time-averaged state or channel matches the optimal i.i.d. scaling for non-adaptive, single-copy measurements. For rank-$r$ states, the sample complexity is $\mathcal{O}(d r^2/ε^2)$ to achieve accuracy $ε$ in trace distance, while for process tomography it is $\mathcal{O}(d^6/ε^2)$ to achieve accuracy $ε$ in diamond distance. Thus, dropping the i.i.d. assumption does not increase the fundamental sample complexity of quantum tomography, but only changes the interpretation of the reconstructed object.

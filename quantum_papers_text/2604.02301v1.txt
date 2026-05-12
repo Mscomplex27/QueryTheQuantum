@@ -1,0 +1,5 @@
+Title: Lemniscate phase trajectories for high-fidelity GHZ state preparation in trapped-ion chains
+Authors: Evgeny V. Anikin, Andrey Chuchalin, Dimitrii Donchenko, Olga Lakhmanskaya, Kirill Lakhmanskiy
+Categories: quant-ph
+Published: 2026-04-02 17:41:17+00:00
+Abstract: In trapped-ion chains, multipartite GHZ states can be prepared natively with the help of a single bichromatic laser pulse. However, higher-order terms in the expansion in the Lamb-Dicke parameter $η$ limit the GHZ state preparation infidelity for rectangular and bell-like pulses to the order of $η^4$. For tens of ions, the infidelity caused by out-of-Lamb-Dicke effects can reach several percents. We propose an amplitude and phase-modulated pulse shape, an "echoed lemniscate pulse", which cancels this contribution into error in the leading order. For the proposed pulse, the infidelity scales as $η^6$. The improved scaling is achieved because of a special phase trajectory of a collective motional mode following the figure-eight curve (lemniscate). We demonstrate that the lemniscate pulse allows achieving lower infidelity than bell-like pulses, which can be as low as $10^{-4}$ for $20$-ion chains.

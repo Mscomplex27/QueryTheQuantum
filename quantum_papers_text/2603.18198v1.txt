@@ -1,0 +1,5 @@
+Title: Bell-EPR Correlations within Local Quantum Theory
+Authors: Jay Lawrence
+Categories: quant-ph
+Published: 2026-03-18 18:49:50+00:00
+Abstract: We present a local unitary theory of a Bell-EPR measurement, starting with the premeasurement filtering of the individual photon polarizations and extending through the detection process involving four photodetectors, two at each receiving station. The essential feature is that decoherence occurs locally and independently with each detector upon its absorption of a photon. Communication between observers after they read their local outcomes confirms the known Bell-EPR correlations. This theory is manifestly local, but there exist other formulations, and interpretations, that are non-local.

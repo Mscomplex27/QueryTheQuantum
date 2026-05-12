@@ -1,0 +1,5 @@
+Title: Ground state energy of particle in space with minimal length and momentum
+Authors: Arsen Panas, Volodymyr Tkachuk
+Categories: quant-ph
+Published: 2026-04-29 12:25:35+00:00
+Abstract: In this article, we derive a rigorous lower bound on the ground-state energy for a class of one-dimensional quantum systems in deformed space with minimal coordinate and momentum uncertainties, representing the absolute minimum energy that is physically attainable. We consider a harmonic oscillator in such a space and calculate its ground state energy. We generalized the problem to an arbitrary potential, deriving an equation for the coordinate uncertainty corresponding to the minimal energy, which can be solved numerically. Using a linear approximation in the deformation parameters, we obtained a general expression for the ground-state energy. We determined the domain of existence of solutions for the anharmonic oscillator potential with respect to the deformation parameters.

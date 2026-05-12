@@ -1,0 +1,5 @@
+Title: An ode to instantons
+Authors: Oliver Janssen, Joel Karlsson, Flavio Riccardi, Mattia Varrone
+Categories: hep-th, quant-ph
+Published: 2026-03-06 18:59:54+00:00
+Abstract: We present a formalism for semiclassical time evolution in quantum mechanics, building on a century of work. We identify complex saddle points in real time, real saddle points in complex time, and complex saddle points in complex time that reproduce the known answers in classic problems. For the decay of a metastable state, we find finite time and finite energy analogs of the "bounce" which do not have strict zero or negative modes. The one-loop phase of the wave function and the multiplicity of bounce solutions at late times are discussed. The motivation of this work is to learn how to compute decay rates in quantum field theory in situations with non-trivial time dependence, by first taking a humble step backwards to the fascinating world of quantum mechanics.

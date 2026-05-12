@@ -1,0 +1,5 @@
+Title: Superconducting Parallel-Plate Resonators for the Detection of Single Electron Spins
+Authors: André Pscherer, Jannes Liersch, Patrick Abgrall, Andrew D. Beyer, Fabien Defrance, Sunil R. Gowala, Hélène Le Sueur, James O'Sullivan, Emmanuel Flurin, Patrice Bertet
+Categories: quant-ph
+Published: 2026-03-26 10:01:01+00:00
+Abstract: We introduce a multilayer superconducting microwave resonator with sub-Ohm impedance optimized for high coupling strength to single electron spins. The design minimizes the magnetic far-field and therefore achieves a Purcell factor $F_P > 10^{15}$. We show several ways to fabricate this type of resonator and present resonators with an intrinsic $Q$-factor exceeding $2 \cdot 10^4$ at the single-photon level. We further characterize these resonators in magnetic fields up to $500 \, \text{mT}$. Finally, we evaluate the impact of the achievable Purcell factor on single-spin detection through photon counting and dispersive readout.

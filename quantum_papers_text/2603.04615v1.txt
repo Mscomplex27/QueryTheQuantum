@@ -1,0 +1,5 @@
+Title: Quantum Cramér-Rao bound on quantum metric as a multi-observable uncertainty relation
+Authors: Wei Chen
+Categories: quant-ph
+Published: 2026-03-04 21:20:09+00:00
+Abstract: A version of quantum Cramér-Rao bound dictates that the covariance of any set of operators is bounded by a product of the derivatives of expectation values and the inverse of quantum metric. We elaborate that because quantum metric itself is the covariance of the generators of translation in the parameter space, quantum metric in any dimension is bounded by a product of itself and Berry curvature. The generator formalism further indicates that the bound is equivalent to a multi-observable uncertainty relation, which in the two-operator case recovers the Robertson-Schrödinger uncertainty relation. The momentum space quantum metric and spin operators of three-dimensional topological insulators under magnetic field are used to demonstrate the validity of the three-operator version of these bounds.

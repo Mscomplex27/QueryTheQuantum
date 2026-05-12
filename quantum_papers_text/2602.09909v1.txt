@@ -1,0 +1,5 @@
+Title: Tucker iterative quantum state preparation
+Authors: Carsten Blank, Israel F. Araujo
+Categories: quant-ph, cs.ET
+Published: 2026-02-10 15:41:32+00:00
+Abstract: Quantum state preparation is a fundamental component of quantum algorithms, particularly in quantum machine learning and data processing, where classical data must be encoded efficiently into quantum states. Existing amplitude encoding techniques often rely on recursive bipartitions or tensor decompositions, which either lead to deep circuits or lack practical guidance for circuit construction. In this work, we introduce Tucker Iterative Quantum State Preparation (Q-Tucker), a novel method that adaptively constructs shallow, deterministic quantum circuits by exploiting the global entanglement structure of target states. Building upon the Tucker decomposition, our method factors the target quantum state into a core tensor and mode-specific operators, enabling direct decompositions across multiple subsystems.

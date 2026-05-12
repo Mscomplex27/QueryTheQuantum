@@ -1,0 +1,5 @@
+Title: Quantum Entanglement Assistance Improves the Capacity and Activates the Zero-Error Capacity of Classical Channels with Causal CSIT
+Authors: Yuhang Yao, Syed A. Jafar
+Categories: quant-ph, cs.IT
+Published: 2026-03-20 18:35:21+00:00
+Abstract: For classical point-to-point channels, it has been shown by Bennett et al. that quantum entanglement assistance cannot improve their capacity, and by Cubitt et al. that entanglement assistance cannot activate (increase from zero to non-zero) their zero-error capacity. In contrast, we show that for classical point-to-point channels with causal CSIT (channel state information at the transmitter), quantum entanglement assistance can in some cases improve their capacity, and in some cases activate their zero-error capacity.

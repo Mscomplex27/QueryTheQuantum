@@ -1,0 +1,5 @@
+Title: QCommute: a tool for symbolic computation of nested commutators in quantum many-body spin-1/2 systems
+Authors: Oleg Lychkovskiy, Viacheslav Khrushchev, Ilya Shirokov
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-04-06 15:52:18+00:00
+Abstract: We present QCommute, a software tool implemented in C++ for symbolic computation of nested commutators between a Hamiltonian and local observables in quantum many-body spin-1/2 systems on one-, two-, and three-dimensional hypercubic lattices. The computation is performed algebraically directly in the thermodynamic limit, and the Hamiltonian parameters are kept symbolic. Importantly, this way the entire parameter space is covered in a single run. The implementation supports extensive parallelization to achieve high computational performance. QCommute enables the investigation of quantum dynamics in strongly correlated regimes that are inaccessible to perturbative approaches, either through direct Taylor expansion in time or via advanced techniques such as the recursion method.

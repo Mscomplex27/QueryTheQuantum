@@ -1,0 +1,5 @@
+Title: Star product for qubit states in phase space and star exponentials
+Authors: Jasel Berra-Montiel, Alberto Molgado, Mar Sánchez-Córdova
+Categories: quant-ph, math-ph
+Published: 2026-04-06 21:00:45+00:00
+Abstract: In this paper, we formulate the phase space description of qubit systems using coadjoint orbits of $SU(2)$ and the Stratonovich-Weyl correspondence, yielding a deformation quantization on the sphere. The resulting star product reproduces the operator algebra of complexified quaternions and its antisymmetric part induces the Lie-Poisson structure associated with the Kirillov-Kostant-Souriau symplectic form. We show that quantum dynamics can be expressed entirely in phase space through star exponentials of Hamiltonian symbols, leading to an explicit representation of the propagator. Further, we establish the equivalence between the coherent-state path integral formulation on $S^2$ and the algebraic description in terms of star exponentials. Some examples illustrating the construction of the star-exponential functions and the resulting Poisson structure are included.

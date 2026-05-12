@@ -1,0 +1,5 @@
+Title: Identical, independent quantum weak measurements violate objective realism
+Authors: Tomasz Rybotycki, Tomasz Białecki, Josep Batle, Bartłomiej Zglinicki, Adam Szereszewski, Wolfgang Belzig, Adam Bednorz
+Categories: quant-ph
+Published: 2026-03-23 14:28:30+00:00
+Abstract: We demonstrate violation of objective realism in quantum world using unconstrained weak measurements. Instead of limited Leggett-Garg approach with artificial bounds on the observed values, we assume two identical and indepenent weak detectors and final conditioning. The experimental verification has been performed on public quantum computers, IBM and IonQ. Thanks to sufficiently large statistics, the violation is observed at the level of 10 standard deviations. The tests confirmed also high quality of parametric two-qubit gates offered by main quantum hardware providers.

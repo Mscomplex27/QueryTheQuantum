@@ -1,0 +1,5 @@
+Title: Tuning of quantum nanoscaled friction within the Prandtl-Tomlinson model
+Authors: Dai-Nam Le, Lilia M. Woods
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-04-29 21:38:42+00:00
+Abstract: Nanoscaled friction is a fundamental tribological phenomenon with complex behavior of its dynamical force. Here, we utilize the Prandtl-Tomlinson framework to investigate systematically the different means of control of the frictional force at the quantum and classical levels. It is found that the frictional dynamics can be controlled by the corrugation and characteristic length ratio parameters dependent upon properties of the nanoparticle-chain system. In addition to the stick-slip regime, other types of motion are uncovered, highlighting the richness of the frictional dynamics. The importance of Landau-Zener tunneling for the quantum motion is also analyzed. These findings provide valuable insights for interpreting experimental observations and controlling quantum frictional behavior in nanoscale systems.

@@ -1,0 +1,5 @@
+Title: Efimov Effect in Ultracold Microwave-Shielded Polar Molecules
+Authors: Shayamal Singh, Chris H. Greene
+Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
+Published: 2026-02-24 23:22:56+00:00
+Abstract: A quantum-mechanical description is presented for the three-body physics of shielded dipolar molecules, including a prediction of observable Efimov physics. Despite the anisotropic and long-range nature of the interaction, shielding enables a regime in which universality emerges already at the two-body level and extends to the three-body sector, where Efimov physics emerges. On the negative side of the scattering-length resonance, computed trimer binding energies display the characteristic scaling expected for Efimov resonances. Finally, the sudden approximation can be used to create trimer bound states, starting from positive energy trap states as a way to create or detect these molecular trimers. Moreover, the three-body parameter expressed in dipolar units is found to be universal.

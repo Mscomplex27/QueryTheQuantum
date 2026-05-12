@@ -1,0 +1,5 @@
+Title: Uncertainty relations: a small zoo of remarkable inequalities discovered since 1927
+Authors: V. V. Dodonov
+Categories: quant-ph, math-ph
+Published: 2026-03-07 17:24:44+00:00
+Abstract: A concise review of various mathematical formulations of the uncertainty relations in quantum mechanics discovered since 1927 is given. Besides the traditional Heisenberg inequality, the modifications made by Schrödinger and Robertson, as well as generalizations to sets of several noncommuting operators, are considered. The "entropic" inequalities and "local" uncertainty relations, together with inequalities which connect the so-called total width and the mean peak width of a wave function, are discussed. Inequalities for the products of higher order moments of the coordinate and momentum are presented. Inequalities making the uncertainty relations more accurate when the "purity" of a quantum state is fixed are demonstrated. Diverse formulations of the energy-time uncertainty relations are considered.

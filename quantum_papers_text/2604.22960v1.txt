@@ -1,0 +1,5 @@
+Title: No cloning with unitary scaling
+Authors: Dafa Li
+Categories: quant-ph
+Published: 2026-04-24 19:03:39+00:00
+Abstract: It is known that the classical information like strings of bits can be copied. In 1982, Wootters and Zurek proposed the quantum no-cloning principle [1]. No-cloning principle says that it is impossible to make an identical copy of an arbitrary unknown quantum pure state by using unitary evolution. In this paper, we propose a general no-cloning principle. We call U|psi>, where U is any unitary operator, a U-copy of the state |psi>. The general no-cloning principle states that it is impossible to make a U-copy of an arbitrary unknown quantum pure state by using unitary evolution.

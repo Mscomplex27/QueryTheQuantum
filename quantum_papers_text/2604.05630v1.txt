@@ -1,0 +1,5 @@
+Title: Symmetry-resolved Krylov Complexity and the Uncoloured Tensor Model
+Authors: Shaliya Kotta, P N Bala Subramanian
+Categories: hep-th, cond-mat.stat-mech, quant-ph
+Published: 2026-04-07 09:35:02+00:00
+Abstract: The symmetry-resolved Krylov complexity is a useful tool in studying chaotic properties of systems that are endowed with symmetries. We investigate the conditions under which an invariant operator would have the symmetry-resolved Krylov complexity in a charge subspace identical to the Krylov complexity of the full operator. Further, we study the Krylov complexity of the Uncoloured Tensor Model, a disorder-free kin of the SYK Model which has a plethora of symmetries. We find charge subspaces of the same operator in which the equipartition holds as well as where it doesn't. We also find that within the computational limits, the Krylov complexity averaged over the symmetry subspace is bounded above by that of the operator in the full space.

@@ -1,0 +1,5 @@
+Title: Formally Verifying Quantum Phase Estimation Circuits with 1,000+ Qubits
+Authors: Arun Govindankutty, Sudarshan K. Srinivasan
+Categories: quant-ph, cs.LO
+Published: 2026-03-09 01:59:07+00:00
+Abstract: We present a scalable formal verification methodology for Quantum Phase Estimation (QPE) circuits. Our approach uses a symbolic qubit abstraction based on quantifier-free bit-vector logic, capturing key quantum phenomena, including superposition, rotation, and measurement. The proposed methodology maps quantum circuit functional behaviour from Hilbert space to a bit-vector domain. We develop formal properties aligned with this abstraction to ensure functional correctness of QPE circuits. The method scales efficiently, verifying QPE circuits with up to 6 precision qubits and 1,024 phase qubits using under 7.5~GB of memory.

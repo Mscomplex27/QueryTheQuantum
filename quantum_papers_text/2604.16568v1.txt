@@ -1,0 +1,5 @@
+Title: Momentum reconstruction from Unruh-deWitt detectors
+Authors: Jesse Huhtala, Iiro Vilja
+Categories: quant-ph
+Published: 2026-04-17 10:54:28+00:00
+Abstract: We investigate momentum reconstruction for particle processes observed by Unruh-deWitt detector setups. In particular, we derive the probability distributions for particle momenta conditioned on detector clicks in three spatial dimensions. We investigate the statistical properties of such detector setups and discuss their use as models of measurement devices in particle physics.

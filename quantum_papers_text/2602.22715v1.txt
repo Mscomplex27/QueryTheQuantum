@@ -1,0 +1,5 @@
+Title: Effective Repulsive Action of Gravitational Quantum Superpositions Under Postselection
+Authors: Sougato Bose, Lev Vaidman
+Categories: quant-ph, gr-qc
+Published: 2026-02-26 07:41:29+00:00
+Abstract: A classic feature of gravity is that it is an attractive force. If a source mass is prepared in a localized (classical- like) state, it will cause another probe mass to move towards it. Here we consider the situation in which a source mass is prepared in a quantum superposition of distinct spatial states while a probe mass interacts with it. Conditional on the detection of the source mass in a specific state, the probe mass will be found to move away from the source mass (repulsion). This signifies the quantum superposition of gravitational forces acting on the probe mass and thereby the fact that spacetime can exist in quantum superpositions. The technique used is the repulsive effect arising from an anomalous negative weak value. A potential experimental implementation with spin bearing nanocrystals is outlined.

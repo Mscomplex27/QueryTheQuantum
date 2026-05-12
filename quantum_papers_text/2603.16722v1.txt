@@ -1,0 +1,5 @@
+Title: Completely Bounded Qusi-Norms, Their Mutiplicativity, and New Additivity Results of Quantum Channels
+Authors: Ke Li, Quanhua Xu
+Categories: quant-ph, math.FA
+Published: 2026-03-17 16:09:22+00:00
+Abstract: We obtain two new additivity results of quantum channels. The first one is the additivity of the channel Rényi information associated with the sandwiched Rényi divergence of order $α\in[\frac{1}{2},1)$. To prove this, we introduce the completely bounded $1\toα$ quasi-norms for completely positive maps, with $α\in[\frac{1}{2},1)$, and show that it is multiplicative. The additivity/multiplicativity derived here extends and complements the results of Devetak {\it et al} (Commun Math Phys 266:37-63, 2006) and Gupta and Wilde (Commun Math Phys 334:867-887, 2015), which deal with the case $α>1$. The second one is the additivity of the channel dispersion, which is a quantity related to the second-order behavior of quantum information tasks.

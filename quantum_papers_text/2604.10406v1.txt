@@ -1,0 +1,5 @@
+Title: Quantum Vacuum Radiation Near a Critical Point
+Authors: Gabriele Orlando, Daniele Lamberto, Franco Nori, Salvatore Savasta
+Categories: quant-ph
+Published: 2026-04-12 01:55:35+00:00
+Abstract: Equilibrium quantum phase transitions profoundly reshape the ground state of light-matter systems, yet, the resulting quantum correlations, such as squeezing and entanglement, remain experimentally inaccessible since they involve virtual ground state excitations. We investigate how nonadiabatic modulation of a Hamiltonian parameter can convert these virtual excitations into real photons, enabling quantum vacuum radiation. We show that proximity to the critical point strongly enhances the emitted photon flux and the non-classical nature of the emitted radiation, even when thermal fluctuations are expected to dominate. In addition, higher-order processes become relevant even for small modulation amplitudes, and we develop a framework that systematically incorporates them. Our results reveal that criticality can act as an efficient amplifier of vacuum fluctuations, offering new routes to probe and exploit quantum critical ground states.

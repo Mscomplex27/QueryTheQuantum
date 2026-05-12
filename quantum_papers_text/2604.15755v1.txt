@@ -1,0 +1,5 @@
+Title: Optically detected magnetic resonance of nitrogen-vacancy centers in diamond using two-photon excitation
+Authors: Lam T. Nguyen, Khanh Kieu
+Categories: quant-ph, physics.app-ph, physics.atom-ph, physics.optics
+Published: 2026-04-17 06:58:35+00:00
+Abstract: We demonstrate the use of two-photon excitation for observing the ground state optically detected magnetic resonance (ODMR) of nitrogen-vacancy centers in diamonds at room temperature. An ultrafast femtosecond laser at 1040 nm was used for excitation, while fluorescence signal read out was achieved through a combination of a PMT and a lock-in amplifier. The imaging capability of two-photon excitation fluorescence (2PEF) was utilized to map the distribution of NV centers in a bulk diamond and micro-sized diamonds. For the first time, ODMR traces of the nitrogen-vacancy center are observed with two-photon excitation, providing a promising tool for fast 3D quantum sensing and imaging.

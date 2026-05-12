@@ -1,0 +1,5 @@
+Title: Topology and edge modes surviving criticality in non-Hermitian Floquet systems
+Authors: Longwen Zhou
+Categories: cond-mat.mes-hall, cond-mat.stat-mech, quant-ph
+Published: 2026-02-13 04:01:55+00:00
+Abstract: The discovery of critical points that can host quantized nonlocal order parameters and degenerate edge modes relocate the study of symmetry-protected topological phases (SPTs) to gapless regions. In this letter, we reveal gapless SPTs (gSPTs) in systems tuned out-of-equilibrium by periodic drivings and non-Hermitian couplings. Focusing on one-dimensional models with sublattice symmetry, we introduce winding numbers by applying the Cauchy's argument principle to generalized Brillouin zone (GBZ), yielding unified topological characterizations and bulk-edge correspondence in both gapped phases and at gapless critical points. The theory is demonstrated in a broad class of Floquet bipartite lattices, unveiling unique topological criticality of non-Hermitian Floquet origin. Our findings identify gSPTs in driven open systems and uncover robust topological edge modes at phase transitions beyond equilibrium.

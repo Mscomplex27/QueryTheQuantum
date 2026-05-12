@@ -1,0 +1,5 @@
+Title: Quantum simulation of baryon scattering in SU(2) lattice gauge theory
+Authors: João Barata, Juan Hormaza, Zhong-Bo Kang, Wenyang Qian
+Categories: hep-lat, hep-ph, nucl-th, quant-ph
+Published: 2026-04-08 06:30:46+00:00
+Abstract: We present a first real-time study of hadronic scattering in a $(1+1)$-dimensional SU(2) lattice gauge theory with fundamental fermions using tensor-network techniques. Working in the gaugeless Hamiltonian formulation, we investigate scattering processes across sectors of fixed global baryon number $B = 0, 1, 2$, corresponding respectively to meson--meson, meson--baryon, and baryon--baryon collisions. At strong coupling, the $B = 0$ and $B = 2$ channels exhibit predominantly elastic dynamics closely resembling the U(1) Schwinger model. The mixed $B = 1$ sector displays qualitatively new behavior: meson and baryon wavepackets become entangled during the collision, with the slower state becoming spatially delocalized while the faster one propagates ballistically. We characterize these processes through local observables, entanglement entropy, and the information lattice.

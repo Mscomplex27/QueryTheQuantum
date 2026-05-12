@@ -1,0 +1,5 @@
+Title: Alice and Bob through a quantum mirror
+Authors: M. Uria, C. Hermann-Avigliano, P. Solano, A. Delgado
+Categories: quant-ph, physics.atom-ph, physics.optics
+Published: 2026-03-19 00:12:54+00:00
+Abstract: A quantum mirror is a device whose optical response, that is, transmission and reflection, can be controlled by a single qubit. Here, we propose the use of quantum mirrors as nodes in quantum networks. Propagating coherent states mediate the interaction between the control qubits of each quantum mirror. This allows implementing quantum teleportation, quantum state transfer, and entanglement swapping with success probability and average fidelity exponentially approaching unity as the average photon number increases. Furthermore, we show that quantum teleportation exhibits robustness against known sources of error, such as optical path phase difference, photon loss, and reduced quantum mirror reflectivity, presenting a promising alternative towards long-distance quantum communication.

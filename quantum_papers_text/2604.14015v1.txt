@@ -1,0 +1,5 @@
+Title: The role of classical periodic orbits in quantum many-body systems
+Authors: Daniel Waltner, Boris Gutkin
+Categories: quant-ph, nlin.CD
+Published: 2026-04-15 15:57:21+00:00
+Abstract: Semiclassical methods have been applied very successfully to describe the nontrivial transition from the quantum to the classical regime in $\textit{single}$-particle or at least $\textit{few}$-particle systems. Challenges on the way to an extension to $\textit{many}$-body systems result from the exponential proliferation of the number of classical orbits in chaotic systems and the exponential growth of the quantum Hilbert-space dimension with the particle number. To circumvent these problems, we apply here our recently developed duality relation. Considering the kicked spin chain as example for a many-body system, we show how the duality relation can be used to extract the classical orbits from the quantum spectrum. For coupled cat maps, we analyze the spectral statistics of chaotic many-body systems and discuss the double limit of large semiclassical parameter and large particle number.

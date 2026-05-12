@@ -1,0 +1,5 @@
+Title: Spin qubit gates via phonon buses in electron nanowires
+Authors: Dylan Lewis, Roopayan Ghosh, Sanjeev Kumar, Michael Pepper, Charles Smith, Karyn Le Hur, Sougato Bose
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-03-13 18:52:48+00:00
+Abstract: Scalable architectures for quantum computing using semiconductor quantum dots require interactions between qubits beyond adjacent quantum dots. Here, we propose using nanowires of electrons to mediate the interaction between two quantum dots. Virtual phonons in the linear chain of electrons can mediate an interaction that gives rise to effective spin-spin coupling of the electrons in distant quantum dots. We find coupling strengths of more than 30 MHz for experimentally realisable parameters in GaAs quantum dots.

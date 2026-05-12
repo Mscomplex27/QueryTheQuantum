@@ -1,0 +1,9 @@
+Title: Strict Hierarchy for Quantum Channel Certification to Unitary
+Authors: Kean Chen, Qisheng Wang, Zhicheng Zhang
+Categories: quant-ph, cs.CC, cs.DS
+Published: 2026-04-29 17:10:34+00:00
+Abstract: We consider the problem of quantum channel certification to unitary, where one is given access to an unknown $d$-dimensional channel $\mathcal{E}$, and wants to test whether $\mathcal{E}$ is equal to a target unitary channel or is $\varepsilon$-far from it in the diamond norm. We present optimal quantum algorithms for this problem, settling the query complexities in three access models with increasing power. Specifically, we show that:
+  (i) $Θ(d/\varepsilon^2)$ queries suffice for incoherent access model, matching the lower bound due to Fawzi, Flammarion, Garivier, and Oufkir (COLT 2023).
+  (ii) $Θ(d/\varepsilon)$ queries suffice for coherent access model, matching the lower bound due to Regev and Schiff (ICALP 2008).
+  (iii) $Θ(\sqrt{d}/\varepsilon)$ queries suffice for source-code access model, matching the lower bound due to Jeon and Oh (npj Quantum Inf. 2026).
+  This demonstrates a strict hierarchy of complexities for quantum channel certification to unitary across various access models.

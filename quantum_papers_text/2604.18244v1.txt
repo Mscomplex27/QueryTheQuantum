@@ -1,0 +1,5 @@
+Title: Quantum many-body scars in random unitary circuits
+Authors: Luca Capizzi, Benoît Ferté
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-20 13:24:48+00:00
+Abstract: Quantum many-body scars are rare exceptions to thermalization: they sustain non-thermal stationary states without the protection of any local conservation law, and are generally expected to be fragile. Here we construct an analytically tractable random unitary circuit hosting a single scar, and derive from first principles the thermalization mechanism governing perturbations thereof - described by a picture of fluctuating interfaces. Surprisingly, despite being thermodynamically irrelevant for local observables, the scar leaves a sharp fingerprint in the entanglement dynamics, driving a transition as a function of perturbation strength that is not probed by any local measurement.

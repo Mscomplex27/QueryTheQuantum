@@ -1,0 +1,6 @@
+Title: Quantum block encoding for semiseparable matrices
+Authors: Giacomo Antonioli, Paola Boito, Gianna M. Del Corso, Margherita Porcelli
+Categories: quant-ph, math.NA, math.QA
+Published: 2026-03-19 16:49:13+00:00
+Abstract: Quantum block encoding (QBE) is a crucial step in the development of most quantum algorithms, as it provides an embedding of a given matrix into a suitable larger unitary matrix. Historically, the development of efficient techniques for QBE has mostly focused on sparse matrices; less effort has been devoted to data-sparse (e.g., rank-structured) matrices.
+  In this work we examine a particular case of rank structure, namely, one-pair semiseparable matrices. We present a new block encoding approach that relies on a suitable factorization of the given matrix as the product of triangular and diagonal factors. To encode the matrix, the algorithm needs $2\log(N)+7$ ancillary qubits. This process takes polylogarithmic time and has an error of $\mathcal{O}(N^2)$, where $N$ is the matrix size.

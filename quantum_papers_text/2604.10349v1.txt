@@ -1,0 +1,7 @@
+Title: A Detector-Based Inference Framework for Quantum Theory and Spacetime Geometry
+Authors: Marcello Rotondo
+Categories: quant-ph
+Published: 2026-04-11 21:12:23+00:00
+Abstract: We develop a detector-based framework in which quantum theory and spacetime geometry arise within a common inferential structure. Detector states and a detector kernel assign amplitudes to measurement events, allowing quantum theory to be interpreted as weighting hypothetical configurations consistent with observed detector clicks.
+  Using a Gaussian detector model with phase structure, we show that distinguishability induces an information geometry on detector-state space, described by the quantum geometric tensor. A Lorentzian spacetime metric is reconstructed from coupled position and time detector sectors, with both amplitude and phase deformations contributing to geometry. Scalar curvature acquires an operational interpretation as a local deficit of distinguishable outcomes.
+  We construct an effective consistency functional combining detector-deformation cost with a geometric term selected by locality and diffeomorphism invariance. Its stationary configurations yield the Einstein equation, with a stress-energy tensor arising from detector deformations. Vacuum configurations need not be flat, while local deformations provide an operational notion of matter and recover standard field-theoretic behavior in the scalar sector.

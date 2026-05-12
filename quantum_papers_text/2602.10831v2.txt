@@ -1,0 +1,5 @@
+Title: Mixed-State Topology in Non-Hermitian Systems
+Authors: Shou-Bang Yang, Pei-Rong Han, Wen Ning, Fan Wu, Zhen-Biao Yang, Shi-Biao Zheng
+Categories: quant-ph
+Published: 2026-02-11 13:17:04+00:00
+Abstract: Non-Hermitian (NH) systems, owing to the existence of exceptional point (or ring and surface), exhibit exotic topological features which are inaccessible in Hermitian systems. While current studies on NH topology has primarily focused on pure states at zero temperature, the topological properties of mixed states remain largely unexplored. In this work, we investigate the mixed-state topology in two-dimensional NH systems using the Uhlmann phase and the thermal Uhlmann-Chern number, both structured via the Uhlmann connection at specific temperatures, revealing distinct topological characteristics compared to those of pure states. Furthermore, we extend our analysis to mixed states in three-dimensional Abelian and four-dimensional non-Abelian NH systems, confirming the existence of the higher-order mixed-state topology. Our study establishes a conceptual and practical pathway for exploring topological phenomena in the mixed-state regime of NH physics.

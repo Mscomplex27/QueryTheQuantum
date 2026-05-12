@@ -1,0 +1,5 @@
+Title: Canonically consistent quantum master equation for proton-transfer reactions
+Authors: Zahra Sartipi, Richard Gundermann, Janet Anders, Peter Saalfrank
+Categories: quant-ph
+Published: 2026-03-23 11:56:30+00:00
+Abstract: The canonically consistent quantum master equation (CCQME) method to treat system-bath dynamics is used to describe intramolecular proton transfer in the thioacetylacetone molecule (TAA, C$_4$H$_6$OS), modeled as an $N$-level quantum system coupled to a solvent. The solvent is represented as a harmonic bath (a continuum of oscillators) characterized by an Ohmic-Drude spectral density. We benchmark CCQME against numerically exact hierarchical equations of motion (HEOM) theory and compare to Redfield theory. Our results reveal that Redfield dynamics deviates increasingly from the HEOM reference as the system-bath coupling strength grows. In contrast, the recently proposed CCQME remains consistent with HEOM at intermediate coupling.

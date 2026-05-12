@@ -1,0 +1,5 @@
+Title: Continuous-variable two-dimensional cluster states in the microwave domain
+Authors: Fabio Lingua, Michele Cortinovis, J. C. Rivera Hernández, David B. Haviland
+Categories: quant-ph
+Published: 2026-04-08 13:59:39+00:00
+Abstract: We demonstrate the experimental realization of two-dimensional, continuous variable (CV) cluster states between 191 microwave frequency modes. This result is obtained by exposing vacuum fluctuations to the input of a Josephson Parametric Amplifier, parametrically pumped by a sum of coherent tones around twice its resonant frequency. By carefully tuning pump frequencies, amplitudes, and phases we engineer the interference between mixing products and realize honeycomb and square lattice CV cluster states with three and four pump tones respectively. We prove the presence of the cluster states with a suitable nullifier test, reaching up to $-1.2$ dB of squeezing of the cluster state's nullifiers. We study hidden entanglement (HE) and show no hidden entanglement up to $\sim -1$ dB of squeezing and negligible HE at optimal squeezing.

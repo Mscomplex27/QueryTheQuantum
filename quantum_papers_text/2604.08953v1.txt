@@ -1,0 +1,5 @@
+Title: Finite Hilbert space and maximum mass of Schwarzschild black holes from a Generalized Uncertainty Principle
+Authors: S. Jalalzadeh, H. Moradpour
+Categories: gr-qc, quant-ph
+Published: 2026-04-10 04:52:06+00:00
+Abstract: We show that implementing a generalized uncertainty principle (GUP) with both minimal length and maximal momentum directly on the reduced phase space of the Schwarzschild black hole (BH) leads to a finite and discrete mass spectrum, a strict upper bound on the BH mass, a bounded entropy, and a fully regulated Hawking temperature. We further construct a GUP-deformed lapse function that preserves the ADM mass and horizon radius while exactly reproducing the GUP temperature through the surface gravity. Using the most massive observed supermassive BHs, we derive the constraint on the GUP parameter, $β\lesssim 10^{-98}$, showing that present astrophysical data already impose robust bounds on minimal length quantum gravity.

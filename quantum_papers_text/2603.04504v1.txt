@@ -1,0 +1,5 @@
+Title: Markovian quantum master equations are exponentially accurate in the weak coupling regime
+Authors: Johannes Agerskov, Frederik Nathan
+Categories: quant-ph, cond-mat.mes-hall, cond-mat.quant-gas, math-ph
+Published: 2026-03-04 19:00:04+00:00
+Abstract: We consider the evolution of open quantum systems coupled to one or more Gaussian environments. We demonstrate that such systems can be described by a Markovian quantum master equation (MQME) up to a correction that decreases exponentially with the inverse system-bath coupling strength. We provide an explicit expression for this MQME, along with rigorous bounds on its residual correction, and numerically benchmark it for an exactly solvable model. The MQME is obtained via a generalized Born-Markov approximation that can be iterated to arbitrary orders in the system-bath coupling; our error bound converges asymptotically to zero with the iteration order. Our results thus demonstrate that the non-Markovian component in the evolution of an open quantum system, while possibly inevitable, can be exponentially suppressed at weak coupling.

@@ -1,0 +1,5 @@
+Title: Pretty good plus state transfer in cycles
+Authors: Sarojini Mohapatra, Hiranmoy Pal
+Categories: math.CO, quant-ph
+Published: 2026-03-18 11:08:26+00:00
+Abstract: We investigate fractional revival in graphs with respect to the adjacency, Laplacian, and signless Laplacian matrices. We observe that, under certain conditions, fractional revival is preserved under graph complementation. Then we establish a connection between fractional revival in a graph and in its double cover, and obtain a complete characterization of pretty good plus state transfer in cycles and their complements. This leads to characterizations of pretty good vertex state transfer in weighted paths with potential.

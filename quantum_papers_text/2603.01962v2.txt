@@ -1,0 +1,5 @@
+Title: Minimal-backaction work statistics of coherent engines
+Authors: Milton Aguilar, Franklin L. S. Rodrigues, Eric Lutz
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-02 15:13:06+00:00
+Abstract: Determining the work statistics of quantum engines is challenging due to measurement backaction. We here show that a dynamic Bayesian network-based measurement scheme, which preserves quantum coherence within an engine cycle, is minimally invasive, in the sense that the averaged measured state over one cycle exactly coincides with the unmeasured state. It therefore provides a general framework to investigate energy exchange statistics in quantum machines. This stands in contrast to the standard two-point measurement protocol, whose backaction can be so strong that it generally fails to reproduce the average work output of a coherent motor. It may even alter its mode of operation, causing it to cease functioning as an engine under observation. We further demonstrate that recently proposed universal fluctuation bounds do not necessarily apply to coherent machines.

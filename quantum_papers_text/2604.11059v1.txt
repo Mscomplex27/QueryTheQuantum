@@ -1,0 +1,5 @@
+Title: Automorphism-Induced Entanglement Bounds in Many-Body Systems
+Authors: Saikat Sur
+Categories: quant-ph, math-ph
+Published: 2026-04-13 06:35:58+00:00
+Abstract: We derive an upper bound on the maximum balanced bipartite entanglement entropy of ground states of many-body Hamiltonians defined on a graph, agnostic to any particular model, that possesses a nontrivial automorphism group. We show that the entropy is bounded by the logarithm of a weighted sum of multiplicities of irreducible representations of the bipartition-preserving automorphism subgroup. This bound complements the known degeneracy-based bound, with neither universally dominating the other. For the complete graph $K_n$, the new bound yields an exponential improvement from linear to logarithmic scaling in the system size, consistent with the exact value of the entropy.

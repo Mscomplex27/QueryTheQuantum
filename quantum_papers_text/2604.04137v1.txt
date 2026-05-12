@@ -1,0 +1,5 @@
+Title: Noise tolerance via reinforcement in the quantum search problem
+Authors: Marjan Homayouni-Sangari, Abolfazl Ramezanpour
+Categories: quant-ph, cond-mat.dis-nn, cs.DS
+Published: 2026-04-05 14:48:40+00:00
+Abstract: We find that reinforcement exponentially reduces computation time of the quantum search problem from $\sqrt{D}$ to $\ln D$ in a $D$-dimensional system. Therefor, a reinforced quantum search is expected to exhibit an exponentially larger noise threshold compared to a standard search algorithm in a noisy environment. We use numerical simulations to characterize the level of noise tolerance via reinforcement in the presence of both coherent and incoherent noise, considering a system of $N$ qubits and a single $D$-level (qudit) system. Our results show that reinforcement significantly enhances the algorithm's success probability and improves the scaling of its computation time with system size. These findings indicate that reinforcement offers a promising strategy for error mitigation, especially when a precise noise model is unavailable.

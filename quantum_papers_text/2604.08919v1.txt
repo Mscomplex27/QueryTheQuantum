@@ -1,0 +1,5 @@
+Title: Observing complementary Lucas sequences using non-Hermitian zero modes
+Authors: Li Ge
+Categories: quant-ph, physics.optics
+Published: 2026-04-10 03:28:30+00:00
+Abstract: The Lucas sequences are integers defined by a homogeneous recurrence relation. They include the well-known Fibonacci numbers, which appear abundantly in nature. The complementary Lucas numbers, defined by the same recurrence relation, are less well-known. In this work, we show that a special case of such complementary Lucas sequences can be observed on the same physical platform. It consists of a gain-and-loss-modulated non-Hermitian reservoir bridging two mirror-symmetric systems, which manifests the Lucas sequences in linearly localized edge states and a constant-intensity mode, respectively.

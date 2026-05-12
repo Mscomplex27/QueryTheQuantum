@@ -1,0 +1,5 @@
+Title: Scrambling of Entanglement from Integrability to Chaos: Bootstrapped Time-Integrated Spread Complexity
+Authors: M. Süzen
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-14 13:16:20+00:00
+Abstract: A time-integrated measure of complexity is proposed for diagnosing the degree of quantum ergodicity. The scrambling dynamics of maximally entangled states within the ensemble of unitary evolutions are quantified by applying numerical bootstrapped realizations of an ensemble of Hamiltonians, probing different unitary paths. Using Rosenzweig-Porter ensembles, we show that the integrated spread complexity provides a fine-grained resolution across different ergodic regimes. This approach offers a robust method for diagnosing quantum chaos from early to late times.

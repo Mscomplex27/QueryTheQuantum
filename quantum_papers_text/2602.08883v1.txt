@@ -1,0 +1,5 @@
+Title: Error compensation without a time penalty: robust spin-lock-induced crossing in solution NMR
+Authors: Mohamed Sabba, Christian Bengs, Urvashi D. Heramun, Malcolm H. Levitt
+Categories: quant-ph, physics.chem-ph
+Published: 2026-02-09 16:45:02+00:00
+Abstract: A modification of the widely-used spin-lock-induced crossing (SLIC) procedure is proposed for the solution nuclear magnetic resonance (NMR) of strongly coupled nuclear spin systems, including singlet NMR and parahydrogen-enhanced hyperpolarised NMR experiments. The compensated-SLIC (cSLIC) scheme uses a repetitive sequence where the repeated element employs two different radiofrequency field amplitudes. Effective compensation for deviations in the radiofrequency field amplitude is achieved without increasing the overall duration of the SLIC sequence. The advantageous properties of cSLIC are demonstrated by numerical simulations and by representative experiments.

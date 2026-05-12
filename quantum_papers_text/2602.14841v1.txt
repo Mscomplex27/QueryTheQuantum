@@ -1,0 +1,5 @@
+Title: Gravitational Decoherence Estimation in Optomechanical Systems
+Authors: Leonardo A. M. Souza, Olimpio P. de Sá Neto, Enrico Russo, Rosario Lo Franco, Gerardo Adesso
+Categories: quant-ph
+Published: 2026-02-16 15:33:28+00:00
+Abstract: We develop a comprehensive quantum estimation framework to quantify how precisely gravitationally induced decoherence can be inferred in optomechanical systems, using single-mode Gaussian probe states. Our approach combines a microscopic description of the gravitational diffusion mechanism with quantum Fisher information to determine the ultimate sensitivity achievable in principle. We show that gravitational diffusion leaves distinct, measurable signatures in the mechanical state, both during transient evolution and in the stationary regime. Finally, we identify how probe state preparation shapes the attainable precision, thereby establishing fundamental limits for detecting and estimating gravity-driven decoherence.

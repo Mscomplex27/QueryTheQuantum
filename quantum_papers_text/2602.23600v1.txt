@@ -1,0 +1,5 @@
+Title: Second-quantized approach to the study of Halperin state in fractional quantum Hall effect
+Authors: Li Chen, Zhiping Yao
+Categories: cond-mat.str-el, cond-mat.mes-hall, quant-ph
+Published: 2026-02-27 02:10:22+00:00
+Abstract: We give a recursion relation for the second-quantized fermionic (bosonic) Halperin state, which avoids exact diagonalization of its two-component first-quantized parent Hamiltonian. We validate this formula by proving that the second-quantized Halperin state, as recursively defined in this formula, is indeed a zero mode of the corresponding second-quantized parent Hamiltonian and that it has the correct filling factor.

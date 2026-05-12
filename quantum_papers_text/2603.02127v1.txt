@@ -1,0 +1,5 @@
+Title: Quantum algorithm for the lattice Boltzmann method with applications on real quantum devices
+Authors: Antonio Bastida-Zamora, Ljubomir Budinski, Oskari Kerppo, Valtteri Lahtinen, Ossi Niemimäki, William Steadman, Roberto Zamora-Zamora, Pierre Sagaut, Vladyslav Bohun, Maciej Koch-Janusz, Illia Lukin
+Categories: quant-ph
+Published: 2026-03-02 17:45:07+00:00
+Abstract: We introduce a novel quantum algorithm for the lattice Boltzmann method (LBM) based on the one-step simplified LBM. The structure of the algorithm allows for more flexibility in modelling different physics in contrast to earlier quantum algorithms for the LBM, while retaining computational efficiency in terms of the gate and qubit complexity. The new algorithm has potential for full end-to-end quantum utility especially for linear problems. We discuss the implementation of examples in linear acoustics, as well as a nonlinear Navier-Stokes problem that was solved on an IBM QPU in a hybrid simulation loop.

@@ -1,0 +1,5 @@
+Title: Boltzmann-Loschmidt dispute reloaded quantum 150 years later
+Authors: Leonardo Ermann, Alexei D. Chepelianskii, Dima L. Shepelyansky
+Categories: cond-mat.stat-mech, cond-mat.quant-gas, nlin.CD, quant-ph
+Published: 2026-04-06 17:28:29+00:00
+Abstract: The Boltzmann-Loschmidt dispute of 1876 questioned the possibility of a statistical irreversible description by time reversible classical equations of motion of atoms. Here we show analytically and numerically that the quantum chaos diffusion of cold atoms, or ions, in a harmonic trap and pulsed optical lattice can be inverted back in time with up to 100\% efficiency. This is in sharp contrast to classical evolution where exponentially small errors break time reversibility. We argue that the existing experimental skills allow highlighting the Boltzmann-Loschmidt dispute from a quantum perspective.

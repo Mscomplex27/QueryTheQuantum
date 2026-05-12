@@ -1,0 +1,6 @@
+Title: From MOT to BEC using a single crossed-wire pair
+Authors: Joshua M. Wilson, James A. Stickney, Francisco Fonta, Johnathan White, Brian Kasch, Spencer E. Olson, Matthew B. Squires
+Categories: physics.atom-ph, quant-ph
+Published: 2026-03-17 20:21:56+00:00
+Abstract: We demonstrate a new magneto-optical trap (MOT) configuration using a simple pair of crossed wires rotated at 45 deg and an appropriate bias field to generate a MOT of >10^8 atoms. The same pair of wires, with slightly adjusted control parameters, is then used to magnetically trap the atoms and cool them via forced evaporative cooling into a Bose-Einstein condensate (BEC) with >10^4 atoms.
+  We present the theoretical framework for generating a quadrupole field using a pair of crossed wires with arbitrary rotation angle, along with the atom chip design and fabrication. Finally, we describe the experimental protocols required for BEC production using only a single crossed-wire atom chip.

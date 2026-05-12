@@ -1,0 +1,10 @@
+Title: Reinforcement Learning for Fast and Robust Longitudinal Qubit Readout
+Authors: Yiming Yu, Yuan Qiu, Xinyu Zhao, Ye-Hong Chen, Yan Xia
+Categories: quant-ph
+Published: 2026-03-18 01:27:09+00:00
+Abstract: Longitudinal coupling offers a compelling pathway for quantum nondemolition (QND) readout, but pulse design is constrained by hardware limitations such as the coupling strength and the photon number required to stay within the linear regime.
+  We develop a reinforcement learning framework to optimize the longitudinal coupling waveform under such constraints.
+  Building upon the theoretical foundation of shortcuts to adiabaticity (STA), we parameterize an auxiliary trajectory with cubic B-splines and reconstruct the physical control.
+  At a fixed short readout time, the optimized pulse converges to a constraint saturating flat-top protocol and yields a approximately $50\%$ improvement in $\mathrm{SNR}$ over an STA baseline, while exhibiting enhanced robustness to parameter drifts.
+  Simulation results demonstrate the efficacy of reinforcement learning in optimizing longitudinal readout pulses.
+  The optimized protocol attains substantial performance gains and yields smooth, hardware-compatible waveforms governed by an interpretable ``saturate-and-hold'' mechanism.

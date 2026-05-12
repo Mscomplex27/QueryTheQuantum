@@ -1,0 +1,5 @@
+Title: Self-Reflection in a Moving Mirror
+Authors: Michael R. R. Good, Eric V. Linder
+Categories: gr-qc, quant-ph
+Published: 2026-03-30 04:48:01+00:00
+Abstract: We present an analytic flat-spacetime accelerating boundary analog of Hawking-type emission that possesses infinite asymptotic acceleration (and radial acceleration in the black hole analog) but finite total radiated energy (and zero surface gravity in the black hole analog). We perform a unified study of its scattering symmetry, horizon formation, asymptotically extreme acceleration, finite total radiated energy, and the distinction between local energy flux and global particle production within a single closed-form model. The particle spectrum, energy spectrum, and equivalent spacetime metric are derived, revealing an interesting mix of normal and extremal black hole properties.

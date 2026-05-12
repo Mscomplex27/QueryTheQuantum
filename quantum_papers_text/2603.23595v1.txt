@@ -1,0 +1,5 @@
+Title: Aumann's theorem beyond ontology: quantum, postquantum, and indefinite causal order
+Authors: Carlo Cepollaro, Andrea Di Biagio
+Categories: quant-ph
+Published: 2026-03-24 18:00:00+00:00
+Abstract: Agreement theorems are no-go results about rational disagreement: if two agents start from a common prior and their posterior beliefs are common knowledge, they cannot assign different probabilities to the same event. Standard treatments of the result have the agents reason about an underlying state of the world, which has lead some to ask whether the result can extend to quantum or postquantum phenomena, where such a description may no longer be appropriate. We derive an operational version of Aumann's agreement theorem without assuming an objective state of the world and instead focusing only on what is observed. This allows us to establish the theorem's validity in quantum theory and even in situations with indefinite causal order or involving hypothetical postquantum phenomena. We comment on seemingly contradictory results in the literature and point to the one place where the theorem might fail: Wigner's friend-type situations.

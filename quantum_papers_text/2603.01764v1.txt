@@ -1,0 +1,5 @@
+Title: Distinguishing thermal and pseudothermal light by testing the Siegert relation
+Authors: Xi Jie Yeo, Justin Yu Xiang Peh, Darren Ming Zhi Koh, Christian Kurtsiefer, Peng Kian Tan
+Categories: physics.optics, quant-ph
+Published: 2026-03-02 11:42:38+00:00
+Abstract: Thermal light, including blackbody radiation and spontaneous emission, exhibits photon bunching. Thermal light sources, however, typically yield low spectral densities, limiting their practical utility. Pseudothermal light sources with higher brightness and longer coherence time are often employed instead. While pseudothermal light also exhibits photon bunching, this property may not suffice to fully replicate the behavior of genuine thermal light. Here we demonstrate a method to directly test the Siegert relation for two sources of photon-bunched light, laser light scattered from a rotating ground glass and spontaneously emitted light from a gas discharge lamp, probing a fundamental criterion expected of thermal light.

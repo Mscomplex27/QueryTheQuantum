@@ -1,0 +1,5 @@
+Title: Triple Antidot Molecules
+Authors: Naomi Mizuno, Dmitri V. Averin, Xu Du
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-03-06 04:18:08+00:00
+Abstract: We report the realization and modeling of a triple-antidot molecule hosting three interacting quantum Hall quasiparticles, with tunnel coupling between antidots tunable via the magnetic field. The measured tunneling conductance spectrum reveals the molecular energy levels arising from the inter-antidot coupling and Coulomb interaction. A tunneling model is established which shows good qualitative agreement with experimental observations. This work lays the foundation for the realization of complex systems of antidots for quantum Hall quasiparticles with non-trivial quantum statistics.

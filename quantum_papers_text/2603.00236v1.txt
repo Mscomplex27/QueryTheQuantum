@@ -1,0 +1,5 @@
+Title: Universal Nested Quantum Switch
+Authors: Jorge Miguel-Ramiro, Maria Flors Mor-Ruiz, Wolfgang Dür
+Categories: quant-ph
+Published: 2026-02-27 19:00:10+00:00
+Abstract: The quantum switch is a basic network primitive that allows one to connect multiple nodes in a quantum network via a central node. We show that the same functionality can be achieved with a different geometry that does not rely on a powerful and large central unit, but instead utilizes evenly distributed resources. This approach is resilient against node failures. We provide a nested construction with logarithmically many qubits per node and a total of $O(n\log n)$ Bell pairs, in contrast to other distributed approaches based on pre-shared entanglement that scale as $O(n^2)$. The construction achieves fully flexible pairwise connectivity, where the shared resource state can be locally transformed into $n/2$ arbitrarily distributed Bell states. We also present a graph state variant with just one qubit per node, which allows one to generate $O(n/\log^2 n)$ Bell pairs.

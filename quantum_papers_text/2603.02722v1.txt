@@ -1,0 +1,5 @@
+Title: Non-commutative integration method and generalized coherent states
+Authors: A. I. Breev, D. M. Gitman
+Categories: quant-ph
+Published: 2026-03-03 08:20:31+00:00
+Abstract: The relationship between states obtained by the non-commutative integration method of the Schrödinger equation on Lie groups and generalized coherent states is investigated. It is shown that such solutions belong to the class of generalized coherent states when the corresponding λ-representation is real.

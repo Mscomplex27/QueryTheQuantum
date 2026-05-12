@@ -1,0 +1,5 @@
+Title: Modeling Quantum Optomechanical STIRAP
+Authors: Ian Hedgepeth, Youqiu Zhan, Vitaly Fedoseev, Dirk Bouwmeester
+Categories: quant-ph
+Published: 2026-03-30 17:12:47+00:00
+Abstract: Quantum optomechanical STIRAP (Stimulated Raman Adiabatic Passage) is investigated for a system of two mechanical modes coupled to an optical mode. We show analytically that in a system without loss, fractional STIRAP can generate a mechanical Bell state from a single phonon Fock state of one of the mechanical modes with the other mechanical mode in the vacuum state, and a product state from a coherent state. Relative phases between Fock basis components in the final state of STIRAP are determined by the phonon-number parity of the initial state. Furthermore, the system is numerically studied to determine the effects of dissipation, and it is concluded that high-fidelity entanglement can be achieved via fractional STIRAP using state-of-the-art cryogenic cooling and mechanical devices. Finally, an interferometric protocol using time-reversed fractional STIRAP is proposed to quantify entanglement between two mechanical modes.

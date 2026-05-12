@@ -1,0 +1,5 @@
+Title: Lieb-Robinson bounds for Bose-Hubbard Hamiltonians: A review with a simplified proof
+Authors: Marius Lemm, Carla Rubiliani
+Categories: math-ph, math.AP, quant-ph
+Published: 2026-03-27 09:31:05+00:00
+Abstract: We review recent progress on state-dependent Lieb-Robinson bounds for Bose-Hubbard Hamiltonians. In particular, Kuwahara, Vu, and Saito established that, for general bounded-density initial states, the Lieb-Robinson velocity is bounded by $t^{d-1}$ for large times, where $d$ denotes the lattice dimension. We present a shorter proof of the weaker, but still polynomial velocity bound $t^{d+ε}$.

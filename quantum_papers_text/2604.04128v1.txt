@@ -1,0 +1,5 @@
+Title: Quantization of Lagrangian Descriptors
+Authors: Javier Jiménez-López, V. J. García-Garrido
+Categories: math.DS, nlin.CD, quant-ph
+Published: 2026-04-05 14:16:27+00:00
+Abstract: We formulate Lagrangian descriptors (LDs) in the path integral framework. Averaging the classical LD over fluctuations about extremal trajectories defines a quantum LD that incorporates quantum effects. Invariant manifolds, which sharply organize classical transport, become finite-width phase space structures under quantum fluctuations, and their overlap provides a geometric mechanism consistent with tunneling as fluctuation-induced delocalization of transport barriers. We demonstrate this approach for the Hamiltonian saddle, where path integral sampling reveals manifold broadening and barrier penetration. This establishes a geometric framework for studying phase space transport and tunneling beyond the classical regime, while also providing a natural route toward the application of LDs to field theory.

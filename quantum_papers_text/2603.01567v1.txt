@@ -1,0 +1,7 @@
+Title: Quantum Thermal Machines Improved by Internal Coupling: From Equilibrium to Non-equilibrium Limit Cycles
+Authors: Jingyi Gao, Naomichi Hatano
+Categories: quant-ph, physics.data-an
+Published: 2026-03-02 07:48:05+00:00
+Abstract: We investigate how internal coupling influences the operation and performance of a quantum Otto cycle operating as the Gibbs-state limit cycle (GSLC), equilibrating limit cycle (ELC), and non-equilibrating limit cycle (NELC). We show that the internal coupling significantly broadens the operational regime of the cycle. In particular, in parameter regimes where the uncoupled Otto cycle fails to operate as any thermal machine, the coupled system can function as an engine or a refrigerator.
+  For the GSLC, in which we assume that the system quickly equilibrates during the isochoric processes, the internal coupling not only shifts and enlarges the operational regime but also enhances the efficiency and the coefficient of performance (COP), allowing the performance to exceed the standard Otto bounds while remaining below the Carnot limit.
+  For ELC and NELC, we validate the global approach of the Gorini--Kossakowski--Sudarshan--Lindblad (GKSL) master equation by comparison with the GSLC, and examine the NELC for finite interaction time and the ELC for infinite interaction time. Although the efficiency and COP of NELC are lower than those of ELC, shorter interaction times yield higher power output, consistent with the power--efficiency trade-off.

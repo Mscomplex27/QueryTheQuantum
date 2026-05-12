@@ -1,0 +1,5 @@
+Title: Two-photon-excited fluorescence spectroscopy of Rb atoms in a magneto-optical trap
+Authors: Alan McLean, Christian Drago, Daniel Podos, Chengyi Luo, Caleb Brzezinski, Ting-Wei Hsu, John Sipe, Ralph Jimenez
+Categories: physics.atom-ph, physics.app-ph, quant-ph
+Published: 2026-02-06 20:03:03+00:00
+Abstract: We report the results of two-photon-excited fluorescence (TPEF) measurements of the $5\mathrm{S}_{1/2} \rightarrow 5\mathrm{D}_{1/2}$ transition of $^{85}$Rb and $^{87}$Rb cooled in a magneto-optical trap (MOT). We observe TPEF at excitation powers as low as 1 $μ$W or fluxes as low as $4.30 \pm 0.22 \times 10^{18}\ \text{photons}\,\text{cm}^{-2}\,\text{s}^{-1}$ ($^{85}$Rb) and $5.17 \pm 0.26 \times 10^{18}\ \text{photons}\,\text{cm}^{-2}\,\text{s}^{-1}$ ($^{87}$Rb). Our results show that Rb, with additional benefits due to its ability to be optically cooled to the point where Doppler-broadening is negligible, is a promising platform for observing sensitive two-photon spectral signatures at low photon fluxes.

@@ -1,0 +1,5 @@
+Title: Quantum Depth Compression via Local Dynamic Circuits
+Authors: Benjamin Hall, Palash Goiporia, Rich Rines
+Categories: quant-ph
+Published: 2026-03-18 14:35:20+00:00
+Abstract: We present Quantum Depth Compression (QDC), a general compilation framework that utilizes dynamic circuits to reduce arbitrary quantum circuits to depth linear in the number of non-Clifford gates and to grid connectivity without the need for expensive SWAP-networks. The framework consists of pushing Clifford gates to the end of the circuit, resulting in a sequence of non-Clifford Pauli-phasors followed by an all Clifford sub-circuit, both of which are then reduced to constant depth via dynamic circuits. We show that applying QDC to random Pauli-phasor circuits lowers both their depth and CNOT count compared to a standard alternative compiler.

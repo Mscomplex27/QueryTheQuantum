@@ -1,0 +1,5 @@
+Title: Quantum Structures as Generative Scores: Partition Logic, Generative Logic, and Aesthetic Form
+Authors: Christian Jendreiko, Karl Svozil
+Categories: quant-ph
+Published: 2026-03-19 17:37:03+00:00
+Abstract: We connect partition logic with Generative Logic by translating finite partition logics into Prolog-based Simple Generative Logic Grammars. As a proof of concept, we use the five-atom V-logic L_{12} to generate a modular visual artifact, the \emph{Quantum Square}. The approach separates logical structure from its visual, textual, or sonic realization. This makes partition logic useful both as a generative design resource and as a tool for communicating complementarity.

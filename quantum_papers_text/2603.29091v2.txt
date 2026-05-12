@@ -1,0 +1,5 @@
+Title: Ether of Orbifolds
+Authors: Henry Lamm
+Categories: hep-lat, quant-ph
+Published: 2026-03-31 00:11:32+00:00
+Abstract: The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.

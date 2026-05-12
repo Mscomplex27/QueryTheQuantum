@@ -1,0 +1,5 @@
+Title: Conditions for 3-partite and 4-partite genuine entanglement
+Authors: Mark Hillery
+Categories: quant-ph
+Published: 2026-04-01 13:22:27+00:00
+Abstract: A system of three or four particle can be entangled in a number of different ways. It may be the case that only subsets of the particles are entangled, and these subsets are not entangled with each other. It may also be the case that the state is the sum of states in which entanglement only exists within subsets. If this is not the case, the state is said to be genuinely entangled. GHZ states, for example, are genuinely entangled. Deciding whether a state is genuinely entangled is not simple, but conditions do exist to detect it. Here we would like to propose additional sufficient conditions based on one for bipartite entanglement.

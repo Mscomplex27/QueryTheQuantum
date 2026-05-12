@@ -1,0 +1,5 @@
+Title: Simulated Bifurcation Quantum Annealing
+Authors: Jakub Pawłowski, Paweł Tarasiuk, Jan Tuziemski, Łukasz Pawela, Bartłomiej Gardas
+Categories: quant-ph, physics.comp-ph
+Published: 2026-04-01 15:54:12+00:00
+Abstract: We introduce Simulated Bifurcation Quantum Annealing (SBQA), a quantum-inspired optimization algorithm that extends simulated bifurcation by incorporating inter-replica interactions to mimic quantum tunneling. SBQA retains the efficiency and parallelism of simulated bifurcation while improving performance on sparse and rugged energy landscapes. We derive its equations of motion, analyze parameter dependence, and propose a lightweight auto-tuning strategy. A comprehensive benchmarking study on both large-scale problems and smaller instances relevant for current quantum hardware shows that SBQA systematically improves on SBM in the sparse and rugged regimes where SBM is known to struggle, while remaining competitive and versatile across a diverse set of tested problem families. These results position SBQA as a practical quantum-inspired optimization heuristic and a stronger classical baseline for the sparse and rugged regimes studied here.

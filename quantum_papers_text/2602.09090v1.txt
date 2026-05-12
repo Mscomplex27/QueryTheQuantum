@@ -1,0 +1,5 @@
+Title: Universality classes split by strong and weak symmetries
+Authors: Jongjun M. Lee, Myung-Joong Hwang, Igor Boettcher
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-02-09 19:00:00+00:00
+Abstract: Dissipative phase transitions are strongly shaped by the symmetries of the Liouvillian, yet the quantitative impact of weak and strong symmetries on critical behavior has remained unclear. We study a squeezed-photon model with single- and two-photon losses, realizing weak and strong symmetries in the simplest possible setting. The two symmetries exhibit identical Gaussian static fluctuations, whereas the order parameter and the asymptotic decay rate display distinct scaling behaviors. Our one-loop Keldysh analysis, together with cumulant-expansion numerics, reveals sharply different critical scaling with respect to the thermodynamic scaling parameter. This establishes that weak and strong symmetries lead to distinct dynamical universality classes despite originating from the same symmetry group in the closed system. Our results provide a clear quantitative demonstration that strong symmetries fundamentally reshape dissipative criticality.

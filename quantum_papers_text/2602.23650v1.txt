@@ -1,0 +1,5 @@
+Title: Perfect transmission of a Dirac particle in one-dimension double square barrier
+Authors: Xu Zhang, Qiang Gu
+Categories: quant-ph, cond-mat.mes-hall, hep-th
+Published: 2026-02-27 03:35:32+00:00
+Abstract: Dirac particles can undergo perfect transmission through a sufficiently high potential barrier in the Klein zone. Although the perfect Klein tunneling (often referred to as the Klein paradox) is similar to the non-relativistic resonant transmission which occurs only when the kinetic energy exceeds the barrier, the underlying mechanism is believed to be fundamentally distinct. In this work, we show that for the relativistic double-barrier model the perfect-transmission curve can pass continuously from the above-barrier zone to the Klein zone. Additionally, in the Klein zone, perfect transmission occurs even for subcritical barrier heights, supported by both bound-state analysis and wave-packet dynamics. These findings suggest a connection between perfect Klein tunneling and resonant transmission, and provide new insights into the physical nature of the Klein paradox.

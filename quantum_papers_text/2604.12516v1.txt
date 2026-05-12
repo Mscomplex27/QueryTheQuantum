@@ -1,0 +1,5 @@
+Title: Scattering Faddeev calculations in the double continuum
+Authors: Romain Guérout
+Categories: quant-ph, nucl-th
+Published: 2026-04-14 09:51:47+00:00
+Abstract: We use the configuration-space Faddeev formalism to study scattering of three particles in the double continuum where all particles are free. All scattering processes, starting from and ending in both single and double continua, are collected in a unique matrix. We apply our method to the benchmark system of neutron-deuteron scattering.

@@ -1,0 +1,5 @@
+Title: The color code, the surface code, and the transversal CNOT: NP-hardness of minimum-weight decoding
+Authors: Shouzhen Gu, Lily Wang, Aleksander Kubica
+Categories: quant-ph, cs.CC
+Published: 2026-03-23 14:57:38+00:00
+Abstract: The decoding problem is a ubiquitous algorithmic task in fault-tolerant quantum computing, and solving it efficiently is essential for scalable quantum computing. Here, we prove that minimum-weight decoding is NP-hard in three quintessential settings: (i) the color code with Pauli $Z$ errors, (ii) the surface code with Pauli $X$, $Y$ and $Z$ errors, and (iii) the surface code with a transversal CNOT gate, Pauli $Z$ and measurement bit-flip errors. Our results show that computational intractability already arises in basic and practically relevant decoding problems central to both quantum memories and logical circuit implementations, highlighting a sharp computational complexity separation between minimum-weight decoding and its approximate realizations.

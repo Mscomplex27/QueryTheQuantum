@@ -1,0 +1,5 @@
+Title: Programmable Fermionic Quantum Processors with Globally Controlled Lattices
+Authors: Gabriele Calliari, Charles Fromonteil, Francesco Cesa, Torsten V. Zache, Philipp M. Preiss, Robert Ott, Hannes Pichler
+Categories: quant-ph, cond-mat.quant-gas, physics.atom-ph
+Published: 2026-04-14 18:00:01+00:00
+Abstract: We introduce a framework for realizing universal fermionic quantum processing with globally controlled itinerant fermionic particles. Our approach is tailored to the example of neutral atoms in optical lattices, but transposes to other setups with similar capabilities. We give constructive protocols to realize arbitrary fermionic processes, with time-dependent control over global parameters of the experimental setup, such as tunneling and interaction in a Fermi-Hubbard type model. We first prove the universality of our framework and then discuss implementation variants, such as hybrid analog-digital simulation of extended Fermi-Hubbard models, e.g., with long-range couplings.

@@ -1,0 +1,5 @@
+Title: The temperature dependent geometric phase
+Authors: Zheng-Chuan Wang
+Categories: quant-ph
+Published: 2026-04-29 13:05:09+00:00
+Abstract: There exists a geometric phase for a quantum state during the adiabatic evolution of the system. If the adiabatic procedure happens between the system and the environment interacting with it similar to Born-Oppenheimer (BO) approximation, we can introduce a temperature into the environment, which can be regarded as in an equilibrium state. Then a temperature-dependent geometric phase can be obtained for the system, which originates from the Abelian gauge potential induced by the BO approximation. This gauge potential contributes to the effective potential of the system, which is temperature dependent, too. Finally, we demonstrate them using an example of H_2^+ ion system.

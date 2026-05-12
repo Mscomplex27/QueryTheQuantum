@@ -1,0 +1,5 @@
+Title: Timescales for Deep and Full Thermalization
+Authors: Tabea Herrmann, Felix Fritzsch, Arnd Bäcker
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-30 11:40:31+00:00
+Abstract: Isolated quantum systems typically approach thermal equilibrium as described by the Eigenstate Thermalization Hypothesis (ETH). Going beyond this involves either higher order correlators (full thermalization) or the formation of state designs, i.e., the approach of moments of state ensembles after a projective measurement towards thermal equilibrium (deep thermalization). We compare these two extensions of ETH using extensive numerical studies within a paradigmatic model for chaotic many-body quantum dynamics. For this we find exponential relaxation for both extensions: For deep thermalization all moments relax with the same rate, which approximately equals the relaxation rate of the autocorrelation function captured by ETH. In contrast, higher order correlation functions in full thermalization approach equilibrium faster. This means that at higher orders full thermalization is faster than deep thermalization.

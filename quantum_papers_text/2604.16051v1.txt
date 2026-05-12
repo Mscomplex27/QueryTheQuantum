@@ -1,0 +1,5 @@
+Title: Comment on "A General Framework for Constructing Local Hidden-state Models to Determine the Steerability"
+Authors: Nick von Selzam, Florian Marquardt
+Categories: quant-ph
+Published: 2026-04-17 13:26:26+00:00
+Abstract: We point out that the method presented in a recent arXiv article by Jia et al. (arXiv:2512.21848) for constructing local hidden-state models closely follows the framework we developed in N. von Selzam & F. Marquardt (PRX Quantum, 2025) for constructing local hidden-variable models. While Jia et al. cite our work, the extent of the methodological overlap and the degree of textual similarity are not adequately reflected by the attribution given. We document this overlap in detail.

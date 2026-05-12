@@ -1,0 +1,5 @@
+Title: Quantifying and detecting quantum-state texture
+Authors: Xiangyu Chen, Qiang Lei
+Categories: quant-ph
+Published: 2026-04-08 16:20:02+00:00
+Abstract: Quantum-state texture is a recently proposed quantum resource that characterizes the inhomogeneity of a quantum state's matrix element distribution in the computational basis, enriching our understanding of quantum state structure. To expand its quantification toolkit and establish detection methods, in this article, we investigate the resource theory of texture from both quantitative and detection perspectives. First, we construct a texture measure $\mathcal{T}^{\text{GR}}_{α,z}(ρ)$ based on the $α$-$z$ Rényi relative entropy and present some of its inherent properties. Second, we analyze the mathematical relationships between several existing texture measures, revealing connections among different quantifiers. Finally, drawing on the witness concept from other resource theories, we systematically introduce texture witnesses into the texture theory and provide examples of texture witnesses with special properties.

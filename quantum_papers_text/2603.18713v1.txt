@@ -1,0 +1,5 @@
+Title: Comment on "Association between quantum paradoxes based on weak values and a realistic interpretation of quantum measurements"
+Authors: Juan José Seoane, Xabier Oianguren-Asua, Albert Solé, Xavier Oriols
+Categories: quant-ph
+Published: 2026-03-19 10:11:46+00:00
+Abstract: In their paper (arXiv:2402.09879), Aredes and Saldanha analyze several paradoxes related to weak values and present a "general argument" that aims to show that "realistic interpretations ...of weak values lead to inconsistencies". Although we agree with the identified inconsistencies for the specific weak values analyzed there, in this Comment we demonstrate that the origin of these inconsistencies is not their general argument, which is formally incorrect. We use Bohmian mechanics as a counterexample to confirm that their conclusions are not valid for all weak values and quantum theories. In particular, we show that weak values postselected in position can in fact be interpreted within Bohmian mechanics as properties of quantum systems, detached from any measuring devices, in a consistent and meaningful way.

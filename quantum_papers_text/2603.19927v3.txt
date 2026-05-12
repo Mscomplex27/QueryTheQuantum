@@ -1,0 +1,5 @@
+Title: One-parameter counterexamples to the refined Bessis-Moussa-Villani conjecture
+Authors: Hyunho Cha
+Categories: quant-ph
+Published: 2026-03-20 13:12:03+00:00
+Abstract: The Bessis-Moussa-Villani (BMV) conjecture, originating in quantum statistical mechanics, was proved by Stahl after an influential reformulation by Lieb and Seiringer. A later refinement asks whether the normalized average over all words with $n$ letters $A$ and $m$ letters $B$ is always bounded above by $\mathrm{tr}(A^nB^m)$ and below by $\mathrm{tr}\exp(n\log A+m\log B)$. We study a specific one-parameter family $(A_x, B_x)$ and show that the correct small-$x$ invariant of a word is not its degree of fragmentation, but a weighted shortest-bridge cost on its cyclic run decomposition. Remarkably, the ratio of the normalized word average to the trace $\mathrm{tr}(A^nB^m)$ can become arbitrarily large.

@@ -1,0 +1,7 @@
+Title: On the possibility of differential-algebraic elimination of the spinor field from the Maxwell--Dirac electrodynamics
+Authors: Andrey Akhmeteli
+Categories: quant-ph
+Published: 2026-02-16 10:58:28+00:00
+Abstract: We investigate whether the spinor field can be differential-algebraically eliminated from the Maxwell--Dirac equations in a particular gauge. To this end, we construct a generic truncated power-series solution and linearize the prolonged system of the Maxwell--Dirac equations about this solution. We then analyze the ranks of the coefficient matrices associated with the linearized system.
+  Our results indicate that, generically, the spinor components are uniquely determined by the electromagnetic field and its derivatives. Furthermore, the fourth-order time derivatives of the components of the electromagnetic four-potential are uniquely determined by derivatives of the lower order with respect to time.
+  These findings strongly suggest that the spinor field can be differential-algebraically eliminated. Furthermore, the resulting equations describe independent evolution of the electromagnetic field, that is, a Cauchy problem can be formulated in terms of the electromagnetic variables alone.

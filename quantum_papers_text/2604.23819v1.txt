@@ -1,0 +1,5 @@
+Title: Playing Dice with the Universe: Programming Quantum Computers to Play Traditional Games
+Authors: Tristan Zaborniak, Vikram Khipple Mulligan
+Categories: cs.ET, quant-ph
+Published: 2026-04-26 17:41:17+00:00
+Abstract: The challenge of programming classical computers to play traditional, competitive games against human players has helped to advance classical hardware and software. Quantum computers have the potential to play games in a unique way: programmed only with the rules of a game, they should be able to implicitly represent all future paths of a game leading to wins, losses, or draws, and sample from this path set to identify moves that maximize the likelihood of a win. This permits skilled play without hard-coded or machine-learned strategy. As a proof of principle, we present early results obtained after programming the D-Wave quantum annealer with the rules of tic-tac-toe, enabling it to play against a human opponent. We anticipate that, as it has for classical computers, game-playing will serve as an important real-world benchmark for quantum computers.

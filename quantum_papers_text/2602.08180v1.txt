@@ -1,0 +1,5 @@
+Title: Detecting multilevel entanglement from light-based entanglement witnesses
+Authors: Pedro Rosario, Romain Bachelard
+Categories: quant-ph
+Published: 2026-02-09 00:45:24+00:00
+Abstract: We introduce a set of electric-field based inequalities capable of detecting multilevel entanglement from a system of N quantum emitters. We determine that the polarization channel as well as the direction of detection can enhance entanglement detection, a feature specific to multilevel systems. We demonstrate the efficiency of the witnesses to detect genuine multipartite entanglement by applying it to families of paradigmatic quantum states, such as Dicke states, singlet states and W-like states. The detection is not only robust to noise, but also applies to mixed entangled states. Our findings open up possibilities for the detection of entanglement without local measurements in systems of multilevel emitters such as superconducting qubits, Rydberg atoms or quantum dots.

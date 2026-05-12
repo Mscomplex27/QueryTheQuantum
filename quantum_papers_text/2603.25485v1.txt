@@ -1,0 +1,5 @@
+Title: Networks of quantum reference frames and the nature of conserved quantities
+Authors: Daniel Collins, Carolina Moreira Ferrera, Ismael L. Paiva, Sandu Popescu
+Categories: quant-ph
+Published: 2026-03-26 14:25:29+00:00
+Abstract: We show that networks of quantum frames of reference, in which one frame may be used to produce multiple other frames that in their turn prepare systems which may interact with one another, have counterintuitive properties that make following the exchange of conserved quantities very subtle, and raise questions about the very nature of conserved quantities. In addition, we present an alternative approach to analysing quantum reference frames that we believe will be useful in discussions related to quantum frames of reference.

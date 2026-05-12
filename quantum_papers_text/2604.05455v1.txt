@@ -1,0 +1,5 @@
+Title: Another Triumph of Locality: Colliding Histories Skew Handshakes
+Authors: Charles Alexandre Bédard
+Categories: quant-ph
+Published: 2026-04-07 05:39:07+00:00
+Abstract: From gravity to electromagnetism, apparent action at a distance has always been resolved by deeper, local explanations. Yet today, Bell's theorem is widely interpreted as the death knell for local reality. In this chapter, I present the theorem in accessible terms, examine the three main strategies that attempt to preserve hidden variables, and argue that they share a common defect: the attempt to explain the quantum from the classical rather than the other way around. In unitary quantum mechanics, classicality itself is given a quantum account, and, when the Bell scenario is formulated in the Heisenberg picture, a strictly local explanation emerges. This chapter serves as a non-technical front-end to 'Explaining Bell Locally' (Proc. R. Soc. A).

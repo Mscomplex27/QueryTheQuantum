@@ -1,0 +1,5 @@
+Title: $\textit{Ab initio}$ Identification of Hydrogen Tunneling as Two-Level Systems in Nb$_2$O$_5$ and Ta$_2$O$_5$
+Authors: Cristóbal Méndez, Tomás A. Arias
+Categories: cond-mat.supr-con, quant-ph
+Published: 2026-03-17 22:50:48+00:00
+Abstract: Two-level systems (TLS) in native Nb and Ta oxides limit superconducting-qubit coherence and SRF-cavity quality factors in the microwave frequency range, yet their microscopic origin remains unclear. We combine MLIP-accelerated sampling of hydrogen configurations and diffusion pathways in amorphous Nb and Ta pentoxides with targeted $\textit{ab initio}$ validation. Hydrogen is the only light interstitial with barrier-distance combinations near the $\sim0.1-10$ GHz tunneling regime, and its ensemble statistics in amorphous oxides produce effective TLS densities and loss estimates consistent with the experimentally observed higher loss in Nb oxide than in Ta oxide. Our results point to H tunneling as a plausible microscopic TLS source in these materials.

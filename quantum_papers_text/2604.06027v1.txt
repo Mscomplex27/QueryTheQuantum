@@ -1,0 +1,5 @@
+Title: Exploring bosonic bound states with parallel reaction coordinates
+Authors: Guan-Yu Lai, Friedemann Queißer, Gernot Schaller
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-07 16:23:46+00:00
+Abstract: Bound states are dissipation-resilient states that may emerge when quantum systems are strongly coupled to reservoirs with band gaps. We analyze an exactly solvable bosonic model for bound state existence and reproduce these results by a weak-coupling treatment of a supersystem composed of the original system and multiple reaction coordinates, which are individually representing small energy intervals of the reservoir spectral function. Within the perturbative supersystem treatment, the bound state stability results from its energy being inside the band gap. We discuss cases of multiple band gaps and also show that already in presence of weak interactions the bound state's lifetime is finite -- but can be increased by raising the system-reservoir coupling strength.

@@ -1,0 +1,6 @@
+Title: Preserving MWPM-Decodability in Fault-Equivalent Rewrites
+Authors: Maximilian Schweikart, Linnea Grans-Samuelsson, Aleks Kissinger, Benjamin Rodatz
+Categories: quant-ph
+Published: 2026-03-19 23:23:28+00:00
+Abstract: Decoding a quantum error correction code is generally NP-hard, but corrections must be applied at a high frequency to suppress noise successfully. Matchable codes, like the surface code, exhibit a special structure that makes it possible to efficiently, approximately solve the decoding problem through minimum-weight perfect matching (MWPM). However, this efficiency-enabling property can be lost when constructing implementations for fault-tolerant gadgets such as syndrome-extraction circuits or logical operations.
+  In this work, we take a circuit-centric perspective to formalise how the decoding problem changes when applying ZX rewrites to a ZX diagram with a given detector basis. We demonstrate a set of rewrites that preserve MWPM-decodability of circuits and show that these matchability-preserving rewrites can be used to fault-tolerantly extract quantum circuits from phase-free ZX diagrams. In particular, this allows us to build efficiently decodable, fault-tolerant syndrome-extraction circuits for matchable codes.

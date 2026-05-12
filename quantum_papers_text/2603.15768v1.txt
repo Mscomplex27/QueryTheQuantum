@@ -1,0 +1,5 @@
+Title: Latent symmetry in a minimal non-Hermitian trimer
+Authors: Paulo A. Brandão
+Categories: quant-ph
+Published: 2026-03-16 18:01:21+00:00
+Abstract: We study a minimal non-Hermitian trimer with latent symmetry formed by a cospectral pair of sites embedded in a three-site network with nonreciprocal couplings. We show that the model admits an exact decomposition into dark and bright sectors: the dark mode is spectrally isolated and retains a complex eigenvalue, while the bright sector reduces to an effective non-Hermitian dimer. For a suitable choice of parameters, this reduced subsystem becomes $\mathcal{PT}$-symmetric and exhibits partial spectral reality, with two real eigenvalues coexisting with the complex dark eigenvalue. At the critical point, the bright sector hosts an embedded second-order exceptional point, which renders the full trimer defective and gives rise to the characteristic Jordan-block dynamics. These results establish the non-Hermitian trimer as a minimal analytically solvable setting in which latent symmetry, sector-resolved $\mathcal{PT}$ symmetry, and exceptional-point physics naturally coexist.

@@ -1,0 +1,5 @@
+Title: Optimal algorithms for materializing stabilizer states and Clifford gates from compact descriptions
+Authors: Hyunho Cha, Jungwoo Lee
+Categories: quant-ph
+Published: 2026-04-16 15:34:54+00:00
+Abstract: Stabilizer states admit compact classical descriptions, but many downstream tasks still require their full amplitude vectors. Since the output itself has size $2^n$, the main algorithmic question is whether one can materialize an $n$-qubit stabilizer state vector in optimal $O(2^n)$ time, rather than paying an additional polynomial overhead. We answer this question in the affirmative. Starting from the standard quadratic-form representation of stabilizer states, we give an algorithm that runs in $O(2^n)$ time and $O(2^n)$ space. The idea is to maintain a cached parity word that records all future off-diagonal quadratic phase increments simultaneously. As consequences, we obtain an optimal procedure for materializing a stabilizer state vector from a standard check-matrix description, and an optimal algorithm for expanding a Clifford tableau into its full dense matrix. These results close the asymptotic gap for dense stabilizer and Clifford materialization.

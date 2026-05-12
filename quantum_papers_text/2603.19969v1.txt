@@ -1,0 +1,5 @@
+Title: Adaptive Parallelism-Aware Qubit Routing for Ion Trap QCCD Architectures
+Authors: Anabel Ovide, Andreu Angles-Castillo, Carmen G. Almudever
+Categories: quant-ph
+Published: 2026-03-20 14:11:29+00:00
+Abstract: Trapped-ion Quantum Charge-Coupled Device (QCCD) architectures promise scalability through interconnected trap zones and dynamic ion transport; however, this transport capability creates a complex compilation challenge: how to move qubits efficiently without degrading fidelity. We introduce a routing strategy that turns this challenge into an advantage by exploiting operational parallelism across traps while adapting to both algorithmic structure and device topology through a configurable multi-parameter scoring mechanism. Across a broad suite of benchmarks and QCCD layouts, the method consistently reduces ion-transport overhead and improves execution fidelity, outperforming state-of-the-art routing techniques. These results highlight that explicitly balancing movement overhead and execution parallelism under architectural constraints is key to unlocking the full potential of modular trapped-ion quantum processors.

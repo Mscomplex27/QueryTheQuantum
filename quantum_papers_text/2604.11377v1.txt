@@ -1,0 +1,5 @@
+Title: Quantum Sensing with Joint Emitter-Fluorescence Measurements
+Authors: Yuliya Bilinskaya, Sreenath K. Manikandan
+Categories: quant-ph, gr-qc
+Published: 2026-04-13 12:16:29+00:00
+Abstract: We present an analytically tractable model of a driven quantum harmonic emitter, such as an oscillating charged dipole, emitting radiation via resonance fluorescence. With this model we are able to characterize the quantum mechanical correlations that are built up at early times between the drive, the resonant emitter, and its fluorescence. We describe detection strategies that can reveal these quantum signatures in experiments by performing joint measurements on the quantum emitter and its fluorescence field. In particular, we show that simultaneous quantum measurements of a driven quantum emitter and its fluorescence can be used to probe the quantum noise of the driving field, relative to the maximally classical coherent state of the driving field, in short-time experiments. We conclude by discussing the applications to quantum sensing in quantum optical, quantum acoustic, and quantum gravitational scenarios of interest.

@@ -1,0 +1,5 @@
+Title: The Steiner Tree Problem: Novel QUBO Formulation and Quantum Annealing Implementation
+Authors: Dan Li, Xiang-Hui Wu, Ji-Rong Liu
+Categories: quant-ph
+Published: 2026-03-04 13:59:36+00:00
+Abstract: The Steiner Tree Problem (STP) is a well-known NP-hard combinatorial optimization problem, which has wide applications in network design, integrated circuit layout, bioinformatics, and other fields. However, traditional algorithms often struggle to balance efficiency and solution quality when dealing with large-scale STP instances. In this paper, we propose a new quantum annealing-based algorithm for solving the STP: we first model the STP into a quadratic unconstrained binary optimization (QUBO) form suitable for quantum annealing, then design a corresponding encoding strategy, and finally verify the algorithm through experimental tests. The results show that our quantum annealing-based method can obtain high-quality solutions with relatively low computational overhead for moderate-scale STP instances, providing a new feasible path for handling this intractable combinatorial optimization problem.

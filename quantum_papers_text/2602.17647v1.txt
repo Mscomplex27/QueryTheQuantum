@@ -1,0 +1,9 @@
+Title: Pseudo-deterministic Quantum Algorithms
+Authors: Hugo Aaronson, Tom Gur, Jiawei Li
+Categories: quant-ph, cs.CC
+Published: 2026-02-19 18:54:47+00:00
+Abstract: We initiate a systematic study of pseudo-deterministic quantum algorithms. These are quantum algorithms that, for any input, output a canonical solution with high probability. Focusing on the query complexity model, our main contributions include the following complexity separations, which require new lower bound techniques specifically tailored to pseudo-determinism:
+  - We exhibit a problem, Avoid One Encrypted String (AOES), whose classical randomized query complexity is $O(1)$ but is maximally hard for pseudo-deterministic quantum algorithms ($Ω(N)$ query complexity).
+  - We exhibit a problem, Quantum-Locked Estimation (QL-Estimation), for which pseudo-deterministic quantum algorithms admit an exponential speed-up over classical pseudo-deterministic algorithms ($O(\log(N))$ vs. $Θ(\sqrt{N})$), while the randomized query complexity is $O(1)$.
+  Complementing these separations, we show that for any total problem $R$, pseudo-deterministic quantum algorithms admit at most a quintic advantage over deterministic algorithms, i.e., $D(R) = \tilde O(psQ(R)^5)$.
+  On the algorithmic side, we identify a class of quantum search problems that can be made pseudo-deterministic with small overhead, including Grover search, element distinctness, triangle finding, $k$-sum, and graph collision.

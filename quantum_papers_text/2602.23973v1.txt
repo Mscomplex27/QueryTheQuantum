@@ -1,0 +1,5 @@
+Title: Effect of electron-electron interactions on the propagation of ultrashort voltage pulses in a Mach-Zehnder interferometer
+Authors: Prasoon Kumar, Thomas Kloss, Xavier Waintal
+Categories: cond-mat.mes-hall, cond-mat.str-el, quant-ph
+Published: 2026-02-27 12:33:09+00:00
+Abstract: Electronic interferometers have been identified as possible candidates for building electronic flying qubits. Such a regime requires ultrafast voltage pulses whose duration is shorter than the time of flight through the device. Understanding the corresponding physics in the presence of such short excitations requires a proper treatment of electron-electron interactions. In this article, we take a step in this direction by performing time-resolved simulations of a Mach-Zehnder interferometer treating the interactions at the time-dependent mean-field level. We find that the main effect of the interaction is the renormalization of the pulse velocity. Very importantly, the interference effects appear to be robust to the presence of interactions.

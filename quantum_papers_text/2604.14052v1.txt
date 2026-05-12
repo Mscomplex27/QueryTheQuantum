@@ -1,0 +1,5 @@
+Title: From coupled $\mathbb{Z}_3$ Rabi models to the $\mathbb{Z}_3$ Potts model
+Authors: Anatoliy I. Lotkov, Valerii K. Kozin, Denis V. Kurlov, Jelena Klinovaja, Daniel Loss
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-04-15 16:30:38+00:00
+Abstract: We study $\mathbb{Z}_3$-symmetric Rabi model that describes a three-level system coupled to two bosonic modes. We derive a mapping of the two-mode $\mathbb{Z}_3$ Rabi model onto a qubit-boson ring. This mapping allows us to formulate a realistic implementation of the $\mathbb{Z}_3$ Rabi model based on superconducting qubits. It also provides context for the previously proposed optomechanical implementation of the $\mathbb{Z}_3$ Rabi model. In addition, we propose a physical implementation of the $\mathbb{Z}_3$ Potts model via a coupled chain of $\mathbb{Z}_3$ Rabi models.

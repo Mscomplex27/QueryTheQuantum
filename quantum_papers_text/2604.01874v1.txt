@@ -1,0 +1,5 @@
+Title: Transversal non-Clifford gates on almost-good quantum LDPC and quantum locally testable codes
+Authors: Yiming Li, Zimu Li, Zi-Wen Liu
+Categories: quant-ph, cs.IT, math-ph
+Published: 2026-04-02 10:30:00+00:00
+Abstract: We exhibit nontrivial transversal logical multi-controlled-$Z$ gates on $[\![N,Θ(N),\tildeΘ(N)]\!]$ quantum low-density parity-check codes and $[\![N,Θ(N),\tildeΘ(N)]\!]$ quantum locally testable codes with soundness $\tildeΘ(1)$, combining nearly optimal code parameters with fault-tolerant non-Clifford gates for the first time. Remarkably, our proofs are almost entirely algebraic-topological, showing that such presumably intricate logical gates naturally arise as a fundamental topological phenomenon. We develop a general framework for constructing a rich new family of homological invariant forms which we call ''cupcap gates'' that induce transversal logical multi-controlled-$Z$ and, building on insights from [Li et al., arXiv:2603.25831], covering space methods to certify their nontriviality. The claimed almost-good code results follow immediately as examples.

@@ -1,0 +1,5 @@
+Title: Testing the 3D QRNG by Undoing
+Authors: J. M. Agüero Trejo, Cristian S. Calude, O. C. Stoica
+Categories: quant-ph
+Published: 2026-04-14 13:37:13+00:00
+Abstract: We propose a method to test whether a photonic 3D QRNG works according to the underlying theory, thereby generating highly incomputable/unpredictable sequences of random digits. The test relies on undoing the unitary evolution realized by the 3D QRNG. The test verifies the unitarity, the magnitude of the noise, and other potential errors, such as photon loss or systematic and reproducible fabrication errors. Therefore, the test can confirm the theoretically proven features of the 3D QRNG, such as strong incomputability and unpredictability, or how one has to correct it, if necessary. In addition, the test ensures that the QRNG is not affected by limits of quantum measurement accuracy, as those described in the Wigner-Araki-Yanase Theorem. The test can be easily incorporated into the QRNG and used as a means of experimental certification.

@@ -1,0 +1,5 @@
+Title: Gleason's theorem made simple: a Bloch-space perspective
+Authors: Massimiliano Sassoli de Bianchi
+Categories: quant-ph
+Published: 2026-03-08 17:39:26+00:00
+Abstract: Gleason's theorem is often cited as establishing the Born rule from the structure of Hilbert space, yet its original proof is mathematically sophisticated and rarely accessible to physicists. In this article we present a simple route to the essence of Gleason's result, using the generalized Bloch representation of quantum states. We show explicitly why non-Born probability rules exist for two-dimensional systems, and why they become impossible in dimension three and higher. Our argument does not reproduce Gleason's full mathematical theorem, but it clarifies why the Born rule is unavoidable in higher dimension and why qubits are truly exceptional.

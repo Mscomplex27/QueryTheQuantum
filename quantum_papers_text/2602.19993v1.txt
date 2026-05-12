@@ -1,0 +1,5 @@
+Title: GAP Measures and Wave Function Collapse
+Authors: Roderich Tumulka
+Categories: quant-ph, math-ph
+Published: 2026-02-23 16:00:49+00:00
+Abstract: GAP measures (also known as Scrooge measures) are a natural class of probability distributions on the unit sphere of a Hilbert space that come up in quantum statistical mechanics; for each density matrix $ρ$ there is a unique measure GAP$_ρ$. We describe and prove a property of these measures that was not recognized so far: If a wave function $Ψ$ is GAP$_ρ$ distributed and a collapse occurs, then the collapsed wave function $Ψ'$ is again GAP distributed (relative to the appropriate $ρ'$). This fact applies to collapses due to a quantum measurement carried out by an observer, as well as to spontaneous collapse theories such as CSL or GRW. More precisely, it is the conditional distribution of $Ψ'$, given the measurement outcome (respectively, the noise in CSL or the collapse history in GRW), that is GAP$_{ρ'}$.

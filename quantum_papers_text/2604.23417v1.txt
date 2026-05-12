@@ -1,0 +1,5 @@
+Title: Optimum-Transmission Free-Space Optical Communications
+Authors: Prajit Dhara, Babak N. Saif, Jeffrey H. Shapiro, Saikat Guha
+Categories: physics.optics, quant-ph
+Published: 2026-04-25 19:19:27+00:00
+Abstract: Slepian developed the Prolate Spheroidal Wavefunction (PSW) spatial-mode basis, which forms the normal modes of the Fresnel-propagation kernel of a free-space optical communications channel bookended by hard-circular apertures. The zero-th order PSW mode has the highest power-transfer eigenvalue, exciting which on the transmitter side therefore maximizes the transmissivity for single-spatial-mode communications. We show that the transmissivity performance of this fundamental PSW mode can be obtained by an aperture-truncated Gaussian beam of an optimized beam waist, despite the two mode shapes deviating from one another in the near-field regime.

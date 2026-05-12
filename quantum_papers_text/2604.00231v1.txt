@@ -1,0 +1,5 @@
+Title: 100 years of spin: fundamental physics, dark matter, exotic interactions, and all that
+Authors: Dmitry Budker, Tim Chupp, Klaus Kirch, W. Mike Snow
+Categories: quant-ph, hep-ph
+Published: 2026-03-31 20:53:40+00:00
+Abstract: For a century, spin has been an indispensable probe of the fundamental laws of nature. A reflection on the role of spin in shaping modern physics is presented, from the early days of quantum mechanics to the latest precision tests of the Standard Model. The significance of magnetic and electric dipole moments in testing CP and CPT symmetries is surveyed, along with the ongoing searches for exotic spin-dependent interactions that may reveal the nature of dark matter and its connection to spacetime geometry. Through these vignettes, it is shown that spin continues to provide a fresh perspective on the most profound questions in physics today.

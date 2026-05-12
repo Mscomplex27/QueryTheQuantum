@@ -1,0 +1,6 @@
+Title: Two Problems on Quantum Computing in Finite Abelian Groups
+Authors: Ulises Pastor-Díaz, José M. Tornero
+Categories: quant-ph, math.GR
+Published: 2026-04-01 14:07:38+00:00
+Abstract: In the context of finite Abelian groups two problems are presented and solved using quantum computing techniques. The first is the well--known Hidden Subgroup Problem, originally solved by Simon in a landmark work. The second is the Fully Balanced Image Problem, originally introduced by the authors (joint with J. Ossorio--Castillo), which is related to a certain class of mappings (which contains strictly, for instance, the family of group morphisms).
+  Both problems are tackled using a combination of two techniques: first, a conversion into Boolean objects, better suited for quantum computing arguments, and subsequently a custom--tailored algorithm which takes advantage of the Generalised Phase--Kick Back technique.

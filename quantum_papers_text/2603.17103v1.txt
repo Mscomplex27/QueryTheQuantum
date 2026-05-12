@@ -1,0 +1,5 @@
+Title: Quantum reservoir computing with classical and nonclassical states in an integrated optical circuit
+Authors: S. Świerczewski, W. Verstraelen, P. Deuar, T. C. H. Liew, A. Opala, M. Matuszewski
+Categories: quant-ph, physics.optics
+Published: 2026-03-17 19:49:59+00:00
+Abstract: Quantum reservoir computing (QRC) is a hardware-implementation-friendly quantum neural network scheme with minimal physical system requirements and a proven advantage over classical counterparts. We use an extension of the positive-P phase space method to efficiently simulate a bosonic, linear silicon-chip based QRC system excited with a single nonclassical state, a "kitten" state. In combination with input-encoding coherent states, our method allows to obtain exact results for all correlation functions without Hilbert space cutoff. Surprisingly, we find that such a setting - where the only "quantumness'' derives from a single input mode, is sufficient to obtain significant (over 9-fold) reduction of classification error over the classical counterpart. Our work provides a promising direction toward efficient quantum computation with accessible optical hardware.

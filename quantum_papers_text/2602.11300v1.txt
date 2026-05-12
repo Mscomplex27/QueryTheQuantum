@@ -1,0 +1,5 @@
+Title: Extending Bell's Theorem: Nonlocality via Measurement Dependence
+Authors: G. Bacciagaluppi, R. Hermens, G. Leegwater
+Categories: quant-ph
+Published: 2026-02-11 19:21:23+00:00
+Abstract: Besides well-known conditions of locality or factorisability, deriving the Bell inequalities requires assuming that the distribution of hidden variables and Alice's and Bob's measurement settings be independent of each other. We show that (analogously to violations of locality due to action at a distance) certain violations of this Measurement Independence assumption can be associated with a notion of signalling in principle, thus making them also testable in principle, and spell out the appropriate conditions. Accordingly, we show that by imposing no-signalling one can prove a version of Bell's theorem that does not require the assumption of Measurement Independence. We discuss the "Schulman model" as an example, as well as lessons for "experimental metaphysics".

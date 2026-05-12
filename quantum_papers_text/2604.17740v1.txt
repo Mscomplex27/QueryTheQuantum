@@ -1,0 +1,5 @@
+Title: Toward quantum interconnects featuring nanometer-to-picometer bandwidth compression and THz-range quantum frequency conversion
+Authors: Tim F. Weiss, Alberto Peruzzo
+Categories: quant-ph
+Published: 2026-04-20 02:54:08+00:00
+Abstract: The long-range transmission of quantum information relies on multiple interfaces between photons, acting as flying qubits, and localized memories, serving as repeaters, to mitigate transmission losses. Efficient, long-range transmission necessitates the use of short, picosecond-scale photons, which are markedly different from the narrowband, nanosecond-scale photons optimal for absorption by memory elements, typically operating at wavelengths far from telecom. In this article, we point toward designs capable of bridging these regimes, leveraging the interplay between sum-frequency generation-based quantum frequency conversion and resonant confinement in an integrated ring resonator.

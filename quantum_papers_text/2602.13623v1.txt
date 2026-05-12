@@ -1,0 +1,5 @@
+Title: Generation of large Fock states from coherent states using Kerr interaction and displacement
+Authors: Nilakantha Meher, Anirban Pathak, S. Sivakumar
+Categories: quant-ph
+Published: 2026-02-14 06:25:08+00:00
+Abstract: We discuss a scheme to generate large Fock states. The scheme involves repeatedly applying an experimentally feasible unitary transformation to convert a semiclassical state into a Fock state. The transformation combines Kerr interaction, which is a non-Gaussian operation, and pulsed coherent drives. We identify suitable parameter values (Kerr strength, pulse timings, displacement amplitude) for the physical processes to implement the transformation and generate large Fock states with near-unity fidelity. The feasibility of implementing the scheme in circuit QED architectures is discussed. The method is also suitable for generating Fock states of cavity fields.

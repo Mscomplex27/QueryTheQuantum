@@ -1,0 +1,5 @@
+Title: Symmetric Resourceful Steady States via Non-Markovian Dissipation
+Authors: Baptiste Debecker, Eduardo Serrano-Ensástiga, Thierry Bastin, François Damanet, John Martin
+Categories: quant-ph
+Published: 2026-03-20 16:15:18+00:00
+Abstract: We prove a no-go theorem for symmetry-based dissipative engineering of collective-spin steady states: in spin-only Lindblad dynamics with jump operators linear in the collective-spin operators, any unique steady state exhibiting at least $\mathbb{Z}_2 \times \mathbb{Z}_2$ symmetry is necessarily the maximally mixed state. We then show that bath memory lifts this obstruction, enabling unique entangled steady states with a prescribed symmetry and a metrological gain, and providing a steady-state witness of non-Markovianity. Notably, this framework is largely insensitive to the microscopic details of the bath.

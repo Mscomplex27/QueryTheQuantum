@@ -1,0 +1,5 @@
+Title: Inaccurate (weak) measurements classical and quantum
+Authors: D. Sokolovski, D. Alonso, S. Brouard
+Categories: quant-ph
+Published: 2026-03-13 12:12:34+00:00
+Abstract: We consider highly inaccurate measurements made on classical stochastic and quantum systems. In the quantum case such a \e{weak} measurement preserves coherence between the system's alternatives. We demonstrate that in both cases the information about the scenario realised in each individual trial is lost. However, ensemble parameters such as classical path probabilities, and quantum quasi-probabilities can be extracted from the obtained statistics. In both cases causality ensures that additional post-selection only redistributes individual outcomes between the system's final states. Quantum quasi-probabilities may change sign, which allows for anomalously large meter's (pointer's) reading for some final states. These, we show, result from mere \e{reshaping} of a broad distribution obtained earlier, and provide no \e{experimental evidence} of quantum variables taking, on rare occasions, exceptionally large values.

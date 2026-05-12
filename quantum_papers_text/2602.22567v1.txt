@@ -1,0 +1,5 @@
+Title: Loss-insensitive quantum noise reduction in a Raman amplifier with coherent feedback
+Authors: Jianmin Wang, Rong Zhu, Z. Y. Ou
+Categories: quant-ph
+Published: 2026-02-26 03:16:14+00:00
+Abstract: A quantum amplifier usually adds extra noise inevitably through coupling to internal degrees of freedom while amplifying the signal. The introduction of quantum correlations can effectively suppress this extra noise. In this work, we utilize the established quantum correlation between the Stokes field and atomic spin waves in the Raman amplification process to feedback a portion of the Stokes field into the amplifier. This leads to a reduction in quantum noise that is independent of the feedback loss at high gain. A maximum of 6 dB noise reduction is observed. The single-path feedback amplifier is found to be sensitive to the feedback phase, a property that expands its potential for applications in quantum precision measurement, and the general concept can be extended to integrated optics and fiber optic systems.

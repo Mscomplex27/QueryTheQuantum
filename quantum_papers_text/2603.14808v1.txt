@@ -1,0 +1,5 @@
+Title: Study of the triangular-lattice Hubbard model with constrained-path quantum Monte Carlo
+Authors: Shu Fay Ung, Ankit Mahajan, David R. Reichman
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-03-16 04:23:38+00:00
+Abstract: We benchmark constrained-path Monte Carlo (CPMC) on the triangular-lattice Hubbard model for several fillings and $U$ values and show that symmetry-adapted trial wave functions are essential for quantitative accuracy. Away from half-filling, simple free-electron-based trials that preserve the ground state symmetry yield energy deviations $\lesssim 1\%$ from exact diagonalization and density matrix renormalization group results. At half-filling, strong frustration in the intermediate to large $U$ regimes necessitates symmetry-projected trials to reach comparable accuracy, where both free-electron and symmetry-broken Hartree-Fock trials incur substantial constraint bias. Since the computational cost of CPMC with symmetry projection scales polynomially with system size, our results motivate its use as a practical route for studying competing ground states in strongly correlated, frustrated systems.

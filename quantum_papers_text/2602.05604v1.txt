@@ -1,0 +1,5 @@
+Title: Simultaneous reconstruction of quantum process and noise via corrupted sensing
+Authors: Mengru Ma, Jiangwei Shang
+Categories: quant-ph
+Published: 2026-02-05 12:38:56+00:00
+Abstract: Quantum processes, including quantum gates and channels, are integral to various quantum information tasks, making the efficient characterization of these processes and their underlying noise critically important. Here, we propose a framework for quantum process tomography in the presence of corrupted noise that is able to simultaneously reconstruct the process and corrupted noise. Firstly, within the Choi-state representation, we derive the corresponding generalized restricted isometry property and demonstrate the simultaneous reconstruction of various quantum gates under sparse noise. Moreover, in comparison with the Choi-state scheme, the process-matrix representation is employed to simultaneously reconstruct sparse noise and a broader range of target quantum gates. Our results demonstrate that significant reduction in experimental configurations is achievable even under corrupted noise.

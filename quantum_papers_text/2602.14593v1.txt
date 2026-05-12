@@ -1,0 +1,5 @@
+Title: Generalized Zernike Phase-Contrast Imaging
+Authors: Christian Dwyer, David M. Paganin
+Categories: physics.optics, quant-ph
+Published: 2026-02-16 09:48:36+00:00
+Abstract: Zernike phase-contrast imaging is unique among imaging techniques in that it enables the upper limit of Fisher information allowed by quantum mechanics. Here we show that, in a departure from an ideal setting, using an incident beam of finite width, and a $π/2$ phase plate having a finite cutoff, the technique can still deliver $>95\%$ of the quantum limit. We point out that the Zernike method is, in principle, applicable to any incident beam. As an example, we sketch an approximate implementation of the method for an incident speckle beam, and show that it too can deliver $>95\%$ of the quantum limit.

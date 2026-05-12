@@ -1,0 +1,5 @@
+Title: NV-ensemble enabled microwave/NV parametric amplifier with optimal driving
+Authors: Roman Ovsiannikov, Kurt Jacobs, Andrii G. Sotnikov, Matthew E. Trusheim, Denys I. Bondar
+Categories: quant-ph
+Published: 2026-04-13 15:55:53+00:00
+Abstract: In our recent study [arXiv:2601.03407] we showed that a hybrid non-degenerate parametric amplifier could be realized for a microwave mode and an ensemble of NV-centers (or other spins) by parametrically driving the spin ensemble. The parametric driving was sinusoidal at the sum of the spin and cavities frequencies. Here we consider whether the performance of the amplifier can be improved by using a more complex drive. Employing numerical optimization, we find that the optimal driving is primarily a sum of harmonics of the sum frequency. The optimal drive, which is essentially a square wave, ramps up the amplification rate by about 40 %, while limiting the drive to four harmonics improves the amplification by about 22 %.

@@ -1,0 +1,5 @@
+Title: Spin Model for Quantum Annealing with Kerr Parametric Oscillators
+Authors: Leo Stenzel, Roeland ter Hoeven, Ryoji Miyazaki, Tomohiro Yamaji, Masayuki Shirane, Wolfgang Lechner
+Categories: quant-ph
+Published: 2026-03-12 13:44:50+00:00
+Abstract: Coherent states offer a promising path for near-term quantum computing due to their inherent protection against bit-flip noise. However, their large photon numbers can be challenging for numerical simulation. This paper introduces an effective model, representing coherent-state quantum annealing using spin-1/2 degrees of freedom. We demonstrate that this model yields accurate predictions for realistic experimental settings and can therefore serve as a practical tool for optimizing future quantum hardware.

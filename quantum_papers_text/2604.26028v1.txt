@@ -1,0 +1,5 @@
+Title: Magnetononlinear Hall effect from multigap topology in metal-organic frameworks
+Authors: Chun Wang Chau, Wojciech J. Jankowski, Bo Peng, Robert-Jan Slager
+Categories: cond-mat.mes-hall, cond-mat.mtrl-sci, quant-ph
+Published: 2026-04-28 18:11:11+00:00
+Abstract: We unveil that non-Abelian multigap band topology characterized by nontrivial Euler class invariants induces observable magnetononlinear Hall transport phenomena. We demonstrate these effects in a highly-tunable class of recently synthesized two-dimensional kagome N-heterocyclic carbene (NHC) metal-organic frameworks. We showcase the controllability of the nonlinear effect upon applying external voltage, changing temperature, and chemical substitutions that preserve the bulk topology and associated edge states. Our findings therefore reveal an uncharted presence of Euler class topology in metal-organic materials that can be experimentally deduced through measurable magnetotransport.

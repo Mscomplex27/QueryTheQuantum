@@ -1,0 +1,5 @@
+Title: Two-phase driving of a linear radio-frequency ion trap
+Authors: Santhosh Surendra, Akos Hoffmann, Michael Köhl
+Categories: quant-ph
+Published: 2026-02-07 20:52:52+00:00
+Abstract: A linear radio-frequency Paul trap is traditionally driven with one diagonal pair of electrodes grounded and the other connected to a high-voltage radio-frequency source. This method simplifies impedance matching of the voltage source to the trap. However, for several architectures it leads to increasing the axial micromotion amplitude, for example, when the capacitance between radio-frequency and end-cap electrodes is not negligible. Here, we present a technique to generate two high-voltage radio-frequency signals \SI{180}{\degree} out of phase to drive a linear Paul trap with opposite voltages between neighbouring electrodes. Using this, we have successfully trapped and cooled a chain of Ytterbium ions in a linear radio-frequency Paul trap.

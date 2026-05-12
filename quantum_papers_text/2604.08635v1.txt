@@ -1,0 +1,5 @@
+Title: Floquet Engineering of a Quasiequilibrium Superradiant Phase Transition in Landau Polaritons
+Authors: Wen-Hua Wu, Fuyang Tay, Mengqian Che, Andrey Baydin, Junichiro Kono, David Hagenmüller
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-04-09 17:06:42+00:00
+Abstract: Superradiant phase transitions (SRPTs), characterized by photon condensation and macroscopic matter polarization, are forbidden in equilibrium for homogeneous fields by no-go theorems. Here, we show that Floquet driving can circumvent this constraint in a Landau polariton system consisting of a two-dimensional electron gas coupled to a terahertz cavity in a DC magnetic field. An off-resonant AC magnetic field modulates the cyclotron frequency and light--matter coupling strength while leaving the diamagnetic term unchanged, generating an additional DC coupling contribution. This drives the system across a critical threshold into a superradiant phase, characterized by photon condensation and Landau-level polarization in the ground state of the Floquet Hamiltonian. This quasiequilibrium approach offers a route to SRPTs distinct from driven-dissipative schemes.

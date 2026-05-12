@@ -1,0 +1,5 @@
+Title: Dissipative charging of tight-binding quantum batteries
+Authors: Mingdi Xu, Yiming Liu, Yefeng Song, Xiang-Ping Jiang, Lei Pan
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-02-19 12:41:59+00:00
+Abstract: We investigate autonomous dissipative charging mechanisms for lattice quantum batteries within the framework of open quantum systems. Focusing on engineered Markovian dissipation, we show that appropriately designed Lindblad jump operators can drive tight-binding systems into highly excited band-edge states, resulting in steady states with large ergotropy. We illustrate this mechanism in a one-dimensional tight-binding chain and in a two-dimensional graphene lattice. We find that disorder enhances the charging power, indicating that dissipation-assisted localization effects can be beneficial for energy storage. Moreover, the dissipative charging process remains robust against additional local dephasing noise. Our results establish bond dissipation as an effective and physically transparent mechanism for charging lattice quantum batteries in realistic open-system settings.

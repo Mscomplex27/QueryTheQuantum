@@ -1,0 +1,5 @@
+Title: Quantum vs. Classical Spin: A Comparative Study of Dipolar Spin Dynamics and the Onset of Chaos
+Authors: Victor Henner, Alexander Nepomnyashchy, Tatyana Belozerova
+Categories: quant-ph, nlin.CD
+Published: 2026-04-27 15:30:00+00:00
+Abstract: We investigate the spin dynamics of a dipole-coupled system by comparing a direct solution of the Schrodinger equation for quantum spins with simulations of classical spins. Although classical spins have long been used in microscopic spin dynamics simulations, we demonstrate that their results differ significantly from those of quantum spins. Using Free Induction Decay as a benchmark, we find that while the overall patterns are qualitatively similar, significant discrepancies emerge at both short and long timescales. We trace these differences to fundamental distinctions in the two descriptions.

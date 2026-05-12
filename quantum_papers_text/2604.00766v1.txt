@@ -1,0 +1,10 @@
+Title: Lower Bounds on Coherent State Rank
+Authors: Florian Cottier, Ulysse Chabaud
+Categories: quant-ph
+Published: 2026-04-01 11:31:42+00:00
+Abstract: The approximate coherent state rank is the minimal number of (classical) coherent states required to approximate a continuous-variable bosonic quantum state and directly relates to the classical complexity of simulating bosonic computations. Despite its importance, little is known about lower bounds on this quantity, even for basic families of states. In this work, we initiate a systematic study of lower bounds on the approximate coherent state rank. Our contributions are as follows.
+  (i) We introduce a technique based on low-rank approximation theory yielding generic lower bounds on the approximate coherent state rank of arbitrary single-mode states.
+  (ii) Using this technique, we find a complete characterization of all single-mode states of finite approximate coherent state rank, and we obtain in particular analytical expressions for the approximate coherent state rank of squeezed states and of finite superpositions of Fock states.
+  (iii) We further show that our single-mode lower bounds can be lifted to multimode lower bounds for finite superpositions of multimode Fock states.
+  (iv) Finally, we prove a super-polynomial lower bound on the approximate coherent state rank of the $n$-mode Fock state $|1\rangle^{\otimes n}$, by exploiting a connection to the permanent. To do so, we show that the algebraic complexity of approximate multi-linear formulas for the permanent is super-polynomial, building upon the proof of a lower bound for exact formulas due to [Raz, JACM 2009].
+  Our results establish an unconditional barrier to efficient classical simulation of Boson Sampling via coherent state decompositions and connect non-classicality of bosonic quantum systems to central questions in algebraic complexity.

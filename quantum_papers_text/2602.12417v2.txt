@@ -1,0 +1,5 @@
+Title: Information lattice approach to the metal-insulator transition
+Authors: William Skoglund, Elton Giacomelli, Yiqi Yang, Jens H. Bardarson, Erik van Loon
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-02-12 21:15:29+00:00
+Abstract: Correlation functions and correlation lengths are frequently used to describe phase transitions in quantum systems, but they require an explicit choice of observables. The recently introduced information lattice instead provides an observable-independent way to identify where and at which scale information is contained in quantum lattice models. Here, we use it to study the difference between the metallic and insulating regime of one-dimensional noninteracting tight-binding chains. We find that the information per scale follows a power law in metals at low temperature and that Friedel-like oscillations are visible in the information lattice. At high temperature or in insulators at low temperature, the information per scale decays exponentially. Thus, the information lattice is a useful tool for analyzing the metal-insulator transition.

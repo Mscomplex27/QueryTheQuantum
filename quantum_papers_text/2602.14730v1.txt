@@ -1,0 +1,5 @@
+Title: Faster Optimal Decoder for Graph Codes with a Single Logical Qubit
+Authors: Nirupam Basak, Goutam Paul
+Categories: quant-ph
+Published: 2026-02-16 13:22:19+00:00
+Abstract: In this work, we develop an efficient decoding method for graph codes, a class of stabilizer quantum error-correcting codes constructed from graph states. While optimal decoding is generally NP-hard, we propose a faster decoder exploiting the structural properties of the underlying graph states. Although distinct error patterns may yield the same syndrome, we demonstrate that the post-measurement state follows a well-defined structure determined by the projective syndrome measurement. Building on this idea, we introduce a hierarchical decoder in which each level can be solved in polynomial time. Additionally, this decoder achieves optimal decoding performance at the lower levels of the hierarchy. This strategy avoids the need for full maximum-likelihood decoding of graph codes. Numerical results illustrate the efficiency and effectiveness of the proposed approach.

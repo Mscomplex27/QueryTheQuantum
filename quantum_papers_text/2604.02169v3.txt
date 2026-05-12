@@ -1,0 +1,8 @@
+Title: The Phase Quantum Walk: A Unified Framework for Graph State Distribution in Quantum Networks
+Authors: Soumyojyoti Dutta
+Categories: quant-ph
+Published: 2026-04-02 15:35:30+00:00
+Abstract: Distributing arbitrary graph states across quantum networks is a central challenge for modular quantum computing and measurement-based quantum communication. We introduce the phase quantum walk (PQW), a discrete-time quantum walk in which the conventional position-permuting shift operator is replaced by a diagonal conditional phase (CZ) gate, enabling distribution of arbitrary graph states, not merely GHZ states, from elementary two-qubit resources.
+  The Byproduct Lemma shows that each walk step teleports edge entanglement with a correctable Pauli byproduct. A universal correction theorem proves that for any graph G = (V, E) and any measurement outcome, the local correction at vertex v is given by C_v = Z_v^(g_v), where g_v is the parity (XOR) over all measurement outcomes associated with edges incident on v. This provides a single correction rule covering all graph topologies without case analysis.
+  Analytical correction formulas are verified for 18 topologies (up to 4096 outcomes) with fidelity F = 1.0. Closed-form fidelity expressions F_dep = (1 - 3p/4)^k and F_pd = ((1 + sqrt(1 - p))/2)^k are derived and verified.
+  Hardware validation on ibm_marrakesh (IBM Heron r2, CZ-native) yields corrected fidelities F*_cl = 0.924 for GHZ_4 and 0.922 for L_4, which are statistically identical, as predicted by the noise models for protocols using equal numbers of resource qubits. The local Clifford inequivalence of L_4 and GHZ_4 confirms that the protocol distributes genuinely new entanglement beyond prior methods.

@@ -1,0 +1,5 @@
+Title: From vacuum amplitudes to qubits
+Authors: Germán Rodrigo
+Categories: hep-ph, hep-ex, hep-th, quant-ph
+Published: 2026-03-12 14:14:19+00:00
+Abstract: High-energy colliders, exemplified by the CERN's Large Hadron Collider (LHC), constitute genuine quantum machines. In alignment with Richard Feynman's foundational vision for quantum computing, collider physics emerge therefore as a prime candidate for quantum simulations. Prospective applications include Quantum Machine Learning for collider data analysis, accelerated evaluation of complex multiloop Feynman diagrams, efficient jet clustering, enhanced parton shower simulations, and related computational challenges. We discuss two specific applications: the identification of causal structures in multiloop vacuum amplitudes, a fundamental component of the Loop-Tree Duality exhibiting deep connections to graph theory; and high-dimensional function integration and sampling. The latter constitutes an initial step toward realizing a fully fleged quantum event generator capable of operating at high perturbative orders.

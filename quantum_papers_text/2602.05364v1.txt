@@ -1,0 +1,5 @@
+Title: Hybrid Quantum-Classical Optimization for Multi-Objective Supply Chain Logistics
+Authors: Raoul Heese, Timothée Leleu, Sam Reifenstein, Christian Nietner, Yoshihisa Yamamoto
+Categories: math.OC, quant-ph
+Published: 2026-02-05 06:38:54+00:00
+Abstract: A multi-objective logistics optimization problem from a real-world supply chain is formulated as a Quadratic Unconstrained Binary Optimization Problem (QUBO) that minimizes cost, emissions, and delivery time, while maintaining target distributions of supplier workshare. The model incorporates realistic constraints, including part dependencies, double sourcing, and multimodal transport. Two hybrid quantum-classical solvers are proposed: a structure-aware informed tree search (IQTS) and a modular bilevel framework (HBS), combining quantum subroutines with classical heuristics. Experimental results on IonQ's Aria-1 hardware demonstrate a methodology to map real-world logistics problems onto emerging combinatorial optimization-specialized hardware, yielding high-quality, Pareto-optimal solutions.

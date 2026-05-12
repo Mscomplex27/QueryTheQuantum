@@ -1,0 +1,5 @@
+Title: Boundary conditions for the Schrödinger equation in the numerical simulation of quantum systems
+Authors: Marco Patriarca
+Categories: quant-ph, cond-mat.mes-hall, physics.comp-ph
+Published: 2026-02-16 11:26:03+00:00
+Abstract: We study the problem of the boundary conditions in the numerical simulation of closed and open quantum systems, described by a Schrödinger equation. On one hand, we show that a closed quantum system is defined by local boundary conditions. On the other hand, we argue that, because of the uncertainty principle, no local boundary condition can be defined for open quantum systems. For this reason plane waves or wave packet trains cannot be simulated on a finite numerical lattice with the usual procedures. We suggest a method that avoids these difficulties by using only a small numerical lattice and maintains the correspondence with the physical picture, in which the incident and scattered waves may be infinitely extended.

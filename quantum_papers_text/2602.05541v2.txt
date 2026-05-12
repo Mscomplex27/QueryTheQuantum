@@ -1,0 +1,5 @@
+Title: Reducing the Complexity of Matrix Multiplication to $O(N^2log_2N)$ by an Asymptotically Optimal Quantum Algorithm
+Authors: Jiaqi Yao, Ding Liu
+Categories: quant-ph, cs.CC, cs.LG
+Published: 2026-02-05 10:58:52+00:00
+Abstract: Matrix multiplication is a fundamental classical computing operation whose efficiency becomes a major challenge at scale, especially for machine learning applications. Quantum computing, with its inherent parallelism and exponential storage capacity, offers a potential solution to these limitations. This work presents a quantum kernel-based matrix multiplication algorithm (QKMM) that achieves an asymptotically optimal computational complexity of $ O(N^2 \log_2 N) $, outperforming the classical optimal complexity of $ O(N^{2.371552}) $, where $N$ denotes the matrix dimension. Through noiseless and noisy quantum simulation experiments, we demonstrate that the proposed algorithm not only exhibits superior theoretical efficiency but also shows practical advantages in runtime performance and stability.

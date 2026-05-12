@@ -1,0 +1,5 @@
+Title: Quantum Suicide in Many-Worlds Implies P=NP
+Authors: Veronika Baumann, Alberto Rolandi
+Categories: quant-ph
+Published: 2026-03-30 18:00:08+00:00
+Abstract: In this paper we propose a totally serious algorithm to solve NP problems in polynomial time provided one is willing to wager the fate of all observers in the universe on the many-world interpretation of quantum theory being correct.

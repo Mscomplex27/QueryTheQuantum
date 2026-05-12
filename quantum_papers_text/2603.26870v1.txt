@@ -1,0 +1,5 @@
+Title: Ergodicity breaking in matrix-product-state effective Hamiltonians
+Authors: Andrew Hallam, Jared Jeyaretnam, Zlatko Papić
+Categories: cond-mat.str-el, cond-mat.dis-nn, quant-ph
+Published: 2026-03-27 18:00:01+00:00
+Abstract: Thermalization and its breakdown in interacting quantum many-body systems are governed by mid-spectrum eigenstates, which are typically accessible only in small system sizes amenable to exact diagonalization. Here we demonstrate that the density-matrix renormalization group (DMRG) effective Hamiltonian, an object routinely used to variationally approximate ground states, encodes detailed information about the dynamics far from equilibrium. In the random-field XXZ spin chain, the spectrum of the effective Hamiltonian is shown to capture the transition from thermal to many-body localized regimes, including spatially resolved probes of ergodic bubbles. Furthermore, the same approach also captures weak ergodicity breaking associated with quantum many-body scars. Our results establish the DMRG effective Hamiltonian as a versatile spectral probe of quantum thermalization and its breakdown in large systems beyond exact diagonalization.

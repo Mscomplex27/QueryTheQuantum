@@ -1,0 +1,5 @@
+Title: Simultaneous Fragment Docking for Geometrically Linkable Pose Pairs
+Authors: Jiyun Lee, You Kyoung Chung, Joonsuk Huh
+Categories: q-bio.BM, quant-ph
+Published: 2026-04-16 07:50:39+00:00
+Abstract: Computational molecular design requires binding arrangements that are not only energetically favorable but also chemically realizable. However, computational methods remain limited in directly recovering fragment pose pairs that can later be connected into a single molecule. To address this problem, we formulated the simultaneous placement of two fragments as a quadratic unconstrained binary optimization problem, Q-SFD, and introduced an explicit inter-fragment distance term to favor reconstruction-feasible arrangements. Relative to the formulation without this term, Q-SFD approximately doubled top-1 recovery of reconstruction-feasible pairs, and the top-5 solutions contained at least one feasible pair for more than 90% of benchmark cases without loss of fragment-level pose accuracy.

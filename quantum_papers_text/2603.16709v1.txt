@@ -1,0 +1,5 @@
+Title: Kibble-Zurek Mechanism in the Open Quantum Rabi Model
+Authors: T. Pirozzi, G. Di Bello, V. Cataudella, C. A. Perroni, G. De Filippis
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-03-17 16:00:52+00:00
+Abstract: The Kibble-Zurek mechanism provides a universal framework for predicting defect formation in non-equilibrium phase transitions. While Markovian dissipation typically degrades universal scaling, the impact of non-Markovian memory remains largely unexplored. We demonstrate that an Ohmic bath induces a Berezinskii-Kosterlitz-Thouless transition in the open quantum Rabi model. Using simulations based on Matrix Product States, we show that the excitation energy strictly follows universal Kibble-Zurek power-law scaling when evaluated at the freeze-out time. Crucially, we find that since the environment defines the universality class, dissipation does not inherently compete with adiabatic dynamics, in stark contrast to Markovian regimes. Our results establish the Kibble- Zurek mechanism as a robust witness of universality in open quantum systems, revealing that non-Markovian memory preserves the integrity of non-equilibrium scaling.

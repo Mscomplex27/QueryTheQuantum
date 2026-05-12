@@ -1,0 +1,5 @@
+Title: Dissipative Spectroscopy
+Authors: Xudong He, Yu Chen
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-02-16 08:35:11+00:00
+Abstract: We introduce dissipative spectroscopy as a framework for extracting spectral information from quantum systems via controlled dissipation. By establishing a general dissipative response theory applicable to both Markovian and non-Markovian environments, we develop a protocol to access the dissipative spectrum (DS) through driven oscillation-dissipation resonance. We show that the DS can identify two-particle soft modes near quantum critical points and, on the normal-phase side, predict the emergence of macroscopic order exhibiting power-law growth following a dissipation quench. These distinctive signatures appear in quasiparticle-dominant regimes, previously considered trivial. Furthermore, we introduce extended dissipative susceptibilities that capture leading memory effects and demonstrate their utility in a dissipative fermionic model. Our results indicate that the DS is readily accessible and offers a versatile tool for probing equilibrium properties as well as predicting nonequilibrium dissipative dynamics.

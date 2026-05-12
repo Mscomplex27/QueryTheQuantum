@@ -1,0 +1,5 @@
+Title: Bit-Vector Abstractions to Formally Verify Quantum Error Detection & Entanglement
+Authors: Arun Govindankutty
+Categories: quant-ph, cs.ET, cs.LO
+Published: 2026-03-13 19:45:57+00:00
+Abstract: As the number of qubits increases, quantum circuits become more complex and their state space grows rapidly. This makes functional verification challenging for conventional techniques. Ensuring correctness is especially critical for quantum error correction and entanglement generation. This paper presents a novel application of bit-vector based abstraction methodology for formal verification of quantum circuits where superposition and functional behaviour can be decoupled. The approach is applied to error detection circuits for 2-qubit, 3-qubit, and Shor 9-qubit quantum codes, as well as Bell-state and GHZ-state generation circuits. The error detection circuits and the Bell-state generation circuit are verified in less than a second and 25MB memory. GHZ circuits with up to 8,192 qubits are verified in under three minutes using a maximum of 23.2 GB of memory. The results demonstrate the versatility, scalability, and effectiveness of the proposed approach.

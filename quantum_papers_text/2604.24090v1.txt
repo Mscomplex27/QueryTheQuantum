@@ -1,0 +1,5 @@
+Title: Electrically detected magnetic resonance of $^{75}$As magnetic clock transitions in silicon
+Authors: Ravi Acharya, Shao Qi Lim, Brett C. Johnson, Nicholas Gillespie, Christopher T. -K. Lew, Alexander M. Jakob, Daniel L. Creedon, Gus O. Bonin, Dane R. McCamey, Richard J. Curry, Jeffrey C. McCallum, David N. Jamieson
+Categories: quant-ph, cond-mat.mes-hall, cond-mat.mtrl-sci
+Published: 2026-04-27 06:30:07+00:00
+Abstract: Magnetic clock transitions (CTs), defined by vanishing first-order sensitivity of the transition frequency to magnetic field fluctuations, provide a powerful route to suppress decoherence in donor spin systems. Here, we present the observation of magnetic field CTs from an ensemble of near-surface $^{75}$As ($I = 3/2$) spins in silicon using low-field ($< 10$~mT) continuous-wave electrically detected magnetic resonance (EDMR). As the CT condition is approached, pronounced linewidth broadening is observed, consistent with a donor Hamiltonian informed linewidth model. These results establish low-field EDMR as a sensitive probe of CTs in near-surface donor systems relevant to silicon-based quantum devices.

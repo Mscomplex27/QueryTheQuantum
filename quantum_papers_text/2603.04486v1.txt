@@ -1,0 +1,5 @@
+Title: Unified Probe of Quantum Chaos and Ergodicity from Hamiltonian Learning
+Authors: Nik O. Gjonbalaj, Christian Kokail, Susanne F. Yelin, Soonwon Choi
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-04 19:00:00+00:00
+Abstract: Developing measures of quantum ergodicity and chaos stands as a foundational task in the study of quantum many-body systems. In this work, we propose metrics for these effects based on Hamiltonian learning that unify multiple advantages of existing metrics. In particular, we show how ergodicity and chaos improve the robustness of Hamiltonian learning to small errors and furthermore demonstrate that this robustness can be used as a metric for such phenomena. We analytically and numerically show that our metrics not only distinguish between integrable and ergodic regimes in various spin chains but also quantify chaos and ergodicity, allowing us to locate regions of parameter space displaying maximal ergodicity and maximal sensitivity to local perturbations. Our approach not only provides conceptual ways to study quantum chaos and ergodicity but also presents viable experimental methods for quantum simulators.

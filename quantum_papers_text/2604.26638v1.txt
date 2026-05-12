@@ -1,0 +1,5 @@
+Title: Emergence of $π$ from Equatorial Quantum Localization
+Authors: Bin Ye, Ruitao Chen, Lei Yin
+Categories: quant-ph, hep-th
+Published: 2026-04-29 13:04:44+00:00
+Abstract: We present a genuinely non-radial quantum-mechanical route by which $π$ emerges from equatorial localization on the sphere. For the highest-weight branch of spherical harmonics, this localization is captured by a natural geometric rigidity index, whose exact finite-quantum-number value is a Wallis partial product. The mechanism is realized in two settings: the standard rigid rotor and the surface sector of a thin spherical shell, where radial freezing reduces the dynamics to the same angular problem. In the large-quantum-number limit, the probability cloud collapses toward the equator, the rigidity index approaches its classical value, and the Wallis formula is recovered through the correspondence principle. The result shows that Wallis-type structures in quantum mechanics can arise as exact signatures of semiclassical localization encoded by a simple geometric observable.

@@ -1,0 +1,5 @@
+Title: Teleportation via spin-1/2 chain in solid-state quantum architecture
+Authors: E. B. Fel'dman, S. I. Doronin, E. I. Kuznetsova, A. I. Zenchuk
+Categories: quant-ph
+Published: 2026-02-27 06:37:48+00:00
+Abstract: We propose the protocol for preparing the maximally entangled Bell state between remote qubits at the ends of the spin-1/2 chain governed by the specially engineered nearest-neighbor XX-Hamiltonian with excited central spin as the initial state. This method does not require including optical constituent in the teleportation protocol and can be implemented in the quantum devices with solid-state architecture for teleporting unknown states or organizing quantum gates between remote qubits. A superconducting flux-qubit chain is an example of such devises.

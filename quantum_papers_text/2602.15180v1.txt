@@ -1,0 +1,5 @@
+Title: Efficient quantum circuits for high-dimensional representations of SU(n) and Ramanujan quantum expanders
+Authors: Vishnu Iyer, Siddhartha Jain, Stephen Jordan, Rolando Somma
+Categories: quant-ph, cs.CC
+Published: 2026-02-16 20:38:26+00:00
+Abstract: We present efficient quantum circuits that implement high-dimensional unitary irreducible representations (irreps) of $SU(n)$, where $n \ge 2$ is constant. For dimension $N$ and error $ε$, the number of quantum gates in our circuits is polynomial in $\log(N)$ and $\log(1/ε)$. Our construction relies on the Jordan-Schwinger representation, which allows us to realize irreps of $SU(n)$ in the Hilbert space of $n$ quantum harmonic oscillators. Together with a recent efficient quantum Hermite transform, which allows us to map the computational basis states to the eigenstates of the quantum harmonic oscillator, this allows us to implement these irreps efficiently. Our quantum circuits can be used to construct explicit Ramanujan quantum expanders, a longstanding open problem. They can also be used to fast-forward the evolution of certain quantum systems.

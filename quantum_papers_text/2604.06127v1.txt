@@ -1,0 +1,5 @@
+Title: Necessary and sufficient conditions for the N-representability of functionals of the one-electron reduced density matrix
+Authors: Jannis Erhard, Paul W. Ayers
+Categories: quant-ph
+Published: 2026-04-07 17:39:09+00:00
+Abstract: We establish necessary and sufficient conditions for the N-representability of the universal one-electron reduced density matrix functional. Functionals satisfying these conditions are guaranteed to yield variational upper bounds on the true energy in one-electron reduced density matrix functional theory, regardless of the strength of the interparticle repulsion. Conversely, any functional violating these conditions will necessarily underestimate the true energy for certain systems. These exact constraints impose a stringent restriction on density matrix functional approximations, as many existing functionals-including the Hartree-Fock functional-appear to violate them. This mathematical formalism, therefore, can guide the development of new approximate functionals and numerical algorithms.

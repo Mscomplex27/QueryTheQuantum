@@ -1,0 +1,5 @@
+Title: Nature abhors macroscopic superpositions
+Authors: Filippus S. Roux
+Categories: quant-ph
+Published: 2026-03-02 12:46:55+00:00
+Abstract: Superpositions of mass distributions can potentially lead to entanglement with the geometry of spacetime. Here we show that there exists a natural reluctance for macroscopic mass distributions to form such superpositions. The macroscopic superposition is modeled as a Schr{ö}dinger cat state. The reluctance manifests as a dip in the total energy of the Schr{ö}dinger cat state as a function of the separation distance between the terms in the superposition. The dip in the energy provides an opposing force preventing the formation of the superposition. A generalization of this phenomenon addressing the measurement problem is also discussed.

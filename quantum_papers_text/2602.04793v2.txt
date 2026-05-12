@@ -1,0 +1,5 @@
+Title: Correspondence between classical and quantum resonances
+Authors: F. J. Arranz, R. M. Benito, F. Borondo
+Categories: nlin.CD, quant-ph
+Published: 2026-02-04 17:42:44+00:00
+Abstract: Bifurcations take place in molecular Hamiltonian nonlinear systems as the excitation energy increases, this leading to the appearance of different classical resonances. In this paper, we study the quantum manifestations of these classical resonances in the isomerizing system CN-Li$\leftrightarrows$Li-CN. By using a correlation diagram of eigenenergies versus Planck constant, we show the existence of different series of avoided crossings, leading to the corresponding series of quantum resonances, which represent the quantum manifestations of the classical resonances. Moreover, the extrapolation of these series to $\hbar=0$ unveils the correspondence between the bifurcation energy of classical resonances and the energy of the series of quantum resonances in the semiclassical limit $\hbar\to0$. Additionally, in order to obtain analytical expressions for our results, a semiclassical theory is developed.

@@ -1,0 +1,5 @@
+Title: Space-sharing and Singleton Bounds for Entanglement-assisted Classical Coding
+Authors: Yuhang Yao, Tushita Prasad, Markus Grassl, Syed Jafar, Hua Sun
+Categories: quant-ph, cs.IT
+Published: 2026-03-09 16:25:14+00:00
+Abstract: Recent work has noted that a space-sharing argument proves the tightness of the entropic quantum Singleton bounds, which was left open in the literature for various settings involving only-quantum messages, only-classical messages, or both classical and quantum messages. Focusing on the setting of entanglement-assisted classical coding (EACC), in this letter we first elaborate upon the space-sharing argument and the tight Singleton bound for this setting, and then establish a new tight entropic Singleton bound for EACC codes with entanglement assistance distributed across a subset of encoders when only local quantum operations are allowed at each encoder.

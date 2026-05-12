@@ -1,0 +1,5 @@
+Title: Geometric criticality in the driven Jaynes-Cummings model
+Authors: Ken Chen, Jia-Hao Lv, Hao-Long Zhang, Fan Wu, Wen Ning, Zhen-Biao Yang, Shi-Biao Zheng
+Categories: quant-ph
+Published: 2026-02-08 03:23:05+00:00
+Abstract: When the photonic mode in the Jaynes-Cummings model is driven by an external classical field, the system can undergo the photon-blockade breakdown phase transition at a critical point. Such a phase transition has been detailedly investigated, but the critical properties of the eigenstates remain largely unexplored so far. We here study the geometric criticality associated with these eigenstates. The amplitude and phase of the drive serve as the control parameter of the governing Hamiltonian. We find the quantum metric and Berry curvature tensors for each eigenstate display divergent behaviors in the critical region. More importantly, the divergence associated with bright eigenstates is much more pronounced than that for the unique dark state. Our theoretical results can be experimentally confirmed in circuit quantum electrodynamics systems, where the driven Jaynes-Cummings model has been realized.

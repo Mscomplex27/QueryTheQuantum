@@ -1,0 +1,5 @@
+Title: Quantum-preserving telecom conversion of atomic biphotons
+Authors: Ling-Chun Chen, Chang-Wei Lin, Jiun-Shiuan Shiu, Wei-Lin Chen, Yi-Che Wang, Yong-Fan Chen
+Categories: quant-ph, physics.optics
+Published: 2026-03-10 15:46:45+00:00
+Abstract: We experimentally demonstrate telecom frequency conversion of atomic biphotons using a diamond-type atomic ensemble. By spectrally engineering heralded photons and optimizing the atomic converter, efficient conversion is achieved while preserving the temporal waveform and nonclassical antibunching behavior. The converted photons retain strong quantum correlations and well-defined wavepackets, demonstrating preservation of dynamical quantum properties beyond photon-statistics-based benchmarks. The measured performance agrees with a microscopic model that captures the spectral acceptance and parameter dependence of the converter. These results establish a practical interface between atomic photon sources and telecom fiber networks, enabling quantum interference and distributed quantum communication.

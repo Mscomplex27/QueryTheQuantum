@@ -1,0 +1,5 @@
+Title: The KMS and GNS Spectral Gap of Quantum Markov Semigroups
+Authors: Melchior Wirth
+Categories: math-ph, math.FA, math.OA, quant-ph
+Published: 2026-04-23 12:49:44+00:00
+Abstract: We establish a relation between the exponential decay rates of quantum Markov semigroups with respect to different inner products. More precisely, it was conjectured by Fagnola, Poletti, Sasso and Umanità that for a Gaussian quantum Markov semigroup, the exponential decay rate with respect to the KMS inner product is bounded below by the exponential decay rate for the GNS inner product. We show that this is indeed the case and not limited to Gaussian quantum Markov semigroups, but holds for quantum Markov semigroups with a faithful normal invariant state on arbitrary von Neumann algebras. Additionally, the KMS inner product can be replaced by a whole class of inner products induced by operator monotone functions.

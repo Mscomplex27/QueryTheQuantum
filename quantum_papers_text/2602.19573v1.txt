@@ -1,0 +1,5 @@
+Title: A Relation Between the Chrestenson Operator, Weyl Operator Basis, and Kronecker-Pauli Operator Basis
+Authors: Mickaya A. Razanaparany, Christian Rakotonirina
+Categories: quant-ph
+Published: 2026-02-23 07:41:41+00:00
+Abstract: Within the framework of quantum theory, we review the Chrestenson operator, the Weyl operator basis, and the Kronecker-Pauli operator basis in $d$-dimensional Hilbert spaces using Dirac notation, where $d$ is a prime integer strictly greater than 2. We establish a new algebraic relation connecting these operators and present the cases $d=3$ and $d=5$ as illustrative examples.

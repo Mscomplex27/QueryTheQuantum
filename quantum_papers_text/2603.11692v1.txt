@@ -1,0 +1,5 @@
+Title: Demonstration of High-Fidelity Gates in a Strongly Anharmonic with Long-Coherence C-Shunt Flux Qubit
+Authors: Silu Zhao, Li Li, Weiping Yuan, Xinhui Ruan, Jinzhe Wang, Bingjie Chen, Yunhao Shi, Guihan Liang, Shi Xiao, Jiacheng Song, Jinming Guo, Xiaohui Song, Kai Xu, Heng Fan, Zhongcheng Xiang, Dongning Zheng
+Categories: quant-ph
+Published: 2026-03-12 09:00:08+00:00
+Abstract: We demonstrate high-fidelity single-qubit gates on a C-shunt flux qubit that simultaneously combines a large anharmonicity ($\mathcal{A}/2π=848~\mathrm{MHz}$) with long relaxation time ($T_1 = 23~μ\text{s}$). The large anharmonicity significantly suppresses leakage to higher energy levels, enabling fast and precise microwave control. Using DRAG pulses and randomized benchmarking, the qubit achieves gate fidelities exceeding 99.9\%, highlighting the capability of C-shunt flux qubits for robust and high-performance quantum operations. These results establish them as a promising platform for scalable quantum information processing.

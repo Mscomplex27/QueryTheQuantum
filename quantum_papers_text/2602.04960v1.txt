@@ -1,0 +1,5 @@
+Title: Topological frustration and quantum resources
+Authors: Alberto Giuseppe Catalano, Gianpaolo Torre, Salvatore Marco Giampaolo, Fabio Franchini
+Categories: quant-ph, cond-mat.str-el
+Published: 2026-02-04 19:00:02+00:00
+Abstract: Although in general boundary conditions do not affect the bulk properties of a system, some of them are special and defy such expectation. This is the case, for instance, of those inducing geometrical frustration in a classical magnet. Recently, the study of such settings in quantum systems (dubbed topological frustration) has uncovered peculiar features, interesting both from a fundamental and technological point of view. In this work, we present and discuss the behavior of several quantum resources in presence of TF, namely the (disconnected) entanglement entropy and the non-stabilizerness Renyi entropy. We will show that, compared to their non-frustrated counterparts, TF adds a distinct contribution to these resources, due to a stable, delocalized, topological excitation. Remarkably, this contribution can be calculated analytically, due to its similarities with that of a W-state.

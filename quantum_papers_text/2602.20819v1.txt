@@ -1,0 +1,5 @@
+Title: Quantum discord of mixed states under noisy channels in the curved spacetime
+Authors: Yuxuan Xiong, Zhiling Pi, Tinggui Zhang, Xiaofen Huang
+Categories: quant-ph
+Published: 2026-02-24 11:56:03+00:00
+Abstract: We focus our attention on two-qubit mixed states as initial states, and apply the geometric measure of quantum discord to investigate quantum discord properties in the background of a Schwarzschild black hole under phase damping, phase flip and bit flip channels, respectively. Several analytical complementary relationships based on quantum discords for bipartite subsystems are proposed. For the three channel noises, the behaviors of discords are similar, the accessible discords always degrade as the Hawking acceleration rising, but sudden death never occurs, while the inaccessible discords increase from zero monotonically. Interestingly, in the case of the bit flip channel and phase flip channel, the discords perform symmetrically with the decay probability rising.

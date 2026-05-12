@@ -1,0 +1,5 @@
+Title: Enhancing superconductivity using thermal bosons
+Authors: Ekaterina Vlasiuk, Manfred Salmhofer, Eugene Demler, Richard Schmidt
+Categories: cond-mat.mes-hall, cond-mat.quant-gas, cond-mat.str-el, quant-ph
+Published: 2026-03-06 19:00:39+00:00
+Abstract: We investigate how the strong coupling of a superconductor to thermal bosons can enhance its superconducting critical temperature. To tackle this problem, we use a renormalization group approach that allows us to describe the competition between density fluctuations and the build-up of boson-induced attraction between fermions. Capturing the mutual influence of bosonic and fermionic sectors, the self-consistent renormalization group framework predicts a robust increase of the critical temperature across a wide range of interactions. We find a nontrivial dependence of the critical temperature on the boson mass and we establish a phase diagram for enhanced superconductivity driven by bosons being either in the condensed or thermal state. We outline possible experimental realizations in cold atomic systems and discuss implementations using electron-exciton mixtures in van der Waals material heterostructures.

@@ -1,0 +1,5 @@
+Title: On the quantum mechanics of finite-mass observers
+Authors: Juanca Carrasco-Martinez
+Categories: quant-ph, gr-qc, hep-ph
+Published: 2026-02-16 19:25:34+00:00
+Abstract: The principle of relativity is extended to accommodate finite-mass observers with quantum properties by introducing two operational requirements: (i) equivalence of observers at the level of transition amplitudes, and (ii) the impossibility for an observer to access its own quantum state of motion. This results in a fully relative formulation of quantum mechanics with observer-dependent Hilbert spaces, relative quantization rules, and novel uncertainty relations, while also elucidating some interpretational issues present in the current formulation of quantum mechanics and giving experimentally testable signatures.

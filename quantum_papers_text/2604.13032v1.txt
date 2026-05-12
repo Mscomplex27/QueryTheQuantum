@@ -1,0 +1,5 @@
+Title: Zeno Blockade Enabling Photonic Quantum Optimization
+Authors: Mohammad-Ali Miri, Uchenna Chukwu, Nicholas Chancellor
+Categories: quant-ph
+Published: 2026-04-14 17:59:08+00:00
+Abstract: In this work we explore the potential of implementing an optical quantum optimizer using non-linear optics, specifically using sum-frequency generation and/or two photon absorption. This proposal uses Zeno effects to enforce independence constraints and then a linear protocol to find a maximum independent set in a way where the elements of the set can be weighted. Our proposal can either be viewed as an implementation of the entropy computing paradigm presented in [Nguyen et.~al.~Communications Physics 1, 411, 8] which uses real rather than imaginary time evolution, or as quantum annealing within a Zeno constrained subspace. We discuss how such a device could be built, and considerations such as error mitigation, particularly for photon-loss errors. We numerically study aspects of the protocol, including the effect of coherent versus incoherent incarnations of the Zeno effect, finding superior performance from the former.

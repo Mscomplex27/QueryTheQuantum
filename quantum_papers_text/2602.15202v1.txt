@@ -1,0 +1,5 @@
+Title: Tomography by Design: An Algebraic Approach to Low-Rank Quantum States
+Authors: Shakir Showkat Sofi, Charlotte Vermeylen, Lieven De Lathauwer
+Categories: quant-ph, cs.AI, eess.SP, math.NA, stat.CO
+Published: 2026-02-16 21:31:47+00:00
+Abstract: We present an algebraic algorithm for quantum state tomography that leverages measurements of certain observables to estimate structured entries of the underlying density matrix. Under low-rank assumptions, the remaining entries can be obtained solely using standard numerical linear algebra operations. The proposed algebraic matrix completion framework applies to a broad class of generic, low-rank mixed quantum states and, compared with state-of-the-art methods, is computationally efficient while providing deterministic recovery guarantees.

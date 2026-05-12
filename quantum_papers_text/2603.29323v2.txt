@@ -1,0 +1,5 @@
+Title: On the Entanglement Entropy Distribution of a Hybrid Quantum Circuit
+Authors: Jeonghyeok Park, Hyukjoon Kwon, Hyunseok Jeong
+Categories: quant-ph
+Published: 2026-03-31 06:45:38+00:00
+Abstract: We investigate the distribution of entanglement entropy in hybrid quantum circuits consisting of random unitary gates and local measurements applied at a finite rate. We demonstrate that higher moments of the entanglement entropy distribution, such as the ratio between the variance and the mean and the skewness, capture nontrivial features of the measurement-induced dynamics that are invisible to the mean entropy alone. We demonstrate that these quantities exhibit distinct and robust behaviors across the volume-law and area-law phases, and can serve as effective diagnostics of measurement-induced entanglement transitions. We propose a phenomenological model describing the effect of measurements in the area-law regime, which, when combined with the directed polymer in a random environment description of the volume-law phase, well matches numerical simulations across the entire phase diagram.

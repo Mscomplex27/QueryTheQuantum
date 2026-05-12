@@ -1,0 +1,5 @@
+Title: Coherence and entanglement dynamics in Shor's algorithm
+Authors: Linlin Ye, Zhaoqi Wu, Shao-Ming Fei
+Categories: quant-ph
+Published: 2026-04-08 03:25:43+00:00
+Abstract: Shor's algorithm outperforms its classical counterpart in efficient prime factorization. We explore the coherence and entanglement dynamics of the evolved states within Shor's algorithm, showing that the coherence in each step relies on the dimension of register or the order, and discuss the relations between geometric coherence and geometric entanglement. We investigate how unitary operators induce variations in coherence and entanglement, and analyze the variations of coherence and entanglement within the entire algorithm, demonstrating that the overall effect of Shor's algorithm tends to deplete coherence and produce entanglement. Our research not only deepens the understanding of this algorithm but also provides methodological references for studying resource dynamics in other quantum algorithms.

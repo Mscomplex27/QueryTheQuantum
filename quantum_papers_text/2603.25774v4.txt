@@ -1,0 +1,5 @@
+Title: Catalytic Quantum Error Correction: Theory, Efficient Catalyst Preparation, and Numerical Benchmarks
+Authors: Hikaru Wakaura
+Categories: quant-ph
+Published: 2026-03-26 12:03:20+00:00
+Abstract: We introduce Catalytic Quantum Error Correction (CQEC), a state recovery protocol exploiting catalytic covariant transformations. CQEC recovers a known target state from noisy copies without an error \emph{magnitude} threshold: recovery succeeds whenever the coherent modes satisfy $\mathcal{C}(ρ_0) \subseteq \mathcal{C}(ρ_\mathrm{noisy})$, regardless of noise strength. The main practical bottleneck -- catalyst preparation requiring $n^* \sim d^4 e^{2γ}$ copies -- is resolved by a three-stage pipeline combining CPMG dynamical decoupling, Clifford twirling, and the recursive swap test, achieving $F_\mathrm{cat} > 0.96$ with only 8~copies ($10^9$-fold reduction). Numerical validation across four quantum algorithms ($d = 4$--$64$), a cryptographic protocol, and three noise models confirms $F > 0.999$ in the asymptotic limit across 200~configurations.

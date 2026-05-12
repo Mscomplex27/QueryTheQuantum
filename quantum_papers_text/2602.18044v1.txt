@@ -1,0 +1,5 @@
+Title: Gaussian Dynamical Quantum State Tomography
+Authors: Hjalmar Rall
+Categories: quant-ph
+Published: 2026-02-20 07:57:31+00:00
+Abstract: Standard quantum state tomography assumes sufficient control of a system to measure an informationally complete set of observables. Dynamical quantum state tomography (DQST) presents an alternative: given a system with known dynamics and a single fixed observable, it almost always suffices to control only the time at which each i.i.d. copy of the system is measured. This work presents an analogous scheme for tomography of multi-mode Bosonic Gaussian states undergoing Gaussian evolution, using a fixed single-mode homodyne measurement and only assuming control of the time of measurement. I prove that the scheme enables tomography for all discrete homogenous Gaussian evolutions and Gaussian quantum dynamical semigroups except for a null set which includes unitary evolution. When the state is known to be pure, a smaller number of measurement times is shown to be sufficient.

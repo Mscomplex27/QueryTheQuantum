@@ -1,0 +1,5 @@
+Title: Quasi-local Edge Mode in XXX Spin Chain/Circuit with Interaction Boundary Defect
+Authors: Tomaž Prosen
+Categories: cond-mat.stat-mech, cond-mat.str-el, math-ph, quant-ph
+Published: 2026-03-18 15:27:32+00:00
+Abstract: We study the Heisenberg spin-1/2 model on a semi-infinite chain - or, equivalently, a trotterized unitary SU(2) symmetric six-vertex quantum circuit - with a boundary defect where the interaction between the two spins nearest the edge differs from that in the bulk. For sufficiently strong boundary interaction we explicitly construct a conserved operator quasi-localized near the boundary using a matrix-product ansatz. This quasi-local edge mode leads to non-decaying boundary correlation functions, corresponding to a nonzero boundary Drude weight. The correlation length of the edge mode diverges at a finite critical value of the boundary interaction, signaling a transition to ergodic boundary dynamics for subcritical interactions.

@@ -1,0 +1,5 @@
+Title: A Comparative Study of Hybrid Quantum and Classical Genetic Algorithms in Portfolio Optimization
+Authors: Romeu Rossi Junior, José Augusto Miranda Nacif, Leonardo Antônio Mendes Souza, Marcus Henrique Soares Mendes
+Categories: quant-ph
+Published: 2026-04-13 16:14:47+00:00
+Abstract: This work investigates the performance of a Hybrid Quantum Genetic Algorithm (HQGA) compared to a classical Genetic Algorithm (GA) for solving the portfolio optimization problem. Our results indicate that the HQGA converges faster to the optimal solution than its classical counterpart, while also maintaining a higher level of population diversity throughout the optimization process. In addition, the HQGA requires significantly fewer evaluations-to-solution than a brute-force approach to reach the global optimum.

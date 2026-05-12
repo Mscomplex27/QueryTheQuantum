@@ -1,0 +1,8 @@
+Title: Geometric Quantum Mechanics in a Symplectic Framework: Metric-Affine Extensions and Deformed Quantum Dynamics
+Authors: Hoshang Heydari
+Categories: quant-ph, math-ph
+Published: 2026-03-22 12:47:16+00:00
+Abstract: We present a geometric formulation of quantum mechanics based on the symplectic structure of the projective Hilbert space. Building upon the standard Kähler framework, we introduce an extension in which the symplectic structure is allowed to couple to a metric-affine background geometry, leading to a deformation of the Hamiltonian flow on the state space.
+  We show that, under suitable conditions, the deformed structure remains symplectic and defines a well-posed Hamiltonian system. The formulation reduces to standard Schrödinger dynamics in the limit where the geometric deformation vanishes.
+  Explicit analytical examples are constructed to illustrate the effect of the deformation. In particular, curvature-dependent deformations lead to a rescaling of Hamiltonian flows, while torsion-induced contributions produce direction-dependent corrections. In addition, geometric phases acquire corrections determined by the deformed symplectic structure.
+  These results provide a mathematically consistent framework for exploring geometric modifications of quantum evolution induced by background curvature and affine structure.

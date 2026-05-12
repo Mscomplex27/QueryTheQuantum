@@ -1,0 +1,5 @@
+Title: Airline Fleet Assignment Problems with Binary and Integer Programming models: Classical vs Quantum Annealing
+Authors: Kuntal Adak, Sakshi Kaushik, Rahul Rana
+Categories: quant-ph
+Published: 2026-02-13 11:46:51+00:00
+Abstract: This research highlights the potential of quantum annealing in tackling large-scale optimization problems within the airline industry,demonstrating its efficiency for certain problem sizes while also acknowledging its current limitations. The comparative analysis provides valuable insights into the performance of advanced computational techniques, paving the way for further advancements in optimizing fleet assignments in the aviation sector.

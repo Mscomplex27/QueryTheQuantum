@@ -1,0 +1,5 @@
+Title: Adiabatic Ramsey Interferometry for Measuring Weak Nonlinearities with Super-Heisenberg Precision
+Authors: Venelin P. Pavlov, Bogomila S. Nikolova, Peter A. Ivanov
+Categories: quant-ph
+Published: 2026-03-31 10:54:29+00:00
+Abstract: We propose an adiabatic Ramsey interferometry technique for detecting weak nonlinearities with trapped ions. The method relies on using the quantum Rabi model as a probe, which is sensitive to nonlinear symmetry-breaking perturbations. We show that the couplings which arise either from anharmonic terms of the trapping potential or due to higher order terms in the Coulomb interaction expansion can be efficiently estimated by measuring the spin state probabilities alone. We show that the spin signal is amplified by the mean-phonon excitations, which results in the estimation precision reaching the super-Heisenberg limit. Notably, achieving such high-precision estimation does not require specific entangled state preparation and can be reached even for initial thermal motion state. Furthermore, we show that the super-Heisenberg scaling can be observed even in the presence of weak spin-dephasing.

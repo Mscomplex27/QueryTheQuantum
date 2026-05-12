@@ -1,0 +1,5 @@
+Title: Construction of a Family of Quantum Codes Using Sub-exceding Functions via the Hypergraph Product and the Generalized Shor Construction
+Authors: Luc Rabefihavanana, Harinaivo Andriatahiny, Randriamiarampanahy Ferdinand
+Categories: quant-ph
+Published: 2026-03-09 10:43:36+00:00
+Abstract: In this paper, we introduce a new family of stabilizer quantum LDPC codes derived from the classical linear codes $L_k$ and $L_k^{+}$, defined via sub-exceding functions. In previous work, these codes demonstrated strong performance in minimum distance, decoding efficiency, and structural simplicity. By combining the hypergraph product framework with a generalized Shor construction, we obtain a scalable class of quantum codes with parameters $[[6k^2,\, k^2,\, d]]$. The resulting quantum codes exhibit a rich combinatorial structure and promising properties, particularly in terms of locality, low-density parity-check (LDPC) structure, and asymptotic behavior. The minimum distance satisfies $d=3$ for $k=3$ and $d=4$ for $k\ge4$, establishing a new framework for structured quantum LDPC code design and optimization.

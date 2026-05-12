@@ -1,0 +1,5 @@
+Title: Preparation and detection of quasiparticles for quantum simulations of scattering
+Authors: Mattia Morgavi, Peter Majcen, Marco Rigobello, Simone Montangero, Pietro Silvi
+Categories: quant-ph, hep-lat
+Published: 2026-04-17 16:20:16+00:00
+Abstract: We introduce a method for the selective preparation and detection of quasiparticle wave packets, based on creation operators that generate dressed, localized excitations on top of interacting vacua of (quasi-)one-dimensional quantum lattice theories. This method exploits maximally localized Wannier functions (MLWFs) constructed from quasiparticle bands at intermediate system sizes, enabling the construction of unitary local dressed creation operators. The algorithm allows for species-resolved wave-packet preparation and detection, enabling the separation of known quasiparticle contributions from unknown resonances. We test this approach with matrix product states (MPS) on pure hardcore Hamiltonian QCD on a ladder lattice, detecting scattering outputs and mass resonances.

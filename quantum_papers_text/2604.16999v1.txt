@@ -1,0 +1,5 @@
+Title: Effective theory of quantum phases in the dipolar planar rotor chain
+Authors: Estêvão V. B. de Oliveira, Muhammad Shaeer Moeed, Pierre-Nicholas Roy
+Categories: physics.chem-ph, cond-mat.mtrl-sci, quant-ph
+Published: 2026-04-18 13:59:04+00:00
+Abstract: In this work, we develop a theoretical description of the collective behavior of interacting dipolar planar rotors by using time independent perturbation theory and a small angle quadratic approximation. The ground state properties for both the ordered and disordered quantum phases of the system are directly calculated and analyzed. Time-independent perturbation theory is shown to be appropriate for the disordered phase. For the ordered phase, we construct a quadratic approximation based on the stable equilibrium configurations of the dipolar ordering; we show that the inclusion of the quartic terms from the expansion of the potential energy are essential to correct the shift in the energy spectrum due to quantization ambiguities. Numerical techniques such as Exact Diagonalization and Density Matrix Renormalization Group are used for the benchmark the quality of both approximations.

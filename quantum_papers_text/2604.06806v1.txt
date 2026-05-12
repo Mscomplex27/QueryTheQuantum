@@ -1,0 +1,5 @@
+Title: Perturbative hydrogenic Lamb shifts and radiative decay rates -- an so(4,2)-based algebraic approach
+Authors: Gernot Alber
+Categories: quant-ph
+Published: 2026-04-08 08:20:52+00:00
+Abstract: It is shown that algebraic techniques based on the Lie algebra so(4,2) provide efficient tools for evaluating Lamb shifts and radiative decay rates for hydrogenic energy eigenstates as they systematically exploit the intrinsic symmetry of the hydrogenic Hamiltonian. As a main result in lowest order perturbation theory with respect to the fine-structure constant integral representations are derived for the complex-valued energy shifts of hydrogen-like ions from which Lamb shifts and radiative decay rates can be evaluated in a unified way, thus generalizing a recently discussed algebraic approach of Maclay. In order to exemplify the usefulness of this algebraic approach numerical results are presented for Lamb shifts and radiative decay rates which transcend the dipole approximation and contain the dipole approximation as a limiting case.

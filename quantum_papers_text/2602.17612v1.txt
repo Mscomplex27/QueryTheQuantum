@@ -1,0 +1,5 @@
+Title: Scalable, self-verifying variational quantum eigensolver using adiabatic warm starts
+Authors: Bojan Žunkovič, Marco Ballarin, Lewis Wright, Michael Lubasch
+Categories: quant-ph
+Published: 2026-02-19 18:38:20+00:00
+Abstract: We study an adiabatic variant of the variational quantum eigensolver (VQE) in which VQE is performed iteratively for a sequence of Hamiltonians along an adiabatic path. We derive the conditions under which gradient-based optimization successfully prepares the adiabatic ground states. These conditions show that the barren plateau problem and local optima can be avoided. Additionally, we propose using energy-standard-deviation measurements at runtime to certify eigenstate accuracy and verify convergence to the global optimum.

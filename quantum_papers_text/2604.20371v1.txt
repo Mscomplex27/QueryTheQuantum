@@ -1,0 +1,5 @@
+Title: Level crossings and superradiant quantum phase transition for a two-qutrit quantum Rabi model
+Authors: R. Grimaudo, A. S. M. De Castro, G. Falci, A. Messina, E. Paladino, A. Messina, N. V. Vitanov
+Categories: quant-ph
+Published: 2026-04-22 09:08:10+00:00
+Abstract: A two-qutrit extension of the quantum Rabi model is studied. Despite its increased complexity, the model results to be integrable under specific, physically relevant conditions. This feature allows for the emergence of analytically tractable subdynamics. In this framework, the ground-state phase diagram can be derived, and the analysis reveals critical phenomena linked to both level crossings and quantum phase transitions.

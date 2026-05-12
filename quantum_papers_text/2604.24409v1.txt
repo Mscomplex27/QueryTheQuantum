@@ -1,0 +1,5 @@
+Title: Impact of thermal and dissipative effects in a periodically-kicked quantum battery
+Authors: Sebastián V. Romero, Xi Chen, Yue Ban
+Categories: quant-ph, cond-mat.stat-mech, nlin.CD
+Published: 2026-04-27 12:35:35+00:00
+Abstract: Quantum batteries (QBs) have emerged as a promising route for fast energy storage and on-chip power supply in quantum devices. Given the limited analytical understanding of open Floquet QBs, we employ the kicked-Ising model as a tractable platform to systematically study its performance under realistic conditions, including finite temperature effects and environmental dissipation. Starting from Gibbs states of the transverse-field Ising model, we incorporate thermal and decoherence effects along the evolution, using both analytical and numerical approaches. Taking ergotropy as a central figure of merit, we characterize the injected and extractable energy, and identify regimes where charging remains robust despite environmental effects. Our results provide a systematic framework for assessing QB performance under thermal and dissipative effects.

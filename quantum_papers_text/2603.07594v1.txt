@@ -1,0 +1,5 @@
+Title: Deformed angular momentum algebra within the real Hilbert space
+Authors: Sergio Giardino
+Categories: quant-ph
+Published: 2026-03-08 11:40:31+00:00
+Abstract: Starting from generalized position operators, we derive complex and quaternionic angular momentum operators along with their commutation algebra as well. These algebras differ from the standard Hermitian ones, especially in terms of commutation relations involving partial and total angular momentum operators. Despite these differences, the effective quantum expectation values obtained from slightly deformed algebras align with those from the conventional Hermitian algebra. This suggests that even though the wave functions and resulting dynamics differ from standard quantum Hermitian behavior, these deformed algebras can still be effectively understood as valid angular momentum algebras.

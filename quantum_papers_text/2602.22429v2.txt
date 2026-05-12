@@ -1,0 +1,5 @@
+Title: Macroscopic Quantum Electrodynamics with Gain: Modified Fluctuations and Their Consequences
+Authors: Daigo Oue
+Categories: quant-ph, cond-mat.mes-hall, physics.optics
+Published: 2026-02-25 21:38:59+00:00
+Abstract: Macroscopic quantum electrodynamics (MQED) provides a unified framework to describe quantum electromagnetic fields in the presence of arbitrary macroscopic environments. Central to this theory is the field correlation, which governs both radiative (e.g., Lamb shifts and the Purcell effect) and mechanical phenomena, such as van der Waals and Casimir forces. In this tutorial, we provide an overview of MQED and its extension to active media, highlighting fluctuation-induced forces as manifestations of gain-modified field correlations.

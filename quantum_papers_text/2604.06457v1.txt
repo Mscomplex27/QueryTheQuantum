@@ -1,0 +1,5 @@
+Title: Higher rates for semi-device-independent randomness expansion by recycling input randomness
+Authors: Rutvij Bhavsar, Hamid Tebyanian, Roger Colbeck
+Categories: quant-ph
+Published: 2026-04-07 20:56:38+00:00
+Abstract: Although quantum random number generators rely on the inherent indeterminism of quantum mechanics, ensuring that the numbers produced are secure remains a significant challenge. We introduce two semi-device-independent randomness expansion protocols in a prepare-and-measure setting, where the source and measurement devices are treated as uncharacterised and we assume trust only in testing device, which could be implemented using a photodiode. One protocol achieves expansion by recycling the input randomness, while the other uses a biased input distribution to achieve expansion in settings where recycling is not possible. The protocols are proven secure against quantum side information. Our results show that high randomness rates are achievable under experimentally realistic conditions, with expansion obtained in as few as $10^5$ to $10^6$ rounds with the recycling protocol.

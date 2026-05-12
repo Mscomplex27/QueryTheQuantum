@@ -1,0 +1,5 @@
+Title: Thermoforesis from generalized Caldeira-Leggett models
+Authors: Daniel Valente, Maurício Matos, Thiago Werlang
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-27 20:45:57+00:00
+Abstract: The standard Caldeira-Leggett model addresses the problem of Brownian motion in a thermal equilibrium environment. Here, we look for generalizations of the Caldeira-Leggett model to account for thermal gradients in the environment. We devise two types of models, and discuss the advantages and limitations of each one. From both models, we find signatures of thermophoresis, i.e., particle transport due to a thermal gradient. In principle, our models can be employed to describe thermophoresis in quantum Brownian particles, an open problem so far.

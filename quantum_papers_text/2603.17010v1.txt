@@ -1,0 +1,5 @@
+Title: Quantum memory precludes mixed-unitary dynamics
+Authors: Charlotte Bäcker, Konstantin Beyer, Walter T. Strunz
+Categories: quant-ph
+Published: 2026-03-17 18:00:51+00:00
+Abstract: Unital quantum channels, defined by their property of leaving the maximally mixed state invariant, form an important class of quantum operations. A distinguished subset of these channels can be represented as a probabilistic mixture of unitary evolutions. Characterizing channels that do not admit such a decomposition is in general a hard problem with significant implications for noise mitigation in quantum technologies and for fundamental problems in quantum information theory. Here we establish a link between mixed-unitarity of unital channels and the (quantum) nature of the memory effects in non-Markovian dynamics. Translating the problem into the language of process tensors, this connection yields a hierarchy of semidefinite programs that provides numerically efficient witnesses for non-mixed-unitary behavior, outperforming existing criteria. We demonstrate the power of this approach through illustrative examples of unital channels in dimensions three and four.

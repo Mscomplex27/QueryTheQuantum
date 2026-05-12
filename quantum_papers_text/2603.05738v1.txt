@@ -1,0 +1,5 @@
+Title: Variational Quantum Eigensolver for the Analysis of High-Resolution NMR Spectra: Applications to AB and AB2 Spin Systems
+Authors: Murat Kurt, Ayda Kaltehei, Selçuk Çakmak, Azmi Gençten
+Categories: quant-ph
+Published: 2026-03-05 22:53:16+00:00
+Abstract: The Variational Quantum Algorithms (VQAs) are hybrid quantum-classical algorithms and they can be used in the Nosiy Intermadiate Scale Quantum (NISQ) devises. The Variational Quantum Eigensolver (VQE) was suggested as a first VQA. VQE is based on the variational method of quantum mechanics and it is used to find the ground state energy of a quantum system. In this study, VQE is used for the analysis of NMR spectra for the AB and AB2 spin systems. The frequencies and the spin coupling values are obtained from the sample spectra for these spin systems. Then the Hamiltonians are written in terms of pauli spin operators and transformed into a suitable forms for quantum computer. By employing VQE the ground state energies are obtained for the related spin systems. They are found to be in good agreement with the results obtained from the known variation method.

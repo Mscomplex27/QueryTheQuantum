@@ -1,0 +1,6 @@
+Title: Continuous-variable approximate unitary 2-design, with applications to unclonable encryption
+Authors: Arpan Akash Ray, Boris Skoric
+Categories: quant-ph
+Published: 2026-03-06 15:40:20+00:00
+Abstract: We introduce an $\varepsilon$-approximate unitary 2-design that is compatible with the structure of p- and q-quadratures in continuous-variable (CV) quantum systems. The design unitaries are defined on a finite-dimensional discretisation of the CV space and can be physically implemented as operations on the full CV space. This establishes the first approximate unitary design for CV systems. The design alternatingly acts with unitaries based on the quadrature operators $\hat q$ and $\hat p$. We prove that the parameter $\varepsilon$ is given by $1/d^\ell$, where $d$ is the dimension of the truncated Hilbert space and $\ell$ is the number of iterations.
+  We propose an Unclonable Encryption scheme in which the encryption operators are given by the unitaries which constitute the approximate unitary design. We prove its security using recent results on decoupling. This establishes unclonable-indistinguishable security for a CV encryption for the first time.

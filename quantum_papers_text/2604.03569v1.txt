@@ -1,0 +1,5 @@
+Title: Impure codes exceeding the pure bounds for quantum local recovery
+Authors: Carlos Galindo, Fernando Hernando, Helena Martín-Cruz, Ryutaroh Matsumoto
+Categories: cs.IT, quant-ph
+Published: 2026-04-04 03:35:35+00:00
+Abstract: Literature provides several bounds for quantum local recovery, which essentially consider the number of message qudits, the distance, the length, and the locality of the involved codes. We give a family of $J$-affine variety codes that result in impure CSS codes. These quantum codes exceed several of the above mentioned bounds that apply to pure quantum locally recoverable codes. We also discuss a connection between bounds on quantum local recovery and on weight-constrained stabilizer codes.

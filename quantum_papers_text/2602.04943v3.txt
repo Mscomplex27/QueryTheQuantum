@@ -1,0 +1,5 @@
+Title: Graph-Theoretic Analysis of Phase Optimization Complexity in Variational Wave Functions for Heisenberg Antiferromagnets
+Authors: Mahmud Ashraf Shamim, Md Moshiur Rahman Raj, Mohamed Hibat-Allah, Paulo T Araujo
+Categories: cond-mat.str-el, cond-mat.dis-nn, cs.AI, cs.CC, quant-ph
+Published: 2026-02-04 18:53:18+00:00
+Abstract: We study the computational complexity of learning the ground state phase structure of Heisenberg antiferromagnets. Representing Hilbert space as a weighted graph, the variational energy defines a weighted XY model that, for $\mathbb{Z}_2$ phases, reduces to a classical antiferromagnetic Ising model on that graph. For fixed amplitudes, reconstructing the signs of the ground state wavefunction thus reduces to a weighted Max-Cut instance. This establishes that ground state phase reconstruction for Heisenberg antiferromagnets is worst-case NP-hard and links the task to combinatorial optimization.

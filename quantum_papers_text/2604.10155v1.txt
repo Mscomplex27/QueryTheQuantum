@@ -1,0 +1,5 @@
+Title: Encrypted clones can leak: Classification of informative subsets in Quantum Encrypted Cloning
+Authors: Gabriele Gianini, Omar Hasan, Corrrado Mio, Stelvio Cimato, Ernesto Damiani
+Categories: quant-ph, cs.CR
+Published: 2026-04-11 11:02:06+00:00
+Abstract: Encrypted cloning enables the redundant storage of an unknown qubit while remaining compatible with the no-cloning theorem, since only one clone can later be recovered through key-consuming decryption. Because encryption in this protocol is introduced to enable cloning-compatible redundancy rather than to guarantee confidentiality by design, its secrecy properties must be assessed explicitly. Here we classify the subsets of the encrypted-clone storage register into authorized, completely non-informative, and partially informative sets. We show that intermediate non-authorized subsets may retain only a restricted residual dependence on the input state, and we characterize exactly when this dependence occurs. The resulting leakage pattern is parity-dependent, revealing a structural confidentiality limitation of encrypted cloning.

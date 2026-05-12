@@ -1,0 +1,5 @@
+Title: Low-weight quantum syndrome errors in belief propagation decoding
+Authors: Haggai Landa
+Categories: quant-ph
+Published: 2026-03-19 16:46:53+00:00
+Abstract: We describe an empirical approach to identify low-weight combinations of columns of the decoding matrices of a quantum circuit-level noise model, for which belief-propagation (BP) algorithms converge possibly very slowly. Focusing on the logical-idle syndrome cycle of the low-density parity check gross code, we identify criteria providing a characterization of the Tanner subgraph of such low-weight error syndromes. We analyze the dynamics of iterations when BP is used to decode weight-four and weight-five errors, finding statistics akin to exponential activation in the presence of noise or escape from chaotic phase-space domains. We study how BP convergence improves when adding to the decoding matrix relevant combinations of fault columns, and show that the suggested decoder amendment can result in the reduction of both logical errors and decoding time.

@@ -1,0 +1,5 @@
+Title: Renormalised thermodynamics for Bose gases from low to critical temperatures
+Authors: Michael H. Heinrich, Alexander Wowchik, Jürgen Berges
+Categories: cond-mat.quant-gas, quant-ph
+Published: 2026-04-17 17:53:03+00:00
+Abstract: We compute thermodynamic properties of dilute Bose gases using non-perturbative approximations of the two-particle irreducible (2PI) effective action. It is shown how to systematically renormalise the self-consistent descriptions beyond conventional Gaussian approximations such as Hartree-Fock-Bogoliubov theory. This allows us to determine the condensate depletion from low to high temperatures, including its critical behaviour at the phase transition. While the universal anomalous dimension at criticality is vanishing for Gaussian approximations, we determine its non-zero value at next-to-leading order of a self-consistent expansion in the number of field components.

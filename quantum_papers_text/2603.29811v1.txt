@@ -1,0 +1,5 @@
+Title: Floquet Codes from Derived Semi-Regular Hyperbolic Tessellations on Orientable and Non-Orientable Surfaces
+Authors: Douglas F. Copatti, Giuliano G. La Guardia, Waldir S. Soares, Edson D. Carvalho, Eduardo B. Silva
+Categories: quant-ph, cs.IT
+Published: 2026-03-31 14:39:35+00:00
+Abstract: In this paper, we construct several new quantum Floquet codes on compact, orientable, as well as non-orientable surfaces. In order to obtain such codes, we identify these surfaces with hyperbolic polygons and examine hyperbolic semi-regular tessellations on such surfaces. The method of construction presented here generalizes similar constructions concerning hyperbolic Floquet codes on connected and compact surfaces with genus $g \geq 2$. A performance analysis and an investigation of the asymptotic behavior of these codes are also presented.

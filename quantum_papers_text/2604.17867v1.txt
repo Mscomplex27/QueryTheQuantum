@@ -1,0 +1,5 @@
+Title: Tight Trade-off Between Internal, Assisted, and External Entanglement
+Authors: Limin Gao, Chenxiao Wang
+Categories: quant-ph
+Published: 2026-04-20 06:27:11+00:00
+Abstract: We derive a tight and saturable monogamy relation for three-qubit pure states that bounds the sum of concurrence and concurrence of assistance by the entanglement with an external qubit. The bound decreases strictly with increasing external entanglement, establishing a precise trade-off between internal and environment-induced entanglement. Equivalent formulations in terms of negativity and its convex-roof extensions follow. Our result provides a unified and quantitative constraint on entanglement distribution in open multipartite quantum systems.

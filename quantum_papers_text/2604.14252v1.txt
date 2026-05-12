@@ -1,0 +1,5 @@
+Title: Quantum correlation tests at cosmic distances
+Authors: Thomas Durt, Jean Schneider
+Categories: quant-ph
+Published: 2026-04-15 12:08:00+00:00
+Abstract: It is commonly accepted that the results of measurements simultaneously realized over two entangled subsystems are statistically correlated instantaneously regardless of the distance between them. In accordance with Bell theorem, everything happens in such measurements as if there was a correlation propagating at infinite speed between the two subsystems.These correlations have been so far verified experimentally up to a distance of 1200 km. We discuss the interest and feasibility of extending this distance to 390,000 km, thus gaining a factor of 300. The idea is to install one of the polarimeters on the Moon, with the other on Earth. Such an experiment would provide a new test of Quantum Physics and allow to put higher constraints on alternative theories and interpretations. We also discuss the possibility to violate Bell inequalities beyond Earth-Moon distance.

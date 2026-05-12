@@ -1,0 +1,5 @@
+Title: Comment on arXiv:2604.09826: Discovery of the Solution to the "Einstein--Podolsky--Rosen Paradox"
+Authors: Mikołaj Sienicki, Krzysztof Sienicki
+Categories: quant-ph, physics.hist-ph
+Published: 2026-04-14 07:55:42+00:00
+Abstract: Roman Schnabel's article argues that the Einstein-Podolsky-Rosen (EPR) paradox can be resolved by identifying a flaw in what the author calls the "EPR implication" and by using radioactive alpha decay as an example showing that predictability does not exclude genuine randomness. The paper is clearly written and addresses an important foundational question. In our view, however, its main conclusion does not follow. The article narrows the original EPR argument, attributes too much to Bell-inequality violations, and replaces the central EPR structure - which involves incompatible observables and locality-based reasoning - with a simpler case of correlated random events. The result is an interesting interpretive remark, but not, we think, a satisfactory scientific resolution of the EPR problem.

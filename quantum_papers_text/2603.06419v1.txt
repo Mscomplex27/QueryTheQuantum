@@ -1,0 +1,5 @@
+Title: New results for Heisenberg dynamics for non self-adjoint Hamiltonians
+Authors: Fabio Bagarello
+Categories: math-ph, quant-ph
+Published: 2026-03-06 15:56:03+00:00
+Abstract: In a previous paper we began our analysis on the role of non self-adjoint Hamiltonians in connection with the Heisenberg dynamics for quantum systems. Here, motivated by the growing interest on this topic and on some recent results on dynamical systems, we continue this analysis focusing on what we believe is an unexplored (or, at least, not so explored! aspect of Heisenberg dynamics, related to the need for using vectors which are {\em brute-force normalized}. Our main interest is on conserved quantities, and on conditions which guarantee that some observables of the system, or their mean values, do not evolve in time.

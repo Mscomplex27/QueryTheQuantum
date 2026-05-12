@@ -1,0 +1,5 @@
+Title: The spontaneous disentanglement hypothesis and causality
+Authors: Eyal Buks
+Categories: quant-ph
+Published: 2026-04-12 10:10:09+00:00
+Abstract: The hypothesis that disentanglement spontaneously occurs in quantum systems is motivated by some outstanding issues in the foundations of quantum mechanics. However, for some cases, spontaneous disentanglement enables the violation of the causality principle. To mitigate the conflict with causality, a formulation for the hypothesis, which is based on the maximum entropy principle, is proposed. The method of Lagrange multipliers is implemented to ensure consistency with causality. The proposed formulation is applicable for any quantum system having a Hilbert space of finite dimensionality.

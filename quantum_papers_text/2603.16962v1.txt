@@ -1,0 +1,5 @@
+Title: CPDNN quantum channels with qubit output are CPCP
+Authors: Hyunho Cha
+Categories: quant-ph
+Published: 2026-03-17 06:22:31+00:00
+Abstract: The resource theory for nonnegativity of quantum amplitudes distinguishes completely positive completely positive (CPCP) quantum channels from the larger and more tractable class of completely positive doubly nonnegative (CPDNN) quantum channels. It was left open whether there exists a qutrit-to-qubit quantum channel \(Φ:M_3\to M_2\) that is CPDNN but not CPCP. We answer this question in the negative and prove the stronger statement that every CPDNN quantum channel \(Φ:M_n\to M_2\) is CPCP for every \(n\in\mathbb N\). Equivalently, for qubit-output quantum channels the doubly nonnegative relaxation is exact.

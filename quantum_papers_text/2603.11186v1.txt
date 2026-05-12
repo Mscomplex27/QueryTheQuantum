@@ -1,0 +1,5 @@
+Title: Hall conductance in a weakly time-reversal invariant open system
+Authors: Alexander Fagerlund, Christopher Ekman, Rodrigo Arouca
+Categories: cond-mat.mes-hall, cond-mat.quant-gas, cond-mat.str-el, quant-ph
+Published: 2026-03-11 18:00:20+00:00
+Abstract: The quantum Hall effect and the quantum anomalous Hall effect both require time-reversal invariance to be broken. We show that non-equilibrium effects can cause Hall physics to arise even when the system is weakly time-reversal symmetric and no magnetic field is applied. In our model, this occurs due to a fermionic subsystem breaking time-reversal invariance even if the system as a whole does not. The fermions receive a TRI-breaking self-energy, caused by interactions with bosonic degrees of freedom in the system and with an external reservoir. As a result, the fermions develop a non-quantized Hall conductance. We demonstrate that, unlike in the equilibrium case, the presence of a mass term is insufficient for the Hall conductance to appear, and wave-function renormalization effects have to be included.

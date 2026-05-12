@@ -1,0 +1,5 @@
+Title: Matrix Product States for Modulated Symmetries: SPT, LSM, and Beyond
+Authors: Amogh Anakru, Sarvesh Srinivasan, Linhao Li, Zhen Bi
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-03-19 17:44:13+00:00
+Abstract: Matrix product states (MPS) provide a powerful framework for characterizing one-dimensional symmetry-protected topological (SPT) phases of matter and for formulating Lieb-Schultz-Mattis (LSM)-type constraints. Here we generalize the MPS formalism to translationally invariant systems with general modulated symmetries. We show that the standard symmetry "push-through" condition for conventional global symmetry must be revised to account for symmetry modulation, and we derive the appropriate generalized condition. Using this generalized push-through structure, we classify one-dimensional SPT phases with modulated symmetries and formulate LSM-type constraints within the same MPS-based framework.

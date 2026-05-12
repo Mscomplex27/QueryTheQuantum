@@ -1,0 +1,5 @@
+Title: Analyzing Uniform WKB for Deformed QM Or How Not to Quantize the SW Curve
+Authors: Dharmesh Jain
+Categories: hep-th, quant-ph
+Published: 2026-03-31 05:08:14+00:00
+Abstract: We uncover an inconsistency in the uniform WKB quantization of deformed quantum mechanics.

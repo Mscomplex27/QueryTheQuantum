@@ -1,0 +1,5 @@
+Title: Self-correction phase transition in the dissipative toric code
+Authors: Sanjeev Kumar, Hendrik Weimer
+Categories: quant-ph, cond-mat.stat-mech, cond-mat.str-el
+Published: 2026-02-22 17:52:00+00:00
+Abstract: We analyze a time-continuous version of a cellular automaton decoder for the toric code in the form of a Lindblad master equation. In this setting, a self-correcting quantum memory becomes a thermodynamical phase of the steady state, which manifests itself through the steady state being topologically ordered. We compute the steady state phase diagram, finding a competition between the error correction rate and the update rate for the classical field of the cellular automaton. Strikingly, we find that self-correction of errors is possible even in situations where conventional quantum error correction does not have a finite threshold.

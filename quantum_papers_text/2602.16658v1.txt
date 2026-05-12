@@ -1,0 +1,5 @@
+Title: Exponential concentration of fluctuations in mean-field boson dynamics
+Authors: Matias Gabriel Ginzburg, Simone Rademacher, Giacomo De Palma
+Categories: math-ph, cond-mat.stat-mech, quant-ph
+Published: 2026-02-18 18:01:05+00:00
+Abstract: We study the mean-field dynamics of a system of $N$ interacting bosons starting from an initially condensated state. For a broad class of mean-field Hamiltonians, including models with arbitrary bounded interactions and models with unbounded interaction potentials, we prove that the probability of having $n$ particles outside the condensate decays exponentially in $n$ for any finite evolution time. Our results strengthen previously known bounds that provide only polynomial control on the probability of having $n$ excitations.

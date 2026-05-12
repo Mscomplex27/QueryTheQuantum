@@ -1,0 +1,5 @@
+Title: Quantum Monte Carlo in Classical Phase Space with the Wigner-Kirkwood Commutation Function. II. Diagonal Approximation in Position Space
+Authors: Phil Attard
+Categories: cond-mat.stat-mech, cond-mat.quant-gas, quant-ph
+Published: 2026-03-01 23:35:08+00:00
+Abstract: A third order expansion for Wigner-Kirkwood commutation function, a complex function in classical phase space that accounts for the Heisenberg uncertainty relation, is approximated and integrated over momentum to give a real function in position configuration space. Metropolis Monte Carlo computer simulation results are given for liquid Lennard-Jones $^4$He below 10\,K.

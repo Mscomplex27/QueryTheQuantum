@@ -1,0 +1,5 @@
+Title: Compressing Quantum Fisher Information
+Authors: Rui Jie Tang, Jeremy Guenza Marcus, Noah Lupu-Gladstein, Arthur O. T. Pang, C. Pria Dobney, Giulio Chiribella, Aephraim M. Steinberg, Y. Batuhan Yilmaz
+Categories: quant-ph
+Published: 2026-02-10 03:08:24+00:00
+Abstract: We show that the quantum Fisher information about any phase parameter encoded in a family of pure quantum states can be faithfully compressed into a single qubit, accompanied by a logarithmic amount of classical bits. When the phase is encoded into many identical copies of a qubit state on the equator of the Bloch sphere, we show that the compression can be implemented sequentially, by iteratively compressing pairs of qubits into a single qubit. We experimentally demonstrate this building block in a photonic setup, developing two alternative compression strategies, based on Type-I fusion gate and a postselected implementation of the CNOT gate.

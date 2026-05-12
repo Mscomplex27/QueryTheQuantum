@@ -1,0 +1,5 @@
+Title: Quantum Computing and Error Mitigation with Deep Learning for Frenkel Excitons
+Authors: Yi-Ting Lee, Vijaya Begum-Hudde, Barbara A. Jones, André Schleife
+Categories: quant-ph, cond-mat.mtrl-sci
+Published: 2026-03-25 04:57:04+00:00
+Abstract: Quantum computers, currently in the noisy intermediate-scale quantum (NISQ) era, have started to provide scientists with a novel tool to explore quantum physics and chemistry. While several electronic systems have been extensively studied, Frenkel excitons, as prototypical optical excitations, remain among the less-explored applications. Here, we first use variational quantum deflation to calculate the eigenstates of the Frenkel Hamiltonian and evaluate the observables based on the oscillator strength for each eigenstate. Furthermore, using NISQ quantum computers requires performing error mitigation techniques alongside simulations. To deal with noisy qubits, we developed a deep-learning-based framework combined with a post-selection technique to learn the noise pattern and mitigate the error. Our mitigation methods work well and outperform the conventional post-selection and remain valid on real hardware.

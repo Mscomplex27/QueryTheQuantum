@@ -1,0 +1,5 @@
+Title: Temporal magnon-qubit Mach-Zehnder interferometer
+Authors: Cody Trevillian, Steven Louis, Vasyl Tyberkevych
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-02-23 04:21:17+00:00
+Abstract: A temporal magnon-qubit Mach-Zehnder (MZ) interferometer is proposed. The interferometer is based on controllable entanglement of a microwave qubit and a magnonic state, achieved by application of a pulsed magnetic field playing the role of a magnon-qubit temporal "beam splitter". Analogous to a typical MZ interferometer, the generated interference pattern of the final qubit population carries information about the magnon dynamics. One important application of the proposed scheme is the study of single magnon decoherence. Interestingly, this scheme allows one to independently determine rates of two possible decoherence channels. This may help enable single magnon state applications and answer fundamental questions of quasi-particle decoherence at single quantum levels.

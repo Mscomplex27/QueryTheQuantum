@@ -1,0 +1,5 @@
+Title: Simple slow operators and quantum thermalization
+Authors: Tian-Hua Yang, Sarang Gopalakrishnan, Dmitry A. Abanin
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-14 18:00:08+00:00
+Abstract: We establish a rigorous relation between the thermalization of typical initial states and the dynamics of local operators. We introduce a concept of simple slow operators (SSOs), defined as operators that have a small commutator with the Hamiltonian and have significant small-sized components. We show that if typical initial states (drawn from a low-complexity state ensemble) do not thermalize on timescale $t$, then SSOs must exist that are approximately conserved up to timescale $t$. Equivalently, the absence of SSOs implies that typical initial states thermalize. We establish these results by introducing the concept of an ensemble variance norm of an operator, defined as the typical magnitude of the expectation value of that operator with respect to states in the ensemble. For low-entanglement ensembles, the norm is related to operator sizes, allowing us to establish a direct link between operator growth and thermalization.

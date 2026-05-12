@@ -1,0 +1,6 @@
+Title: On dynamical semigroup for damped driven Jaynes-Cummings equations
+Authors: A. I. Komech, E. A. Kopylova
+Categories: math-ph, quant-ph
+Published: 2026-03-18 10:01:49+00:00
+Abstract: The article addresses the damped driven Jaynes-Cummings for quantised one-mode Maxwell field coupled to a two-level molecule. We consider a broad class of damping and pumping which are polynomial in the creation and annihilation operators.
+  Our main result is the construction of a contraction dynamical semigroup in the Hilbert space of Hermitian Hilbert-Schmidt operators in the case of a nonpositive dissipation operator and time-independent pumping. All trajectories of the semigroup are generalised solutions to the Jaynes-Cummings equations. As a key example, we prove nonpositivity for the basic dissipation operator of Quantum Optics.

@@ -1,0 +1,5 @@
+Title: Quantum circuit optimization for arbitrary high-dimensional bipartite quantum computation
+Authors: Gui-Long Jiang, Hai-Rui Wei
+Categories: quant-ph
+Published: 2026-04-13 14:31:38+00:00
+Abstract: Implementation of high-dimensional (HD) quantum gates shows very promising perspectives for HD quantum computation. A bipartite quantum system with arbitrary dimensions $n$ and $m$ is termed a quNit-quMit. Here we propose a synthesis scheme to construct the quantum circuit for general quNit-quMit gates with controlled increment (CINC) gates and local gates. This shows that CINC gates combined with local gates form a universal gate set for HD quantum computation. An upper bound of $O(n^2)$ CINC gates is achieved for arbitrary quNit-quMit gate implementation in the proposed scheme, which is the best known result. Especially for the controlled quNit-quMit gates, our scheme requires only 2 CINC gates, whereas the previous scheme required $2n$.

@@ -1,0 +1,5 @@
+Title: Recent Advances in Quantum Architecture Search
+Authors: Haozhen Situ, Zhimin He, Lvzhou Li
+Categories: quant-ph
+Published: 2026-04-29 04:34:22+00:00
+Abstract: Variational quantum algorithms (VQAs) constitute a prominent framework for exploring the capabilities of near-term quantum computers. As the effectiveness of VQAs depends heavily on the design of variational quantum circuits, Quantum Architecture Search (QAS) has emerged as a critical research area to automate the discovery of high-performing circuit structures. This paper reviews key advancements in current research on QAS, including its core concepts, representative methodologies, and applications. The content is structured to ensure broad accessibility for a diverse audience of researchers while preserving the core principles of complex methodologies. In addition, we discuss remaining challenges and suggest potential research directions to offer perspectives on future exploration in this rapidly evolving field.

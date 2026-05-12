@@ -1,0 +1,5 @@
+Title: The influence of evanescent waves on the nature of optical cooperative effects in atomic ensembles in a waveguide
+Authors: A. S. Kuraptsev, I. M. Sokolov
+Categories: quant-ph, physics.atom-ph, physics.optics
+Published: 2026-04-21 19:46:36+00:00
+Abstract: Based on a consistent quantum microscopic approach, we investigate the peculiarities of collective polyatomic effects in atomic ensembles placed in a waveguide, caused by the presence of evanescent modes of electromagnetic field. We analyze the influence of these modes on the process of cooperative spontaneous decay, as well as on the nature of radiation transfer in the ensembles under consideration. We show that under certain conditions, their influence can be dominant compared to the role of radiation modes, and the mechanism for this influence is the modification of dipole-dipole interatomic interaction.

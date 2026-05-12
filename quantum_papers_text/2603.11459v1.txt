@@ -1,0 +1,5 @@
+Title: Diving into booklet wormholes
+Authors: Libo Jiang, Yan Liu
+Categories: hep-th, gr-qc, quant-ph
+Published: 2026-03-12 02:35:56+00:00
+Abstract: ArXiv:2508.17898 proposed the booklet wormhole as the holographic dual of the GHZ state. This paper extends the investigation into this geometry, particularly focusing on the junction conditions for matter fields. We show that the symmetry of the GHZ state requires the bulk to admit special Killing vector fields that standard manifolds cannot realize. Moreover, these bulk symmetries require unprecedented quantum non-local junction conditions at the multi-way interface: Observers entering from different horizons will perceive different states inside the wormhole, where the junction conditions appear as constraints on the observables of different sets of observers. We finally discuss how to render booklet wormholes traversable via boundary deformations. A localized wave packet injected from one page generally evolves into a non-local mixed state on each remaining page, with the information encoded in the entanglement between different pages.

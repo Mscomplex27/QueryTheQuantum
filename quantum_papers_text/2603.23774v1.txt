@@ -1,0 +1,5 @@
+Title: The quantum harmonic oscillator on a circle -- fragmentation of the algebraic method
+Authors: Daniel Burgarth, Paolo Facchi
+Categories: quant-ph
+Published: 2026-03-24 23:13:17+00:00
+Abstract: A quantum particle on a circle in a quadratic potential exhibits a spectrum that is not harmonic, despite having all algebraic properties of the quantum harmonic oscillator. This raises the question where the usual algebraic argument -- implying integer gaps -- fails. The answer is illuminating and covers a surprisingly rich range of physical phenomena for such a simple model.

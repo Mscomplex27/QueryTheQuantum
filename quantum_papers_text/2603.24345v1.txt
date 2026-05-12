@@ -1,0 +1,5 @@
+Title: Robust Parametric Quantum Gate Against Stochastic Time-Varying Noise
+Authors: Yang He, Zigui Zhang, Zibo Miao
+Categories: quant-ph
+Published: 2026-03-25 14:23:30+00:00
+Abstract: The performance of quantum processors in the noisy intermediate-scale quantum (NISQ) era is severely constrained by environmental noise and other uncertainties. While the recently proposed quantum control robustness landscape (QCRL) offers a powerful framework for generating robust control pulses for parametric gate families, its application has been practically restricted to quasi-static noise. To address the spectrally complex, time-varying noise prevalent in reality, we propose filter function-enhanced QCRL (FF-QCRL), which integrates filter function formalism into the QCRL framework. The resulting FF-QCRL algorithm minimizes a generalized robustness metric that faithfully encodes the impact of stochastic processes, enabling robust pulse-family generation for parametric gates under realistic time-varying noise. Numerical validation in a representative single-qubit setting confirms the effectiveness of the proposed method.

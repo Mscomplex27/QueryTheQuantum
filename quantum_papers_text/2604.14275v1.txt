@@ -1,0 +1,5 @@
+Title: Generalized Complexity Distances and Non-Invertible Symmetries
+Authors: Jonathan J. Heckman, Rebecca J. Hicks, Chitraang Murdia
+Categories: hep-th, quant-ph
+Published: 2026-04-15 18:00:00+00:00
+Abstract: Non-invertible symmetries of a quantum field theory (QFT) are a natural generalization of unitary symmetries, but in which the product of operators does not satisfy a group multiplication law. We show that such symmetry operations on states define a collection of quantum gates for a parallel quantum computation scheme that includes post-selection / projection as a gate. Structures such as gate complexity and more geometric complexity measures generalize to this setting. We provide a class of distance / distinguishability measures that extend the standard notion of distance for Lie groups to both continuous and discrete non-invertible symmetries, as well as more general linear combinations of unitary quantum gates. We illustrate these considerations by computing the distance between non-invertible symmetries in some 4D and 2D QFTs. We find that the simple objects of a symmetry category can be highly complex computationally.

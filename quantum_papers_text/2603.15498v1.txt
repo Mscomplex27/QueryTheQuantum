@@ -1,0 +1,5 @@
+Title: A systematic design approach for one-dimensional and crossed photonic nanobeam cavities for quantum dot integration
+Authors: Oscar Camacho Ibarra, Jan-Gabriel Hartel, Atzin David Ruiz Perez, Sonja Barkhofen, Klaus D. Jöns
+Categories: physics.optics, quant-ph
+Published: 2026-03-16 16:29:34+00:00
+Abstract: We present a systematic workflow for the design of one-dimensional photonic crystal nanobeam cavities with non-zero cavity lengths. By simultaneously optimizing the lattice periodicity, air-hole geometry, and cavity length, our approach enables precise control of optical confinement while mitigating radiative losses and linewidth broadening effects. The method is further extended to the design of crossed nanobeam cavities with both matching and mismatched resonance frequencies. This strategy significantly reduces the need for extensive parameter sweeps, providing an efficient route toward optimized cavity designs for integrated quantum photonic applications. Moreover, the resulting structures are inherently compatible with the integration of single-photon emitters.

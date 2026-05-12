@@ -1,0 +1,5 @@
+Title: Energy efficient optical tracking for space quantum communication
+Authors: Eric Vokes, Vinod N. Rao, Elinore Spencer, Rupesh Kumar
+Categories: quant-ph
+Published: 2026-02-25 18:06:40+00:00
+Abstract: Power consumption is a critical constraint for CubeSat based quantum communication, where tracking systems often dominate the onboard power budget. We demonstrate an energy-efficient approach that enables reliable satellite tracking at substantially reduced beacon power by treating tracking as a weak-signal estimation task. Using a closed-loop system with fine steering mirrors and higher-order Kalman filters on ground, we can maintain stable tracking at a transmitted power equivalent to 34 mW over a -60 dB satellite to ground optical channel. Our results show that the resulting penalties on QKD bit error rates and signal-to-noise ratios are negligible, allowing for more efficient power allocation to quantum payloads in CubeSat missions.

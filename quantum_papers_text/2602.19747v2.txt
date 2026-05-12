@@ -1,0 +1,5 @@
+Title: Symmetry and Exact Solutions of General Spin-Boson Models
+Authors: Yifan Sun, Lian-Ao Wu
+Categories: quant-ph, math-ph
+Published: 2026-02-23 11:51:37+00:00
+Abstract: Spin-boson models are the canonical benchmark for quantum dissipation. We show the symmetry structure of general spin-boson Hamiltonians and obtain their spectra explicitly by exploiting the symmetry. As an illustration of the general case, we numerically demonstrate the exact solution for the two-mode case.

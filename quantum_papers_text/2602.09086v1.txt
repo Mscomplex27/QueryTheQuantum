@@ -1,0 +1,5 @@
+Title: Volume-law protection of metrological advantage
+Authors: Piotr Wysocki, Jan Chwedeńczuk, Marcin Płodzień
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-02-09 19:00:00+00:00
+Abstract: Although entanglement can boost metrological precision beyond the standard quantum limit, the advantage often disappears with particle loss. We demonstrate that scrambling safeguards precision by dispersing information about the encoded parameter into many-body correlations. For Haar-random scrambling unitaries, we derive exact formulas for the average quantum Fisher information (QFI) of the reduced state after tracing out lost particles. The result exhibits a threshold; any remaining subsystem larger than $N/2$ recovers the full QFI, while smaller subsystems contain negligible information. We link this threshold to the scrambling-induced transition from area-law to volume-law entanglement and the associated growth of the Schmidt rank. We outline two realizations -- a brickwork circuit and chaotic XX-chain evolution -- and demonstrate the protection of one-axis-twisted probes against the loss of up to half of the particles.

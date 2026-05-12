@@ -1,0 +1,5 @@
+Title: Optimal quantum metrology protocols with erasure qubits
+Authors: Michal Arieli, Alex Retzker, Tuvia Gefen
+Categories: quant-ph
+Published: 2026-03-12 11:09:57+00:00
+Abstract: We investigate the precision limits and optimal protocols for sensing single qubit signals in the presence of erasure noise. We study a hierarchy of precision limits achievable with metrological strategies of differing complexity, and identify the optimal protocol for each. The detectability of erasure noise is shown to lead to enhanced precision limits and simplified sensing protocols. For energy gap estimation, we demonstrate that a simple product-state continuous erasure detection strategy yields significant improvements, outperforming optimal entangled protocols even for large numbers of qubits. We show that for other single-qubit signals, quantum error correction provides a substantial advantage by correcting the dominant erasure processes, and can restore Heisenberg-limited precision in certain erasure configurations. As a byproduct of our analysis, we find erasure-conversion schemes for qubits subject to thermal noise that attain the corresponding ultimate precision limits.

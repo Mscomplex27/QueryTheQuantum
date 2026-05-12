@@ -1,0 +1,5 @@
+Title: A Game Theoretic Approach for Optimizing Quantum Error Budget Distribution
+Authors: Asif Akhtab Ronggon, Tasnuva Farheen
+Categories: quant-ph, cs.SE
+Published: 2026-04-17 00:59:06+00:00
+Abstract: Current fault-tolerant quantum compilers allocate error budgets uniformly during resource estimation, causing suboptimal physical resource overhead. We optimize this allocation using a potential game formulation, where Nash Equilibrium yields a Pareto-optimal distribution across logical operations, T-state distillation, and rotation synthesis. An iterated best response (IBR) algorithm converges to this equilibrium through monotonic descent of the shared cost function. Evaluation across 433 MQT benchmarks demonstrates an average reduction of 30.22\% in physical resource requirements relative to uniform baselines, with peak improvements of 97.81\% for specific circuit instances. This establishes a game-theoretic foundation for strategic error budget optimization in fault-tolerant quantum design automation.

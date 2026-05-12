@@ -1,0 +1,5 @@
+Title: Intractability of Witnessing Entangled Measurements Device Independently
+Authors: Peter Bierhorst
+Categories: quant-ph
+Published: 2026-02-16 21:29:36+00:00
+Abstract: Protocols have been previously proposed to certify the presence of an entangled measurement in a fully device-independent manner. Here, I provide models for these protocols in which the claimed measurement is not entangled, and demonstrate it is always possible to displace entanglement from measurements to measured states for a general class of device-independent scenarios. This indicates that no black-box measurement scenario requires entangled measurements to replicate its behavior, which is relevant to our fundamental understanding of this phenomenon and how to witness it.

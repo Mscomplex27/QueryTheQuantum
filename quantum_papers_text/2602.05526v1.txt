@@ -1,0 +1,5 @@
+Title: Arithmetic Reconciliation for CVQKD: Challenges and Feasibility
+Authors: Rávilla R. S. Leite, Juliana M. de Assis, Micael A. Dias, Francisco M. de Assis
+Categories: quant-ph
+Published: 2026-02-05 10:37:24+00:00
+Abstract: Continuous variable quantum key distribution allows two legitimate parties to share a common secret key and encompasses reconciliation protocols. A relatively new reconciliation protocol, Arithmetic Reconciliation, presents low complexity and has increasing reconciliation efficiency with lower SNRs. In this paper, we obtain reconciliation efficiencies for this protocol in realistic scenarios, by means of estimation of mutual information, and we also present rates for sequence match of secret keys by Alice and Bob. Results show that this technique is feasible and promising to continuous variable quantum key distribution applications.

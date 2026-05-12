@@ -1,0 +1,5 @@
+Title: Driving Quantum Heat Engines Beyond Classical Limits through Multilevel Coherence
+Authors: Hui Wang, Yusef Maleki, William J. Munro, Marlan O. Scully
+Categories: quant-ph
+Published: 2026-04-06 17:24:03+00:00
+Abstract: Quantum coherence provides a controllable thermodynamic resource that can raise or lower the effective temperature of a cavity mode, enabling efficiency tuning in quantum heat engines. Here, we derive analytic expressions for the effective engine temperature, demonstrating the enhanced temperature tunability achievable via $N$-level ground-state coherence. We further unify ground- and excited-state coherence within a single analytic framework, revealing their interplay as a mechanism for thermodynamic control. Such quantum resources serve as tunable parameters that enable switching between heating, cooling, and cancellation regimes, driving the effective temperature from near-zero to divergence. Ultimately, our framework connects and generalizes previous models of quantum heat engines, and we identify rubidium atoms as a promising candidate for experimentally realizing these coherence-assisted effects.

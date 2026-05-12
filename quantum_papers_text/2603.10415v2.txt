@@ -1,0 +1,5 @@
+Title: Tight Quantum Speed Limit for Ergotropy Charging in the N-Qubit Dicke Battery
+Authors: Anass Jad, Abderrahim El Allati
+Categories: quant-ph, math-ph
+Published: 2026-03-11 04:55:42+00:00
+Abstract: We derive and analytically prove a tight quantum speed limit (QSL) for ergotropy charging in the $N$-qubit Dicke quantum battery: the first-passage time to normalised ergotropy $ε$ satisfies $τ^{*}(ε) \geq \sqrt{Nε}/(2λ\sqrt{\bar{n}})$, where $λ$ is the coupling and $\bar{n}$ is the mean charger photon number. The bound follows from an exact perturbative identity $ε(t) = Aλ^2\bar{n}t^2 + \mathcal{O}((λt)^4)$, where $A=4/N$ is the short-time ergotropy coefficient, combined with a global upper bound proved analytically for all $N$. The composite parameter $Γ_N = 2λ\sqrt{\bar{n}/N}$ is the unique figure of merit for charging speed; all protocols collapse onto $Γ_N τ^{*} \geq \sqrtε$, with the bound saturated to within 1% at small $ε$.

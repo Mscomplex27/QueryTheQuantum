@@ -1,0 +1,5 @@
+Title: Control of Multipartite Entanglement through Anisotropy against Thermal Noise
+Authors: Samudra Sur, Saikat Sur
+Categories: quant-ph
+Published: 2026-02-26 09:56:53+00:00
+Abstract: Preserving multipartite entanglement in open many-body quantum systems is fundamentally limited by unavoidable environmental noise. We study the open-system dynamics of multipartite entanglement in an anisotropic XXZ spin chain interacting with a thermal spin bath, focusing on two states with distinct types of multipartite entanglement: the generalized GHZ and the generalized W state. Using a master-equation approach combined with the Bethe ansatz technique, we show analytically that robustness of multipartite entanglement at low temperatures can be enhanced by suitably tuning the anisotropy of the system. Our results highlight interaction-induced spectral control as a mechanism for stabilizing multipartite entanglement in quantum computing platforms.

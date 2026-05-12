@@ -1,0 +1,5 @@
+Title: Exact Criterion for Ground-State Overlap Dominance after Quantum Quenches
+Authors: Taisanul Haque
+Categories: cond-mat.stat-mech, quant-ph
+Published: 2026-04-13 13:03:11+00:00
+Abstract: Recently, conjectured and verified in TIFM model that for a sudden quench within the same physical phase region, the overlap of the initial ground state with the final eigenstates is maximal for the final ground state. We solve this problem exactly for a broad class of translationally invariant free-fermion systems. For Hamiltonians that factorize into independent $2\times2$ sectors, the final ground state is uniquely maximal if and only if the initial and final sector Bloch vectors have positive dot product. This exact criterion proves the conjecture for large classes, but also shows that it is false in general: in Kitaev chains there are same-phase quenches for which the final ground state is not the maximal-overlap state. The same mechanism has a direct dynamical consequence, implying that same-phase quenches can generate DQPTs without crossing an physical phase boundary.

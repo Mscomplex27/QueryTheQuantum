@@ -1,0 +1,5 @@
+Title: A Practical Semi-Quantum Signature Protocol with Improved Eavesdropping Detection
+Authors: Zengyu Pang, Hua Xiang
+Categories: quant-ph
+Published: 2026-04-17 08:39:54+00:00
+Abstract: Semi-quantum signature (SQS) schemes aim to enable quantum signature functionality in scenarios where only a subset of participants possess full quantum capabilities, thereby improving practical deployability while preserving quantum security advantages. Within this framework, we present a practical SQS protocol based on Bell states. The protocol is designed so that only the signer requires full quantum capability, significantly alleviating the quantum burden on the remaining participants. To strengthen security in semi-quantum environments, we incorporate an improved eavesdropping-detection mechanism that more effectively detects tampering. Compared with many existing schemes, which do not explicitly consider tampering of already generated signatures in their unforgeability analyses, the proposed protocol is designed to remain secure in the presence of such tampering.

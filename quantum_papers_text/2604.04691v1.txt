@@ -1,0 +1,5 @@
+Title: Interaction-free measurement of multiple objects using a universal integrated photonic processor
+Authors: Sara Franco, Anita Camillini, Ernesto F. Galvão
+Categories: quant-ph
+Published: 2026-04-06 13:58:58+00:00
+Abstract: The phenomenon of interaction-free measurement (IFM) enables the probabilistic detection of an absorbing object with reduced photon absorption. We report the experimental implementation of a simultaneous IFM of multiple objects using a single quantum probe on the cloud-based Ascella photonic processor of company Quandela. We demonstrate sequential IFM of up to 5 objects using a single photon, significantly extending the original IFM scheme for a single object. The experimental error-mitigated results confirm the theoretical predictions for this sequential IFM setup, and demonstrate a practical approach to scaling IFM to more complex quantum interrogation tasks.

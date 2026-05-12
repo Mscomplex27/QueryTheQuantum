@@ -1,0 +1,5 @@
+Title: Quantum Chaos in Phase Space
+Authors: Martina Hentschel
+Categories: quant-ph, nlin.CD, physics.optics
+Published: 2026-04-14 13:56:06+00:00
+Abstract: Mesoscopic devices, with system sizes in the range of several to several dozens wavelengths, represent paradigmatic model systems for the observation of quantum chaotic behaviour based on semiclassical concepts. Those electronic and photonic billiard cavities are small enough for interference effects not to be ignored. Nonetheless, the classical ray or particle tracing picture can often provide a substantial understanding of the dynamics of the system along the lines of classical-quantum, or ray-wave correspondence. This well-established principle turns out to be particularly useful when applied not only in real space, but by extending it to phase space such that both location and momentum information can contribute to a deeper and more comprehensive understanding of the dynamical behaviour.

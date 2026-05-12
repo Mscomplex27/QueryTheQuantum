@@ -1,0 +1,5 @@
+Title: Prodiabatic Elimination: Higher Order Elimination of Fast Variables with Quantum Noise
+Authors: Jan Neuser, Marcelo Janovitch, Matteo Brunelli, Patrick P. Potts
+Categories: quant-ph
+Published: 2026-02-25 13:27:38+00:00
+Abstract: We introduce the prodiabatic elimination, a powerful approximation technique that systematically extends the adiabatic elimination of fast degrees of freedom in light-matter coupled systems. Through a controlled expansion of operators, the prodiabatic elimination incorporates higher-order corrections and consistently includes noise contributions, leading to a significantly improved performance compared to standard adiabatic elimination. Importantly, it retains the simplicity and computational efficiency of the adiabatic elimination, making it convenient for practical applications. We demonstrate the approach on two setups: a driven dissipative Jaynes-Cummings model and a three-level system in a two-mode cavity that performs stimulated Raman adiabatic passage (STIRAP). These examples establish the prodiabatic elimination as a robust and broadly applicable tool for analyzing open quantum systems.

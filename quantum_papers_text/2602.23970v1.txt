@@ -1,0 +1,5 @@
+Title: Continuous-Time Quantum Walk on Locally Infinite Graph
+Authors: Ce Wang
+Categories: quant-ph, math.FA, math.PR
+Published: 2026-02-27 12:26:50+00:00
+Abstract: Time-reversal symmetry is of fundamental importance to physics. In the classical theory of time-reversal symmetry, the time-reversal symmetry of a quantum system is described by an anti-unitary operator, which is known as the time-reversal operator of the system. In this paper, we introduce and study a model of continuous-time quantum walk on a special locally infinite graph. After examining its spectral property, we investigate the time-reversal symmetry of the model. To our surprise, we find that its time-reversal symmetry can be described directly by a unitary operator, which contrasts sharply with that in the classical theory of time-reversal symmetry. Some other related results are also proven.

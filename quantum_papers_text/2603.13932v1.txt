@@ -1,0 +1,5 @@
+Title: Closed-time-path approach to the optomechanical back-reaction problem
+Authors: Salvatore Butera
+Categories: quant-ph, hep-th
+Published: 2026-03-14 13:04:11+00:00
+Abstract: We present a perturbative closed-time-path (in-in) formulation of an optomechanical system in which a quantum field interacts with a moving mirror via radiation pressure. We derive the effective action governing the dynamics of the moving mirror, incorporating the full back-reaction of the cavity field. These effects are encoded in fluctuation and dissipation kernels, that we show satisfy fluctuation-dissipation relations, and whose spectral structure reveals a direct connection with the underlying physical mechanism responsible for the back-reaction, that is particle creation by the dynamical Casimir effect. By deriving the semiclassical equations of motion for the moving mirror, and computing the energy radiated into the field within the in-out formalism of quantum field theory, we verify the energy balance between the mechanical energy dissipated by the optical back-reaction forces acting on the mirror and the energy carried by the particles created in the field.

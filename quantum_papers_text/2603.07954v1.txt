@@ -1,0 +1,5 @@
+Title: Perturbative relativistic modifications to wave-packet dynamics and uncertainty relations in the quantum harmonic oscillator
+Authors: Jian Carlo Ramos, Sujoy K. Modak
+Categories: quant-ph, hep-th
+Published: 2026-03-09 04:43:00+00:00
+Abstract: We analyze relativistic corrections to the wave-packet dynamics of the quantum harmonic oscillator within a perturbative framework. General expressions are derived for the leading-order relativistic contributions to the wave-packet parameters such as the average position, width and the uncertainty relations. For Gaussian wave packets, these corrections admit closed-form analytic expressions at order $1/c^{2}$. When applied to electron wave packets, the results indicate that relativistic effects become non-negligible in the keV scale harmonic confinement energies -- the uncertainty relationship deviation reaches 0.1% to 1% for an electron wave-packet moving at 15% speed of light and confined within 1-10 keV energy range which might be experimentally verifiable.

@@ -1,0 +1,5 @@
+Title: Efficient Soft-Output Guessing for Enhanced Quantum Tanner Code Decoding
+Authors: Lukas Rapp, Muriel Médard, Eugene Tang, Ken R. Duffy
+Categories: quant-ph, cs.IT
+Published: 2026-03-18 22:00:57+00:00
+Abstract: We introduce a generalized low-density parity-check decoding framework for quantum Tanner codes utilizing soft-output guessing random additive noise decoding (SOGRAND). By soft-output decoding entire component codes, we mitigate trapping sets and cycles, resulting in improved convergence. SOGRAND, combined with ordered statistic decoding (OSD) post-processing, outperforms the standard belief propagation plus OSD baseline by up to three orders of magnitude in logical error rate, providing a way forward for scalable decoding of the emerging class of Tanner-code-based quantum codes.

@@ -1,0 +1,5 @@
+Title: Enhanced Dark Matter Quantum Sensing via Geometric Phase
+Authors: Xiaolin Ma, Jie Sheng
+Categories: hep-ph, quant-ph
+Published: 2026-03-24 18:00:02+00:00
+Abstract: We propose a quantum sensing protocol for coupled qubit-oscillator systems that surpasses the standard quantum limit by exploiting a geometric phase for dark matter searches. Instead of letting the cavity evolve freely under a weak dark matter background, we combine large coherent displacements and squeezing operations within the evolution protocol, thereby mapping the signal onto an enhanced geometric phase. This new protocol increases the quantum Fisher information to surpass standard quantum limit and leads to a substantial improvement in dark photon and axion detection sensitivity, opening a new paradigm for cavity-based dark matter detection.

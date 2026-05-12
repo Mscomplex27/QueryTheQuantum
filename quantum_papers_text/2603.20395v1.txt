@@ -1,0 +1,5 @@
+Title: Security of Binary-Modulated Optical Key Distribution Against Quantum-Enhanced Coherent Eavesdropping
+Authors: Karol Łukanowski, Michał Wójcik, Stefano Olivares, Konrad Banaszek, Marcin Jarzyna
+Categories: quant-ph
+Published: 2026-03-20 18:15:22+00:00
+Abstract: Optical key distribution (OKD) protects the physical layer of communication links by taking advantage of the inherent noise present in the photodetection process. It allows for efficient generation of a shared random key between two distant users which can subsequently be used for cryptographic purposes secure against passive eavesdropping. Moreover, it can be straightforwardly implemented over standard intensity modulation and direct detection links, making it an attractive alternative to quantum key distribution. Here we present a comprehensive security analysis against more powerful eavesdroppers possessing either the ability to perform coherent detection, or even quantum-optimal measurements on the intercepted transmission.

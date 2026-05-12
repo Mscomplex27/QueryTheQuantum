@@ -1,0 +1,5 @@
+Title: Assessing the Practical Feasibility of the Clader-Jacobs-Sprouse Quantum Algorithm for Calculating Radar Cross Sections
+Authors: Edward Parker, Nicholas A. O'Donoughue, Alvin Moon, Nicolas M. Robles
+Categories: quant-ph
+Published: 2026-02-24 05:11:19+00:00
+Abstract: In 2013, Clader, Jacobs, and Sprouse developed a quantum computing algorithm that solves electromagnetic scattering problems exponentially faster than the best known classical algorithm for that problem. We examine this quantum algorithm's potential practical feasibility for modeling a target's radar cross section. Doing so could be important for modeling and predicting radar behavior against emerging targets.

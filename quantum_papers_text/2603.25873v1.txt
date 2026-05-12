@@ -1,0 +1,5 @@
+Title: Modular Theory and the Bell-CHSH inequality in relativistic scalar Quantum Field Theory
+Authors: J. G. A. Caribé, M. S. Guimaraes, I. Roditi, S. P. Sorella
+Categories: hep-th, math-ph, quant-ph
+Published: 2026-03-26 19:59:52+00:00
+Abstract: The Tomita-Takesaki modular theory is employed to discuss the Bell-CHSH inequality in wedge regions. By using the Bisognano-Wichmann results, the construction of a set of wedge localized vectors in the one-particle Hilbert space of a relativistic massive scalar field in $1+1$ dimensions is devised to establish whether violations of the Bell-CHSH inequality might occur for different choices of Bell's operators. In particular, the construction of the wedge localized vectors employed in the seminal work by Summers-Werner is scrutinized and applied to Weyl and other operators. We also outline a possible path towards the saturation of Tsirelson's bound.

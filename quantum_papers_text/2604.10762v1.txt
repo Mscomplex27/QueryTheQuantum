@@ -1,0 +1,5 @@
+Title: An Information-Theoretic Bound on Thermodynamic Efficiency and the Generalized Carnot's Theorem
+Authors: Anna Gabetti, Fabrizio Dolcini, Davide Girolami
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-12 18:13:45+00:00
+Abstract: We derive a bound on the efficiency of thermal engines that can be sharper than Carnot's limit. It is a function of statistical correlations between the engine internal state and Hamiltonian, can be saturated even in finite-time cycles, and applies to both classical and quantum engines. Specifically, the bound establishes the exact maximal efficiency of engines operating with multiple baths, tightening the upper limit set by Carnot's theorem. Then, we show that an engine made of a quantum dot coupled with fermionic baths can achieve the bound, even when operating beyond the quasistatic regime. The result provides a design principle for realistic energy harvesting machines.

@@ -1,0 +1,5 @@
+Title: Fulde-Ferrell superfluids in an asymmetric three-component Fermi Gas
+Authors: Yuhan Lu, Lihong Zhou, Yongping Zhang
+Categories: cond-mat.quant-gas, quant-ph
+Published: 2026-02-27 13:28:10+00:00
+Abstract: An asymmetric three-component Fermi gas, featuring Raman-induced spin-orbit coupling between the first and second components and contact interaction only between the first and third components, introduces both spin-orbit coupling and population imbalance-two mechanisms known to stabilize the Fulde-Ferrell superfluids.We systematically study Fulde-Ferrell superfluids in an asymmetric three-component Fermi gas by finding the global minima of the thermodynamic potential. We reveal a new class of composite Fulde-Ferrell superfluids that emerges when strong spin-orbit coupling generates a double-well structure in momentum space within the lower spin-orbit-coupled band. The key features of these composite superfluids are identified.

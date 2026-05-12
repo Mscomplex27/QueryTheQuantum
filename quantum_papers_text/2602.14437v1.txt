@@ -1,0 +1,5 @@
+Title: Fermionic Stoner-Dicke phase transition in Circuit Quantum Magnetostatics
+Authors: Adel Ali, Alexey Belyanin
+Categories: quant-ph
+Published: 2026-02-16 03:45:53+00:00
+Abstract: We present a minimal tunable many-body system of fermions coupled to quantum magnetic flux, which is analytically diagonalizable and exhibits a variety of many-body phenomena such as Stoner orbital instability and Dicke-like quantum phase transition. In contrast to standard cavity quantum electrodynamics with its electric-dipole coupling of the electric field operators with matter, here it is the quantized magnetic field of an LC-resonator which is coupled to the angular momentum of particles. Adding the Josephson junction (JJ) to the linear LC circuit allows us to explore nonlinear flux-matter phases and sector-selective photon dressing in regimes relevant to circuit QED and mesoscopic rings. Furthermore, we consider the tight-binding systems that exhibit a tunable nonlinearity representing artificial JJ, but without actual JJs included in the circuit.

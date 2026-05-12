@@ -1,0 +1,5 @@
+Title: Harmonic sequence state-preparation
+Authors: Benjamin Rempfer, Parker Kuklinski, Justin Elenewski, Kevin Obenland
+Categories: quant-ph
+Published: 2026-02-27 04:12:38+00:00
+Abstract: We demonstrate an efficient circuit to prepare a quantum state with amplitudes proportional to a harmonic sequence. We do this by first preparing a large quantum state with linearly related amplitudes and then applying a quantum Fourier transform; this has a direct analogy to the fact that the Fourier coefficients of a sawtooth wave follow a harmonic sequence. We then consider an extension of this problem by block-encoding a matrix with a harmonic sequence along its diagonal. The cost of both circuits is dominated by the costs associated with the quantum Fourier transform.

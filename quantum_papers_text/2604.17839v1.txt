@@ -1,0 +1,5 @@
+Title: What Do Black Holes Teach Us About Wigner's Friend?
+Authors: Emily Adlam
+Categories: quant-ph, gr-qc, physics.hist-ph
+Published: 2026-04-20 05:50:29+00:00
+Abstract: Recently, Hausmann and Renner have pointed out that several famous paradoxes relating to black holes have a similar character to various Extended Wigner's Friend paradoxes. In this paper I consider what the connection between these things could teach us about the Wigner's Friend scenarios. I argue that if we take the analogy between these cases seriously, the black hole paradoxes appear to favour a certain class of response to the Wigner's Friend scenario - specifically, those which posit intrinsic relationality, rather than effective and emergent relationality, and also those which posit some kind of retrocausality.

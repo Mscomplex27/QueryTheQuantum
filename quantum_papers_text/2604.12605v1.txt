@@ -1,0 +1,5 @@
+Title: Quantum dynamics of coupled quasinormal modes and quantum emitters interacting via finite-delay propagating photons
+Authors: Robert Meiners Fuchs, Juanjuan Ren, Sebastian Franke, Stephen Hughes, Marten Richter
+Categories: cond-mat.mes-hall, physics.optics, quant-ph
+Published: 2026-04-14 11:30:55+00:00
+Abstract: A time-dependent theory for the interactions between spatially separated lossy cavities in a homogeneous background medium using quantized quasinormal modes (QNMs) is presented. The cavities interact via a bath of traveling photons, described by non-bosonic operators that are orthogonal to the open-cavity QNMs. The retarded (i.e., time-delayed) inter-cavity dynamics are fully described by system-bath correlation functions, in which the emission from one cavity appears as the input field for another. Coupling between quantum emitters (described as two-level systems), placed inside a cavity or embedded in an external medium, and the electromagnetic field (cavity modes and bath photons) is included in the theory, which gives rise to both bath-mediated and QNM-mediated interactions between the emitters.

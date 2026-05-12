@@ -1,0 +1,5 @@
+Title: Semiclassical resonances under local magnetic fields
+Authors: Pavel Exner, Ayman Kachmar
+Categories: math-ph, math.AP, quant-ph
+Published: 2026-04-20 06:07:48+00:00
+Abstract: We study resonances for the semiclassical magnetic Laplacian in the full plane with a compactly supported magnetic field in the framework of semiclassical complex scaling and black box scattering theory. Assuming that the magnetic field is locally constant, we prove the existence of semiclassical resonances near the Landau levels with exponentially small imaginary parts. We also prove that resonances emerge from a magnetic step discontinuity along a curved interface or a non-degenerate magnetic well, and in the vicinity of anharmonic Landau levels if the field has an isolated zero.

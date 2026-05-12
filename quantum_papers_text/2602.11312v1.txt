@@ -1,0 +1,5 @@
+Title: A Nonlinear $q$-Deformed Schrödinger Equation
+Authors: M. A. Rego-Monteiro, E. M. F. Curado
+Categories: nlin.PS, math-ph, quant-ph
+Published: 2026-02-11 19:33:48+00:00
+Abstract: We construct a new nonlinear deformed Schrödinger structure using a nonlinear derivative operator which depends on a parameter $q$. This operator recovers Newton derivative when $q \rightarrow 1$. Using this operator we propose a deformed Lagrangian which gives us a deformed nonlinear Schrödinger equation with a nonlinear kinetic energy term and a standard potential $V(\vec{x})$. We analytically solve the nonlinear deformed Schrödinger equation for $V(\vec{x}) = 0$ and $q \simeq1$. This model has a continuity equation, the energy is conserved, as well as the momentum and also interacts with electromagnetic field. Planck relation remains valid and in all steps we easily recover the undeformed quantities when the deformation parameter goes to 1. Finally, we numerically solve the equation of motion for the free particle in any spatial dimension, which shows a solitonic pattern when the space is equal to one for particular values of $q$.

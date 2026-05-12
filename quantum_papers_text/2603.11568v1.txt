@@ -1,0 +1,5 @@
+Title: Quantum Error Correction by Purification
+Authors: Jonathan Raghoonanan, Tim Byrnes
+Categories: quant-ph
+Published: 2026-03-12 05:43:50+00:00
+Abstract: We present a general-purpose quantum error correction primitive based on state purification via the SWAP test, which we refer to as purification quantum error correction (PQEC). This method operates on $N$ noisy copies, requires minimally $O(M\log_2 N)$ data qubits to process the $M$-qubit inputs. In a similar way to standard QEC, the purification steps may be interleaved within a quantum algorithm to suppress the logical error rate. No postselection is performed and no knowledge of the state is required. We analyze its performance under a variety of error channels and find that PQEC is highly effective at boosting fidelity and reducing logical error rates, particularly for the depolarizing channel. Error thresholds for the local depolarizing channel are found to be $ 75 \%$ for any register size. For local dephasing, the error threshold is reduced to $ 50 \% $ but may be boosted using twirling.

@@ -1,0 +1,5 @@
+Title: SDP bounds on quantum codes: rational certificates
+Authors: Gerard Anglès Munné, Felix Huber
+Categories: quant-ph, cs.IT
+Published: 2026-03-20 12:33:38+00:00
+Abstract: A fundamental problem in quantum coding theory is to determine the maximum size of quantum codes of given block length and distance. A recent work introduced bounds based on semidefinite programming, strengthening the well-known quantum linear programming bounds. However, floating-point inaccuracies prevent the extraction of rigorous non-existence proofs from the numerical methods. Here, we address this by providing rational infeasibility certificates for a range of quantum codes. Using a clustered low-rank solver with heuristic rounding to algebraic expressions, we can improve upon $18$ upper bounds on the maximum size of $n$-qubit codes with $6 \leq n \leq 19$. Our work highlights the practicality and scalability of semidefinite programming for quantum coding bounds.

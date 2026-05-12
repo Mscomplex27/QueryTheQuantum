@@ -1,0 +1,5 @@
+Title: Preparing Quantum Backflow States by Large Momentum Transfer
+Authors: Yuchong Chen, Yijun Tang
+Categories: quant-ph
+Published: 2026-02-13 09:51:45+00:00
+Abstract: A quantum backflow state refers to a quantum state exhibiting negative probability density flux albeit a completely positive momentum spectrum. Extending earlier work that uses single laser pulse to prepare quantum backflow state in an ultracold atomic BEC [1], we theoretical investigated flexible quantum backflow state preparation via large momentum transfer technique, which to our knowledge, has not been studied before. By combining atom interferometry theory and non-interacting BEC wave function, we solve for the evolution of a BEC wavepacket under atom interferometry sequence. Simulation results show a highly tunable backflow flux and critical density under our scheme, and can be manipulated to go beyond existing numbers.

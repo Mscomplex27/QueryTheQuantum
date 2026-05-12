@@ -1,0 +1,5 @@
+Title: Quantum Wasserstein isometries of the $n$-qubit state space: a Wigner-type result
+Authors: Gergely Bunth, Eszter Szabó, Dániel Virosztek
+Categories: math-ph, math.OA, quant-ph
+Published: 2026-02-09 13:21:27+00:00
+Abstract: We determine the isometry group of the $n$-qubit state space with respect to the quantum Wasserstein distance induced by the so-called symmetric transport cost for all $n \in \mathbb{N}.$ It turns out that the isometries are precisely the Wigner symmetries, that is, the unitary or anti-unitary conjugations.

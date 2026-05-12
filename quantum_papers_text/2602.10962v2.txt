@@ -1,0 +1,5 @@
+Title: A generalization of Frenkel's formula
+Authors: Shmuel Friedland
+Categories: math.FA, math-ph, quant-ph
+Published: 2026-02-11 15:54:38+00:00
+Abstract: We generalize Frenkel's integral formula for traces of operators to operators. The resulting formula holds for bounded self-adjoint positive operators and $p$-Schatten class of compact positive operators.

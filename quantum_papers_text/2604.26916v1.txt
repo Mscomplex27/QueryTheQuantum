@@ -1,0 +1,5 @@
+Title: Rethinking Nonlocality: Locality, Counterfactuals, and the EPR-Bell Argument
+Authors: Partha Ghose
+Categories: quant-ph
+Published: 2026-04-29 17:26:37+00:00
+Abstract: The widespread claim that violations of Bell inequalities establish the nonlocality of nature is critically reexamined. It is argued that this conclusion is not logically compelled by either the Einstein--Podolsky--Rosen (EPR) argument or Bell's theorem. The analysis highlights the central role of counterfactual reasoning -- the assumption that outcomes of unperformed measurements possess definite values -- in deriving Bell inequalities. It is shown that these inequalities follow not from locality alone, but from the conjunction of locality with a global assignment of values across incompatible measurement contexts. Their experimental violation therefore signals the impossibility of such a global assignment, i.e.\ contextuality, rather than necessarily implying nonlocal causation. This interpretation aligns with Bohr's emphasis on the contextual character of physical quantities and is naturally formulated within modern sheaf-theoretic approaches to contextuality.

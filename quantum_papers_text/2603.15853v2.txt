@@ -1,0 +1,5 @@
+Title: Taming the expressiveness of neural-network wave functions for robust convergence to quantum many-body states
+Authors: Dezhe Z. Jin
+Categories: cond-mat.supr-con, cond-mat.dis-nn, quant-ph
+Published: 2026-03-16 19:33:38+00:00
+Abstract: Neural networks are emerging as a powerful tool for determining the quantum states of interacting many-body fermionic systems. The standard approach trains a neural-network ansatz by minimizing the mean local energy estimated from Monte Carlo samples. However, this typically results in large sample-to-sample fluctuations in the estimated mean energy and thus slow convergence of the energy minimization. We propose that minimizing a logarithmically compressed variance of the local energies can dramatically improve convergence. Moreover, this loss function can be adapted to systematically obtain the energy spectrum across multiple runs. We demonstrate these ideas for spin-1/2 particles in a 2D harmonic trap with attractive Poschl-Teller interactions between opposite spins.

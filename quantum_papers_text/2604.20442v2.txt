@@ -1,0 +1,5 @@
+Title: Complex scaling approach to quasinormal modes of Schwarzschild and Reissner--Nordström black holes
+Authors: Shoya Ogawa, Takuya Hirose, Okuto Morikawa
+Categories: hep-th, gr-qc, quant-ph
+Published: 2026-04-22 11:05:11+00:00
+Abstract: We study black-hole quasinormal modes by applying the complex scaling method (CSM) to the perturbation equations of Schwarzschild and Reissner--Nordström black holes. The method converts the outgoing-wave boundary condition into a non-Hermitian eigenvalue problem, allowing quasinormal-mode frequencies to be computed within a common spectral framework. We first benchmark the method for the Schwarzschild Regge--Wheeler equation and then extend it to the Reissner--Nordström family, including the extremal limit. Our results show that CSM provides a unified and flexible approach to the computation of black-hole quasinormal frequencies.

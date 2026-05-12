@@ -1,0 +1,5 @@
+Title: Entropy Maximization and Weak Gibbsianity of Quasi-Free Fermionic States
+Authors: Vojkan Jakšić, Claude-Alain Pillet, Anna Szczepanek
+Categories: math-ph, cond-mat.stat-mech, quant-ph
+Published: 2026-03-14 16:46:50+00:00
+Abstract: In their 1972 study of approach to equilibrium, Lanford and Robinson showed that gauge-invariant quasi-free states of lattice fermions maximize entropy among all translation-invariant states with a fixed two-point function, and suggested that the maximizer is unique. In subsequent work on this topic, the uniqueness question re-emerged, together with the problem of whether such quasi-free states are weak Gibbs states. We provide a positive answer to both questions within a class of states whose momentum-space two-point function $\widehat C$ satisfies $0<\widehat C(k)<1$ and belongs to the Wiener algebra of the Brillouin zone. The proof reveals that both the entropy maximization principle and weak Gibbsianity follow directly from the thermodynamic formalism for lattice fermions.

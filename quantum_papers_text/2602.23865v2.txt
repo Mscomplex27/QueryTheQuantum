@@ -1,0 +1,5 @@
+Title: Supermaps on generalised theories
+Authors: Matt Wilson, James Hefford, Timothée Hoffreumon
+Categories: quant-ph, cs.LO, math.CT
+Published: 2026-02-27 10:05:24+00:00
+Abstract: Categorical supermaps generalise higher-order quantum operations from finite-dimensional quantum theory to arbitrary circuit theories. In this paper, we establish the Yoneda lemma for categorical supermaps, which states that whenever a physical theory has a suitable notion of channel-state duality, then categorical supermaps on that theory can be concretely represented in terms of that duality. This lemma eliminates any guesswork or ambiguity when defining the appropriate notion of supermap for these theories. As a concrete application, we show that the recently proposed higher-order processes on boxworld can be obtained as a particular instance of categorical supermaps, and put forward a stable definition of higher-order real quantum theory.

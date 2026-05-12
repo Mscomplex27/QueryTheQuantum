@@ -1,0 +1,5 @@
+Title: Squeezing and measurement of a mechanical quadrature via PID feedback
+Authors: Alberto Hijano, Tero T. Heikkilä
+Categories: quant-ph
+Published: 2026-04-17 16:14:28+00:00
+Abstract: Proportional-Integral-Derivative (PID) control is used for automatically regulating a measurable quantity to a desired setpoint. It is widely used in different types of classical control electronics. Here, we show how extending the feedback theory in quantum systems to include the derivative and integral parts influences both the transient and steady-state behavior of the amplitude and squeezing of a mechanical quadrature in an optomechanical system. We show that, in contrast to standard proportional feedback, derivative feedback affects both the conditional and unconditional squeezing. Furthermore, we demonstrate how feedback may be employed to drive a mechanical quadrature to track a desired reference signal. Our findings offer new routes for an improved quantum state control and measurement precision.

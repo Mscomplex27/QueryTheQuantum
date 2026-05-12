@@ -1,0 +1,5 @@
+Title: Order Unit Spaces and Probabilistic Models
+Authors: John Harding, Alex Wilce
+Categories: quant-ph
+Published: 2026-03-05 21:16:05+00:00
+Abstract: We exhibit a functor from the category OUS of order unit spaces and positive, unit-preserving mappings into the category $\Prob$ of probabilistic models (test spaces with designated state spaces) and morphisms thereof. Restricted to any subcategory of OUS monoidal with respect to a positive, normalized, bilinear composition rule, our functor is also monoidal. This shows that the convex-operational approach to physical theories can be subsumed by the test-space approach, without resort to ``generalized test spaces''. A second construction, equipping a probabilistic model with tests representing ``weighted coins'', also sheds light on the nature of unsharp observables.

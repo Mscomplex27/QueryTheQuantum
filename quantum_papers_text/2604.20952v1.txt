@@ -1,0 +1,5 @@
+Title: Adiabatic Error Cancellation in Berry Phase Estimation
+Authors: Chusei Kiumi
+Categories: quant-ph
+Published: 2026-04-22 18:00:00+00:00
+Abstract: In this work, we show that Berry phase estimation admits a natural and universal adiabatic error-cancellation mechanism, making it a promising candidate for practical quantum computing before full fault tolerance. Combining finite-runtime evolutions under $\pm H$ along the loop cancels the leading $O(T^{-1})$ phase error exactly, and Richardson extrapolation further reduces the residual error to an oscillatory term with endpoint-controlled coefficient $O(\|\dot H(0)\|^2Δ(0)^{-4}T^{-2})$. Beyond this deterministic cancellation, we establish that, for suitable smooth runtime distributions, runtime randomization suppresses the remaining oscillatory contribution to $O(T^{-M})$ for any fixed $M$, leading to a randomized Hadamard-test algorithm for Berry phase estimation over the full range $[0,2π)$ with improved runtime scaling under standard sample complexity.

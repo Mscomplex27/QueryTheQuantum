@@ -1,0 +1,5 @@
+Title: T Count as a Numerically Solvable Minimization Problem
+Authors: Marc Grau Davis, Ed Younis, Mathias Weiden, Hyeongrak Choi, Dirk Englund
+Categories: quant-ph, cs.ET
+Published: 2026-03-26 07:15:52+00:00
+Abstract: We present a formulation of the problem of finding the smallest T -Count circuit that implements a given unitary as a binary search over a sequence of continuous minimization problems, and demonstrate that these problems are numerically solvable in practice. We reproduce best-known results for synthesis of circuits with a small number of qubits, and push the bounds of the largest circuits that can be solved for in this way. Additionally, we show that circuit partitioning can be used to adapt this technique to be used to optimize the T -Count of circuits with large numbers of qubits by breaking the circuit into a series of smaller sub-circuits that can be optimized independently.

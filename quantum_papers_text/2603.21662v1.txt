@@ -1,0 +1,5 @@
+Title: Efficient Gaussian Simulations of Fermionic Open Quantum Systems
+Authors: Yinan Fang, Hyesung Choi, Minchul Lee, Mahn-Soo Choi
+Categories: quant-ph
+Published: 2026-03-23 07:40:20+00:00
+Abstract: We review existing classical simulation methods for performing fermionic Gaussian operations and develop new methods to address the gap by adhering to the fundamental theoretical framework established by Bravyi [Quantum Info. Comput. 5, 216 (2005)] for the most general fermionic Gaussian processes. Throughout this attempt, the focus remains on the unified approach that can be applied to generic fermionic Gaussian operations. This is beneficial since the selection of simulation methods has often been based on an ad hoc choice, heavily influenced by the specific model and circumstances, rather than on a systematic approach.

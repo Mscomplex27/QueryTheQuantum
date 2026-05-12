@@ -1,0 +1,5 @@
+Title: Quantum information spreading in inhomogeneous spin ensembles
+Authors: Rahul Gupta, Florian Mintert, Himadri Shekhar Dhar
+Categories: quant-ph, cond-mat.stat-mech, physics.atom-ph, physics.optics
+Published: 2026-04-15 14:32:00+00:00
+Abstract: We present a Krylov space based theoretical framework for modeling inhomogeneous spin ensembles with arbitrary distributions of spin frequencies and couplings. The framework is then used to asymptotically large spin ensemble. In the single-excitation subspace, the Krylov construction allows for to derive exact expressions for the Lieb-Robinson velocity and quantum speed limit, and figure of merit such as Krylov complexity. Our work reveals a strong dependence of the speed of information flow on the statistical distribution of resonance frequencies in the spin ensemble with immediate implications for the design of components for quantum technologies, realized for example with nitrogen vacancy centers, nuclear spins or ultracold atoms.

@@ -1,0 +1,5 @@
+Title: Jaynes-Cummings dynamics in strong coupling for many-interacting-qubit quantum Rabi models
+Authors: Roberto Grimaudo, Sagnik Chakraborty, Rosario Lo Franco, Giuseppe Falci
+Categories: quant-ph
+Published: 2026-04-22 09:01:30+00:00
+Abstract: The present work focuses on the strong/weak interaction of many-body spin-systems with a cavity mode. It introduces the necessity of redefining the physical conditions determining the strong/weak coupling regime in those systems. In more complex systems, the effective coupling emerging from the collective dynamics may differ indeed from the actual coupling of each individual subsystem with the bosonic field. This is shown by highlighting some counter-intuitive dynamical effects properly related to the coupling regime: a Jaynes-Cummings dynamics emerging although a strong interaction is present. The universality of this result is demonstrated through the analysis of three distinct systems: a two-qubit, a two-qutrit, and an $N$-qubit chain quantum Rabi models.

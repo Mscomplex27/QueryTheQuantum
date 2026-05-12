@@ -1,0 +1,5 @@
+Title: Anyon Permutations in Quantum Double Models through Constant-depth Circuits
+Authors: Yabo Li, Zijian Song
+Categories: quant-ph, cond-mat.str-el
+Published: 2026-02-10 18:59:23+00:00
+Abstract: We provide explicit constant-depth local unitary circuits that realize general anyon permutations in Kitaev's quantum double models. This construction can be naturally understood through a correspondence between anyon permutation symmetries of two-dimensional topological orders and self-dualities in one-dimensional systems, where local gates implement self-duality transformations on the boundaries of microscopic regions. From this holographic perspective, general anyon permutations in the $D(G)$ quantum double correspond to compositions of three classes of one-dimensional self-dualities, including gauging of certain subgroups of $G$, stacking with $G$ symmetry-protected topological phases, and outer automorphisms of the group $G$. We construct circuits realizing the first class by employing self-dual unitary gauging maps, and present transversal circuits for the latter two classes.

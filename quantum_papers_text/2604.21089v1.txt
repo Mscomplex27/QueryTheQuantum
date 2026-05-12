@@ -1,0 +1,5 @@
+Title: A rigorous quasipolynomial-time classical algorithm for SYK thermal expectations
+Authors: Alexander Zlokapa
+Categories: quant-ph, cond-mat.dis-nn, cs.DS, math-ph
+Published: 2026-04-22 21:14:04+00:00
+Abstract: Estimating local observables in Gibbs states is a central problem in quantum simulation. While this task is BQP-complete at asymptotically low temperatures, the possibility of quantum advantage at constant temperature remains open. The Sachdev-Ye-Kitaev (SYK) model is a natural candidate: at any constant temperature, its Gibbs states have polynomial quantum circuit complexity and are not described by Gaussian states. Rigorous analyses of the SYK model are difficult due to the failure of known techniques using random matrix theory, cluster expansions, and rigorous formulations of the quantum path integral and replica trick. Despite this, we give a rigorous proof of a quasipolynomial-time classical algorithm that estimates SYK local thermal expectations at sufficiently high constant temperature. Our result introduces a new Wick-pair cluster expansion that we expect to be broadly useful for disordered quantum many-body systems.

@@ -1,0 +1,5 @@
+Title: Quantum Conditional Stochastic Processes
+Authors: Stan Gudder
+Categories: quant-ph
+Published: 2026-03-28 18:31:09+00:00
+Abstract: Quantum mechanics contains some strange unphysical concepts. Among these are complex numbers, Hilbert spaces with their unitary and self-adjoint operators, states represented by complex vectors, superpositions of states, collapse of wave functions, Born's rule for probabilities and others. If we accept that quantum mechanics is probabilistic, then these concepts can be derived and they become secondary. In this work, we begin with what we call a \textit{conditional stochastic process} (CSP) which is based on real numbers and probabilities. As we shall see, such processes are defined by three simple axioms. We then use CSP to derive quantum mechanics by employing a correspondence called a \textit{dictionary}. We also show that the converse holds. That is, beginning with a quantum system, we employ the dictionary to derive a CSP.

@@ -1,0 +1,5 @@
+Title: Generalized quantum theory for accessing nonlinear systems: the case of Liénard and Levinson-Smith equations
+Authors: Bijan Bagchi, Anindya Ghose-Choudhury
+Categories: quant-ph, math-ph, nlin.SI
+Published: 2026-02-04 16:48:15+00:00
+Abstract: We show that a recently introduced generalized scheme of quantum mechanics has connections to Liénard and Levinson-Smith classes of nonlinear systems. For the Liénard type, which has coefficients of odd and odd symmetry, we demonstrate that closed form solutions exist on conversion to the Abel form. For the Levinson-Smith equations, we find their relevance to position-dependent mass systems, with an interesting off-shoot that solitonic-like solutions emerge from the condition of the level surface in the system.

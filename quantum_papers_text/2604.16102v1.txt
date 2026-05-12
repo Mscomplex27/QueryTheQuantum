@@ -1,0 +1,5 @@
+Title: Exact Steady State of a One-end Driven XXZ Spin Chain with Boundary Field
+Authors: V. Popkov, T. Prosen
+Categories: cond-mat.stat-mech, math-ph, quant-ph
+Published: 2026-04-17 14:36:34+00:00
+Abstract: We find an exact nonequilibrium steady state of an open dissipatively driven XXZ spin-1/2 chain with source or sink spin bath at one end and an arbitrary boundary field at the other end.

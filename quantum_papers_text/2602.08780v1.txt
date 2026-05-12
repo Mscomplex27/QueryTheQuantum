@@ -1,0 +1,5 @@
+Title: The equivalence of quantum deletion and insertion errors on permutation-invariant codes
+Authors: Lewis Bulled, Yingkai Ouyang
+Categories: quant-ph
+Published: 2026-02-09 15:23:26+00:00
+Abstract: Quantum synchronisation errors are a class of quantum errors that change the number of qubits in a quantum system. The classical error correction of synchronisation errors has been well-studied, including an insertion-deletion equivalence more than a half-century ago, but little progress has been made towards the quantum counterpart since the birth of quantum error correction. We address the longstanding problem of a quantum insertion-deletion equivalence on permutation-invariant codes, detailing the conditions under which such codes are $t$-insertion error-correctable. We extend these conditions to quantum insdel errors, formulating a more restrictive set of conditions under which permutation-invariant codes are $(t,s)$-insdel error-correctable. Our work resolves many of the outstanding questions regarding the quantum error correction of synchronisation errors.

@@ -1,0 +1,5 @@
+Title: Mechanism for scale-free skin effect in one-dimensional systems
+Authors: Shu-Xuan Wang
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-04-02 05:25:58+00:00
+Abstract: Non-Hermitian skin effect (NHSE) is one of the most fascinating phenomena in non-Hermitian systems, which refers to enormous eigenstates localize at the boundary exponentially under open boundary condition (OBC). For typical NHSE, the localization length for a skin mode is independent of the system's size. Recently, some studies have revealed that for specific $1$-dimensional model, the localization length for eigenstates are proportional to the system's length under generalized boundary condition (GBC), and such phenomenon is dubbed as scale-free skin effect (SFSE). Further, SFSE is discovered in $1$-dimensional Hermitian chain with pure imaginary impurity at the end. In this work, we propose a mechanism for SFSE in 1-dimensional systems, which is model-independent. Our work provide a viewpoint for researching SFSE and shed new light on understanding finite size effect in non-Hermitian systems.

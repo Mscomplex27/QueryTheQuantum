@@ -1,0 +1,5 @@
+Title: Genuine certifiable randomness from a black-box
+Authors: Liam P. McGuinness
+Categories: quant-ph, math-ph
+Published: 2026-02-28 01:22:52+00:00
+Abstract: Randomness is intrinsic to quantum mechanics; the outcome of a measurement on a quantum state is a random variable. This feature has been applied to randomness certification, where one party must decide whether the data they receive is truly random. However, existing demonstrations are not black-box, to avoid falsely certifying deterministic data, assumptions must be made on how the data was generated. Here we demonstrate genuine randomness certification in the black-box setting -- one in which no deterministic adversary, even with unlimited computational power, will succeed in getting their data certified. We use it to provably generate random numbers using only measurements on single particle states and without a random seed.

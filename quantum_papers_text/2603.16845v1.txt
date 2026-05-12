@@ -1,0 +1,5 @@
+Title: Efficient Shadow Tomography of Thermal States
+Authors: Chi-Fang Chen, András Gilyén
+Categories: quant-ph
+Published: 2026-03-17 17:53:12+00:00
+Abstract: We present a general protocol for estimating $M$ observables from only $\mathcal{O}(\log (M)/\varepsilon^2)$ copies of a Gibbs state whose Hamiltonian is accessible. The protocol uses single-copy, nonadaptive measurements and uses a total Hamiltonian simulation time of $\widetilde{\mathcal{O}}(βM/\varepsilon^2)$; we show that the sample complexity is optimal in a black-box setting where exponential time Hamiltonian simulation is prohibited. The key idea is a new interpretation of quantum Gibbs samplers as \textit{detailed-balance measurement channels}: measurements that preserve the Gibbs state when outcomes are marginalized. Consequently, shadow tomography of thermal states admits a general efficient algorithm when the Hamiltonian is known, substantially lowering the readout cost in quantum thermal simulation.

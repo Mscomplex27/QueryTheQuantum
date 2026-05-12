@@ -1,0 +1,5 @@
+Title: On genuine multipartite entanglement signals
+Authors: Abhijit Gadde
+Categories: quant-ph, hep-th
+Published: 2026-03-08 15:32:35+00:00
+Abstract: We give a general construction of genuinely multipartite entanglement signals from families of lower-partite symmetric local-unitary invariants satisfying a natural compatibility condition. Möbius inversion on the partition lattice plays a key role in this construction. We show that many examples of multipartite entanglement signals considered in the literature fit naturally into this framework. We also explain how the genuinely multipartite signal can be extracted from a general, not necessarily symmetric, multi-invariant.

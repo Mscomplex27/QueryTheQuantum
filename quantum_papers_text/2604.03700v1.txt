@@ -1,0 +1,5 @@
+Title: Robust self-testing with CHSH mod 3
+Authors: Igor Klep, Nando Leijenhorst, Victor Magron
+Categories: math.OC, quant-ph
+Published: 2026-04-04 12:09:24+00:00
+Abstract: The CHSH mod 3 Bell inequality is a natural testbed for higher-dimensional quantum nonlocality, yet its maximal quantum violation and self-testing properties have remained unresolved. We determine its exact maximal quantum value and show that, up to unitary equivalence and the natural symmetries of the inequality, it admits a unique optimal irreducible strategy; equivalently, there are four symmetry-related optimal irreducible strategies. Each of these strategies uses a maximally entangled two-qutrit state. We further prove that any strategy whose value is within $\varepsilon$ of the optimum is $O(\sqrt{\varepsilon})$-close, up to local isometries, to a direct sum of optimal irreducible strategies.

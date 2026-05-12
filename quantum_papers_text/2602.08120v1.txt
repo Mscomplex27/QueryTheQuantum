@@ -1,0 +1,5 @@
+Title: Optimal Quantum Speedups for Repeatedly Nested Expectation Estimation
+Authors: Yihang Sun, Guanyang Wang, Jose Blanchet
+Categories: quant-ph, math.NA, q-fin.MF, stat.CO
+Published: 2026-02-08 20:55:12+00:00
+Abstract: We study the estimation of repeatedly nested expectations (RNEs) with a constant horizon (number of nestings) using quantum computing. We propose a quantum algorithm that achieves $\varepsilon$-error with cost $\tilde O(\varepsilon^{-1})$, up to logarithmic factors. Standard lower bounds show this scaling is essentially optimal, yielding an almost quadratic speedup over the best classical algorithm. Our results extend prior quantum speedups for single nested expectations to repeated nesting, and therefore cover a broader range of applications, including optimal stopping. This extension requires a new derandomized variant of the classical randomized Multilevel Monte Carlo (rMLMC) algorithm. Careful de-randomization is key to overcoming a variable-time issue that typically increases quantized versions of classical randomized algorithms.

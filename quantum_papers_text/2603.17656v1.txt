@@ -1,0 +1,5 @@
+Title: Implementation of non-local arbitrary two-qubit controlled gates via geometric quantum computation with Rydberg anti-blockade
+Authors: Le-Jiang Yu, Jia Zheng, Kun Pu, Chao Gao
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-03-18 12:20:31+00:00
+Abstract: In the context of Rydberg anti-blockade, this paper proposes a new scheme for a high-fidelity controlled-unitary gate based on non-adiabatic holonomic quantum computation. Under specific detuning and interaction conditions, the scheme achieves a suitable evolution path for non-adiabatic holonomic quantum computation through reverse engineering of pulse parameters. Numerical simulations show that the geometric gate maintains high fidelity even in the presence of spontaneous radiation and laser intensity errors. Finally,we extend our designed quantum gates to non-local gates and investigate their use in converting four-qubit entangled states. This finding indicates the potential applicability of our scheme to complex quantum information processing tasks.

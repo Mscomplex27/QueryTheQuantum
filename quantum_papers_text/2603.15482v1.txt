@@ -1,0 +1,5 @@
+Title: Noise and dynamics in acoustoelectric waveguides
+Authors: Ryan O. Behunin, Andrew Shepherd, Ruoyu Yuan, Taylor Ray, Matthew J. Storey, Peter T. Rakich, Nils T. Otterstrom, Matt Eichenfield
+Categories: physics.optics, quant-ph
+Published: 2026-03-16 16:13:41+00:00
+Abstract: We present a quantum field theoretic formulation of acoustoelectric interactions in waveguide-like systems of arbitrary cross-section. Building on an open quantum systems approach, we derive a unified description of plasmon-phonon coupling that incorporates dissipation, noise, and the influence of drift currents. Our analysis captures both bulk and surface plasmon modes, highlighting how drift currents Doppler-shift plasmonic resonances and reshape the phonon noise spectrum. The resulting Heisenberg-Langevin equations yield closed-form expressions for frequency shifts, gain, and noise power spectra, enabling direct evaluation of performance metrics such as the noise factor in acoustoelectric amplifiers and oscillators. In the appropriate limits, this framework reproduces known results while extending them to complex geometries.

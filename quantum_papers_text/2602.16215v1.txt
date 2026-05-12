@@ -1,0 +1,5 @@
+Title: Squeezed superradiant lasing of a quantum many-body emitter
+Authors: Da-Wu Xiao, Chong Chen, Ren-Bao Liu
+Categories: quant-ph
+Published: 2026-02-18 06:38:10+00:00
+Abstract: In conventional lasers, the emitters are typically incoherent, radiating photons independently; in superradiant lasers, many coherent emitters radiate photons collectively, but they essentially do not interact with each other. Here, we present the concept of quantum many-body lasers, in which the emitters interact coherently and radiate collectively. In this proof-of-concept study, we consider a cavity coupled to many pumped spin-1/2 emitters with all-to-all interaction. We find that the squeezing induced by the coherent many-body interaction can be transferred from the spins to photons through superradiant lasing. This work illustrates the concept of using a pumped quantum many-body system to generate bright quantum light with quantum correlations beyond conventional optical coherence, which can facilitate quantum technologies and the study of nonlinear optics in the quantum realm.

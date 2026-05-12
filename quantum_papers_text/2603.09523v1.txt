@@ -1,0 +1,5 @@
+Title: Quantum optical impurity models in interacting waveguide QED
+Authors: Adrian Paul Misselwitz, Jacquelin Luneau, Peter Rabl
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-03-10 11:28:28+00:00
+Abstract: We consider a generic model for interacting waveguide QED systems, where photons in a coupled-cavity array localize around atomic impurities while simultaneously interacting through local Kerr nonlinearities. This scenario appears naturally in nanophotonic crystals, circuit QED lattices, and ultracold atomic systems and is governed by the competition between attractive Jaynes-Cummings-mediated binding and intrinsic photon-photon repulsion. We analyze how this interplay affects the formation of localized few-photon bound states and determine the resulting many-body ground states for large periodic arrays of impurities and different filling factors. With the help of large-scale numerical simulations and approximate analytical models, we identify a rich phase diagram featuring Mott-like insulating states as well as superfluid phases with long-range correlations, which are mediated by an unbound, but strongly interacting photonic fluid.

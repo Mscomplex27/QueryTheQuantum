@@ -1,0 +1,5 @@
+Title: Search-Driven Clause Learning for Product-State Quantum $k$-SAT (PRODSAT-QSAT)
+Authors: Samuel González-Castillo, Joon Hyung Lee, Alfons Laarman
+Categories: quant-ph, cs.CC, cs.LO
+Published: 2026-03-20 15:22:27+00:00
+Abstract: We study PRODSAT-QSAT($k$): given rank-one $k$-local projectors, determine whether a quantum $k$-SAT instance admits a satisfying product state. We present a CDCL-style refutation framework that searches a finite partition of each qubit's Bloch sphere while a sound theory solver checks region feasibility using a geometric overapproximation of the projection amplitudes for each constraint. When the theory solver proves that no state in a region can satisfy a constraint, it produces a sound conflict clause that blocks that region; accumulated blocking clauses can yield a global result of product-state unsatisfiability (UN-PRODSAT). We formalise the problem, prove the soundness of the clause-learning rule, and describe a practical algorithm and implementation.

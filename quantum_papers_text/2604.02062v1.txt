@@ -1,0 +1,5 @@
+Title: Ultrafast Ionization Dynamics Encoded in a Photoelectron Spin Torus
+Authors: Xiaodan Mao, Feng He, Pei-Lun He
+Categories: physics.atom-ph, quant-ph
+Published: 2026-04-02 13:58:09+00:00
+Abstract: We demonstrate that strong-field ionization of atoms in circularly polarized laser fields generates a photoelectron spin texture with toroidal topology in momentum space. Using time-dependent Schrödinger equation simulations, spin-resolved classical-trajectory Monte Carlo calculations, and an extended spin-resolved strong-field approximation including intermediate excitation pathways, we show that the rotation angle of this spin torus provides access to attosecond relative time delays associated with photoelectron wave packets released by tunneling from the counter-rotating and co-rotating \(p\)-orbital channels. When intermediate-state dynamics become significant, the torus develops a clear splitting. These results establish photoelectron spin textures as a complementary source of dynamical information beyond conventional momentum spectroscopy, and identify spin polarization as a robust internal degree of freedom for self-referenced attosecond metrology.

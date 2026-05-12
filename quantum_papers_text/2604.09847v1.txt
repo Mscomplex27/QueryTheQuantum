@@ -1,0 +1,5 @@
+Title: A Polylogarithmic-Depth Quantum Multiplier
+Authors: Fred Sun, Anton Borissov
+Categories: quant-ph
+Published: 2026-04-10 19:21:07+00:00
+Abstract: We present a quantum algorithm for multiplying two $n$-bit integers with overall circuit depth and $T$-depth both bounded by $O(\log^{2} n)$, while using $O(n^{2})$ gates and ancillary qubits. Our construction generates partial products via indicator-controlled copying and adds them using a binary adder tree, enabling parallel accumulation with logarithmic depth overhead per level. To the best of our knowledge, our design has the lowest $T$-depth among all multiplication algorithms using the Clifford + $T$ model. By optimizing both circuit depth and $T$-depth, our construction advances the practical feasibility of large-scale fault-tolerant quantum algorithms.

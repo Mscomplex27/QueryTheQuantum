@@ -1,0 +1,5 @@
+Title: Periodicity in Ergodic Quantum Processes
+Authors: Owen Ekblad, Jeffrey Schenker
+Categories: math-ph, math.DS, math.FA, quant-ph
+Published: 2026-04-10 15:34:26+00:00
+Abstract: We study the periodic properties of sequences of quantum channels sampled from an ergodic stochastic process satisfying a natural irreducibility condition. We relate these periodic properties to certain global spectral data defined by the sequence of quantum channels, proving a general Perron-Frobenius-type theorem. We give examples to motivate the theory and conclude with some open problems and conjectures.

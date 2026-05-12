@@ -1,0 +1,8 @@
+Title: Current conservation and amplitude regularisation of the Landau problem: Bohm--Madelung description
+Authors: Anand Aruna Kumar
+Categories: quant-ph
+Published: 2026-04-14 03:02:43+00:00
+Abstract: This work investigates the dynamics of a charged particle in a uniform magnetic field within the Bohm--Madelung formulation of quantum mechanics. In this representation, the stationary Schrodinger equation separates into coupled amplitude and phase equations, where the amplitude sector admits a Sturm--Liouville structure supporting Ermakov--Lewis invariants.
+  The analysis considers two complementary regularisation schemes: a global Fisher--information--based regularisation and a local canonical (shell) Bohm regularisation derived from stationary flux closure. These are applied within distinct classes of stationary flow, characterised by vanishing and nonvanishing current components.
+  It is shown that the radial and axial sectors remain globally regularisable, preserving analytic structure across the domain. In contrast, the azimuthal sector develops a nonseparable, generally complex-valued amplitude structure due to gauge-induced coupling. Nevertheless, a consistent local regularity is recovered at the level of canonical branches, where amplitude--momentum relations organise the solution in a well-defined manner.
+  Regularisation thus acts as a structural reorganisation mechanism in amplitude space, preserving the Landau spectral scale while reorganising the flux-sector structure through branch-wise amplitude--momentum relations, thereby establishing a natural framework for the description of stationary Bohmian dynamics in the Landau problem.

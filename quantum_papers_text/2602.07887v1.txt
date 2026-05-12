@@ -1,0 +1,5 @@
+Title: Quantum Evolution of Hopf Algebra Hamiltonians
+Authors: Michele Arzano, Antonio Del Prete, Domenico Frattulillo
+Categories: quant-ph, gr-qc, hep-th
+Published: 2026-02-08 09:37:59+00:00
+Abstract: In recent years, growing attention has been devoted to the possibility that theories with deformed symmetries, associated with certain models of non-commutative spacetime, may encode a fundamental form of decoherence. This effect should be described by a Lindblad-like evolution governed by the non-trivial Hopf algebra structure of the time-evolution generators. In this work we provide a detailed analysis of such possibility for similar Hopf algebra deformations of the Hamiltonian of a qubit. Starting from a critical examination of the very definition of time evolution through the generalized adjoint action, we explore whether a coherent and physically viable framework can be established. In particular, our analysis shows that a more general combination of adjoint actions always guarantees a von Neumann dynamics and, also in the case of deformed spacetime symmetries considered in the literature, a physically viable Lindblad evolution cannot be established.

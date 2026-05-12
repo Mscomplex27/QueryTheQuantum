@@ -1,0 +1,5 @@
+Title: Linear-optical generation of hybrid GKP entanglement from small-amplitude cat states
+Authors: Shohei Kiryu, Yohji Chin, Masahiro Takeoka, Kosuke Fukui
+Categories: quant-ph
+Published: 2026-03-20 11:36:52+00:00
+Abstract: Hybrid bosonic codes combining bosonic codes with photon states offer a promising pathway for fault-tolerant quantum computation. However, the efficient generation of such states in optical setups remains technically challenging due to the requirement for complex non-Gaussian resources. In this paper, we propose a novel scheme to efficiently generate hybrid entangled states between a GKP qubit and a photon-number state using small-amplitude cat states as the primary resource. We apply a breeding process using small-amplitude cat states to increase the non-Gaussianity of the input states. This method requires only linear optical elements and homodyne measurements. Furthermore, we demonstrate that this protocol can be extended to generate hybrid qudit states. This scheme has the potential to provide a resource-efficient and experimentally attractive route toward implementing hybrid quantum error correction.

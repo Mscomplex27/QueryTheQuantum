@@ -1,0 +1,5 @@
+Title: Unitary Time Evolution and Vacuum for a Quantum Stable Ghost
+Authors: Cédric Deffayet, Atabak Fathe Jalali, Aaron Held, Shinji Mukohyama, Alexander Vikman
+Categories: hep-th, gr-qc, quant-ph
+Published: 2026-04-23 16:15:51+00:00
+Abstract: We quantize a classically stable system of a harmonic oscillator polynomially coupled to a ghost with negative kinetic energy. We prove that due to an integral of motion with a positive discrete spectrum: i) the Hamiltonian has a pure point spectrum unbounded in both directions, ii) the evolution is manifestly unitary, iii) the vacuum is well-defined, iv) expectation values for squares of canonical variables are bounded. Numerical solutions of the Schrödinger equation confirm these results. We argue that the discrete spectrum of the integral of motion enforces stability for extended interactions.

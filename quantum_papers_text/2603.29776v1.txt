@@ -1,0 +1,5 @@
+Title: Strongly Nonlinear Slow Light Polaritons in Subwavelength Modulated Waveguides
+Authors: Amir Rahmani, Maciej Dems, Michał Matuszewski
+Categories: physics.optics, quant-ph
+Published: 2026-03-31 14:15:41+00:00
+Abstract: Slow light is a regime of reduced group velocity, resulting in increased photon density in optical pulses and enhanced nonlinear effects. Here, we propose the realization of slow light in the regime of strong light-matter interaction between waveguide photons and semiconductor excitons. We design a dielectric superlattice structure with a nearly-flat band characterized by low group velocity and group velocity dispersion, both required for enhancing nonlinear effects with ultrashort pulses. Furthermore, by applying this general framework to a perovskite-based structure, we demonstrate an enhancement of the single-particle phase shift by a factor of more than 20, representing a significant step toward the few-photon quantum regime. Our results provide a blueprint for accessible strong interactions in solid-state integrated optics.

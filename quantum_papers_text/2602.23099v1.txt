@@ -1,0 +1,5 @@
+Title: Coupling-energy driven pumping through quantum dots: the role of coherences
+Authors: Lukas Litzba, Gernot Schaller, Jürgen König, Nikodem Szpak
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-02-26 15:15:02+00:00
+Abstract: We study the impact of off-resonant tunneling and coherences on the electron pumping through quantum dots. Thereby, we focus on two electron-pump setups where lowest-order tunneling processes are suppressed and the pump is exclusively driven by modulations of the coupling energy. The first setup is driven by switching on and off the couplings between the quantum dot and the leads, while the second setup employs measurements of the dot occupation. We derive exact solutions for arbitrarily strong tunnel couplings in the absence of Coulomb interaction, identify parameter regimes with optimal pumping currents or optimal energy efficiency, and discuss similarities between both pumping mechanisms.

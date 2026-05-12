@@ -1,0 +1,5 @@
+Title: Formalizing CHSH Rigidity in Lean 4
+Authors: Tianrun Zhao, Nengkun Yu
+Categories: quant-ph, cs.LO
+Published: 2026-04-04 22:31:36+00:00
+Abstract: Violation of the Clauser-Horne-Shimony-Holt (CHSH) inequality certifies genuine quantum correlations. In this work, we formalize in Lean 4 the rigidity theorem -- any strategy achieving near-optimal CHSH value must be locally isometric to the canonical qubit strategy. In the course of formalization, we identified a gap in the argument of McKague, Yang, and Scarani (arXiv:1203.2976).

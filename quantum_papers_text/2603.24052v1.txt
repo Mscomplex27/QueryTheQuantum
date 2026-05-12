@@ -1,0 +1,5 @@
+Title: Data-driven synthesis of high-fidelity triaxial magnetic waveforms for quantum control
+Authors: Giuseppe Bevilacqua, Valerio Biancalana, Roberto Cecchi
+Categories: physics.ins-det, physics.app-ph, quant-ph
+Published: 2026-03-25 08:00:46+00:00
+Abstract: We present a system for generating arbitrary, triaxial magnetic waveforms with a spectral content spanning from DC to tens of kHz, a critical capability for quantum control and spin manipulation. To compensate for amplifier-coil dynamics, we implement a data-driven approach to identify a numerical compensation model. The method parametrizes the system response using a Finite Impulse Response (FIR) filter calibrated on the specific waveform to be generated. The application of a driving signal designed via frequency-domain inversion of the identified model enables the synthesis of complex field sequences with sharp transitions between static and single- or multi-frequency temporal segments. The work is validated with experimental results demonstrating waveform fidelity and transient performance, thereby showcasing the precision and feasibility of the method.

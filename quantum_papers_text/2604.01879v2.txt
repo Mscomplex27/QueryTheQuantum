@@ -1,0 +1,5 @@
+Title: Phase-enhanced nonreciprocal photon-phonon conversion via coupled optomechanical cavities
+Authors: Divya Mishra, Parvendra Kumar
+Categories: quant-ph
+Published: 2026-04-02 10:38:30+00:00
+Abstract: Nonreciprocity, characterized by direction-dependent signal propagation, is fundamental to technologies such as isolators, signal routing, and precision sensing. This letter theoretically demonstrates nonreciprocal phonon transport and the conversion between photon and acoustic phonon signals in coupled optomechanical cavities via phase-dependent driving. It is demonstrated that, in contrast to nonreciprocal phonon transport, which necessitates both dissipation and phase-induced violation of time reversal symmetry, the nonreciprocity in photon-phonon conversion can occur without violating time reversal symmetry. We demonstrate that such nonreciprocity arises due to the path-dependent asymmetry in photon-phonon conversion. Furthermore, we demonstrate that the nonreciprocity of photon-phonon conversion can be further enhanced, achieving isolation levels of up to 40 dB by suitably modifying the phase difference of the driving lasers.

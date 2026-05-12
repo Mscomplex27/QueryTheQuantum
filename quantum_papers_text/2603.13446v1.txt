@@ -1,0 +1,5 @@
+Title: Classical linear oscillator in classical electrodynamics with classical zero-point radiation
+Authors: Timothy H. Boyer
+Categories: physics.class-ph, quant-ph
+Published: 2026-03-13 13:22:16+00:00
+Abstract: A classical linear oscillator is treated in the small amplitude limit so that it will be approximately relativistic. The oscillator involves a charge particle in a linear potential in classical zero-point radiation. It is found that the ground state is energy balanced with the power lost in radiation emission equal to the average power gained from resonance with the classical zero-point radiation. Also the oscillator is found to have resonant excited states where the energy emitted as dipole radiation is balanced on average by the energy gained from the zero-point radiation when the action variable of the mechanical system is given by J=(n+1/2)(h/2pi).

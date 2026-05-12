@@ -1,0 +1,5 @@
+Title: Deterministic quantum master equation for non-Markovian signal processing
+Authors: Guilherme de Sousa, Diogo O. Soares-Pinto
+Categories: quant-ph
+Published: 2026-03-24 01:26:38+00:00
+Abstract: In this work, we derive a deterministic master equation to model a general, possibly non-Markovian, feedback. The master equation describes a system with a general evolution and measurement operation, with feedback being applied in terms of signal processing. The feedback signal has an arbitrary structure with dimensionality that indicates the degree of non-Markovianity of the information processing. We present examples to illustrate how such a master equation can be used to model systems with memory feedback and non-trivial frequency dependence.

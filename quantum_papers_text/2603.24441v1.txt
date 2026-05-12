@@ -1,0 +1,5 @@
+Title: Benchmarking Techniques for Decoded Quantum Interferometry
+Authors: Leon Bollmann, Maximilian Hess
+Categories: quant-ph
+Published: 2026-03-25 15:53:10+00:00
+Abstract: We develop a new benchmarking scheme for the Decoded Quantum Interferometry (DQI) algorithm quantifying the number of quantum gates required to obtain an optimal solution to a problem amenable to DQI. We apply the benchmarking scheme to the Binary Paint Shop Problem (BPSP) in order to benchmark the performance of DQI against a state of the art classical solver. To do so, we provide an explicit construction of a quantum circuit implementation of a greedy decoder for low-density parity check codes arising from max-2-XORSAT problems.

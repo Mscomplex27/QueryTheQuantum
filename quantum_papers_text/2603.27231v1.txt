@@ -1,0 +1,5 @@
+Title: Ultralow-power coherent qubit control using AQFP logic at millikelvin temperatures
+Authors: Hiroto Mukai, Akiyoshi Tomonaga, Rui Wang, Yu Zhou, Taro Yamashita, Nobuyuki Yoshikawa, Jaw-Shen Tsai, Naoki Takeuchi
+Categories: quant-ph
+Published: 2026-03-28 10:55:52+00:00
+Abstract: Qubit controllers are essential for scaling superconducting quantum processors, but implementing them at the 10 mK stage of a dilution refrigerator remains challenging due to stringent cooling constraints. Here we report an ultralow-power qubit controller using adiabatic quantum-flux-parametron (AQFP) logic, termed an AQFP-multiplexed qubit controller with virtual Z gates (AQFP QC-VZ). The AQFP QC-VZ generates multi-tone microwave pulses for qubit control with an ultralow power dissipation of 111 pW per qubit. By combining microwave and time-division multiplexing, the AQFP QC-VZ enables parallel application of X and virtual Z gates to multiple qubits using only a few control lines from room temperature. We demonstrate coherent single-qubit gates at the 10 mK stage using an AQFP mixer, a core component of the AQFP QC-VZ, without observable degradation in coherence.

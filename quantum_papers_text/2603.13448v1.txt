@@ -1,0 +1,5 @@
+Title: Relativistic hydrogen in classical electrodynamics with classical zero-point radiation
+Authors: Timothy H. Boyer
+Categories: physics.class-ph, quant-ph
+Published: 2026-03-13 13:49:17+00:00
+Abstract: Classical electrodynamics including classical electromagnetic zero-point radiation leads to a ground state and resonant excited states for a charged particle in a Coulomb potential. These resonant states correspond to integer values of the action variables analogous to those appearing in the Bohr-Sommerfeld theory of the hydrogen atom. The work on classical zero-point radiation reported here is a continuation of the analysis reported in 1975, but with the addition of the ideas of relativity and resonance between the charged-particle orbit and classical zero-point radiation.

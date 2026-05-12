@@ -1,0 +1,5 @@
+Title: Unconventional Photon Blockade in a Symmetrically Driven Nonlinear Dimer
+Authors: Hamid Ohadi
+Categories: quant-ph, physics.optics
+Published: 2026-04-16 12:56:57+00:00
+Abstract: We demonstrate unconventional photon blockade in a symmetric Kerr dimer driven with equal-amplitude fields at a $90^\circ$ phase difference. The minimum inter-cavity coupling is $J_{\min} = γ/4$ at a Kerr nonlinearity $U \ll γ$ achievable in standard photonic molecules. The quadrature-driven site emits strongly antibunched light with a smooth, oscillation-free second-order correlator directly resolvable with standard detectors. The scheme operates under continuous-wave and pulsed excitation, and fabrication disorder can be fully compensated by re-tuning the drive phase, removing the need for post-fabrication cavity trimming.

@@ -1,0 +1,5 @@
+Title: Tantalum Damascene Coplanar Waveguide Resonators Fabricated Using 300 mm Scale Processes
+Authors: Ekta Bhatia, Yingge Du, Krishna P Koirala, Chung Kow, Mingzhao Liu, Juan Macy, Tharanga R. Nanayakkara, Francisco Ponce, Satyavolu S. Papa Rao, Drew J. Rebar, Peter V. Sushko, Brent A VanDevender, Chongmin Wang, Marvin G. Warner, Zhihao Xiao
+Categories: quant-ph, cond-mat.mtrl-sci
+Published: 2026-04-23 21:38:51+00:00
+Abstract: Surface oxides contribute to losses in superconducting transmon devices resulting in degraded performance. We explore the use of the damascene process to replace the sidewall native oxide of a device with a metal/substrate interface. We simulate sidewall oxidation by burying an oxide layer during fabrication. We observe a modest improvement between the two types of devices, which is suggestive of a reduction in the surface participation ratio.

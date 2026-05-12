@@ -1,0 +1,5 @@
+Title: Stochastic entropy production in scattering theory
+Authors: Ludovico Tesser, Henning Kirchberg, Matteo Acciai, Janine Splettstoesser
+Categories: cond-mat.mes-hall, cond-mat.stat-mech, quant-ph
+Published: 2026-04-11 19:10:11+00:00
+Abstract: We formulate a stochastic description of entropy production in scattering theory for coherent transport. We distinguish between the information entropy change due to partial knowledge of the leads' state and the thermodynamic entropy change due to the equilibration of each lead with its bath. By employing a two-point measurement scheme, we access the stochastic entropy production at these different stages of the process, as well as the statistics of generic transport quantities. When restricted to particle or energy transport, our approach reproduces the Landauer-Büttiker formulas. The possibility to consider more general quantities such as the entropy currents and their fluctuations, provides a systematic connection between stochastic thermodynamics and coherent transport.

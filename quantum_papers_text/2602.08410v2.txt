@@ -1,0 +1,5 @@
+Title: The Finite Geometry of Breaking Quantum Secrets
+Authors: Péter Lévay, Metod Saniga
+Categories: quant-ph
+Published: 2026-02-09 09:14:25+00:00
+Abstract: Using a finite geometric framework for studying the pentagon and heptagon codes we show that the concepts of quantum secret sharing and contextuality can be studied in a nice and unified manner. The basic idea is a careful study of the respective $2+3$ and $3+4$ tensorial factorizations of the elements of the stabilizer groups of these codes. It is demonstrated in detail how finite geometric structures entailing a specific three-qubit (resp. four-qubit) embedding of binary symplectic polar spaces of rank two (resp. three), corresponding to these factorizations, govern issues of contextuality and entanglement needed for a geometric understanding of quantum secret sharing. Using these results for the $(3,5)$ and $(4,7)$ threshold schemes explicit secret breaking protocols are derived. Our results hint at a novel geometric way of looking at contextual configurations.

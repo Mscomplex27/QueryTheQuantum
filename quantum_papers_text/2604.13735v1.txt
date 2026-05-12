@@ -1,0 +1,5 @@
+Title: Reachability Constraints in Variational Quantum Circuits: Optimization within Polynomial Group Module
+Authors: Yun-Tak Oh, Dongsoo Lee, Jungyoul Park, Kyung Chul Jeong, Panjin Kim
+Categories: quant-ph, cs.CC, cs.ET, cs.LG
+Published: 2026-04-15 11:21:53+00:00
+Abstract: This work identifies a necessary condition for any variational quantum approach to reach the exact ground state. Briefly, the norms of the projections of the input and the ground state onto each group module must match, implying that module weights of the solution state have to be known in advance in order to reach the exact ground state. An exemplary case is provided by matchgate circuits applied to problems whose solutions are classical bit strings, since all computational basis states share the same module-wise weights. Combined with the known classical simulability of quantum circuits for which observables lie in a small linear subspace, this implies that certain problems admit a classical surrogate for exact solution with each step taking $O(n^5)$ time. The Maximum Cut problem serves as an illustrative example.

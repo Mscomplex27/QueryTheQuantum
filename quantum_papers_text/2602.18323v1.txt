@@ -1,0 +1,5 @@
+Title: Instability as a Quantum Resource
+Authors: Goni Yoeli, Gilad Gour
+Categories: quant-ph
+Published: 2026-02-20 16:21:15+00:00
+Abstract: We consolidate coherence, athermality, and nonuniformity as sub-resources within an underlying quantum resource theory: instability. We formulate instability axiomatically as the transient information within a decaying physical system. Specifying a decay mechanism (e.g., dephasing, thermalization) recovers these familiar resources as specific manifestations of instability. We compute the one-shot distillation yield and dilution cost in various operational paradigms, and use them to pin down the extremal additive monotones. In the asymptotic regime, we show that all conversion rates are governed by a single additive monotone, and thereby we establish a universal second law for instability.

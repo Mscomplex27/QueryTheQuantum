@@ -1,0 +1,5 @@
+Title: Mott-insulating phases of the Bose-Hubbard model on quasi-1D ladder lattices
+Authors: Lorenzo Carfora, Callum W. Duncan, Stefan Kuhr, Peter Kirton
+Categories: cond-mat.quant-gas, quant-ph
+Published: 2026-02-19 14:57:36+00:00
+Abstract: We calculate the phase diagram of the Bose-Hubbard model on a half-filled ladder lattice including the effect of finite on-site interactions. This shows that the rung-Mott insulator (RMI) phase persists to finite interaction strength, and we calculate the RMI-superfluid phase boundary in the thermodynamic limit. We show that the phases can still be distinguished using the number and parity variances, which are observables accessible in a quantum-gas microscope. Phases analogous to the RMI were found to exist in other quasi-1D lattice structures, with the lattice connectivity modifying the phase boundaries. This shows that the the presence of these phases is the result of states with one-dimensional structures being mapped onto higher dimensional systems, driven by the reduction of hopping rates along different directions.

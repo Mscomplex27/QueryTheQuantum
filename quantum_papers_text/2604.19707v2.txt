@@ -1,0 +1,5 @@
+Title: Unitary Quadratic Quantum Gravity in 4D
+Authors: K. Sravan Kumar, João Marto
+Categories: hep-th, gr-qc, math-ph, quant-ph
+Published: 2026-04-21 17:28:19+00:00
+Abstract: In quadratic gravity, with a positive Weyl squared coefficient, the extra spin-2 sector is shown to correspond to a dual inverted harmonic oscillator, instead of a ghost. Using the Wightman spectrum condition, we prove that the associated Källén--Lehmann spectral density vanishes, reflecting the absence of a normalizable ground state and the spacelike nature of the propagator pole. This uniquely fixes the propagator to a principal value form as a theorem, not a prescription. The optical theorem is satisfied, the dual IHO spin-2 is not an asymptotic state, and gives only virtual contributions at all loop orders. As a result, unitarity is preserved consistently with renormalizability.

@@ -1,0 +1,5 @@
+Title: On fully entangled fraction of arbitrary $d\otimes d$ quantum states
+Authors: Xue-Na Zhu, Gui Bao, Ming Li, Ming-Jing Zhao, Shao-Ming Fei
+Categories: quant-ph
+Published: 2026-02-25 00:51:26+00:00
+Abstract: We study the fully entangled fraction of quantum states based on the Bloch representation of density matrices. Analytical upper bounds on the fully entangled fraction are obtained for arbitrary $d\otimes d$ bipartite systems. The fully entangled fractions for classes of $d\otimes d$ quantum states are analytically derived. Detailed examples are given to illustrate the advantages of our results.

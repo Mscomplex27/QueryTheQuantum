@@ -1,0 +1,6 @@
+Title: The Grothendieck Constant is Strictly Larger than Davie-Reeds' Bound
+Authors: Chris Jones, Giulio Malavolta
+Categories: math.FA, quant-ph
+Published: 2026-03-31 17:50:59+00:00
+Abstract: The Grothendieck constant $K_{G}$ is a fundamental quantity in functional analysis, with important connections to quantum information, combinatorial optimization, and the geometry of Banach spaces. Despite decades of study, the value of $K_{G}$ is unknown. The best known lower bound on $K_{G}$ was obtained independently by Davie and Reeds in the 1980s. In this paper we show that their bound is not optimal. We prove that $K_{G} \ge K_{DR} + 10^{-12}$, where $K_{DR}$ denotes the Davie-Reeds lower bound.
+  Our argument is based on a perturbative analysis of the Davie-Reeds operator. We show that every near-extremizer for the Davie-Reeds problem has $Ω(1)$ weight on its degree-3 Hermite coefficients, and therefore introducing a small cubic perturbation increases the integrality gap of the operator.

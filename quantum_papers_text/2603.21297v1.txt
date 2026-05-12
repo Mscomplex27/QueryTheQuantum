@@ -1,0 +1,5 @@
+Title: Precision spectroscopy of a trapped $^{173}$Yb$^+$ ion using a bath of ultracold atoms
+Authors: Egor Kovlakov, Rene Gerritsma
+Categories: physics.atom-ph, quant-ph
+Published: 2026-03-22 15:42:24+00:00
+Abstract: We demonstrate precision laser spectroscopy of a trapped $^{173}$Yb$^+$ ion that is not directly laser cooled by coupling it to ultracold atoms. The atomic bath continuously cools the internal degrees of freedom of the ion to its hyperfine ground state via spin-exchange collisions. Successful laser excitation is detected via state-selective charge transfer and subsequent ion loss. We probe the $6^2S_{1/2}\rightarrow 6^2P_{3/2}$ transition at 329 nm and measure the magnetic and electric hyperfine interaction constants for the $6^2P_{3/2}$ state to be $A=-241(1)$ MHz and $B=1460(8)$ MHz, respectively. Our results are in agreement with a previous measurement obtained in a hollow-cathode discharge experiment but are a factor of 6-9 more precise. The techniques demonstrated in this work may be extended to perform precision spectroscopy on other ions with complex level structures.

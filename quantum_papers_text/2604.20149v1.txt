@@ -1,0 +1,5 @@
+Title: Average metric adjusted skew information of coherence under conical 2-designs generalized equiangular measurements
+Authors: Baolong Cheng, Linlin Ye, Zhaoqi Wu
+Categories: quant-ph
+Published: 2026-04-22 03:28:26+00:00
+Abstract: Quantum coherence is an important quantum resource which plays a pivotal role in the field of quantum information. Based on metric adjusted skew information, we define a measure of quantum uncertainty to study average coherence under conical 2-designs generalized equiangular measurements, and prove the equivalence of this measure to the scaled average coherence based on metric adjusted skew information under a set of unitary groups, operator orthonormal bases, and mutually unbiased bases. We also derive two trade-off relations by this measure and solve a conjecture. Furthermore, we give two entanglement criteria by this measure and conical 2-designs generalized equiangular measurement, respectively, and illustrate the effectiveness of them by explicit examples.

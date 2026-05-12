@@ -1,0 +1,5 @@
+Title: Dynamical spin-nematic order in a transverse field Ising chain with non-Hermitian Gamma interaction
+Authors: Yu-Hong Yan, Ran Wang, Kun-Liang Zhang
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-04-20 01:29:09+00:00
+Abstract: We investigate the effect of non-Hermitian Gamma interaction on the phase transitions and magnetic correlations for the transverse field Ising chain. We demonstrate that apart from the gapped ferromagnetic and paramagnetic phases, there is a gapless phase, where the system exhibits long-range spin-nematic order induced by parity-time symmetry breaking. Furthermore, we reveal that the parity-time symmetry breaking leads to the emergence of dynamical spin-nematic order, which also suggests a way of characterizing the spin-nematic phase diagram through non-equilibrium dynamics. Our findings show rich quantum phases stem from the competition among the Ising interaction, transverse field and non-Hermitian Gamma interaction, as well as providing a scheme for generating spin-nematic order in the spin chain.

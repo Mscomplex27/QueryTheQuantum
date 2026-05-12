@@ -1,0 +1,5 @@
+Title: Ideal random quantum circuits pass the LXEB test
+Authors: Nicholas Hunter-Jones, Jonas Haferkamp
+Categories: quant-ph
+Published: 2026-02-26 07:10:38+00:00
+Abstract: We show that noiseless random quantum circuits pass the linear cross-entropy benchmark (LXEB) test with high probability. If the circuits are linear depth, and thus form unitary 4-designs, the LXEB test is passed with probability $1-O(1/\sqrt{k})$, where $k$ is the number of independently drawn samples from the output distribution of the random circuit. If the circuits are of depth $\tilde O(n^2)$, and thus form unitary $n$-designs, the LXEB test is passed with probability $1-O(e^{-k \log(n)/n})$. In proving our results, we show strong concentration of the random circuit collision probability at linear depth and establish that the tails of the distribution of random circuit output probabilities start to resemble Porter-Thomas at near-quadratic depths. Our analysis employs higher moments and high-degree approximate designs.

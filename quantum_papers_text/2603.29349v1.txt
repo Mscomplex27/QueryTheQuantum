@@ -1,0 +1,5 @@
+Title: Multipartite controlled-NOT gates using molecules and Rydberg atoms
+Authors: Yi-Han Bai, Yue Wei, Chi Zhang, Weibin Li, Xiao-Qiang Shao
+Categories: quant-ph
+Published: 2026-03-31 07:22:45+00:00
+Abstract: We propose high-fidelity controlled-NOT (CNOT) gates in a hybrid system of polar molecules and Rydberg atoms based on the unconventional Rydberg pumping mechanism. By combining the rich internal structure of polar molecules with the strong dipole-dipole interactions of Rydberg atoms, we realize both two-to-one and one-to-two gate configurations. Numerical simulations show that the gate performance is robust against spontaneous emission from Rydberg states. The approach naturally extends to larger systems, as demonstrated by four-qubit implementations achieving three-to-one and one-to-three CNOT gates with fidelities exceeding 99\%. These results highlight hybrid molecule-Rydberg atom architectures as a promising platform for scalable quantum information processing.

@@ -1,0 +1,5 @@
+Title: An elementary proof of symmetrization postulate in quantum mechanics for a system of particles
+Authors: Diganta Parai, Nikhilesh Maity
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-03-10 12:06:07+00:00
+Abstract: According to symmetrization postulate for a system of identical particles, wave function has to be completely symmetric or completely anti-symmetric. In this paper we want to mathematically justify this postulate ignoring the spin part of wave function in three dimension. For a system of N identical particles, if the solution to the governing Schrodinger equation meets these criteria: a) the probability density remains invariant when any two particle positions are exchanged over time, b) the wave function is continuous and has a continuous gradient, and the system exhibits the following characteristics: c) the configuration space, which is 3N dimensional, is connected, and d) the potential term in the Hamiltonian is invariant under the exchange of any two particle positions, then the wave function must be either totally symmetric or totally antisymmetric over time.

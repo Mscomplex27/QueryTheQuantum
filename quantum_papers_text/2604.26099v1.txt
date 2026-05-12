@@ -1,0 +1,5 @@
+Title: Mathematical Foundation for Quantum Computing of Electromagnetic Wave Propagation in Dielectric Media
+Authors: Abhay K. Ram, Efstratios Koukoutsis, George Vahala, Kyriakos Hizanidis
+Categories: quant-ph
+Published: 2026-04-28 20:29:26+00:00
+Abstract: Can quantum computers effectively simulate the propagation and scattering of electromagnetic waves in a classical plasma? This chapter introduces some of the basic concepts in mathematics and physics essential to answering that question. The numerical simulations of Maxwell equations for wave propagation in dielectrics are constrained by technological limitations of the present-day computers. In contrast, there has been ample fanfare around quantum computers and their potential to far exceed the performance of traditional computers. Whether the enhanced capabilities of a quantum computer can be put to use for simulating topics in classical physics is a source of intrigue and curiosity.

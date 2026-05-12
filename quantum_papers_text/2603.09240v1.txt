@@ -1,0 +1,5 @@
+Title: Incoherent Operations Enable State Transformations Impossible under Dephasing-covariant Incoherent Operations
+Authors: C. L. Liu
+Categories: quant-ph
+Published: 2026-03-10 06:16:13+00:00
+Abstract: We show that incoherent operations (IOs) can achieve the state transformations that are forbidden under dephasing-covariant incoherent operations (DIOs), thereby resolving the open problem posed by Chitambar and Gour [Phys. Rev. Lett. 117, 030401 (2016)]. We further demonstrate that no set of IO monotones suffices to characterize state convertibility under strictly incoherent operations (SIOs), and that monotones common to IOs and DIOs are insufficient to characterize convertibility under DIOs.

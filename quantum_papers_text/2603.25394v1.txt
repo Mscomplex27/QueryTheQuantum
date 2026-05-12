@@ -1,0 +1,5 @@
+Title: Quantum Finite Temperature Lanczos Method
+Authors: Gian Gentinetta, Friederike Metz, William Kirby, Giuseppe Carleo
+Categories: quant-ph
+Published: 2026-03-26 12:40:02+00:00
+Abstract: The computation of thermal properties of quantum many-body systems is a central challenge in our understanding of quantum mechanics. We introduce the Quantum Finite Temperature Lanczos Method (QFTLM), which extends the finite-temperature Lanczos method to quantum computers by combining real-time quantum Krylov methods with efficient preparation of typical states for trace estimation. This approach enables the computation of thermal expectation values while avoiding the exponential scaling inherent to classical exact simulation techniques. Numerical experiments on the transverse-field Ising model show that QFTLM can reproduce thermal observables over a wide temperature range. We further analyze the influence of Krylov dimension, number of trace-estimator states, and Trotter error, and show that suitable regularization is essential for robustness in noisy settings. These results establish QFTLM as a promising framework for finite-temperature quantum simulation.

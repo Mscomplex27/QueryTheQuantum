@@ -1,0 +1,5 @@
+Title: Comments on "Ether of Orbifolds"
+Authors: Masanori Hanada
+Categories: hep-lat, quant-ph
+Published: 2026-04-09 12:31:17+00:00
+Abstract: We comment on a recent manuscript "Ether of Orbifolds" by Henry Lamm. In the first version, it was mistakenly claimed that the orbifold lattice Hamiltonian is not gauge invariant, and a quantity $ε_g$, which has nothing to do with a non-existent "gauge violation", was introduced. The scaling of this $ε_g$ was used to claim a huge simulation cost. In fact, $ε_g$ characterizes the shift of the effective lattice spacing -- because, in the orbifold lattice formulation, the lattice is generated dynamically from the vacuum expectation value of the complex matrices. In the second version, the claim about the gauge symmetry was partially corrected, based on our comments. However, $ε_g$ is still mistakenly interpreted as a measure of "departure from SU($N$)", inconsistently with the foundational results by Kaplan, Katz, and Ünsal, and also by Arkani-Hamed, Cohen, and Georgi. This interpretation plays a central role in sustaining the argument introduced in the first version.

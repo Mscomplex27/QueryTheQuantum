@@ -1,0 +1,6 @@
+Title: On global dynamics for damped driven Jaynes-Cummings equations
+Authors: A. I. Komech, E. A. Kopylova
+Categories: math.AP, math-ph, quant-ph
+Published: 2026-03-18 10:09:57+00:00
+Abstract: The article concerns damped driven Jaynes-Cummings equation which describes quantised one-mode Maxwell field coupled to a two-level molecule. We consider a broad class of damping and pumping which are polynomial in the creation and annihilation operators, and their structures correspond to the theory of completely positive and trace preserving generators (CPTP) of Lindblad and Kossakowski & al.
+  Our main result is the construction of global generalised solutions with values in the Hilbert space of nonnegative Hermitian Hilbert-Schmidt operators in the case of time-dependent pumping. The proofs rely on finite-dimensional approximations of the annihilation and creation operators.

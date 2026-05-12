@@ -1,0 +1,5 @@
+Title: Integrable, Mixed, and Chaotic Dynamics in a Single All-to-All Ising Spin Model
+Authors: David Amaro-Alcalá, Carlos Pineda
+Categories: quant-ph, math-ph, nlin.CD
+Published: 2026-04-16 09:21:17+00:00
+Abstract: We demonstrate that the Ising all-to-all (ATA) model exhibits a range of dynamics, from integrable to chaotic, including mixed behaviour across symmetry blocks within a single system. While other works have explored the dynamics of all-to-all systems by varying parameters, we analyse a fixed set of parameters and examine the dynamics within different blocks. In addition to investigating the dynamical properties, we show that the system remains resilient to noise when the norm of the Hamiltonian representing the noise is close to 1. Our results are presented by mapping each symmetry sector of the system to a kicked top (KT) and observing that KT parameters for each sector depend on its dimension. This system, similar to the Bunimovich billiard for classical chaos, provides a new platform for studying dynamics determined by the symmetry sector, advancing quantum chaos research.

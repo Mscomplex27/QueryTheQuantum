@@ -1,0 +1,5 @@
+Title: Decoherence-Free Qubit and Chiral Emission from a Giant Molecule in Waveguide QED
+Authors: Yang Wang, Juan José García-Ripoll, Alan C. Santos
+Categories: quant-ph
+Published: 2026-03-28 23:22:35+00:00
+Abstract: Combining decoherence protection with directional photon emission in a single waveguide quantum electrodynamics (QED) device remains an open challenge. Here we show that an artificial giant molecule -- strongly interacting artificial atoms coupled to a photonic waveguide at multiple spatially separated points -- achieves both: a fully operational decoherence-free (DF) qubit and state-dependent chiral single-photon emission, arising from the same photon-interference mechanism. Initialization reduces to a local excitation of a single atom, universal single-qubit gates are implemented by modulating a single atomic frequency, and readout exploits state-dependent chiral emission with directionality reaching 100% and low measurement error of 1.2%. The coexistence of decoherence protection and directional emission in a single device positions giant molecules as protected chiral nodes for modular quantum networks in waveguide QED.

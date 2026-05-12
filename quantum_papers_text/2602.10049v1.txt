@@ -1,0 +1,5 @@
+Title: Preventing Barren Plateaus in Continuous Quantum Generative Models
+Authors: Olli Hirviniemi, Afrad Basheer, Thomas Cope
+Categories: quant-ph
+Published: 2026-02-10 18:17:28+00:00
+Abstract: Recent developments in the field of variational quantum circuits (VQCs) have shifted the prerequisites for trainability for many barren plateau-free models onto the data encoding state fed into a classically trainable unitary. By strengthening proofs relating to small-angle initialisation, we provide a full circuit model which does not suffer from barren plateaus and is robust against current classical simulation techniques, specifically tensor network contraction and Pauli propagation. We propose this as a quantum generative model amenable towards NISQ devices and quantum-classical hybrid models, raising new questions in the debate regarding usefulness of VQCs.

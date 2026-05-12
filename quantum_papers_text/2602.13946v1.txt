@@ -1,0 +1,5 @@
+Title: Homodyne Detection of Temporally Resolved Quantum States
+Authors: Owen Sandner, Brendan Mackey, Yuyang Liu, Connor Kupchak, Andrew MacRae
+Categories: quant-ph
+Published: 2026-02-15 01:12:36+00:00
+Abstract: We present an analysis of the time domain measurement of temporally resolvable quantum states using balanced homodyne detection. Our approach outlines a formalism of detecting quantum states in arbitrary temporal modes via projection of the temporal mode onto a natural detector basis. We then present an algorithm for simulating the resultant photocurrent of continuous homodyne detection in the presence of a temporally resolved mode, and use this algorithm to explore the effects of realistic measurement errors on marginal reconstruction and quantum state tomography. A complete implementation of the method is provided through open source code on a GitHub repository.

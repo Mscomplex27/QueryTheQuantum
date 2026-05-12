@@ -1,0 +1,5 @@
+Title: Probing the Planck scale with quantum computation
+Authors: Boaz Katz, Shlomi Kotler
+Categories: quant-ph, gr-qc, hep-th
+Published: 2026-04-07 18:00:35+00:00
+Abstract: General relativity and quantum mechanics are incompatible at the Planck scale. This contention can be examined if a quantum computer is set to operate at a rate that exceeds the classical limit of one operation per Planck volume-time, or equivalently $2^{491}$ m$^{-3}$ s$^{-1}$. Here we quantify the relation between the logical qubit count and the extent to which classicality is challenged. We argue that 500 logical qubits are sufficient to reject theories confined to a laboratory. We account for the operational cost of computation and communication at all scales up to and including the observable universe, ultimately constrained by a 1600-logical-qubit computer. Remarkably, current plans for commercial quantum computers are projected to surpass this limit, thereby putting the quantum-gravity standoff to the test.

@@ -1,0 +1,5 @@
+Title: Engineering interactions shape in resonantly driven bosonic gas
+Authors: Damian Włodzyński, Krzysztof Sacha
+Categories: cond-mat.quant-gas, cond-mat.dis-nn, quant-ph
+Published: 2026-02-17 13:52:38+00:00
+Abstract: In systems with fast periodic driving, there are special subsets of (resonant) states, which behavior can be described with effective, time-independent Hamiltonian in a rotating reference frame. Here, we show that experimentally feasible system of ultracold bosonic atoms on a ring with rapidly oscillating scattering length can be used to simulate time-independent two-component atomic mixture with exotic, long-range interactions.

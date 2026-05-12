@@ -1,0 +1,7 @@
+Title: Thermodynamic Properties of the Dunkl-Pauli Oscillator in an Aharonov-Bohm Flux
+Authors: Ahmed Tedjani, Boubakeur Khantoul
+Categories: quant-ph
+Published: 2026-03-10 08:44:31+00:00
+Abstract: We study a two-dimensional Dunkl--Pauli oscillator in the presence of an Aharonov--Bohm (AB) flux. The combination of reflection symmetry (via Dunkl operators) and a topological gauge field imposes a nontrivial constraint on the admissible quantum states: the regularity condition on radial wave functions, together with the matching conditions at the flux tube, leads to a compatibility relation $ν_1 + \varepsilon ν_2 = 0$ and forces the emergence of a lowest angular quantum number $\ell_0$. As a result, the Hilbert space is restructured rather than merely shifted in energy.
+  Using the exact spectrum, we construct the partition function and derive the internal energy, entropy, and heat capacity. The thermodynamic quantities directly reflect this spectral constraint: the low-temperature behavior is governed by $\ell_0$, and the heat capacity exhibits a flux-controlled Schottky anomaly. At high temperatures, the classical oscillator limit is recovered.
+  Our results show that the interplay between Dunkl symmetry and AB flux qualitatively modifies the set of admissible states, with observable thermodynamic signatures.

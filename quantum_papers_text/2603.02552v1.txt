@@ -1,0 +1,5 @@
+Title: Steering paths mid-flight for fault-tolerance in measurement-based holonomic gates
+Authors: Anirudh Lanka, Juan Garcia-Nila, Todd A. Brun
+Categories: quant-ph
+Published: 2026-03-03 03:14:19+00:00
+Abstract: Continuous measurement-based holonomic quantum computation provides a route to universal logical computation in quantum error correcting codes. We introduce a fault-tolerant framework for implementing measurement-based holonomic gates that leverages continuous measurements with real-time feedback. We show that non-Markovian decoherence is intrinsically suppressed through the quantum Zeno effect, while Markovian errors are identified by the decoding of measurement records to reveal the rotated syndrome subspace populated during the evolution. This information enables steering holonomic paths mid-flight to ensure that the final evolution realizes the target logical gate. We further demonstrate that non-adiabatic effects give rise to measurement-induced errors, and we show that these can also be corrected by an analogous protocol. This approach relaxes the stringent adiabaticity requirement and enables faster implementation of holonomic gates.

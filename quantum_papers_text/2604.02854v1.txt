@@ -1,0 +1,5 @@
+Title: Continuous-time evolution via probabilistic angle interpolation and its applications
+Authors: Tomoya Hayata, Yuta Kikuchi
+Categories: quant-ph
+Published: 2026-04-03 08:15:13+00:00
+Abstract: We explore the applicability of a stochastic time-evolution algorithm based on probabilistic angle interpolation. To simplify the pre-processing of the algorithm, we take the continuous-time limit, thereby explicitly eliminating Trotter errors and streamlining the resource analysis. We also introduce a noise-mitigation method tailored to it. As demonstrations, we apply the algorithm to two representative problems: estimating the ground-state energy of the $H_3^+$ molecular Hamiltonian and computing out-of-time-ordered correlators in the sparse Sachdev--Ye--Kitaev model. We evaluate the protocol's performance through numerical simulations and experiments on a trapped-ion quantum computer, Quantinuum Reimei.

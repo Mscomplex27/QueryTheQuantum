@@ -1,0 +1,5 @@
+Title: Separable neighbourhood of identity in C$^{\ast}$-algebras
+Authors: Mizanur Rahaman, Mateusz Wasilewski
+Categories: math.OA, math-ph, math.FA, quant-ph
+Published: 2026-03-31 10:34:49+00:00
+Abstract: We study the structure of separable elements in bipartite C$^{\ast}$-algebras, focusing on the existence and size of a separable neighbourhood around the identity element. While this phenomenon is well understood in the finite-dimensional setting, its extension to general C$^{\ast}$-algebras presents additional challenges. We show that the problem of determining such a neighbourhood can be reduced to estimating the completely bounded norm of contractive positive maps. This approach allows us to characterize the size of such neighbourhoods in terms of structural properties of the algebra, notably its rank. As a consequence, we also resolve a recent conjecture of Musat and Rørdam.

@@ -1,0 +1,5 @@
+Title: Higher-order circuits
+Authors: Matt Wilson
+Categories: quant-ph, cs.LO, math.CT
+Published: 2026-02-21 03:12:34+00:00
+Abstract: We write down a series of basic laws for (strict) higher-order circuit diagrams. More precisely, we define higher-order circuit theories in terms of: (a) nesting, (b) temporal and spatial composition, and (c) equivalence between lower-order bipartite processes and higher-order bipartite states. In category-theoretic terms, these laws are expressed using enrichment and cotensors in symmetric polycategories, along with a frobenius-like coherence between them. We describe how these laws capture the salient features of higher-order quantum theory, and discover an upper bound for higher-order circuits: any higher-order circuit theory embeds into the theory of strong profunctors.

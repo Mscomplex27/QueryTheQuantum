@@ -1,0 +1,5 @@
+Title: Can quantum fluctuations be consistently monitored?
+Authors: Xiangyu Cao
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-16 18:00:10+00:00
+Abstract: Recent works on the decoherent histories formalism suggested that macroscopic quantities (extensive sums of local observables) in quantum many-body systems can be consistently monitored: The existence of past measurements does not alter future outcome distribution. Here, we show that fluctuations of macroscopic quantities cannot be consistently monitored in general, in contrast to their intensive mean value. Exceptions include fluctuations at infinite temperature, at critical points, and in semiclassical systems. We analytically quantify non-consistency in terms of susceptibility, and obtain related results on entropy growth under noisy unitary.

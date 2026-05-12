@@ -1,0 +1,5 @@
+Title: Constant-space-overhead fault-tolerant quantum input/output and communication
+Authors: Paula Belzig, Hayata Yamasaki
+Categories: quant-ph
+Published: 2026-02-09 19:00:08+00:00
+Abstract: Fault-tolerant capacities quantify the ability of a quantum channel to reliably transmit information when every component of the encoding and decoding procedure is noisy. Earlier work analyzed achievable communication rates under such noise using fault-tolerant implementations based on concatenated codes with a single logical qubit. In this work, we develop an alternative approach using concatenations of quantum Hamming codes, which offer constant space overhead by encoding many logical qubits simultaneously. We introduce modular techniques for implementing fault-tolerant circuits with quantum input/output interfaces using the concatenated quantum Hamming code. These tools enable an analysis of fault-tolerant entanglement-assisted communication that is not only simpler, but also yields substantially higher achievable communication rates than previous methods, owing to the limited noise correlations in syndrome qubits of high-rate quantum Hamming codes.

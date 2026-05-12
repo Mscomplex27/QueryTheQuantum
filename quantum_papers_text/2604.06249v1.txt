@@ -1,0 +1,5 @@
+Title: Universal Ladder Structure Across Scales: From Quantum to Black Hole Physics
+Authors: Rajes Ghosh, Rajendra Prasad Bhatt, Sumanta Chakraborty, Sukanta Bose
+Categories: gr-qc, hep-th, math-ph, quant-ph
+Published: 2026-04-06 18:29:56+00:00
+Abstract: Second-order ordinary linear differential equations appear ubiquitously across physics, describing the behavior of systems from the quantum world of atoms to the classical world of gravitating bodies. We present a unified symmetry-based framework that provides a ``litmus-test criterion'' to determine when such a system admits a hierarchical ladder structure, and, whenever it does, explicitly constructs the ladder. This approach uncovers a previously underappreciated connection to supersymmetric quantum mechanics and a deep commonality among diverse physical problems. Applications to the quantum harmonic oscillator and dynamical tidal response of Kerr black holes are presented to illustrate the framework.

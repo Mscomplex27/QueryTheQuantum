@@ -1,0 +1,5 @@
+Title: Effects of magnonic Kerr nonlinearity on magnon-polaritons with a soft-mode
+Authors: Takahiro Chiba
+Categories: cond-mat.mes-hall, nlin.CD, quant-ph
+Published: 2026-02-13 02:57:49+00:00
+Abstract: We theoretically study the effects of magnonic Kerr nonlinearity on magnon-polaritons (MPs) with a soft-mode in easy-axis ferromagnets coupled to a microwave cavity. Using an effective circuit model capable of describing MPs up to the nonperturbative strong-coupling regime, we show that chaotic and frequency-comb-like behaviors of MPs emerge at the original modes crossing point. Furthermore, we demonstrate that the Kerr nonlinearity induces a finite excitation gap in the soft-mode, particularly in the strong-coupling regime.

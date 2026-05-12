@@ -1,0 +1,5 @@
+Title: Inequality for Strong-Weak Spontaneous Symmetry Breaking in Fermionic Open Quantum systems
+Authors: Abhijat Sarma, Cenke Xu
+Categories: quant-ph, cond-mat.str-el
+Published: 2026-03-25 18:00:05+00:00
+Abstract: Under decoherence, an initial Gaussian (free-fermion) state evolves into a non-Gaussian mixed state, so the resulting decohered fermionic state is not exactly solvable in general. We show through an inequality that a class of Rényi-2 correlators of the decohered fermion state are upper-bounded by the Rényi-2 correlator serving as a proximate diagnostic of strong-weak spontaneous symmetry breaking (SW-SSB) of the charge-U(1) symmetry. This inequality holds for arbitrary decoherence strength and suggests that decoherence drives fermionic quantum matter toward U(1) SW-SSB. We also make connections between our inequality and other subjects such as projected quantum spin Hall insulator and Dirac spin liquid states.

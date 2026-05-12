@@ -1,0 +1,5 @@
+Title: Singular three-point density correlations in two-dimensional Fermi liquids
+Authors: Pok Man Tam, Charles L. Kane
+Categories: cond-mat.str-el, cond-mat.mes-hall, cond-mat.quant-gas, quant-ph
+Published: 2026-02-18 19:00:01+00:00
+Abstract: We characterize a singularity in the equal-time three-point density correlations that is generic to two-dimensional interacting Fermi liquids. In momentum space where the three-point correlation is determined by two wavevectors $\mathbf{q}_1$ and $\mathbf{q}_2$, the singularity takes the form $|\mathbf{q}_1\times\mathbf{q}_2|$. We explain how this singularity is sharply defined in a long-wavelength collinear limit. For a non-interacting Fermi gas, the coefficient of this singularity is given by the quantized Euler characteristic of the Fermi sea, and it implies a long-range real space correlation favoring collinear configurations. We show that this singularity persists in interacting Fermi liquids, and express the renormalization of the coefficient of singularity in terms of Landau parameters, for both spinless and spinful Fermi liquids. Implications for quantum gas experiments are discussed.

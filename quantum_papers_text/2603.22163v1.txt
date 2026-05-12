@@ -1,0 +1,5 @@
+Title: Dissipative free fermions in disguise
+Authors: Kohei Fukai, Hironobu Yoshida, Hosho Katsura
+Categories: cond-mat.stat-mech, math-ph, nlin.SI, quant-ph
+Published: 2026-03-23 16:25:25+00:00
+Abstract: Recently, a class of spin chains known as ``free fermions in disguise'' (FFD) has been discovered, which possess hidden free-fermion spectra even though they are not solvable via the standard Jordan-Wigner transformation. In this work, we extend this FFD framework to open quantum systems governed by the Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) equation. We establish a general class of exactly solvable open quantum systems within the FFD framework: if the Liouvillian frustration graph is claw-free and has a simplicial clique, the Liouvillian possesses a hidden free-fermion spectrum. In particular, the (even-hole, claw)-free condition automatically guarantees this, enabling exact computation of the Liouvillian gap and an infinite-temperature autocorrelation function. Our results provide the first realization of the FFD mechanism in open quantum systems.

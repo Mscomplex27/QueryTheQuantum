@@ -1,0 +1,5 @@
+Title: Source-independent quantum key distribution without pre-sending entanglement
+Authors: Rong-Zheng Liu, Hua-Lei Yin
+Categories: quant-ph
+Published: 2026-04-30 16:35:50+00:00
+Abstract: Quantum key distribution (QKD) theoretically offers information-theoretic security. The prevailing approach is the prepare-and-measure BB84 protocol, which implements QKD using conventional laser rather than single-photon source via the decoy-state method. However, side-channel attacks targeting sources severely threaten system security. Despite extensive efforts, including fully passive scheme, this vulnerability persists even with perfect single-photon source. Here, we propose a source-independent (SI) QKD protocol that resolves all known and unknown source-side attacks without pre-sending entanglement source. Aligning with advances in quantum light sources, our protocol simultaneously doubles the transmission distance while remaining robustness against imperfection of source. Theoretical analysis shows that non-classical light source provides practical security advantages unattainable with conventional laser.

@@ -1,0 +1,5 @@
+Title: Onset of superactivation of quantum capacity
+Authors: Marco Parentin, Bjarne Bergh, Nilanjana Datta, Mark M. Wilde
+Categories: quant-ph
+Published: 2026-04-29 17:26:48+00:00
+Abstract: Superactivation of quantum capacity is the phenomenon whereby two quantum channels, each with zero quantum capacity, can exhibit a strictly positive capacity when used in tandem. In this work, we explore superactivation in the previously unexplored non-asymptotic regime of finitely many channel uses. We give a definition of finite-blocklength superactivation and propose numerical methods that can certify it. Then, focusing on the 50% erasure and positive-partial-transpose channels considered in the original work on superactivation, we show that as few as 17 uses of the joint channel already enable qubit transmission with a fidelity unattainable by any number of uses of either channel alone, demonstrating a strong finite-blocklength form of superactivation and opening the door to experimental demonstration.

@@ -1,0 +1,5 @@
+Title: Operating a contextual Stern-Gerlach apparatus
+Authors: Th. K. Mavrogordatos
+Categories: quant-ph, cond-mat.mes-hall, physics.optics
+Published: 2026-04-27 17:37:17+00:00
+Abstract: We propose a contextual cavity/circuit QED analogue and extension of the Stern-Gerlach experiment, where the pseudo-spin of a two-state `atomic' transition plays the role of the ``spin'', while the resonant field driving the transition stands for the ``magnetic field''. A phase-sensitive continuous detection of the cavity field coupled to the induced `atomic' dipole affects the stability of the two distinct outcomes. The dressed states comprising the latter give their place to a self-consistent spontaneous dressed-state polarization as the driving strength is lowered. The associated evolution proves anew highly contextual, underpinned by a persistent production of coherent-state superpositions for a particular setting of the monitoring device. Finally, when bistability is absent, we employ the photoelectron `atomic' emission statistics as a diagnostic tool of the cavity field fluctuations.

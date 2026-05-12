@@ -1,0 +1,5 @@
+Title: Universal method for optimized robustness in self-testing of quantum resources
+Authors: Shin-Liang Chen, Nikolai Miklin
+Categories: quant-ph
+Published: 2026-03-20 03:37:20+00:00
+Abstract: Self-testing is a phenomenon where the use of specific quantum states or measurements can be inferred solely from the correlations they generate. We introduce a universal method for conducting robustness analysis in the self-testing of various quantum resources. Unlike previous numerical approaches, which rely on selecting specific isometries, our method optimizes over equivalence transformations, thereby leading to tighter robustness bounds. This optimization employs the well-established technique of semidefinite programming relaxations for non-commuting polynomial optimization. Our method can be universally applied to diverse self-testing settings, including steerable assemblages in the Bell scenario, constellations of quantum states in the prepare-and-measure scenario, and entangled states in the steering scenario. We demonstrate the method's capability to surpass previously reported robustness bounds across a range of concrete examples.

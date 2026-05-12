@@ -1,0 +1,5 @@
+Title: Robust Universal Photon Blockade in a Bimodal Jaynes-Cummings Model via Kerr Nonlinearity
+Authors: Guohao Chang, Hunduz Halemjan, Shangyun Liu, Raziya Anwar, Ahmad Abliz
+Categories: quant-ph
+Published: 2026-04-04 19:33:47+00:00
+Abstract: Universal photon blockade in a two-mode Jaynes-Cummings model incorporating third-order Kerr nonlinearity is demonstrated with a single two-level atom coupled to a waveguide microcavity. Realization of this universal photon blockade is attributed to the cooperative effects of field-atom coupling and Kerr nonlinearity. More importantly, this antibunching is found to be robust against the atomic spontaneous emission, driving field strength, and defect-induced cavity mode coupling. The strong antibunching effect in this resonance-driven scheme is essentially different from those without Kerr nonlinearity. Moreover, this work expands the platform for achieving universal photon blockade and reveals the cooperative advantages of nonlinearities in enhancing the purity and brightness of single-photon sources, representing a novel strategy toward high-performance single-photon sources in integrated quantum optical devices.

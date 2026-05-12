@@ -1,0 +1,5 @@
+Title: Addressing a device in a quantum network: A quantum approach including routing
+Authors: Alexander Pirker
+Categories: quant-ph
+Published: 2026-04-07 01:47:28+00:00
+Abstract: In this work we propose an addressing scheme for quantum networks which relies on quantum states held by devices. Quantum network devices use their address state together with a request state that encodes the tasks to be executed. Our approach not only removes the necessity to classically communicate addresses, but also the need to communicate the operations a device must apply. It turns out that utilizing entanglement to encode addresses of devices in a quantum network leads to interesting applications such as overlaying different network states. We present a distributed quantum routing protocol using entanglement that coherently selects a route in a network of Bell-states for controlled-teleportation and lastly we prove that addressing using quantum states is equivalent to performing tasks in superposition in a quantum network.

@@ -1,0 +1,8 @@
+Title: Comment on "On the emergence of preferred structures in quantum theory" by Soulas, Franzmann, and Di Biagio
+Authors: Ovidiu Cristinel Stoica
+Categories: quant-ph, hep-th, math-ph, physics.hist-ph
+Published: 2026-03-08 15:16:02+00:00
+Abstract: This reply is also a friendly introduction to the impossibility of emergence of preferred structures from the Hamiltonian $\mathsf{H}$ and the unit vector $|ψ\rangle$ only. The obstructions to emergence are illustrated on the concrete construction of a tensor product structure (TPS) from Soulas et al., 2025 (arXiv:2512.07468v2). Soulas et al. offer their TPS as a counterexample to the proof from Stoica, 2022a (arXiv:2102.08620) that structures constructed only from $\mathsf{H}$ and $|ψ\rangle$ either contradict physical observations or can't describe them unambiguously.
+  Soulas et al.'s construction of a unique TPS can't be both invariant and compatible with physical observations, so it can't be a counterexample. Its incompatibility becomes visible by examining how the relation between $|ψ(t)\rangle$ and the TPS, encoding the entanglement, changes in time. Therefore their TPS doesn't refute, but confirms (Stoica, 2022a).
+  Besides this, since Soulas et al.'s method to construct preferred structures consists of choosing their invariants, by the same logic one could claim as well that the masses of elementary particles emerge uniquely just by fixing their values by hand.
+  Soulas et al.'s construction is concrete and can illustrate the major obstructions for emergent structures, confirming them despite doing the best possible to avoid them. This makes it an excellent pedagogical tool to illustrate the trilemma, but also the relational and structural aspects of quantum theory and its symmetries.

@@ -1,0 +1,5 @@
+Title: Feynman's linear divergence problem
+Authors: Alexander Sakhnovich, Lev Sakhnovich
+Categories: math-ph, math.CA, quant-ph
+Published: 2026-04-13 15:19:27+00:00
+Abstract: First, we consider generalized wave and scattering operators and derive modifications of commutation relations (between scattering operators and unperturbed operators) when the corresponding deviation factors behave as $\exp\{i t {\mathcal C}_{\pm}\}$ for $t\to \pm \infty$. Then, we construct so called secondary generalized scattering operators for the related case of linear divergence in QED, which gives a positive answer (in that case) to the well-known problem of J. R. Oppenheimer regarding scattering operators in QED: "Can the procedure be freed of the expansion in $\varepsilon$ and carried out rigorously?"

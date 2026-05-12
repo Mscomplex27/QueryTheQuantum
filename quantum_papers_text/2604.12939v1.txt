@@ -1,0 +1,5 @@
+Title: Dynamical Poles in Non-Hermitian Impurity Scattering
+Authors: Ao Yang, Kai Zhang, Chen Fang
+Categories: cond-mat.mes-hall, cond-mat.dis-nn, cond-mat.quant-gas, quant-ph
+Published: 2026-04-14 16:29:05+00:00
+Abstract: In Hermitian impurity scattering, each isolated late-time exponential is the fingerprint of a bound state. We show that this correspondence breaks down in non-Hermitian bands. For a single impurity in a non-Hermitian lattice, the late-time signal is controlled by isolated complex frequencies selected by the analytic continuation of the Green's function relevant to real-time dynamics, which we term dynamical poles (DPs). DPs need not coincide with static bound states: one may appear without any bound-state counterpart, while a static bound state may be dynamically invisible. The remainder of the signal is an incoherent background set by complex continuum edges. Our results establish that the real-time analytic structure of the Green's function, not the static eigenvalue problem alone, organizes non-Hermitian impurity scattering.

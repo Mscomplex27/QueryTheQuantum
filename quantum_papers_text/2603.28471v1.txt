@@ -1,0 +1,5 @@
+Title: $1/N^2$ Precision Interferometry with Collectively Enhanced Atomic Mirror
+Authors: Yuan Liu, Ke-Mi Xu, Hong-Bo Sun, Linhan Lin
+Categories: quant-ph
+Published: 2026-03-30 14:10:22+00:00
+Abstract: Quantum metrology exploits quantum resources to enhance measurement precision beyond the classical limit. Conventional protocols normally rely on the preparation of delicate quantum states to acquire these resources, posing a major challenge for scaling and robustness. Here we introduce a paradigm that circumvents this requirement with a collectively enhanced quantum mirror (CEAM), i.e., a mesoscopic array of $N$ atoms coupled to a semi-infinite waveguide. When injecting single photons into the waveguide and estimating the CEAM-boundary distance from the reflection phase, a $1/N^2$ precision scaling can be obtained, which surpasses the Heisenberg limit. In this protocol, the quantum resource stems from the cooperative optical response, requiring no entangled state preparation. Our scheme is robust against positional and coupling disorder, offering a practical route to ultra-sensitive quantum metrology in integrated photonic systems.

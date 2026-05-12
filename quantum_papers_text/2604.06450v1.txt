@@ -1,0 +1,5 @@
+Title: Agent Choice via Quantum Flux in Living Systems
+Authors: R. E. Kastner
+Categories: quant-ph, physics.bio-ph
+Published: 2026-04-07 20:46:12+00:00
+Abstract: A basic model is provided that places active, intentional choices by biological organisms on a solid physical footing. The model is provisionally called "Agent Choice via Quantum Flux." It brings to bear specific physics on living systems in a way that allows for intentional choices not pre-determined by physical laws, but remaining consistent with those laws. It does so by exploring a possible many-to-one relation of quantum states to agent choices, with a parallel to the relation of thermodynamic microstates to macrostates.

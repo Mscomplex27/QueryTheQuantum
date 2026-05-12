@@ -1,0 +1,5 @@
+Title: Quantum walk on a random comb
+Authors: François David, Thordur Jonsson
+Categories: quant-ph, cond-mat.dis-nn, math-ph
+Published: 2026-04-01 13:51:22+00:00
+Abstract: We study continuous time quantum walk on a random comb graph with infinite teeth. Due to localization effects along the spine, the walk cannot go to infinity in the spine direction, while it can escape to infinity along the teeth of the comb. Starting from an initial vertex the walk has a nonzero probability to stay trapped in a finite region. These results are obtained by studying the spectrum and eigenstates of the random Hamiltonian for the graph and analysing its properties. We use both analytic and numerical methods many of which come from the theory of Anderson localization in one dimension.

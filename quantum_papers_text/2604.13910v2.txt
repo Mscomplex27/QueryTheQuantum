@@ -1,0 +1,5 @@
+Title: Tsallis relative $α$ entropy of coherence dynamics in Grover's search algorithm
+Authors: Linlin Ye, Zhaoqi Wu, Shao-Ming Fei
+Categories: quant-ph
+Published: 2026-04-15 14:18:42+00:00
+Abstract: Quantum coherence plays a central role in Grover's search algorithm. We study the Tsallis relative $α$ entropy of coherence dynamics of the evolved state in Grover's search algorithm. We prove that the Tsallis relative $α$ entropy of coherence decreases with the increase of the success probability, and derive the complementarity relations between the coherence and the success probability. We show that the operator coherence of the first $H^{\otimes n}$ relies on the size of the database $N$, the success probability and the target states. Moreover, we illustrate the relationships between coherence and entanglement of the superposition state of targets, as well as the production and deletion of coherence in Grover iterations.

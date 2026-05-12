@@ -1,0 +1,5 @@
+Title: Physics-Informed Discrete-Event Simulation of Polarization-Encoded Quantum Networks
+Authors: Abderrahim Amlou, Amar Abane, Cory M. Nunn, M. V. Jabir, Van Sy Mai, Abdella Battou, Ahmed Lbath
+Categories: quant-ph
+Published: 2026-04-08 16:56:53+00:00
+Abstract: We extend the SeQUeNCe discrete-event simulator with physics-based models for polarization-encoded photonic quantum networks. Our framework integrates Jones-calculus optical components, including an SPDC Bell-state source, wave plates, and polarizing beam splitters, together with a multi-section fiber model capturing polarization mode dispersion, chromatic dispersion, and Raman noise from coexisting classical traffic. We validate the simulator by reproducing experimentally reported spectra, polarization correlations, quantum state tomography, and dispersion- and Raman-induced noise. The resulting platform enables hardware-parameterized prediction of entanglement distribution performance under realistic deployment conditions.

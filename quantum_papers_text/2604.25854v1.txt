@@ -1,0 +1,9 @@
+Title: Quantum channels preserving sigma-additivity and Ulam measurable cardinals
+Authors: S. V. Dzhenzher
+Categories: quant-ph, math.FA
+Published: 2026-04-28 16:57:17+00:00
+Abstract: This paper investigates the interplay between the properties of quantum states on the Hilbert space \(\ell_2(κ)\) and the set-theoretic nature of the cardinal $κ$.
+  We focus on the existence of singular $σ$-additive states~ -- functionals whose induced measures are $σ$-additive yet vanish on singletons.
+  While the existence of such states is known to be equivalent to the Ulam measurability of $κ$, their structural and dynamical properties remain largely unexplored.
+  We prove that any $σ$-additive state on the diagonal algebra is representable as a Pettis integral over a singular $σ$-additive measure, extending the classical representation theory to the non-normal sector.
+  Furthermore, we construct a class of quantum channels using $σ$-complete ultrafilters that map normal states to singular $σ$-additive states, effectively <<archiving>> information into the singular part of the state space.

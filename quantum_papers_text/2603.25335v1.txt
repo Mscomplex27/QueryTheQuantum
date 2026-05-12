@@ -1,0 +1,5 @@
+Title: The quantum mechanics of experiments
+Authors: Jürg Fröhlich, Alessandro Pizzo
+Categories: quant-ph, math-ph
+Published: 2026-03-26 11:25:21+00:00
+Abstract: This note starts with a recapitulation of what people call the ``Measurement Problem'' of Quantum Mechanics (QM). The dissipative nature of the quantum-mechanical time-evolution of averages of states over large ensembles of identical isolated systems consisting of matter interacting with the radiation field is discussed and shown to correspond to a stochastic time-evolution of states of individual systems. The importance of dissipation for the successful completion of measurements is highlighted. To conclude, a solution of the ``Measurement Problem'' is sketched in an idealized model of a double-slit experiment.

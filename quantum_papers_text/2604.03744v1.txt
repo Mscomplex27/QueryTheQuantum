@@ -1,0 +1,5 @@
+Title: How Events Separated by a Timelike Interval Can Help Us Understand Quantum Nonlocality
+Authors: Luiz Carlos Ryff
+Categories: quant-ph
+Published: 2026-04-04 14:14:43+00:00
+Abstract: Quantum entanglement plays a fundamental role in quantum cryptography and computation. An important example of quantum entanglement can be found in the correlations of Einstein, Podolsky, and Rosen (EPR). However, despite the plethora of articles related to the topic, different interpretations of the EPR correlations coexist, and a consensus has not yet been reached. In this article, we seek to demonstrate, through the simple and direct application of quantum formalism, how events separated by timelike intervals can, strangely enough, help us better understand some aspects of the so-called "quantum nonlocality" associated with EPR correlations.

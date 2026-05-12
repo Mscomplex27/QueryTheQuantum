@@ -1,0 +1,5 @@
+Title: Bound entanglement detection in $4 \otimes 4$ systems via generalized Choi maps
+Authors: Mazhar Ali
+Categories: quant-ph
+Published: 2026-04-20 07:21:09+00:00
+Abstract: We construct a family of positive but not completely positive linear maps acting on four dimensional space. We employ these maps to detect bound entanglement in high dimensional quantum systems.

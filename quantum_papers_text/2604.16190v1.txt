@@ -1,0 +1,5 @@
+Title: Coherence dynamics in Simon's quantum algorithm
+Authors: Linlin Ye, Zhaoqi Wu, Shao-Ming Fei
+Categories: quant-ph
+Published: 2026-04-17 15:58:19+00:00
+Abstract: Quantum coherence plays a pivotal role in quantum algorithms. We study the coherence dynamics of the evolved states in Simon's quantum algorithm based on Tsallis relative $α$ entropy and $l_{1,p}$ norm. We prove that the coherences of the first register and the second register both rely on the dimension $N$ of the state spaces of the $n$ qubit systems, and increase with the increase of $N$. We show that the oracle operator $O$ does not change the coherence. Moreover, we study the coherence dynamics in the Simon's quantum algorithm and prove that in overall the coherence is in production when $N>4$ and in depletion when $N<4$.

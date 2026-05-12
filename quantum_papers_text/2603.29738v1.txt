@@ -1,0 +1,5 @@
+Title: Phase diagram of rotating Bose-Einstein condensates trapped in power-law and hard-wall potentials
+Authors: G. M. Kavoulakis
+Categories: cond-mat.quant-gas, physics.atom-ph, quant-ph
+Published: 2026-03-31 13:36:55+00:00
+Abstract: We investigate the rotational phase diagram of a quasi-two-dimensional, weakly-interacting Bose-Einstein condensate confined in power-law and in hard-wall trapping potentials. For weak interactions, the system undergoes discontinuous transitions between multiply-quantized vortex states as the rotation frequency of the trap increases. In contrast, stronger interactions induce continuous phase transitions toward mixed states involving both singly and multiply-quantized vortex states. A central result is the qualitative (and experimentally observable) difference between power-law and hard-wall confinement: In hard-wall traps, the leading instability always involves states with nonzero density at the trap center, whereas in power-law traps the density vanishes as the rotation frequency increases. The two different types of confinement give rise to scaling properties in the derived phase diagrams.

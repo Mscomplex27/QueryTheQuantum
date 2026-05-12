@@ -1,0 +1,6 @@
+Title: Quantum analogues of exponential sensitivity: from Loschmidt echo to Krylov complexity
+Authors: Ignacio García-Mata, Diego A. Wisniacki
+Categories: quant-ph, nlin.CD
+Published: 2026-04-14 13:22:15+00:00
+Abstract: One of the fundamental manifestations of classical chaos is exponential sensitivity to initial conditions that is, two trajectories starting from nearly identical initial states diverge exponentially over time. This behavior is quantified by the Lyapunov exponents. Due to the unitary nature of quantum mechanics, such exponential divergence is elusive in quantum systems. As a result, several alternative quantities have been proposed and studied in recent years to capture analogous behavior.
+  In this article, we present a pedagogical overview of three such quantities that have been the focus of intense research in recent years: the Loschmidt echo, out-of-time-order correlators (OTOCs), and Krylov complexity.

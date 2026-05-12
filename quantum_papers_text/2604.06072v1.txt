@@ -1,0 +1,5 @@
+Title: A multigraph approach to confusability in quantum channels
+Authors: Sk Asfaq Hossain, Angshuman Bhattacharya
+Categories: math.QA, cs.IT, math.FA, quant-ph
+Published: 2026-04-07 16:52:24+00:00
+Abstract: We introduce a new approach to confusability in a quantum channel, namely quantum confusability multigraph, which incorporates the output information into the graphical structure. By``counting" the edges between two vertices of this confusability multigraph, one recovers the traditional confusability ``single-edged" graph of the channel. With this physical motivation, we therefore develop a theory of quantum multigraphs from Weaver's quantum relations point of view and explore its quantum graph theoretic properties. Finally, we provide a necessary and sufficient condition characterizing those quantum multigraphs that arise as quantum confusability multigraphs.

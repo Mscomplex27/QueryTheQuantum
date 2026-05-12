@@ -1,0 +1,5 @@
+Title: Worst-case Harrow-Hassidim-Lloyd algorithm with average-case correct quantum Fourier transform
+Authors: Changpeng Shao
+Categories: quant-ph
+Published: 2026-04-12 02:53:51+00:00
+Abstract: In [\href{https://quantum-journal.org/papers/q-2022-12-07-872/}{Quantum 6, 872, 2022}], Linden and de Wolf proposed a lightweight protocol for verifying the average-case correct behavior of the quantum Fourier transform (QFT). They proved that good average-case QFT performance suffices for good worst-case performance in several quantum tasks. Here we provide another application of this worst-case-to-average-case reduction, using a strengthened Linden-de Wolf protocol. We show that, across three distinct scenarios, the Harrow-Hassidim-Lloyd algorithm can be executed with provably good worst-case performance, assuming only that the QFT is correct on average.

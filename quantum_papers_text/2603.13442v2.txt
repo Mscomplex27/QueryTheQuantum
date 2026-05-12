@@ -1,0 +1,5 @@
+Title: Non-existence of stabilizer absolutely maximally entangled states across infinitely many configurations
+Authors: Hyunho Cha
+Categories: quant-ph
+Published: 2026-03-13 12:53:15+00:00
+Abstract: We prove a general reduction theorem for stabilizer absolutely maximally entangled states in composite local dimension. If a stabilizer $\mathrm{AME}(n,D)$ state exists and $D=\prod_{i=1}^m q_i$ is the prime-power factorization of $D$, then for every nonempty subset of factors there exists a stabilizer $\mathrm{AME}\bigl(n,\prod_{i\in M} q_i\bigr)$ state. Thus any obstruction at a prime-power factor immediately obstructs stabilizer AME states in the composite dimension.

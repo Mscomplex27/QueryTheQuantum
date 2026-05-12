@@ -1,0 +1,5 @@
+Title: Quantum-to-classical correspondence in Krylov complexity
+Authors: Gastón F. Scialchi, Augusto J. Roncaglia, Diego A. Wisniacki
+Categories: quant-ph
+Published: 2026-03-11 17:55:46+00:00
+Abstract: We study quantum-to-classical correspondence of the Krylov space for evolutions driven by unitary maps with a classical limit. This entails a proper definition of corresponding quantum and classical operators, inner products and initial states. We prove that with these definitions the purely classical Krylov space is indeed obtained as the asymptotic $\hbar\to 0$ expansion of the quantum Krylov space, and provide several examples of such correspondence. We use these examples to analyze some general aspects about the evolution of the Krylov complexity as they relate to the phase-space representation for the Krylov states. Additionally, we discuss alternative definitions to obtain the correspondence and why they fail. This paper constitutes a first step in understanding complexity and ergodicity of unitary evolution through the Krylov perspective as they relate to classical dynamical notions.

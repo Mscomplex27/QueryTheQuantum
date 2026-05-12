@@ -1,0 +1,5 @@
+Title: Symmetry-based perturbation theory for electronic structure calculations
+Authors: Hiromichi Nishimura, Nam Nguyen, Tanvi Gujarati, Mario Motta
+Categories: quant-ph, physics.chem-ph
+Published: 2026-03-09 17:09:33+00:00
+Abstract: We develop a multi-reference perturbation theory for electronic structure calculations based on symmetries of the Hamiltonian. The reference Hamiltonian in the symmetry-based perturbation theory (SBPT) is chosen such that it possesses more symmetries than the original Hamiltonian, leading to a larger reduction of computational resources in terms of both the number of configurations in the configuration interaction expansion and the number of required qubits in quantum computing applications. We provide approximate, scalable solutions for the second-order correction, as well as an application to selected configuration interaction. We show that SBPT is an extension of other existing multi-reference perturbation theories and that it can give better results for some molecular systems in a robust way.

@@ -1,0 +1,5 @@
+Title: First-order phase transition in atom-molecule quantum degenerate mixtures with coherent three-body recombination
+Authors: G. A. Bougas, A. Vardi, H. R. Sadeghpour, C. Chin, S. I. Mistakidis
+Categories: cond-mat.quant-gas, quant-ph
+Published: 2026-02-12 06:41:27+00:00
+Abstract: We map the phase diagram of a two-mode atom-molecule Bose-Einstein condensate with Fano-Feshbach and coherent three-body recombination (cTBR) terms. The standard second order phase transition observed as the molecular energy is tuned through the Feshbach resonance, is replaced by a first order transition when cTBR becomes prominent, due to a double-well structure in the free energy landscape. This transition is associated with atom-molecule entanglement, bistability, and molecular metastability. Our results establish cTBR as a powerful knob for quantum state engineering and control of reaction dynamics in ultracold chemistry.

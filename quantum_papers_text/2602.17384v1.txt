@@ -1,0 +1,5 @@
+Title: Quantifying non-Markovianity in magnetization dynamics via entropy production rates
+Authors: Felix Hartmann, Finja Tietjen, R. Matthias Geilhufe, Janet Anders
+Categories: cond-mat.stat-mech, cond-mat.mes-hall, quant-ph
+Published: 2026-02-19 14:09:54+00:00
+Abstract: Magnetization dynamics is commonly described by the stochastic Landau-Lifshitz-Gilbert (LLG) equation. On picosecond timescales, inertial and open-system extensions of the LLG equation are necessary to interpret recent experiments. We show analytically and numerically that the standard LLG equation exhibits strictly positive entropy production rates, while inertial and open-system LLG dynamics display temporarily negative entropy production rates indicating non-Markovianity. Here we quantify the degree of non-Markovianity using established measures. Our numerical calculations show that the open-system LLG equation consistently exhibits the highest magnitude of non-Markovianity for different initial conditions and magnetic field orientations.

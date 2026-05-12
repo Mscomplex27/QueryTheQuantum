@@ -1,0 +1,5 @@
+Title: Commutation Groups and State-Independent Contextuality
+Authors: Samson Abramsky, Serban-Ion Cercelescu, Carmen-Maria Constantin
+Categories: quant-ph, cs.LO
+Published: 2026-03-12 17:26:19+00:00
+Abstract: We introduce an algebraic structure for studying state-independent contextuality arguments, a key form of quantum non-classicality exemplified by the well-known Peres-Mermin magic square, and used as a source of quantum advantage. We introduce \emph{commutation groups} presented by generators and relations, and analyse them in terms of a string rewriting system. There is also a linear algebraic construction, a directed version of the Heisenberg group. We introduce \emph{contextual words} as a general form of contextuality witness. We characterise when contextual words can arise in commutation groups, and explicitly construct non-contextual value assignments in other cases. We give unitary representations of commutation groups as subgroups of generalized Pauli $n$-groups.

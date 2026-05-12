@@ -1,0 +1,5 @@
+Title: Indistinguishablity from dephased emitters using combined plasmonic-dielectric cavities
+Authors: Anastasios Fasoulakis, Ross C. Schofield, Rupert F. Oulton, Alex S. Clark
+Categories: quant-ph, physics.optics
+Published: 2026-04-21 16:49:01+00:00
+Abstract: The concept of cavity funneling has emerged recently as a promising route towards creating indistinguishable photons from highly dephased emitters. So far, all suggested solutions are solely based on dielectric cavities that require extremely high quality factors that are difficult to reach at visible wavelengths. Here we suggest a hybrid funneling architecture where a dephased emitter is coupled to a plasmonic nanoresonator that is enclosed by an outer dielectric cavity. The estimated lower limit of the outer cavity quality factor is found to be $\sim2$ orders of magnitude lower compared to a cascaded cavity system. Furthermore, the surrounding topology of our approach allows for a partial direct coupling between the emitter and the outer cavity which in turn can increase the overall system extraction efficiency $\left(β\right)$ by a factor of 12, boosting the probability of photon collection.

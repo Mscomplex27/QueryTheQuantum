@@ -1,0 +1,5 @@
+Title: Exactly Solvable RD Model: RG Cycles Meet Fractality
+Authors: Ilya Liubimov, Alexander Gorsky
+Categories: cond-mat.stat-mech, hep-th, quant-ph
+Published: 2026-03-18 12:54:21+00:00
+Abstract: We consider the Bethe ansatz integrable Russian Doll (RD) model of superconductivity with time-reversal symmetry breaking, which exhibits a cyclic renormalization group. By obtaining an exact solution for the renormalization group flows, we investigate the phase structure in the one-pair sector, which includes localized, fractal, and delocalized phases. We show that the quantum number Q, arising from the Bethe ansatz equations, counts the number of cycles and parametrizes the towers of states. Using the action of the renormalization group on the eigenstates, we demonstrate that Q serves as an order parameter, providing a new mechanism for the formation of the fractal phase in the deterministic systems and an example of the interplay between fractality and cyclic RG.

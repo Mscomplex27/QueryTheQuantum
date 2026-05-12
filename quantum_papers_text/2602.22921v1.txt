@@ -1,0 +1,5 @@
+Title: Coherence squeezing in optical interference
+Authors: Martti Hanhisalo, Atri Halder, Tero Setälä, Andreas Norrman
+Categories: quant-ph
+Published: 2026-02-26 12:11:50+00:00
+Abstract: We introduce the concept of optical coherence squeezing in double-slit interference. We construct Hermitian operators that characterize the coherence at the slits, leading to coherence uncertainty relations and a corresponding squeezing condition. We also analyze states exhibiting such squeezing and show its manifestations in the uncertainty of the magnitudes and positions of the intensity fringes. Our work identifies coherence as a fundamental degree of freedom for squeezing, complementing phase, amplitude, and polarization, which could benefit quantum-enhanced interferometry.

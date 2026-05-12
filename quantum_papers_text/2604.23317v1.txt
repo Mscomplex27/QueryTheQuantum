@@ -1,0 +1,5 @@
+Title: Constrained Quantum Optimization meets Model Reduction
+Authors: Max Tschaikowski, Andrea Vandin
+Categories: quant-ph
+Published: 2026-04-25 14:11:12+00:00
+Abstract: Quantum optimization algorithms promise advantages for difficult problems but are costly to simulate and analyze on classical machines. Recently, constrained quantum optimization has been investigated through the lens of Quantum Zeno dynamics, an approach which constrains the search to a subspace by means of quantum measurements. Exploiting that quantum measurements are projections, we propose a model reduction approach and show that simulations can be conducted in a lower-dimensional space. As possible applications, we demonstrate exponential state-space reduction of constrained quantum optimization in case of random 3-SAT and agent coordination problems over graphs.

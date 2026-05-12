@@ -1,0 +1,6 @@
+Title: Dequantization Barriers for Guided Stoquastic Hamiltonians
+Authors: Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara
+Categories: quant-ph, cs.CC, cs.DS
+Published: 2026-02-26 16:40:32+00:00
+Abstract: We construct a probability distribution, induced by the Perron--Frobenius eigenvector of an exponentially large graph, which cannot be efficiently sampled by any classical algorithm, even when provided with the best-possible warm-start distribution. In the quantum setting, this problem can be viewed as preparing the ground state of a stoquastic Hamiltonian given a guiding state as input, and is known to be efficiently solvable on a quantum computer. Our result suggests that no efficient classical algorithm can solve a broad class of stoquastic ground-state problems.
+  Our graph is constructed from a class of high-degree, high-girth spectral expanders to which self-similar trees are attached. This builds on and extends prior work of Gilyén, Hastings, and Vazirani [Quantum 2021, STOC 2021], which ruled out dequantization for a specific stoquastic adiabatic path algorithm. We strengthen their result by ruling out any classical algorithm for guided ground-state preparation.

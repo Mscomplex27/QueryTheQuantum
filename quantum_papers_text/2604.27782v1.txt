@@ -1,0 +1,5 @@
+Title: Explicit Quantum Search Algorithm for the Densest k-Subgraph Problem
+Authors: Yu. A. Biriukov, R. D. Morozov, I. V. Dyakonov, S. S. Straupe
+Categories: quant-ph
+Published: 2026-04-30 12:21:24+00:00
+Abstract: This paper addresses the problem of finding the densest $k$-vertex subgraph in an arbitrary graph. This problem is NP-hard and has important applications in social network analysis, fraud detection, recommendation systems, and bioinformatics. We propose two quantum approaches to solve this problem: reduction to Quadratic Unconstrained Binary Optimization (QUBO) and using Grover's quantum search algorithm. For the latter approach, we present an explicit gate-based oracle circuit utilizing Dicke states and Quantum Fourier Transform for edge counting. Numerical simulations demonstrate a quadratic speedup over classical Brute-force search.

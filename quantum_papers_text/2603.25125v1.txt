@@ -1,0 +1,5 @@
+Title: Hybrid photon blockade with hyperradiance in two-qubit cavity QED system
+Authors: Zhuorui Wang, Jun Li
+Categories: quant-ph
+Published: 2026-03-26 07:49:45+00:00
+Abstract: We investigate a hybrid photon blockade (HPB) scheme in a driven two-qubit cavity QED system arising from the combination of eigenenergy-level anharmonicity (ELA) and quantum destructive interference (QDI). By tuning the detuning of a single qubit and pumping field, we identify precise parametric regimes that fully integrate the advantages of high brightness in ELA-based conventional photon blockade and strong antibunching in QDI-based unconventional photon blockade. Interestingly, these regimes are accompanied by hyperradiance, indicating that inter-emitter correlations give rise to enhanced collective emission. The HPB mechanism exhibits parametric generality across varying coupling asymmetries and remains accessible via detuning control, offering a feasible route for generating high-quality single-photon source in diverse quantum platforms.

@@ -1,0 +1,5 @@
+Title: Benchmarking quantum phase-space methods for near-resonant light propagation
+Authors: Mojdeh S. Najafabadi, Joel F. Corney, Luis Sanchez Soto, Gerd Leuchs
+Categories: quant-ph, math-ph
+Published: 2026-02-19 18:59:21+00:00
+Abstract: We study the dynamics of light interacting with a near-resonant atomic medium using the truncated Wigner and positive P phase-space representations. The atomic degrees of freedom are described using the Jordan-Schwinger mapping. The dynamics is first analyzed under unitary evolution and subsequently in the presence of an optical reservoir. While both approaches capture the main features of the light-matter dynamics, we find that the truncated Wigner approximation exhibits noticeable deviations for stronger interaction strengths and when reservoir-induced noise becomes significant.

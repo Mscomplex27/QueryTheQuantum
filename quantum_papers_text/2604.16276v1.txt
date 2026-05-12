@@ -1,0 +1,5 @@
+Title: Aziz and Howl's Gravity-Induced Entanglement Channel is Essentially Classical Mechanics
+Authors: Hanyu Xue, Ziqian Tang, Chen Yang, Zizhao Han, Zikuan Kan, Yulong Liu
+Categories: quant-ph
+Published: 2026-04-17 17:35:01+00:00
+Abstract: Aziz and Howl argued that a classical gravitational field can generate quantum entanglement through a quantum-field-theoretic channel mediated by virtual matter propagation. However, their claimed channel is more naturally and accurately understood as semiclassical wavepacket motion in an external gravitational field, rather than as a distinctively quantum-field-theoretic entangling effect. Moreover, the result of their perturbative computation is incorrectly magnified: they selected a discontinuous wavefunction with infinite kinetic energy as the initial state and simultaneously treated it as stationary. Once a correct treatment using Gaussian wavepacket is adapted, the resulting effect will be negligibly small.

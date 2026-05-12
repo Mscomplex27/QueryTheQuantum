@@ -1,0 +1,5 @@
+Title: Local Certification of Many-Body Steady States
+Authors: Miguel Frías Pérez, Antonio Acín
+Categories: quant-ph, cond-mat.str-el
+Published: 2026-02-06 08:27:03+00:00
+Abstract: We present a relaxation-based method to bound expectation values on the steady state of dissipative many-body quantum systems described by master equations of the Lindblad form. Instead of targeting to represent the entire state, we promote the reduced density matrices to our variables and enforce the constraints that are imposed on them by consistency with a global steady state. The resulting constraints have the form of a semidefinite program, which allows us to efficiently bound the values a given expectation value can take in the steady state. Our results show fast convergence of the bounds with the size of the reduced density matrices, giving very competitive predictions for the steady state of several one- and two-dimensional models for an arbitrary number of particles.

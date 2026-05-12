@@ -1,0 +1,5 @@
+Title: Dissipative Dicke Time Quasicrystals
+Authors: Sk Anisur, Sayan Choudhury
+Categories: quant-ph, cond-mat.quant-gas, cond-mat.stat-mech
+Published: 2026-02-05 18:42:12+00:00
+Abstract: We investigate the emergence of time quasicrystals (TQCs) in the open Dicke model, subjected to a quasi-periodic Fibonacci drive. TQCs are characterized by a robust sub-harmonic quasi-periodic response that is qualitatively distinct from the external drive. By directly analyzing the dynamics of the system in the thermodynamic limit, we establish the existence of TQC order in this system for a wide parameter regime. Remarkably, we demonstrate that this behavior persists even in the deep quantum regime with only two qubits. We systematically study the dependence of the TQC lifetime, $τ^{\ast}$, on the number of qubits and demonstrate that $τ^{\ast}$ increases monotonically with the system size. Our work demonstrates that quasi-periodically driven dissipative quantum systems can serve as a powerful platform for realizing novel non-equilibrium phases of matter.

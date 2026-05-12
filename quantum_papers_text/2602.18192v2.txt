@@ -1,0 +1,5 @@
+Title: Spatial Phase Control of Energy and Ergotropy in Quantum Batteries
+Authors: Maryam Hadipour, Soroush Haseli
+Categories: quant-ph
+Published: 2026-02-20 12:56:45+00:00
+Abstract: We investigate the role of spatial geometry in controlling energy storage and work extraction in a non-Markovian quantum battery. The model consists of two identical two-level systems embedded in a structured waveguide environment, where one qubit acts as the charger and the other as the battery. The relative separation between the qubits introduces a geometry-dependent phase that governs collective interference effects and modulates.

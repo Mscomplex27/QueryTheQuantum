@@ -1,0 +1,5 @@
+Title: Open-System Adiabatic Quantum Search under Dephasing
+Authors: Afaf El Kalai, Peter J. Eder, Christian B. Mendl
+Categories: quant-ph
+Published: 2026-03-30 14:42:03+00:00
+Abstract: Adiabatic quantum algorithms must evolve slowly enough to suppress non-adiabatic transitions while remaining fast enough to be practical. In open systems, this trade-off is reshaped by decoherence. For Hamiltonians subject to dephasing Lindbladians, Avron et al. [1] showed that a unique timetable exists that maximizes the fidelity with a target state. This optimal schedule is characterized by a constant tunneling rate along the adiabatic path. In this work, we revisit their analysis and apply it to the adiabatic Grover search framework, obtaining closed-form expressions for the optimal evolution schedule, the minimum runtime, and the resulting achievable fidelity. Moreover, by invoking an energy-time uncertainty argument, we identify a critical dephasing threshold, beyond which further noise-assisted acceleration is prohibited, thereby defining the physically realizable boundaries for dephasing-based adiabatic quantum search protocols.

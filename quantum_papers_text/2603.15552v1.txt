@@ -1,0 +1,5 @@
+Title: Optimizing and Comparing Quantum Resources of Statistical Phase Estimation and Krylov Subspace Diagonalization
+Authors: Oumarou Oumarou, Pauline J. Ollitrault, Stefano Polla, Christian Gogolin
+Categories: quant-ph
+Published: 2026-03-16 17:12:49+00:00
+Abstract: We develop a framework that enables direct and meaningful comparison of two early fault-tolerant methods for the computation of eigenenergies, namely \gls{qksd} and \gls{spe}, within which both methods use expectation values of Chebyshev polynomials of the Hamiltonian as input. For \gls{qksd} we propose methods for optimally distributing shots and ensuring sufficient non-linearity of states spanning the Krylov space. For \gls{spe} we improve rigorous error-bounds, achieving roughly a factor $2/3$ reduction of circuit depth. We provide insights into the scalability of and the practical realization of these methods by computing the maximum Chebyshev degree, linearly related to circuit depth, and the respective number of repetitions required for the simulation of molecules with active spaces up to 54 electrons in 36 orbitals by leveraging \gls{mps}/\gls{dmrg}.

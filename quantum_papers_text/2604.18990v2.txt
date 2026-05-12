@@ -1,0 +1,5 @@
+Title: Scale-Free Response with Directional Amplification in Critical Non-Hermitian Systems
+Authors: Kunling Zhou, Zihe Yang, Bowen Zeng, Yong Hu
+Categories: quant-ph
+Published: 2026-04-21 02:22:53+00:00
+Abstract: The non-Hermitian skin effect can lead to directional amplification of response, with the associated end-to-end Green's function generally exhibiting size dependence. Any deviation in length or local disorder can drastically alter the amplification factor, rendering the response fragile in practical implementations. In this work, we identify a new type of scale-free, topological, and directionally amplified response in a Hatano-Nelson model under perturbed open boundary conditions. The scale-free response can be attributed to the first order boundary effect and characterized by a winding number defined on a continuous generalization of the finite-size Brillouin zone-a concept introduced in this work. Such scale-free behavior endows the end-to-end Green's function with significant robustness and making it promising for practical applications.

@@ -1,0 +1,5 @@
+Title: Quantum AS-DeepOnet: Quantum Attentive Stacked DeepONet for Solving 2D Evolution Equations
+Authors: Hongquan Wang, Hanshu Chen, Ilia Marchevsky, Zhuojia Fu
+Categories: quant-ph, cs.LG
+Published: 2026-02-28 07:07:17+00:00
+Abstract: DeepONet enables retraining-free inference across varying initial conditions or source terms at the cost of high computational requirements. This paper proposes a hybrid quantum operator network (Quantum AS-DeepOnet) suitable for solving 2D evolution equations. By combining Parameterized Quantum Circuits and cross-subnet attention methods, we can solve 2D evolution equations using only 60% of the trainable parameters while maintaining accuracy and convergence comparable to the classical DeepONet method.

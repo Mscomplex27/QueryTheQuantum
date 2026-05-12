@@ -1,0 +1,5 @@
+Title: Self-dual Stacked Quantum Low-Density Parity-Check Codes
+Authors: Ze-Chuan Liu, Chong-Yuan Xu, Yong Xu
+Categories: quant-ph, cs.DS
+Published: 2026-02-17 05:55:48+00:00
+Abstract: Quantum low-density parity-check (qLDPC) codes are promising candidates for fault-tolerant quantum computation due to their high encoding rates and distances. However, implementing logical operations using qLDPC codes presents significant challenges. Previous research has demonstrated that self-dual qLDPC codes facilitate the implementation of transversal Clifford gates. Here we introduce a method for constructing self-dual qLDPC codes by stacking non-self-dual qLDPC codes. Leveraging this methodology, we develop double-chain bicycle codes, double-layer bivariate bicycle (BB) codes, double-layer twisted BB codes, and double-layer reflection codes, many of which exhibit favorable code parameters. Additionally, we conduct numerical calculations to assess the performance of these codes as quantum memory under the circuit-level noise model, revealing that the logical failure rate can be significantly reduced with high pseudo-thresholds.

@@ -1,0 +1,5 @@
+Title: p-Adic Dirac Equations and the Jackiw-Rebbi Model
+Authors: W. A. Zúñiga-Galindo
+Categories: quant-ph
+Published: 2026-03-17 23:03:23+00:00
+Abstract: We present a new p-adic version of the Jackiw-Rebbi model. In the new model, the real numeric line is replaced by a p-adic line (the field of p-adic numbers Q_{p}), and the Dirac Hamiltonian is replaced by a non-local operator acting on complex-valued functions defined on Q_{p}. These Hamiltonians admit localized wavefunctions and allow long-range interactions, so spooky action at a distance is allowed. These features are not present in the original model. The new model gives the same predictions as the standard one. The p-adic line serves as a discrete model for the physical space; in this type of space, non-locality emerges naturally.

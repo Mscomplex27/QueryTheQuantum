@@ -1,0 +1,5 @@
+Title: Velocity Verlet-based optimization for variational quantum eigensolvers
+Authors: Rinka Miura
+Categories: quant-ph, math.OC
+Published: 2026-03-10 16:24:34+00:00
+Abstract: The Variational Quantum Eigensolver (VQE) is a key algorithm for near-term quantum computers, yet its performance is often limited by the classical optimization of circuit parameters. We propose using the velocity Verlet algorithm, inspired by classical molecular dynamics, to address this challenge. By introducing an inertial "velocity" term, our method efficiently explores complex energy landscapes. We compare its performance against standard optimizers on H$_2$ and LiH molecules. For H$_2$, our method achieves chemical accuracy with fewer quantum circuit evaluations than L-BFGS-B. For LiH, it attains the lowest final energy, demonstrating its potential for high-accuracy VQE simulations.

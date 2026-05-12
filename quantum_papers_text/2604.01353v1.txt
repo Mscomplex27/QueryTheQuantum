@@ -1,0 +1,5 @@
+Title: Constructing Fermionic Dynamics with Closed Moment Hierarchies
+Authors: A. E. Teretenkov
+Categories: quant-ph
+Published: 2026-04-01 20:07:02+00:00
+Abstract: We construct a broad class of completely positive maps and Go\-rini--Kossakowski--Sudarshan-Lindblad generators for fermionic systems induced by linear transformations of system and environment modes. For these maps, we derive explicit Heisenberg-picture formulas for arbitrary normally ordered monomials in terms of minors of the underlying mode-transformation matrices and environment correlation tensors. We show that for even environment states the linear span of monomials up to any fixed order is invariant, which yields closed equations for low-order moments and makes their computation efficient. We also discuss the relation of this construction to second quantization of non-Hermitian one-particle contractions and extend the formalism to completely positive maps arising from post-selection.

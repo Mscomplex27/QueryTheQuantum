@@ -1,0 +1,5 @@
+Title: Deterministic Discrimination of Phase-Modified Permutation Oracles via Single Qubit Measurement
+Authors: Owen Root
+Categories: quant-ph
+Published: 2026-03-08 18:18:20+00:00
+Abstract: I study a promise problem for an unknown unitary operator acting on an $n$-qubit system. The operator is promised to take one of two forms: either it implements a fixed permutation of computational basis states, or it implements the same permutation together with a conditional sign change determined by a designated input qubit. I show that these two cases can be distinguished with certainty using a single query to the unknown operator and a measurement of only one qubit. The procedure requires no ancilla qubits and uses only $n+1$ Hadamard gates in addition to the oracle call. The promise is intrinsically quantum, since the two cases differ only in their relative-phase structure and therefore have no direct classical counterpart in the usual black-box model.

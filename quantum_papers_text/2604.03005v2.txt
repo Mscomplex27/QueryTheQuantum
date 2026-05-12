@@ -1,0 +1,5 @@
+Title: Quantum mutual information, coherence and unified relations of top quarks in QCD processes
+Authors: Duo-Duo Chen, Xue-Ke Song, Liu Ye, Dong Wang
+Categories: quant-ph, hep-ph
+Published: 2026-04-03 12:43:55+00:00
+Abstract: As the most massive particle in the Standard Model, the top quark's exceptionally short lifetime preserves its spin polarization information through direct decay, making it an ideal system for probing quantum correlations in high-energy physics. In this letter, we presents a comprehensive investigation of quantum correlations in top quark-antiquark pairs produced through QCD. We employ multiple quantum information theoretic measures including quantum mutual information, relative entropy of coherence, complete complementarity relations, and the intrinsic relationship, establishing their dependence on kinematic variables. Furthermore, we find that for quarks and gluons initial mixing, as the probability of gluons Wgg increases, the maximum of the left-hand side of the intrinsic relation also increases. We thus believe the current findings are beneficial to insight into the systemic quantumness in QCD.

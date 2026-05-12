@@ -1,0 +1,5 @@
+Title: Order in the interference of a long chain of Bose condensates with unrestricted phases
+Authors: Vasiliy Makhalov, Andrey Turlapov
+Categories: cond-mat.quant-gas, physics.atom-ph, physics.optics, quant-ph
+Published: 2026-03-20 19:05:36+00:00
+Abstract: For a long periodic chain of Bose condensates prepared in the free space, the subsequent evolution and interference dramatically depend on the difference between the phases of the adjacent and more distant condensates. If the phases are equal, the initial periodic density distribution reappears at later times, which is known as the Talbot effect. For randomly-related phases, we have found that a spatial order also appears in the interference, while the evolution of the fringes differs with the Talbot effect qualitatively. Even a small phase disorder is sufficient for qualitatively altering the interference, though maybe at long evolution times. This effect may be used for measuring the amount of coherence between adjacent condensates and the correlation length along the chain.

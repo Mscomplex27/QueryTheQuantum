@@ -1,0 +1,5 @@
+Title: Device for MHz-rate rastering of arbitrary 2D optical potentials
+Authors: Edita Bytyqi, Josiah Sinclair, Joshua Ramette, Vladan Vuletić
+Categories: quant-ph
+Published: 2026-02-17 21:24:00+00:00
+Abstract: Current architectures for neutral-atom arrays utilize devices such as acousto-optic deflectors (AODs) and spatial light modulators (SLMs) to multiplex a single classical control line into N qubit control lines. Dynamic control is speed-limited by the response time of AODs, and geometrically constrained to respect a product structure, limiting motion to row-by-row or column-by-column moves. We propose an optical rastering device that can produce any 2D pattern, not limited to grids, at 1 MHz refresh rates. We demonstrate a design with a resolution of 40 x 40 that can be further scaled up to 100 x 100 to match existing and future neutral atom devices. The ability to simultaneously transport atomic qubits in arbitrary directions will enhance qubit connectivity, enable more efficient circuits, and may have broader applications ranging from LiDAR to fluorescence microscopy.

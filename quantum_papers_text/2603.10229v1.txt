@@ -1,0 +1,5 @@
+Title: The Gamow Golden Rule of Multichannel Resonances
+Authors: Rafael de la Madrid, Rodolfo Id Betan
+Categories: quant-ph, nucl-th
+Published: 2026-03-10 21:01:27+00:00
+Abstract: We construct the Gamow Golden Rule of multichannel scattering, and use it to obtain the decay distributions, the partial decay constants, the partial decay widths, and the branching fractions of a resonance that has several decay modes. We exemplify the results using two coupled-channel square well potentials.

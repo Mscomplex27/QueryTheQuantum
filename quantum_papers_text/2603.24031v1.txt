@@ -1,0 +1,5 @@
+Title: Mixed-State Topological Phase: Quantized Topological Order Parameter and Lieb-Schultz-Mattis Theorem
+Authors: Linhao Li, Yuan Yao
+Categories: cond-mat.str-el, cond-mat.stat-mech, hep-th, math-ph, quant-ph
+Published: 2026-03-25 07:46:05+00:00
+Abstract: We investigate the extension of pure-state symmetry protected topological phases to mixed-state regime with a strong U(1) and a weak $\mathbb{Z}_2$ symmetries in one-dimensional spin systems by the concept of quantum channels. We propose a corresponding topological phase order parameter for short-range entangled mixed states by showing that it is quantized and its distinct values can be realized by concrete spin systems with disorders, sharply signaling phase transitions among them. We also give a model-independent way to generate two distinct phases by various types of translation and reflection transformations. These results on the short-range entangled mixed states further enable us to generalize the conventional Lieb-Schultz-Mattis theorem to mixed states, even without the concept of spectral gaps and lattice Hamiltonians.

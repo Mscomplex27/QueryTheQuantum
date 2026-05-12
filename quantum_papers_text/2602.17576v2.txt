@@ -1,0 +1,5 @@
+Title: Subluminal and superluminal velocities of free-space photons
+Authors: Konstantin Y. Bliokh
+Categories: quant-ph, physics.optics
+Published: 2026-02-19 17:35:59+00:00
+Abstract: We consider rectilinear free-space propagation of electromagnetic wavepackets using electromagnetic field theory, scalar wavepacket propagation, and quantum-mechanical formalism. We demonstrate that spatially localized wavepackets are inherently characterized by a subluminal group velocity and a superluminal phase velocity, whose product equals $c^2$. These velocities are also known as the 'energy' and 'momentum' velocities, introduced by K. Milton and J. Schwinger. We illustrate general conclusions by explicit calculations for Gaussian and higher-order beams and wavepackets, and also highlight subtleties of the quantum-mechanical description based on the 'photon wavefunction'.

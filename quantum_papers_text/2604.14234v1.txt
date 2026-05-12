@@ -1,0 +1,5 @@
+Title: Consciousness, Quantum Mechanics, and the Limits of Scientific Objectivism
+Authors: John B. DeBrota, Christian List
+Categories: quant-ph, physics.hist-ph
+Published: 2026-04-14 20:26:22+00:00
+Abstract: Consciousness and quantum mechanics are among the most puzzling phenomena studied in the sciences. Some scholars suggest they are related, though others think this claim commits a "minimization of mystery" fallacy. The aim of this programmatic paper is to draw attention to a less widely discussed parallel between consciousness and quantum mechanics: both challenge the classical objectivist worldview of science. Under certain assumptions, they are each in tension with a package of metaphysical theses -- "non-relationalism", "non-fragmentation", and "one world" -- that jointly make up that worldview. This points to three distinct non-objectivist responses: the "relationalist", "fragmentalist", and "many-subjective-worlds" ones. We will map out their pros and cons.

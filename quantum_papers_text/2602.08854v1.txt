@@ -1,0 +1,5 @@
+Title: Spin-active chlorine-related centers in 4H-SiC with telecom-band emissions
+Authors: Danial Shafizadeh, Misagh Ghezellou, Viktor M. Bobal, Lasse Vines, Jawad Ul-Hassan, Valdas Jokubavicius, Nguyen T. Son, Ivan G. Ivanov
+Categories: quant-ph, cond-mat.mtrl-sci, physics.app-ph
+Published: 2026-02-09 16:19:38+00:00
+Abstract: A photoluminescence (PL) and magnetic resonance investigation of a defect in chlorine-implanted 4H-SiC is presented. This Cl-related center emits light at telecom wavelengths with zero-phonon lines in the range 1350-1540 nm. Its four configurations exhibit stable PL spectra characterized by narrow zero-phonon lines. For the two configurations that emit light at the C-band, a Debye-Waller factor in the range 22-25% is estimated. Optically detected magnetic resonance confirms that the Cl-related center is spin active and stable at room temperature with the zero-field splitting in the range of 1.0-1.4 GHz. The combined optical and spin properties suggest this center to be a highly promising candidate for scalable quantum networks.

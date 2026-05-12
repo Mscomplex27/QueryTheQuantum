@@ -1,0 +1,5 @@
+Title: Analytic formulae for non-local magic in bipartite systems of qutrits and ququints
+Authors: Giorgio Busoni, John Gargalionis, Ewan N. V. Wallace, Martin J. White
+Categories: quant-ph, hep-ph, hep-th
+Published: 2026-03-10 03:46:02+00:00
+Abstract: We conjecture analytic expressions for the non-local magic of bipartite pure qudit states of prime local dimension. Our construction relies on the Schmidt-aligned state attaining the minimum over local unitaries, a hypothesis that we support with numerical evidence for pairs of qutrits and ququints. For composite local dimensions, we find that the analogous expressions do not in general reproduce the global minimum, but can still provide computationally cheap approximations to the non-local magic. We also find that relations between non-local magic and entanglement diagnostics that hold for two qubits generally do not extend to qutrit and higher-dimensional systems.

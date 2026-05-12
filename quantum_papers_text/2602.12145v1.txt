@@ -1,0 +1,5 @@
+Title: Spin networks of quantum channels
+Authors: Bartosz Grygielski, Jakub Mielczarek
+Categories: gr-qc, hep-th, quant-ph
+Published: 2026-02-12 16:30:41+00:00
+Abstract: Spin networks in Loop Quantum Gravity are traditionally described by unitary holonomies corresponding to noiseless transformations. In this work, we extend this framework to incorporate general quantum channels that model effects of environment, which can become significant at the Planck scale. Specifically, we demonstrate that the transformation properties of Kraus operators, which define completely positive trace-preserving (CPTP) maps, are consistent with the gauge invariance of spin networks. This enables the introduction of generalized spin network states that can be expressed in terms of the Kraus operators. Furthermore, the associated notion of an inner product is proposed, allowing for introduction of the Hilbert space. We illustrate these constructions with examples involving a Wilson loop and a dipole network.

@@ -1,0 +1,5 @@
+Title: High-Fidelity Teleportation of Continuous-Variable Quantum States Via Non-Ideal Qutrit Entangled Resources
+Authors: Fatemeh Taghipoor, Mojtaba Golshani, Mostafa Motamedifar, Khatereh Jafari
+Categories: quant-ph, physics.optics
+Published: 2026-02-20 12:37:15+00:00
+Abstract: Achieving near-unity fidelity in conventional continuous-variable quantum teleportation schemes based on two-mode squeezed vacuum states is fundamentally unattainable. To overcome this limitation, alternative approaches utilizing ensembles of two-dimensional entangled qubits have been proposed. In this work, we investigate continuous-variable quantum teleportation employing entangled qutrit resources under realistic noise effects. The results demonstrate that the proposed scheme performs well in both ideal and noisy conditions, enabling high-fidelity teleportation with a reasonable success probability.

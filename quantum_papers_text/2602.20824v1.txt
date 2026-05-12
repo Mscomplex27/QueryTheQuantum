@@ -1,0 +1,5 @@
+Title: Mach-Zehnder interferometer for in-situ characterization of atom traps
+Authors: Alexander Wolf, Maxim A. Efremov
+Categories: quant-ph
+Published: 2026-02-24 12:00:53+00:00
+Abstract: Manipulating cold atoms in traps is a key tool for numerous realizations of quantum simulators and quantum sensors. They require accurate modeling and characterization of the underlying trapping potentials. We introduce a technique based on the Mach-Zehnder interferometer for in-situ characterization of weakly anharmonic potentials. By simulating the interferometer in an optical dipole trap, we can accurately determine its trap frequency and upper bounds onto anharmonicity magnitudes.

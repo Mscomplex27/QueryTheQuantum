@@ -1,0 +1,5 @@
+Title: Self-testing with untrusted random number generators
+Authors: Moisés Bermejo Morán, Ravishankar Ramanathan
+Categories: quant-ph
+Published: 2026-03-11 11:22:13+00:00
+Abstract: Self-testing--the attractive possibility to infer the underlying physics of a quantum device in a black-box scenario--has gained increased traction in recent years, with applications to device-independent quantum information processing. Thus far, self-testing has been done under the assumption that the settings for the requisite Bell test are chosen freely and independently of the device tested in the experiment. That is, the random number generator used to generate the settings has been assumed to have no correlations with the device tested. Here, we extend self-testing protocols beyond the independence assumption. Surprisingly, we show that all pure bipartite partially entangled states can be self-tested provided that the random number generator obeys a residual randomness constraint strictly weaker than the independence assumption. This in itself provides a semi-device-independent certification of independence between the randomness source and the device.

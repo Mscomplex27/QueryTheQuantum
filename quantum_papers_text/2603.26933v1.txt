@@ -1,0 +1,5 @@
+Title: Monitoring of quantum walks with weak measurements
+Authors: Klaus Ziegler, Tim Heine, Sabine Tornow
+Categories: quant-ph, cond-mat.dis-nn
+Published: 2026-03-27 19:16:24+00:00
+Abstract: Measurements can be used to monitor the evolution of quantum systems and can give rise to quantized return statistics. It is known that the mean return time is quantized for strong monitoring through the winding number of the monitored quantum state. We discuss that under coherent weak monitoring, implemented via ancilla coupling, the mean return time of a quantum walk obeys a scaling relation with respect to the measurement strength. An analog scaling relation was previously found for random-time monitoring, indicating that weak and random-time monitoring have similar effects. We discuss how weak monitoring via ancilla coupling is linked to the unitary evolution, and how this connection can be controlled by a convergent perturbation theory.

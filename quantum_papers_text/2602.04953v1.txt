@@ -1,0 +1,5 @@
+Title: Information, Dissipation, and Planckian Optimality
+Authors: Debanjan Chowdhury
+Categories: cond-mat.str-el, cond-mat.stat-mech, quant-ph
+Published: 2026-02-04 19:00:00+00:00
+Abstract: We derive a universal bound on the efficiency with which "dissipated" work can generate distinguishable changes in a quantum many-body state at a finite temperature, as quantified by the quantum Fisher information. The bound follows solely from the analytic structure of equilibrium many-body correlators and is independent of all microscopic details. It takes a frequency-resolved form with a characteristic crossover at the Planckian scale, $ω_\star\sim k_B T/\hbar$. We find that Planckian scatterers sit at the edge of optimality, displaying maximal relaxation rate before information-dissipation efficiency collapses. This suggests strange metals are not just fast dissipators, but the fastest that remain efficient in generating distinguishability. The bounded quantity can be evaluated directly from optical conductivity measurements in strongly correlated electronic systems, offering a unique window into how dissipation generates distinguishable changes.

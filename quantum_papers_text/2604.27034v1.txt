@@ -1,0 +1,5 @@
+Title: Some applications of Choi polynomials of linear maps
+Authors: Minh Toan Ho, Thanh Hieu Le, Cong Trinh Le, Hiroyuki Osaka
+Categories: quant-ph, math.OA
+Published: 2026-04-29 16:00:08+00:00
+Abstract: This paper investigates the properties of Choi polynomials and their fundamental role in the theory of positive linear maps between matrix algebras. By focusing on Hermitian symmetric biquadratic forms, we establish a connection between the positivity of these forms and the structure of positive maps. We specifically explore the construction of indecomposable positive maps in matrix algebras, and their application as entanglement witnesses. Our analysis extends to the detection of Positive Partial Transpose (PPT) entangled states and the classification of edge PPT states in $M_m(\mathbb{C}) \otimes M_n(\mathbb{C})$. Our results provide a refined framework for identifying non-separable states that escape the standard PPT criterion, contributing to the broader understanding of entanglement distillation and quantum information theory.

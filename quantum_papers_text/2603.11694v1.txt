@@ -1,0 +1,5 @@
+Title: Experimental Demonstrations of Coherence de Broglie Wavelength for Scalable Superresolution with Near-perfect Fringe Visibility
+Authors: S. Kim, B. S. Ham
+Categories: quant-ph
+Published: 2026-03-12 09:03:12+00:00
+Abstract: Quantum sensing and metrology have been intensively studied over the last several decades to surpass the fundamental shot-noise limit of classical systems and approach the Heisenberg limit. However, implementation of N00N-state-based quantum sensing has been severely constrained by the limited order N, intrinsically imperfect fringe visibility, and vulnerability to photon loss. Recently, the coherence de Broglie wavelength (CBW) has been proposed as an alternative method for achieving superresolution in a coherently coupled interferometer architecture, whose characteristics resemble those of photonic de Broglie wavelength (PBW) used in quantum sensing. Here, we experimentally demonstrate scalable CBW superresolution up to N=3, with near-perfect fringe visibility that is invariant to photon loss. The observed CBWs have the potential to enable a superresolution sensing platform even if it remains within the shot-noise limit.

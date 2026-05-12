@@ -1,0 +1,5 @@
+Title: Sensing coherent phonon dynamics in solids with delayed even harmonics
+Authors: Jinbin Li, Ulf Saalmann, Hongchuan Du, Jan Michael Rost
+Categories: physics.optics, quant-ph
+Published: 2026-03-10 03:46:02+00:00
+Abstract: High harmonics have emerged as a powerful ultrafast probe of phonon dynamics and electron-phonon interactions in solids, with most studies focusing on odd harmonics. Here, in a pump-probe setup with variable delay, we theoretically investigate how even harmonics reveal coherent phonon dynamics. If pump and probe pulses overlap temporally, the spatial interference effect resulting from a non-coaxial pump-probe setup suppresses harmonic yields. At longer delays, odd-harmonic yields oscillate in phase at the optical phonon frequency, whereas even harmonics exhibit order-dependent phase-shifted oscillations. We identify a responsive range of even harmonic orders, in which the delay of yield oscillations is highly sensitive to subtle features of phonon dynamics and electron-electron interactions. Our findings highlight the potential of even harmonics to elucidate microscopic effects in systems with dynamically broken inversion symmetry.

@@ -1,0 +1,5 @@
+Title: Inverse Laplace and Mellin integral transforms modified for use in quantum communications
+Authors: Gustavo Alvarez, Igor Kondrashuk
+Categories: quant-ph, math-ph
+Published: 2026-04-09 04:29:19+00:00
+Abstract: Integral transformations are useful mathematical tool to work out signals and wave-packets in electronic devices. They may be used in software protocols. Necessary knowledge may come from quantum field theory, in particular from quantum chromodynamics, in which the optic theorem and the renormalization group equation can be solved by a unique contour integral written in two different "dual" ways related between themselves by a complex map in the complex plane of Mellin variable. The inverse integral transformation should be modified to be applied for these contour integral solutions. These modified inverse transformations may be used in security protocols for quantum computers. Here we do a brief review of the basic integral transforms and propose their modification for the extended domains.

@@ -1,0 +1,5 @@
+Title: Symplectic Split-Operator Propagators from Tridiagonalized Multi-Mode Bosonic Hilbert Spaces for Bose-Hubbard Hamiltonians
+Authors: Denys I. Bondar, Ole Steuernagel
+Categories: quant-ph
+Published: 2026-03-26 16:51:03+00:00
+Abstract: In this methods paper, we show how to tridia\-go\-nalize two families of bosonic multimode systems: optomechanical and Bose-Hubbard hamiltonians. Using tools from number theory, we devise a rendering of these systems in the form of exact $D \times D$ tridiagonal symmetric matrices with real-valued entries. Such matrices can subsequently be exactly diagonalized using specialized sparse-matrix algorithms that need on the order of $D \ln(D)$ steps. This makes it possible to describe systems with much larger numbers of basis states than available to date. It also allows for efficient diagonal representation of large, accurate, symplectic split-operator propagators for which we moreover show that the required basis changes can be implemented by simple re-indexing, at marginal computational cost.

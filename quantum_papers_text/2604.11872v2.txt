@@ -1,0 +1,5 @@
+Title: Eigenstate thermalization
+Authors: Rohit Patil, Marcos Rigol
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-13 18:00:00+00:00
+Abstract: We provide a pedagogical introduction to eigenstate thermalization. This phenomenon, which occurs in generic quantum systems, allows one to understand why thermalization takes place in isolated systems under unitary dynamics. We motivate eigenstate thermalization using random matrix theory and discuss recent complementary results for the volume-law entanglement entropy of Haar-random states. We discuss numerical results that highlight the corresponding behaviors in quantum many-body systems.

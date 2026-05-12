@@ -1,0 +1,5 @@
+Title: Deviations from thermal light statistics in ensembles of independent two-level emitters
+Authors: Manuel Bojer, André Cidrim, Romain Bachelard, Joachim von Zanthier
+Categories: quant-ph
+Published: 2026-04-07 12:55:44+00:00
+Abstract: We investigate the light statistics of an ensemble of independent motionless two-level atoms in a product state. We identify the conditions under which the cold atomic ensemble emits thermal light statistics characterized by the Gaussian Moment Theorem. For the theorem to hold, we derive for each correlation order two conditions on the atom number and the ratio of coherent to incoherent light emission. We further discuss their validity for atoms either in a pure or mixed state. Our results contribute to the understanding of the generation of thermal light by two-level atoms without interactions among the emitters.

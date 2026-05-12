@@ -1,0 +1,5 @@
+Title: Population Annealing as a Discrete-Time Schrödinger Bridge
+Authors: Masayuki Ohzeki
+Categories: cond-mat.stat-mech, quant-ph, stat.ML
+Published: 2026-03-17 01:51:09+00:00
+Abstract: We present a theoretical framework that reinterprets Population Annealing (PA) through the lens of the discrete-time Schrödinger Bridge (SB) problem. We demonstrate that the heuristic reweighting step in PA is derived by analytically solving the Schrödinger system without iterative computation via instantaneous projection. In addition, we identify the thermodynamic work as the optimal control potential that solves the global variational problem on path space. This perspective unifies non-equilibrium thermodynamics with the geometric framework of optimal transport, interpreting the Jarzynski equality as a consistency condition within the Donsker-Varadhan variational principle, and elucidates the thermodynamic optimality of PA.

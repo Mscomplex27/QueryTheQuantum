@@ -1,0 +1,6 @@
+Title: Local and Multi-Scale Strategies to Mitigate Exponential Concentration in Quantum Kernels
+Authors: Claudia Zendejas-Morales, Debashis Saikia, Utkarsh Singh
+Categories: quant-ph
+Published: 2026-02-18 00:00:56+00:00
+Abstract: Fidelity-based quantum kernels provide a direct interface between quantum feature maps and classical kernel methods, but they can exhibit exponential concentration: with increasing system size or circuit expressivity, the Gram matrix approaches the identity and suppresses informative similarity structure. We present an empirical study of two mitigation strategies implemented in Qiskit: (i) local (patch-wise) kernels that aggregate subsystem similarities, and (ii) multi-scale kernels that mix local and global similarity across patch granularities.
+  We benchmark baseline, local, and multi-scale kernels under matched preprocessing, splits, and SVM protocols on several tabular datasets, sweeping the feature dimension $d\in\{4,6,\dots,20\}$. We report concentration diagnostics based on off-diagonal kernel statistics, spectral richness via effective rank, and centered alignment with labels. Across datasets, local and multi-scale constructions consistently mitigate concentration and yield richer kernel spectra relative to the global fidelity baseline, while the impact on classification accuracy depends on the dataset and dimension.

@@ -1,0 +1,5 @@
+Title: Coherent states for the exotic Landau problem and related properties
+Authors: Isiaka Aremua
+Categories: quant-ph
+Published: 2026-02-11 21:58:21+00:00
+Abstract: This work presents a comprehensive study of the exotic Landau model in a two-dimensional noncommutative plane. Beginning with the classical formulation where two conserved quantities $\mathcal{P}_i$ and $\mathcal{K}_i$ are derived, we proceed to the quantum level where these lead to two independent oscillator representations generating bosonic Fock spaces $Γ_{\mathcal{P}}$ and $Γ_{\mathcal{K}}$. Coherent states satisfying all Klauder's criteria are explicitly constructed, and their physical properties including normalization, continuity, resolution of the identity, temporal stability, and action identity are rigorously proven. We further develop matrix vector coherent states and quaternionic vector coherent states, examining their mathematical structure and physical implications. Detailed calculations of the free particle propagator via path integrals, uncertainty relations, and time evolution of probability densities are provided.

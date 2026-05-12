@@ -1,0 +1,5 @@
+Title: Reducing the Gate Count with Efficient Trotter-Suzuki Schemes
+Authors: Marko Maležič, Johann Ostmeyer
+Categories: hep-lat, quant-ph
+Published: 2026-02-24 17:48:26+00:00
+Abstract: Hamiltonian formulations of lattice field theories provide access to real-time dynamics, but their simulation is difficult to implement efficiently. Trotter-Suzuki decompositions are at the center of time evolution computation, either on quantum hardware or classically, for instance with the use of tensor networks. While low-order Trotterizations remain the standard choice due to their simplicity, higher-order schemes offer the potential for improved efficiency. In this work we outline a short guide to Trotter-Suzuki schemes and their implementations in general. To help with this, we highlight new efficient schemes found by our optimization framework, and demonstrate their performance on the Heisenberg model.

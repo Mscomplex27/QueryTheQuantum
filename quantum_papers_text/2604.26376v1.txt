@@ -1,0 +1,5 @@
+Title: Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology
+Authors: Caroline E. P. Robin, Martin J. Savage
+Categories: quant-ph, hep-lat, hep-ph, nucl-th
+Published: 2026-04-29 07:39:25+00:00
+Abstract: Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.

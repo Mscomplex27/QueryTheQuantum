@@ -1,0 +1,5 @@
+Title: Mixed-state Phases from Higher-order SSPTs with Kramers-Wannier Symmetry
+Authors: Aswin Parayil Mana, Zijian Song, Fei Yan, Tzu-Chieh Wei
+Categories: cond-mat.str-el, hep-th, quant-ph
+Published: 2026-03-03 19:13:06+00:00
+Abstract: Mixed-state phases have recently attracted significant attention as a generalization beyond their pure-state counterparts. Prominent examples include mixed-state symmetry-protected topological (mSPT) phases and the strong-to-weak symmetry breaking (SWSSB) phases. It has been shown recently that mSPT phases admit a holographic dual description in terms of higher-order subsystem SPT phases. In this work, we investigate the mixed-state phases obtained by tracing out the bulk degrees of freedom of higher-order subsystem SPT phases protected by non-invertible symmetries. We find that the resulting mixed states exhibit the coexistence of the symmetry-protected topological order and SWSSB. We also use the interface as a probe to characterize the mixed state phases, and specifically, when there is no local modification to preserve the symmetries across the interface, the two sides of the interface are in distinct phases.

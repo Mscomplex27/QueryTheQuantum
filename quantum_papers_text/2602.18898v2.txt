@@ -1,0 +1,5 @@
+Title: Why measurements are made of effects
+Authors: Tobias Fritz
+Categories: quant-ph
+Published: 2026-02-21 16:39:46+00:00
+Abstract: Both in quantum theory and in general probabilistic theories, measurements with $n$ outcomes are modelled as $n$-tuples of \emph{effects} summing up to the unit effect. Why is this the case, and can this assumption be meaningfully relaxed? Here we develop \emph{generalized measurement theories (GMTs)} as a mathematical framework for physical theories that is complementary to general probabilistic theories, and where this kind of question can be made precise and answered. We then give a definition of \emph{probabilistic state} on a GMT, prove that measurements are made of effects in every GMT in which the probabilistic states separate the measurements, and also argue that this separation condition is physically well-motivated. Finally, we also discuss when a GMT should be considered classical and characterize GMTs corresponding to Boolean algebras as those that are strongly classical and projective.

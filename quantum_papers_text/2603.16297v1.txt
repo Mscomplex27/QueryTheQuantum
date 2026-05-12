@@ -1,0 +1,5 @@
+Title: Quantum Pattern Matching in Generalised Degenerate Strings
+Authors: Massimo Equi, Md Rabiul Islam Khan, Veli Mäkinen
+Categories: quant-ph, cs.DS
+Published: 2026-03-17 09:35:02+00:00
+Abstract: A degenerate string is a sequence of sets of characters. A generalized degenerate (GD) string extends this notion to the sequence of sets of strings, where strings of the same set are of equal length. Finding an exact match for a pattern string inside a GD string can be done in $O(mn+N)$ time (Ascone et al., WABI 2024), where $m$ is the pattern length, $n$ is the number of strings and $N$ the total length of strings constituting the GD string. We modify this algorithm to work under a quantum model of computation, achieving running time $\tilde{O}(\sqrt{mnN})$.

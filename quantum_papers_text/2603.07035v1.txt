@@ -1,0 +1,5 @@
+Title: Higgs gap modes in superconducting circuit quantisation
+Authors: Yun-Chih Liao, Ben J. Powell, Thomas M. Stace
+Categories: cond-mat.supr-con, quant-ph
+Published: 2026-03-07 04:49:00+00:00
+Abstract: We extend a recently developed projective circuit quantisation approach to incorporate superconducting Higgs modes associated to gap dynamics. This approach starts from a microscopic fermionic Hamiltonian for mesoscopic superconductors, and projects the system onto its low-energy "BCS" Hilbert space. We derive analytical results for the superconducting Higgs mass, "spring" constant, and oscillation frequency of the gap dynamics, which we validate numerically. We compute anharmonic corrections to the Higgs frequency for higher excitations of small superconducting islands, and compare our results to previous long-wavelength calculations.

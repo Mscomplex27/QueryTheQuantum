@@ -1,0 +1,5 @@
+Title: Quantum speedup from nonclassical polarization
+Authors: Tim Aßbrock, Jan Sperling, Laura Ares
+Categories: quant-ph
+Published: 2026-03-24 12:18:42+00:00
+Abstract: We develop a framework for identifying nonclassical speedups in systems with polarization, likewise spin degrees of freedom. By confining the dynamics to the manifold of angular momentum coherent states, which act as the classical reference in this case, we compute the speed limit that bounds the rate of change of the state achievable without generating quantum coherence. A comparison with the unrestricted quantum speed limit enables the quantitative identification of speedups arising from polarization nonclassicality. We apply this framework to the cross-Kerr interaction, demonstrating a persistent speedup scaling as $\mathcal{O}(\sqrt{N})$ with the photon number $N$. The results establish polarization nonclassicality as a genuine dynamical resource, linking quantum coherence to quantum-enhanced evolution speeds in nonlinear photonic systems.

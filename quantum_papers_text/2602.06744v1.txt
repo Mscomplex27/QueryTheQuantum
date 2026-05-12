@@ -1,0 +1,5 @@
+Title: Bridging Quantum and Semi-Classical Thermodynamics in Cavity QED
+Authors: Marcelo Janovitch, Sander Stammbach, Matteo Brunelli, Patrick P. Potts
+Categories: quant-ph
+Published: 2026-02-06 14:45:11+00:00
+Abstract: In cavity quantum electrodynamics (QED), photons leaving the cavity can be irreversibly lost or reused as a power source. This dichotomy is reflected in two different thermodynamic bookkeepings of the light field, both corresponding to valid thermodynamic frameworks. In this work, we formulate a rigorous semi-classical limit of cavity QED and show that the resulting thermodynamic description may qualitatively differ from that of the fully quantised model. We find that violations of the thermodynamic uncertainty relations are recovered in the semi-classical limit only by one of the two thermodynamic frameworks: the one which treats part of the photon flux as a power source. We illustrate our findings in a three-level system coupled to a driven cavity.

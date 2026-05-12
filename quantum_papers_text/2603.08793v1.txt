@@ -1,0 +1,5 @@
+Title: Efficient training of photonic quantum generative models
+Authors: Felix Gottlieb, Rawad Mezher, Brian Ventura, Shane Mansfield, Alexia Salavrakos
+Categories: quant-ph
+Published: 2026-03-09 18:00:11+00:00
+Abstract: The topic of generative learning has gained traction within the field of quantum machine learning, in particular with the advent of train-on-classical, deploy-on-quantum methods. This approach exploits the properties of intermediate-complexity circuits whose training can be simulated classically efficiently, but that generally require quantum hardware for the corresponding sampling problem. Quantum linear optics possess similar properties, which allows us to propose an efficient training procedure for photon-native quantum generative models based on the maximum mean discrepancy, where the deployment of the model corresponds to the task of boson sampling. We provide numerical results, propose datasets, and we also explore how initialization strategies and ansatz choice affect the training.

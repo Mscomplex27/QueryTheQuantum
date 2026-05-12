@@ -1,0 +1,5 @@
+Title: Fundamental Limits of Eavesdropper Detection and Localization in Optical Fiber via Stimulated Brillouin Scattering
+Authors: Kiran Adhikari, Janis Nötzel
+Categories: quant-ph
+Published: 2026-04-18 10:56:51+00:00
+Abstract: Recent work investigated the use of Stimulated Brillouin Scattering (SBS) to measure changes in fiber parameters, thereby enhancing the security of a Quantum Key Distribution(QKD) system. In this work, we cast the problem into a binary hypothesis testing scenario, with the goal of comparing the state of the art with potential future quantum technology-based detection methods. We derive an effective input-output model for the Stimulated Brillouin Scattering (SBS) interaction, and utilize it to compare three detection methods: First, the established state of the art. Second, a photon-counting based method which will likely be available in the near future. Finally, we compare to the ultimate quantum limit, which is given by the quantum error exponent of asymmetric hypothesis testing.

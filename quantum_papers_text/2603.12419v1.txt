@@ -1,0 +1,5 @@
+Title: When Bob orbits Alice: entanglement harvesting in circular motion
+Authors: F. Sobrero, M. S. Soares, N. F. Svaiter
+Categories: hep-th, quant-ph
+Published: 2026-03-12 19:59:58+00:00
+Abstract: We study radiative processes of two qubits coupled to a massless scalar field prepared in the Minkowski vacuum state. The analyze the effects of vacuum fluctuations in the generation of qubits' entangled states is performed. We assume one of the qubits is at rest in an inertial frame while the other comoves with a uniformly rotating frame, i.e., undergoing circular motion. We investigate how the entanglement harvesting phenomenon depends on the radius and angular velocity of the non-inertial qubit. We compute the concurrence and mutual information to identify the set of circular motion parameters that maximizes entanglement generation.

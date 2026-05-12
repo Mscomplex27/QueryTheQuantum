@@ -1,0 +1,5 @@
+Title: Topological sum rule for geometric phases of quantum gates
+Authors: Nadav Orion, Boris Rotstein, Nirron Miller, Eric Akkermans
+Categories: quant-ph
+Published: 2026-03-31 14:28:47+00:00
+Abstract: We establish a topological sum rule, $ν_U = \frac{1}{2π}\sum_nγ_n = 2mν_H$, connecting the geometric phases accumulated by a two-qubit system over a complete basis of initial states to the winding number $ν_H$ classifying its Hamiltonian. Implementations of the same gate from different topological classes must distribute these phases differently, making their distinction measurable through the Wootters concurrence. As a corollary, nontrivial topology is a necessary condition for entanglement: only Hamiltonians with access to $ν_H \neq 0$ can generate it.

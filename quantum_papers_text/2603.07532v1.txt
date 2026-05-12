@@ -1,0 +1,5 @@
+Title: Quantum Minimal Learning Machine: A Fidelity-Based Approach to Error Mitigation
+Authors: Clemens Lindner, Joonas Hämäläinen, Matti Raasakka
+Categories: quant-ph
+Published: 2026-03-08 08:44:06+00:00
+Abstract: We introduce the concept of quantum minimal learning machine (QMLM), a supervised similarity-based learning algorithm. The algorithm is conceptually based on a classical machine learning model and adopted to work with quantum data. We will motivate the theory and run the model as an error mitigation method for various parameters.

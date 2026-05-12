@@ -1,0 +1,6 @@
+Title: Towards Analyzing Formic Acid Using Classical and Quantum Methods
+Authors: Omer Gurevich, Tal Mor, Ido Ram
+Categories: quant-ph, cs.CE
+Published: 2026-03-30 12:13:12+00:00
+Abstract: Catalytic carbon fixation to formic acid is important for studying the reduction of carbon footprint and the emergence of life. Can discrete quantum exhaustive search merged with other methods help reduce the carbon footprint? We suggest merging quantum, quantum inspired, and classical tools for a better simulation of various relevant processes. Quantum tools are often used for analyzing the electronic structure of molecules, sometimes because this problem is not scalable (in the number of orbitals) on classical computers while it is potentially approximately scalable on (future) quantum computers. It is potentially even solvable in the near future using variational quantum eigensolvers (VQE) yet a major obstacle to such analysis is the appearance of barren plateaus in the Hilbert space describing the problem.
+  Here we make use of the basic (standard) tools while also including a novel one -- the discrete quantum exhaustive search, which relies on mutually unbiased bases, for analyzing the simplest non-catalytic process involving carbon dioxide, hydrogen and formic acid.

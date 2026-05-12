@@ -1,0 +1,5 @@
+Title: Quantum Simulation of Bound and Resonant Doubly-Bottom Tetraquark
+Authors: Ayanendu Dutta
+Categories: hep-lat, hep-ph, quant-ph
+Published: 2026-02-05 17:55:18+00:00
+Abstract: We present the first quantum-simulation study of bound and resonant doubly-bottom tetraquark states within a QCD-inspired chiral quark model. An effective four-quark Hamiltonian is mapped onto a 16-qubit register, encoding color, spin, and spatial degrees of freedom, and incorporating both meson-meson and diquark-antidiquark configurations with complete color bases. Using a variational quantum eigensolver, we identify bound and resonance states in the low-lying $S$-wave sector. Deeply bound states are found exclusively in the isoscalar $I(J^{P})=0(1^{+})$ channel, dominated by color-singlet meson-meson components with non-negligible hidden-color contributions. The resulting masses and binding energies are consistent with classical chiral quark model predictions, establishing quantum simulation as a viable framework for studying exotic multiquark states beyond the reach of conventional methods.

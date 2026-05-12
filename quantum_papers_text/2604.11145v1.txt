@@ -1,0 +1,5 @@
+Title: Autonomous Quantum Error Correction of Spin-Oscillator Hybrid Qubits
+Authors: Sungjoo Cho, Ju-yeon Gyhm, Hyukjoon Kwon, Hyunseok Jeong
+Categories: quant-ph, physics.atom-ph, physics.optics
+Published: 2026-04-13 08:04:58+00:00
+Abstract: We propose a novel measurement-free scheme for stabilizing a spin-oscillator hybrid qubit via autonomous quantum error correction. The engineered Lindbladian renders the code space into an attractive steady-state subspace, realized by coupling the storage mode to a rapidly cooled bath through a controlled beam-splitter and spin-dependent displacement interactions. The continuous variable-discrete variable hybrid approach to autonomous quantum error correction preserves the hardware efficiency of conventional dissipation engineering while simplifying the required system-bath coupling. The construction is compatible with simple logical gates and leverages primitives already demonstrated in experimental platforms, such as trapped-ion systems, suggesting a practical route to hardware-efficient, noise-biased logical qubits without repeated syndrome measurements and feedforward.

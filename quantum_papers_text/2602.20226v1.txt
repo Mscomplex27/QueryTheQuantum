@@ -1,0 +1,5 @@
+Title: trainsum -- A Python package for quantics tensor trains
+Authors: Paul Haubenwallner, Matthias Heller
+Categories: cs.MS, physics.comp-ph, quant-ph
+Published: 2026-02-23 16:41:02+00:00
+Abstract: We present trainsum, a versatile Python package for doing computations with multidimensional quantics tensor trains: https://github.com/fh-igd-iet/trainsum. Using the Array API standard together with opt_einsum, trainsum allows the effortless approximation of tensors or functions by tensor trains independent of their shape or dimensionality. Once approximated, our package can perform normal arithmetic operations with quantics tensor trains, including addition, Einstein summations and element-wise transformations. It can be therefore used for generic computations with applications in simulation, data compression, machine learning and data analysis.

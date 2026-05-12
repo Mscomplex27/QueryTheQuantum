@@ -1,0 +1,5 @@
+Title: Bell Nonlocality Test on Two-Mode Squeezed Output Generated in Double-Cavity Optomechanical
+Authors: Souvik Agasti
+Categories: quant-ph
+Published: 2026-04-13 20:43:43+00:00
+Abstract: We explore here how to generate a two-mode squeezed output using reservoir engineering in a double-cavity optomechanical system coupled to a common mechanical resonator. Such hybrid platforms are experimentally accessible in electro-optomechanical interfaces and are relevant for high-fidelity state transfer, quantum communication, and metrological applications. By examining violations of the CHSH Bell inequality, we demonstrate that maximal squeezing does not necessarily imply nonlocality; instead, nonlocal correlations can emerge in states with lower squeezing. Furthermore, by analyzing the CHSH inequality across different cavity finesse values, we find that the parameter region supporting nonlocality can broaden even as the squeezing region shrinks. Across all regimes considered, our results emphasize the crucial influence of the mixedness of the state in determining the relationship between squeezing and nonlocality.

@@ -1,0 +1,5 @@
+Title: Ward-Takahashi Identity and Gauge-Invariant Response Theory for Open Quantum Systems
+Authors: Hongchao Li, Xie-Hang Yu, Masaya Nakagawa, Masahito Ueda
+Categories: quant-ph, cond-mat.quant-gas, cond-mat.stat-mech
+Published: 2026-02-14 06:52:38+00:00
+Abstract: We derive the Ward-Takahashi identity and establish the gauge-invariant response theory for open quantum systems described by Lindbladians to show that particle-number conservation is not necessary to satisfy gauge invariance. We construct an observable which can be used to test the gauge invariance in the absence of particle-number conservation. We derive the low-energy collective modes that emerge as a consequence of gauge invariance in open quantum systems, and find that two-body loss induces diffusive modes in dissipative Bardeen-Cooper-Schrieffer (BCS) superconductivity. Possible experimental situations for testing gauge invariance in open quantum systems are also discussed.

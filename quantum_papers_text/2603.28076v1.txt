@@ -1,0 +1,5 @@
+Title: Adiabatic dressing of quantum enhanced Markov chains
+Authors: Wen Ting Hsieh, Alev Orfi, Dries Sels
+Categories: quant-ph, cond-mat.dis-nn
+Published: 2026-03-30 06:26:48+00:00
+Abstract: Quantum-enhanced Markov chain Monte Carlo, a hybrid quantum-classical algorithm in which configurations are proposed by a quantum proposer and accepted or rejected by a classical algorithm, has been introduced as a possible method for robust quantum speedup. Previous work has identified competing factors that limit the algorithm's performance: the quantum dynamics should delocalize the system across a range of classical states to propose configurations beyond the reach of simple classical updates, whereas excessive delocalization produces configurations unlikely to be accepted, slowing the chain's convergence. Here, we show that controlling the degree of delocalization by adiabatically dressing the quench protocol can significantly enhance the Markov gap in paradigmatic spin-glass models.

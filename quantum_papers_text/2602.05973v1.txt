@@ -1,0 +1,5 @@
+Title: Does Cosmology require Hermiticity in Quantum Mechanics?
+Authors: Oem Trivedi, Alfredo Gurrola
+Categories: astro-ph.CO, gr-qc, hep-ph, hep-th, quant-ph
+Published: 2026-02-05 18:24:49+00:00
+Abstract: We explore the consequences of allowing non-Hermitian structures in quantum cosmology by extending the Wheeler DeWitt framework beyond strictly Hermitian dynamics. Using a controlled semiclassical reduction, we show how anti Hermitian contributions propagate into both early universe primordial fluctuations and late-time structure growth as effective damping or gain terms. Confronting this framework with inflationary observables, growth of structure and the observed near flatness of the universe, we derive strong infrared constraints that suppress non Hermiticity across cosmic history. We demonstrate that these bounds are mutually consistent between early and late-time probes and can be partially relaxed in theories beyond General Relativity. Our results establish cosmology as a novel arena for testing foundational aspects of quantum mechanics and suggest that Hermiticity may emerge dynamically along the semiclassical branch describing our universe.

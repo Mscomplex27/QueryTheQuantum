@@ -1,0 +1,5 @@
+Title: Generating large-scale Greenberger-Horne-Zeilinger-like states in lattice spin systems
+Authors: Xuanchen Zhang, Yaofeng Chen, Yong-Chun Liu
+Categories: quant-ph
+Published: 2026-02-25 12:16:31+00:00
+Abstract: Greenberger-Horne-Zeilinger (GHZ) state is a typical maximally entangled state which is pursued in both fundamental research and emerging quantum technologies. Preparing large-scale GHZ states in lattice spin systems is particularly appealing for quantum advantages, but conventional schemes face great challenges in scalability. Here we propose a universal and scalable scheme to generate large-scale GHZ-like states, which share similar entanglement and metrological properties with standard GHZ states, in lattice spin systems through global Floquet engineering. Our scheme requires only global operations and shows great advantage for large particle number. It is applicable to systems with arbitrary interaction ranges, offering a practical pathway for large-scale implementation of many-body entangled states in various systems.

@@ -1,0 +1,5 @@
+Title: On Contextuality as a Feature of Logic and Probability Theory
+Authors: Ask Ellingsen
+Categories: quant-ph, math.LO, math.PR
+Published: 2026-03-12 12:25:43+00:00
+Abstract: In quantum mechanics, not everything that can be observed can be observed simultaneously. Observational data exhibits \emph{contextuality} -- a generalisation of nonlocality -- if the result of an observation is necessarily dependent on which combination of observables was measured. This article gives a mathematical introduction to contextuality, emphasising its nature as a general feature of probability theory and logic, rather than of any particular quantum theory.

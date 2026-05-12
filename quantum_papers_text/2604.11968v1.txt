@@ -1,0 +1,5 @@
+Title: Can present be the average of the future?
+Authors: Z. Gedik
+Categories: quant-ph
+Published: 2026-04-13 19:00:16+00:00
+Abstract: We introduce a two state vector formalism of quantum mechanics by generalizing Bell's hidden variable model to higher dimensions and by attributing a physical significance (a state evolving backward in time) to the hidden variable. A simple deterministic and time symmetric rule for measurement outcomes allows us to obtain the Born rule. It turns out that probabilistic outcomes can be derived from a deterministic assignment and averaging over all possible future states traveling backward in time. The assignment rule provides an alternative statement and demonstration of the Pusey, Barrett, Rudolph theorem.

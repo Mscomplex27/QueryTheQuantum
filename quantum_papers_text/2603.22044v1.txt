@@ -1,0 +1,5 @@
+Title: Detection Time Distribution Predicted Using Absorbing Boundary Conditions and Imaginary Potentials
+Authors: Alireza Jozani, Roderich Tumulka
+Categories: quant-ph
+Published: 2026-03-23 14:43:18+00:00
+Abstract: There are several inequivalent proposals in the literature for how to compute the probability distribution of the time that a detector registers for the arrival of a quantum particle. For two of these proposals, based on absorbing boundary conditions and imaginary potentials, we compute the predicted distribution for an experimental setup involving a single non-relativistic quantum particle with spin 0 or 1/2 in a wave guide along the $z$ axis with the detector waiting downstream. We find that the distribution shows signs of partial reflection of the wave function off of the detector; for a spin-1/2 wave function, it is independent of the initial spin orientation but does depend, for boundary conditions coupling to the spin, on the width of the wave guide. We also compare our predictions with the competing ones of Das and Dürr [arXiv:1802.07141].

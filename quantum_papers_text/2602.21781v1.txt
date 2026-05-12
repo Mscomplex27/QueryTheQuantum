@@ -1,0 +1,5 @@
+Title: On some mathematical problems for open quantum systems with varying particle number
+Authors: Benedikt M. Reible, Luigi Delle Site
+Categories: math-ph, cond-mat.stat-mech, quant-ph
+Published: 2026-02-25 11:03:08+00:00
+Abstract: We derive the effective Hamiltonian $H - μN$ for open quantum systems with varying particle number from first principles within the framework of non-relativistic quantum statistical mechanics. We prove that under physically motivated assumptions regarding the size of the system and the range of the interaction, this form of the Hamiltonian is unique up to a constant. Our argument relies firstly on establishing a rigorous version of the surface-to-volume ratio approximation, which is routinely used in an empirical form in statistical mechanics, and secondly on showing that the Hilbert space for systems with varying particle number must be isomorphic to Fock space. Together, these findings provide a rigorous mathematical justification for the standard grand canonical formalism employed in statistical physics.

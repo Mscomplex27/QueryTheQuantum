@@ -1,0 +1,5 @@
+Title: Dissipative realization of a quantum distance-based classifier using open quantum walks
+Authors: Pedro Linck Maciel, Graeme Pleasance, Francesco Petruccione, Nadja K. Bernardes
+Categories: quant-ph
+Published: 2026-03-16 23:39:15+00:00
+Abstract: Open quantum walks (OQWs) constitute a class of quantum walks whose dynamics are entirely driven by interactions with the environment. It is well known that OQWs provide a general framework for implementing dissipative quantum computation. In this work, we demonstrate the feasibility of running the previously proposed quantum distance-based classifier within the open quantum walk computation model, and we show that its expected runtime remains finite even in the slower regime.

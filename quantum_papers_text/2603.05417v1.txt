@@ -1,0 +1,5 @@
+Title: All You Need is Amplifier: Spectral Imposters Without Pulse Shaping
+Authors: Valeriia Bilokon, Elvira Bilokon, Denys I. Bondar
+Categories: quant-ph
+Published: 2026-03-05 17:40:15+00:00
+Abstract: Quantum tracking control encodes the desired dynamics into a tailored driving field; here, we let the system find its own way there. We propose a real-time feedback control framework in which a proportional controller continuously corrects a simple transform-limited field based on the instantaneous mismatch between two systems' responses - producing the required control on the fly, without prior waveform design. The framework is demonstrated on two distinct examples: a single-active-electron atom, where hydrogen is driven to mimic argon's strong-field optical emission, and a Fermi-Hubbard chain, where a weakly interacting lattice reproduces the transport dynamics of a Mott-insulating reference. By shifting the control paradigm from predesigned inputs to adaptive response tracking, this approach establishes closed-loop feedback as a broadly applicable route to programmable quantum dynamics.

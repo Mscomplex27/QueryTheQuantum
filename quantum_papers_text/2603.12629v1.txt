@@ -1,0 +1,5 @@
+Title: Active quantum matter from monitored pure-state dynamics
+Authors: Jacob F. Steiner, Felix von Oppen, Reinhold Egger
+Categories: quant-ph, cond-mat.soft, cond-mat.stat-mech
+Published: 2026-03-13 03:59:44+00:00
+Abstract: Quantum many-body systems coupled to out-of-equilibrium reservoirs can behave as active matter and exhibit signs of flocking. However, the resulting steady states are highly mixed and carry only weak quantum signatures. We show that signatures of active matter also arise in ensembles of pure states undergoing monitored quantum dynamics. We consider a spinful Luttinger liquid subject to measurement processes that shuffle spin-up particles to the left and spin-down particles to the right. For weak monitoring strengths and ferromagnetic spin interactions, we find power-law quantum correlations between spin current and charge density, which we identify as a hallmark of active quantum matter. The monitoring plays a dual role, generating the quantum active correlations for weak strengths while driving a Berezinskii-Kosterlitz-Thouless (BKT) phase transition to a shortrange correlated state at larger strengths.

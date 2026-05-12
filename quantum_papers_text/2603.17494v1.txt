@@ -1,0 +1,5 @@
+Title: Anyon-Induced Criticality and Dynamical Stability in Non-Hermitian Many-Body Systems
+Authors: Yi Qin, Yee Sin Ang, Linhu Li, Ching Hua Lee
+Categories: quant-ph
+Published: 2026-03-18 08:56:07+00:00
+Abstract: We show that anyonic statistics fundamentally reshapes non-Hermitian many-body physics by intrinsically breaking pseudo-Hermiticity, leading to a unique real-complex spectral transition with characteristically dense states in Im$E$. This anyon-induced transition occurs even when bosonic and pseudofermionic counterparts remain entirely real, revealing a form of non-Hermitian criticality driven purely by exchange statistics. The resulting spectrum exhibits enhanced gaps in Im$E$ that dynamically isolate dominant eigenstates, producing anomalously stable short-time quench dynamics for anyons. Our results identify anyonic statistics as an intrinsic mechanism for generating unconventional non-Hermitian critical behavior usually associated with highly non-local systems.

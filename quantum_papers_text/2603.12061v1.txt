@@ -1,0 +1,5 @@
+Title: Critical Unstable Qubits in Particle Physics
+Authors: Dimitrios Karamitros, Thomas McKelvey, Snehit Panghal, Apostolos Pilaftsis
+Categories: quant-ph, hep-ph
+Published: 2026-03-12 15:28:18+00:00
+Abstract: We study in detail the dynamics of unstable two-level quantum systems by adopting the Bloch-vector representation. We identify a novel class of critical scenarios in which the so-called energy-level and decay-width vectors, ${\bf E}$ and ${\bfΓ}$, are orthogonal to one another, and the parameter $r = |{\bf Γ}|/(2|{\bf E}|)$ is less than~1. Most remarkably, we find that critical unstable qubit systems exhibit atypical behaviours like coherence--decoherence oscillations when analysed in an appropriately defined co-decaying frame of the system. By making use of a Fourier series decomposition, we define anharmonicity observables that quantify the degree of non-sinusoidal oscillation of a CUQ. We apply the results of our formalism to the neutral-meson systems and derive generic upper limits on these new observables. In particular, we provide a compilation table of all well-explored meson--antimeson two-level systems in terms of Bloch-sphere parameters.

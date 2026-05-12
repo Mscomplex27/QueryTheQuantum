@@ -1,0 +1,10 @@
+Title: Unentangled stoquastic Merlin-Arthur proof systems: the power of unentanglement without destructive interference
+Authors: Yupan Liu, Pei Wu
+Categories: quant-ph, cs.CC
+Published: 2026-04-30 14:04:22+00:00
+Abstract: Stoquasticity, originating in sign-problem-free physical systems, gives rise to $\sf StoqMA$, introduced by Bravyi, Bessen, and Terhal (2006), a quantum-inspired intermediate class between $\sf MA$ and $\sf AM$. Unentanglement similarly gives rise to ${\sf QMA}(2)$, introduced by Kobayashi, Matsumoto, and Yamakami (CJTCS 2009), which generalizes $\sf QMA$ to two unentangled proofs and still has only the trivial $\sf NEXP$ upper bound. In this work, we initiate a systematic study of the power of unentanglement without destructive interference via ${\sf StoqMA}(2)$, the class of unentangled stoquastic Merlin-Arthur proof systems. Although $\sf StoqMA$ is semi-quantum and may collapse to $\sf MA$, ${\sf StoqMA}(2)$ turns out to be surprisingly powerful. We establish the following results:
+  - ${\sf NP} \subseteq {\sf StoqMA}(2)$ with $\widetilde{O}(\sqrt{n})$-qubit proofs and completeness error $2^{-{\rm polylog}(n)}$. Conversely, ${\sf StoqMA}(2) \subseteq {\sf EXP}$ via the Sum-of-Squares algorithm of Barak, Kelner, and Steurer (STOC 2014); with our lower bound, our refined analysis yields the optimality of this algorithm under ETH.
+  - ${\sf StoqMA}(2)_1 \subseteq {\sf PSPACE}$, and the containment holds with completeness error $2^{-2^{{\rm poly}(n)}}$.
+  - ${\sf PreciseStoqMA}(2)$, a variant of ${\sf StoqMA}(2)$ with exponentially small promise gap, cannot achieve perfect completeness unless ${\sf EXP}={\sf NEXP}$. In contrast, ${\sf PreciseStoqMA}$ achieves perfect completeness, since ${\sf PSPACE} \subseteq {\sf PreciseStoqMA}_1$.
+  - When the completeness error is negligible, ${\sf StoqMA}(k) = {\sf StoqMA}(2)$ for $k\geq 2$.
+  Our lower bounds are obtained by stoquastizing the short-proof ${\sf QMA}(2)$ protocols via distribution testing techniques. Our upper bounds for the nearly perfect completeness case are proved via our new rectangular closure testing framework.

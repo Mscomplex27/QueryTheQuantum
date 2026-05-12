@@ -1,0 +1,5 @@
+Title: Structured-Light Magnetometry in a Coherently Controlled Atomic Medium
+Authors: Parkhi Bhardwaj, Shubhrangshu Dasgupta
+Categories: physics.atom-ph, quant-ph
+Published: 2026-03-26 16:28:08+00:00
+Abstract: A structured-light-based approach for detecting magneto-optical rotation is presented, in which polarization rotation is mapped onto a directly observable spatial degree of freedom. A radially polarized Laguerre-Gaussian beam interacts with cold $^{87}\mathrm{Rb}$ atoms in the presence of a longitudinal magnetic field, where magnetically induced circular birefringence introduces a relative phase shift between the $σ_+$ and $σ_-$ components of the field, manifesting as a rotation of the interference pattern. The MOR angle is extracted directly from the angular displacement of the petal-shaped intensity distribution, eliminating the need for polarizers or Stokes-parameter analysis. This method converts conventional polarization-based magnetometry into a topology-based spatial readout, enabling spatially resolved magnetic-field sensing with potential applications in optical magnetometry and quantum sensing.

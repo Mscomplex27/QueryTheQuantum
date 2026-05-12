@@ -1,0 +1,5 @@
+Title: Rovibrational energy levels of H$_2$O by quantum computing
+Authors: Erik Lötstedt, Tamás Szidarovszky
+Categories: quant-ph
+Published: 2026-03-06 01:01:02+00:00
+Abstract: We calculate rovibrational energy levels of H$_2$O using a trapped-ion quantum computer. We first derive the qubit form of Watson's Hamiltonian, including the rovibrational coupling terms. In a second step, we employ a variant of the quantum-selected configuration-interaction method to calculate rovibrational energy levels. A truncated form of the qubit Hamiltonian is used to generate correlated rovibrational wave functions on the quantum computer by time evolution, and a basis set is selected by sampling from the measured probability distribution. The rovibrational energy levels are obtained by constructing a Hamiltonian matrix using the selected basis set, and diagonalizing the matrix using a classical computer. We show that an accuracy of a few cm$^{-1}$ can be achieved for low-lying rovibrational energy levels.

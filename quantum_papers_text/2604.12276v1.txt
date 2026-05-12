@@ -1,0 +1,5 @@
+Title: Periodic dynamics in an Ising chain with a quadratic transverse field
+Authors: H. P. Zhang, Z. Song
+Categories: quant-ph
+Published: 2026-04-14 04:38:01+00:00
+Abstract: A quadratic well plays a central role in a wide variety of modern physical theories and applications. In this work, we investigate many-body dynamics in a quadratic well, using an Ising chain as a paradigmatic example. In contrast to a uniform Ising chain, where the quantum phase transition is driven by the field strength, the present system exhibits spatially varying quantum phases along the chain. Through analysis of the Majorana representation, we obtain exact solutions for localized modes, revealing a topologically degenerate spectrum in the thermodynamic limit. In the case of a finite-size quantum phase region, the Kramers-like degeneracy is lifted by a constant shift, leading to periodic oscillations for a finite-temperature thermal initial state. Numerical simulations of the magnetization, local density of state, and quench fidelity support our conclusions. Our findings enrich the understanding of many-body dynamics in a trapping field.

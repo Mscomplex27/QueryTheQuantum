@@ -1,0 +1,5 @@
+Title: Pure narrowband photon-pair generation in a monolithic cavity
+Authors: Xavier Barcons Planas, Helen M. Chrzanowski, Janik Wolters
+Categories: quant-ph
+Published: 2026-02-04 15:19:15+00:00
+Abstract: Photonic quantum technologies require efficient sources of pure single photons. Here we present a heralded SPDC single-photon source in a monolithic cavity optimized for high spectral and spatial purity. The source heralds single-photons at a wavelength of 1540 nm and a spectral bandwidth of 168 MHz with a maximum heralding efficiency of 84%, while keeping the multi-photon contamination below 3%. The cavity enhancement generates photons mainly in the central cavity mode with 96.2% spectral purity.

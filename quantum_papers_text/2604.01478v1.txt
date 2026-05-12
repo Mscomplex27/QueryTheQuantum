@@ -1,0 +1,5 @@
+Title: Twisted Fiber Bundle Codes over Group Algebras
+Authors: Chaobin Liu
+Categories: quant-ph
+Published: 2026-04-01 23:35:28+00:00
+Abstract: We introduce a twisted fiber-bundle construction of quantum CSS codes over group algebras \(R=\mathbb F_2[G]\), where each base generator carries a generator-dependent \(R\)-linear fiber twist satisfying a flatness condition. This construction extends the untwisted lifted product code, recovered when all twists are identities. We show that invertible twists (satisfying a flatness condition) give a complex chain-isomorphic to the untwisted one, so the resulting binary CSS codes have the same blocklength \(n\) and encoded dimension \(k\). In contrast, singular chain-compatible twists can lower boundary ranks and increase the number of logical qubits. Examples over \(R=\mathbb F_2[D_3]\) show that the twisted fiber bundle code can outperform the corresponding untwisted lifted-product code in \(k\) while keeping the same \(n\) and, in our examples, the same minimum distance \(d\).

@@ -1,0 +1,5 @@
+Title: Bosonization, vertex operators and maximal violation of the Bell-CHSH inequality in wedge regions
+Authors: J. G. A. Caribé, M. S. Guimaraes, I. Roditi, S. P. Sorella
+Categories: hep-th, math-ph, quant-ph
+Published: 2026-04-20 17:08:32+00:00
+Abstract: It is pointed out that the vertex operators of a chiral boson in 1+1 dimensions provide an explicit realization of dichotomic, bounded, Hermitian operators that saturate the Tsirelson bound of the Bell-CHSH inequality in the vacuum state.

@@ -1,0 +1,8 @@
+Title: Certifying and learning local quantum Hamiltonians
+Authors: Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Junseo Lee, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin
+Categories: quant-ph, cs.CC, cs.DS
+Published: 2026-03-31 14:38:38+00:00
+Abstract: In this work, we study the problems of certifying and learning quantum $k$-local Hamiltonians, for a constant $k$. Our main contributions are as follows:
+  - Certification of Hamiltonians. We show that certifying a local Hamiltonian in normalized Frobenius norm via access to its time-evolution operator can be achieved with only $O(1/\varepsilon)$ evolution time. This is optimal, as it matches the Heisenberg-scaling lower bound of $Ω(1/\varepsilon)$. To our knowledge, this is the first optimal algorithm for testing a Hamiltonian property. A key ingredient in our analysis is the Bonami Hypercontractivity Lemma from Fourier analysis.
+  - Learning Gibbs states. We design an algorithm for learning Gibbs states of local Hamiltonians in trace norm that is sample-efficient in all relevant parameters. In contrast, previous approaches learned the underlying Hamiltonian (which implies learning the Gibbs state), and thus inevitably suffered from exponential sample complexity scaling in the inverse temperature.
+  - Certification of Gibbs states. We give an algorithm for certifying Gibbs states of local Hamiltonians in trace norm that is both sample and time-efficient in all relevant parameters, thereby solving a question posed by Anshu (Harvard Data Science Review, 2022).

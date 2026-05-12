@@ -1,0 +1,8 @@
+Title: Query Learning Nearly Pauli Sparse Unitaries in Diamond Distance
+Authors: Zahra Honjani, Mohsen Heidari
+Categories: quant-ph, cs.IT
+Published: 2026-03-31 20:13:10+00:00
+Abstract: We study the problem of learning nearly $(s,ε)$-sparse unitaries, meaning that the Pauli spectrum is concentrated on at most $s$ components with at most $ε$ residual mass in Pauli $\ell_1$-norm. This class generalizes well-studied families, including sparse unitaries, quantum $k$-juntas, $2^k$-Pauli dimensional channels, and compositions of depth $O(\log\log n)$ circuits with near-Clifford circuits.
+  Given query access to an unknown nearly sparse unitary $U$, our goal is to efficiently (both in time and query complexity) construct a quantum channel that is close in diamond distance to $U$. We design a learning algorithm achieving this guarantee using $\tilde{O}(s^6/ε^4)$ forward queries to $U$, and running time polynomial in relevant parameters.
+  A key contribution is an efficient quantum algorithm that, given query access to an arbitrary unknown unitary $U$, estimates all Pauli coefficients (up to a shared global phase) whose magnitude exceeds a given threshold $θ$, extending existing sparse recovery techniques to general unitaries.
+  We also study the broader class of unitaries with bounded Pauli $\ell_1$-norm. For that class, we prove an exponential query lower bound $Ω(2^{n/2})$. We introduce a more relaxed accuracy metric which is the diamond distance restricted to a set of input states. Then, we show that, under this metric, unitaries with Pauli $\ell_1$-norm uniformly bounded by $L_1$ are learnable with $\tilde{O}(L_1^8/ε^{16})$.

@@ -1,0 +1,5 @@
+Title: A Conceptual Technology-Dependent Framework of Ternary Quantum Gates
+Authors: Ali Al-Bayaty
+Categories: quant-ph
+Published: 2026-04-25 10:34:18+00:00
+Abstract: This paper introduces a conceptual framework of technology-dependent ternary quantum gates that could be implemented and fabricated into future superconducting and photonic quantum systems for operating 3-valued quantum bits (qutrits). The "technology-dependent" means that such ternary quantum gates are on-purpose designed analogy to the contemporary binary quantum gates. Conceptually, the final built technology-dependent one-, two-, and three-qutrit gates are Chrestenson, Z3, 01, 02, 12, +1, +2 (including their corresponding inverse and controlled gates), a non-phase relative SWAP gate, and a cost-effective Toffoli gate, which is a generic ternary Galois Field (GF3) multiplication and addition circuit.

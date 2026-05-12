@@ -1,0 +1,5 @@
+Title: Anomalous localization and duality in non-Hermitian quasiperiodic models
+Authors: Wenzhi Wang, Tianyu Li, Wei Yi
+Categories: quant-ph, cond-mat.dis-nn
+Published: 2026-03-18 06:25:50+00:00
+Abstract: Boundary conditions can have dramatic impact in non-Hermitian systems, as exemplified by the non-Hermitian skin effect. Focusing on one-dimensional non-Hermitian quasiperioidic lattices, we show that the interplay of quasiperiodicity and the non-Hermitian skin effect leads to counterintuitive localization properties. On the one hand, for Anderson localized states under the periodic boundary condition, we find that their localization features can be boundary-sensitive, which originates from the incompatibility of the periodic boundary condition with quasiperiodicity. On the other hand, for non-localized states, the well-known extended-localized duality relation can break down, as their counterparts in the dual model can also be nonlocal. We discuss how these remarkable phenomena can be engineered and analyzed from the perspective of Lyapunov exponents. Our findings shed new light on localization in non-Hermitian quasiperiodic systems.

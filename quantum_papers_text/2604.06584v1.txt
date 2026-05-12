@@ -1,0 +1,5 @@
+Title: Deterministic linear-optical computing with symmetry-based qubits
+Authors: David S. Simon, Christopher R. Schwarze, Anthony D. Manni, Abdoulaye Ndao, Alexander V. Sergienko
+Categories: quant-ph
+Published: 2026-04-08 02:12:17+00:00
+Abstract: A particular type of linear optical multiport, the Grover four-port, has previously been shown to couple the spatial symmetry of a photon to its direction of travel. It is shown here that use of a nonstandard choice of qubit, based on symmetry, allows Grover four ports to act as compact, low-resource deterministic linear optical controlledNOTgates, with no post-selection or ancilla measurements required. This approach allows programmable devices, made from Grover multiports in combination with other standard optical components, that can implement multiple different one-, two-, and three-qubit gates, including the Fredkin and Toffoli gates.

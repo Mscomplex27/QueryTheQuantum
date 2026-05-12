@@ -1,0 +1,5 @@
+Title: Comment on "Extension of the adiabatic theorem"
+Authors: Jie Gu
+Categories: cond-mat.stat-mech, quant-ph
+Published: 2026-04-07 01:06:16+00:00
+Abstract: Phys. Rev. B 113, 165102 (2026) proposed the conjecture that, for quantum quenches within the same phase, the overlap between the initial ground state and postquench eigenstates is maximal for the postquench ground state. We show that this conjecture is not valid in general. An explicit local, translationally invariant, gapped free-fermion counterexample exists even though the pre- and postquench Hamiltonians are connected by a symmetry-preserving gapped path and the thermodynamic-limit spectrum is continuous.

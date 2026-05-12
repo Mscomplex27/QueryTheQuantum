@@ -1,0 +1,5 @@
+Title: Learning Quantum Operator Dynamics from Short-Time Data
+Authors: Jinyang Li, Satoshi Iso, Shunji Matsuura, Lingxiao Wang, Xiaoyang Wang
+Categories: quant-ph
+Published: 2026-03-16 01:12:39+00:00
+Abstract: Real-time dynamics of quantum observables provide direct access to excitation spectra and correlation functions in quantum many-body systems, but currently available quantum devices are limited to short evolution times due to decoherence. We propose a neural ordinary differential equation (Neural ODE) framework with physics-driven designs to reconstruct long-time operator dynamics from short-time measurements. By expanding observables in the Pauli basis and exploiting locality and symmetry constraints, the operator evolution is reduced to a tractable set of coefficients whose dynamics are learned from data. Applied to the transverse-field Ising model, the method accurately extrapolates long-time behavior and resolves excitation spectra from noisy short-time signals. Our results demonstrate a scalable and data-efficient strategy for extracting dynamical and spectral information from practical quantum hardware.

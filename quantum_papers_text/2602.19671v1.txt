@@ -1,0 +1,5 @@
+Title: Magnon squeezing in the quantum regime
+Authors: Yuan-Chao Weng, Da Xu, Zhen Chen, Li-Zhou Tan, Xu-Ke Gu, Jie Li, Hai-Feng Yu, Shi-Yao Zhu, Xuedong Hu, Franco Nori, J. Q. You
+Categories: quant-ph
+Published: 2026-02-23 10:17:17+00:00
+Abstract: Squeezed states, crucial for quantum metrology and emerging quantum technologies, have been demonstrated in various platforms, but quantum squeezing of magnons in macroscopic spin systems remains elusive. Here we report the experimental observation of quantum-level magnon squeezing in a millimeter-scale yttrium iron garnet (YIG) sphere. By engineering a strong dispersive magnon-superconducting qubit coupling via a microwave cavity, we implement a significant self-Kerr nonlinearity to generate squeezed magnon states with their mean magnon number less than one. Harnessing a magnon-assisted Raman process, we perform Wigner tomography, revealing quadrature variances of $\sim\!0.8$ ($\sim\!1.0$~dB squeezing) relative to the vacuum. These results lay the groundwork for quantum nonlinear magnonics and promise potential applications in quantum metrology.

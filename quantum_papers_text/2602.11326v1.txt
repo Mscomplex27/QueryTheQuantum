@@ -1,0 +1,6 @@
+Title: Multi-ion entangling gates mediated by spectrally unresolved modes
+Authors: Modesto Orozco-Ruiz, Florian Mintert
+Categories: quant-ph
+Published: 2026-02-11 19:57:33+00:00
+Abstract: Entangling interactions between distant qubits can be mediated via an additional degree of freedom. In conventional trapped-ion schemes, realizing a well-defined, coherent gate typically requires spectrally addressing a specific bus mode. As the ion number increases, the coupling to each individual motional mode becomes weaker, so gates on large ion strings mediated by a single mode are necessarily slow. Moreover, addressing a large number of modes demands complex driving schemes, and the fundamentally perturbative character of these approaches imposes constraints on achievable gate speed and fidelity.
+  Here, we introduce a scheme for entangling trapped-ion qubits using a time-dependent magnetic-field gradient, in which all axial motional modes participate in mediating the interaction and the gate construction is nonperturbative. The framework can be used to implement both multi-qubit gates and two-qubit gates between arbitrary pairs in a linear ion string. Through several explicit examples, we highlight the advantages over existing magnetic-gradient schemes and show how gates on multiple ion pairs can be carried out simultaneously.

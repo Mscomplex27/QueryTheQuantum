@@ -1,0 +1,5 @@
+Title: Quantitative Universal Approximation for Noisy Quantum Neural Networks
+Authors: Lukas Gonon, Antoine Jacquier, Marcel Mordarski
+Categories: quant-ph, math.NA, q-fin.PR
+Published: 2026-04-02 13:58:49+00:00
+Abstract: We provide here a universal approximation theorem with precise quantitative error bounds for noisy quantum neural networks. We focus on applications to Quantitative Finance, where target functions are often given as expectations. We further provide a detailed numerical analysis, testing our results on actual noisy quantum hardware.

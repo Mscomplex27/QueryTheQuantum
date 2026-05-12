@@ -1,0 +1,5 @@
+Title: Quantum-Channel Matrix Optimization for Holevo Bound Enhancement
+Authors: Hong Niu, Chau Yuen, Alexei Ashikhmin, Lajos Hanzo
+Categories: quant-ph, cs.IT
+Published: 2026-02-19 04:15:03+00:00
+Abstract: Quantum communication holds the potential to revolutionize information transmission by enabling secure data exchange that exceeds the limits of classical systems. One of the key performance metrics in quantum information theory, namely the Holevo bound, quantifies the amount of classical information that can be transmitted reliably over a quantum channel. However, computing and optimizing the Holevo bound remains a challenging task due to its dependence on both the quantum input ensemble and the quantum channel. In order to maximize the Holevo bound, we propose a unified projected gradient ascent algorithm to optimize the quantum channel given a fixed input ensemble. We provide a detailed complexity analysis for the proposed algorithm. Simulation results demonstrate that the proposed quantum channel optimization yields higher Holevo bounds than input ensemble optimization.

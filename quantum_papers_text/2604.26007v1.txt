@@ -1,0 +1,5 @@
+Title: Quantum mechanical bootstrap without inequalities: SYK bilinear spectrum
+Authors: Kok Hong Thong, David Vegh
+Categories: hep-th, quant-ph
+Published: 2026-04-28 18:00:03+00:00
+Abstract: We study a quantum mechanical system whose spectrum coincides with that of bilinear operators of the Sachdev-Ye-Kitaev model. The standard positivity-based quantum mechanical bootstrap is degenerate with respect to the boundary data: it does not distinguish the boundary conditions that select the SYK spectrum, and hence is insufficient to determine the eigenvalues. Instead, by considering fractional powers of operators, we obtain constraint equations that determine the spectrum without imposing positivity. The resulting roots converge to exact eigenvalues as the truncation order increases. We call this the direct bootstrap.

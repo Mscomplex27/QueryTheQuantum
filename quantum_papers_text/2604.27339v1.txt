@@ -1,0 +1,5 @@
+Title: Fixed-PVM Born Rule Uniqueness from Fisher Non-Expansion and Operational Calibration
+Authors: Aaron Lax
+Categories: quant-ph
+Published: 2026-04-30 02:31:19+00:00
+Abstract: Fix a finite dimension $d \geq 2$ and a fixed rank-1 PVM $M=\{|e_1\rangle\langle e_1|,\ldots,|e_d\rangle\langle e_d|\}$ on ${\bf C}^d$. Let $P_M:\mathbb{CP}^{d-1}\toΔ^{d-1}$ be a readout map on pure states. We prove that three primitives force the Born rule for this fixed measurement: (i) square-root regularity of $R_M=\sqrt{P_M}$ along Fubini-Study geodesics, (ii) the universal readout Cramer-Rao bound $F_{\rm cl}\leq F_Q$ on smooth pure-state curves, and (iii) operational calibration on basis preparations $P_M([e_i])=δ_i$. The geometric core is a rigidity theorem for Fisher-non-expanding self-maps of the probability simplex: after conjugation by the square-root chart, such maps become round-metric 1-Lipschitz self-maps of the positive spherical orthant, and vertex fixing forces the identity. The main readout theorem is dimensionwise, fixed-PVM, and pure-state only. Escort-class Born uniqueness and the Markov/coarse-graining routes appear as corollaries or alternative routes.

@@ -1,0 +1,5 @@
+Title: Classical shadows for non-iid quantum sources
+Authors: Leonardo Zambrano
+Categories: quant-ph
+Published: 2026-03-05 13:05:28+00:00
+Abstract: Classical shadow tomography has emerged as a powerful framework for predicting properties of quantum many-body systems with favorable sample complexity. Standard theoretical guarantees, however, rely on the assumption that experimental rounds are independent and identically distributed (i.i.d.). This idealization is often violated in practice, where parameter drift, environmental noise, and active feedback generate history-dependent sequences of states or channels. To address this, we introduce a robust classical shadow protocol based on a truncated mean estimator. We prove that its sample complexity for predicting properties of the time-averaged state or channel matches the standard i.i.d. scaling governed by the shadow norm, even when experimental rounds depend arbitrarily on the past. Our results establish the robustness of the shadow formalism beyond the i.i.d. regime.

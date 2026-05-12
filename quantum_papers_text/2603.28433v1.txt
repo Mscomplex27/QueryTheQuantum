@@ -1,0 +1,5 @@
+Title: Phase statistics of a single qubit emission as a direct probe of its coherence
+Authors: A. Sultanov, E. Mutsenik, L. Kaczmarek, M. Schmelz, G. Oelsner, R. Stolz, E. Il'ichev
+Categories: quant-ph
+Published: 2026-03-30 13:40:39+00:00
+Abstract: The emission of photon from an individual atom encodes the phase of its initialized quantum state. Using single-shot heterodyne detection, we measure the phase distribution of the emission from a superconducting transmon qubit in an open waveguide configuration and track its evolution over time. We demonstrate that the presence of a quantum superposition is encoded in the phase statistics of the emission and remains resolvable despite a high noise level. These phase statistics serve as a quantitative probe of the qubit coherence. The decay of the emission envelope with increasing integration time reveals the energy relaxation rate of the emitted wavepacket, while phase distribution broadening tracks pure dephasing processes. We thereby establish a direct link between the decoherence dynamics of an open quantum system and the statistical properties of its radiated field.

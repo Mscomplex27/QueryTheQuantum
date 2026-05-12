@@ -1,0 +1,5 @@
+Title: Scalable topological quantum computing based on Sine-Cosine chain models
+Authors: A. Lykholat, G. F. Moreira, I. R. Martins, D. Sousa, A. M. Marques, R. G. Dias
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-03-26 22:46:37+00:00
+Abstract: This work proposes a scalable framework for topological quantum computing using Matryoshka-type Sine-Cosine chains. These chains support high-dimensional qudit encoding within single systems, reducing the physical resource overhead compared to conventional qubit arrays. We describe how these chains can be used in Y-junction braiding protocols for gate operations and in extended memory architectures capable of storing multiple qubits simultaneously. Fidelity analysis shows partial topological protection against disorder, suggesting this approach is a possible pathway toward low-overhead quantum hardware.

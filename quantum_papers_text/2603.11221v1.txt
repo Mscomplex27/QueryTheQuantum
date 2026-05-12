@@ -1,0 +1,5 @@
+Title: Higher-Order Quantum Objects are Strong Profunctors
+Authors: Matt Wilson, James Hefford
+Categories: quant-ph, math.CT
+Published: 2026-03-11 18:35:59+00:00
+Abstract: We explore the sense in which the existing constructions for higher-order maps on quantum theory based on causality constraints and compositionality constraints respectively, coincide. More precisely, we construct a functor F : Caus(C) -> StProf(C1) from higher-order causal categories to the category of strong profunctors over first-order causal processes that is lax-lax duoidal, full, faithful, and strongly closed whenever C is additive. When C = CP this embedding is furthermore strong on the sequencer for duoidal categories, expressing the possibility to interpret one-way signalling (but not general non-signalling) constraints in terms of the coend calculus for profunctors. We conclude that insofar as compositional constraints can be used to express causality constraints, the profunctorial approach generalises higher-order quantum theory to a construction over general symmetric monoidal categories.

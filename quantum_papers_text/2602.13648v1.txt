@@ -1,0 +1,5 @@
+Title: Comment on "Evolution Operator Can Always Be Separated into the Product of Holonomy and Dynamic Operators"
+Authors: Adam Fredriksson, Erik Sjöqvist
+Categories: quant-ph
+Published: 2026-02-14 07:41:37+00:00
+Abstract: We show that the claim in Ref. [PRL 131, 200202 (2023)], that the quantum time evolution always can be written as a product of a holonomy operator and a dynamic operator, is false, as it is based on a circular use of the time evolution operator.

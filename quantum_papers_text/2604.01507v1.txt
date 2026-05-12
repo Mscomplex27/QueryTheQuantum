@@ -1,0 +1,9 @@
+Title: The Quantum Walk Characteristic Polynomial Distinguishes All Strongly Regular Graphs of Prime Orde
+Authors: Diego Roldan
+Categories: quant-ph, math.CO
+Published: 2026-04-02 00:40:31+00:00
+Abstract: Let $G$ be a strongly regular graph of prime order $p$ with connection degree $k \geq 6$. We prove that the \emph{quantum walk characteristic polynomial} $χ_q(G,λ) \coloneqq \det(λI - U_G)$, where $U_G$ is the coined quantum walk operator on $G$, completely determines $G$ up to isomorphism within the class of strongly regular graphs of the same order.
+  The proof proceeds in three steps. First, we show that $U_G$ block-diagonalizes under the discrete Fourier transform over $\Z_p$, yielding $p$ blocks $U_G^{(j)}$ of size $k \times k$. Second, we prove an explicit formula \[
+  χ_q\!\bigl(U_G^{(j)}, λ\bigr) =
+  (λ-1)^{(k-2)/2}(λ+1)^{(k-2)/2}
+  \!\left(λ^2 - \tfrac{2\widehat{A}_G(j)}{k}\,λ+ 1\right), \] from which the Fourier coefficient $\widehat{A}_G(j)$ is recovered as the unique real part of an eigenvalue of $U_G^{(j)}$ distinct from $\pm 1$. Third, the inverse discrete Fourier transform recovers the connection set $S$ of $G$, and Turner's theorem (1967) identifies $G$ up to isomorphism. As a consequence, graph isomorphism is decidable in polynomial time within this class using the quantum walk spectrum, without resorting to the general quasi-polynomial algorithm of Babai (2016).

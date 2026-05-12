@@ -1,0 +1,5 @@
+Title: Exploring pathways towards quantum advantage in quantum chemistry: the case of a molecule with half-Möbius topology
+Authors: Samuele Piccinelli, Stefano Barison, Alberto Baiardi, Francesco Tacchino, Jascha Repp, Igor Rončević, Florian Albrecht, Harry L. Anderson, Leo Gross, Alessandro Curioni, Ivano Tavernelli
+Categories: quant-ph
+Published: 2026-03-09 17:55:39+00:00
+Abstract: We report quantum chemistry calculations performed on superconducting quantum processors for a molecule exhibiting the half-Möbius electronic topology originally introduced by Rončević et al. Using SqDRIFT, a randomized sample-based Krylov quantum diagonalization algorithm, we achieve reliable quantum simulations on active spaces corresponding to 36 orbitals (72 qubits) and extend previous studies up to 50 orbitals (100 qubits). We demonstrate that a systematic increase of active space sizes, which has a concrete impact on the accuracy of the electronic structure description, is achievable with state-of-the-art quantum processors, thus offering a promising path towards practically relevant quantum-assisted electronic-structure calculations.

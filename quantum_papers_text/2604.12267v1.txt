@@ -1,0 +1,5 @@
+Title: Quantum Chaos and Quantum Information: Interactions and Implications
+Authors: Arul Lakshminarayan, Karol Życzkowski
+Categories: quant-ph, nlin.CD
+Published: 2026-04-14 04:31:31+00:00
+Abstract: The notion of Shannon entropy is crucial for the theory of classical information. In quantum information theory, an analogous key role is played by the von Neumann entropy: quantum information processing is closely related to entropy dynamics. This reveals a direct link with the theory of quantum chaotic systems, which can be characterized by a positive entropy production. Furthermore, noise, which inevitably affects any quantum system, can be modeled by a random quantum operation or by coupling to an environment in a generic chaotic state. In this contribution, we emphasize the universality of quantum chaotic dynamics and discuss its implications for quantum information processing.

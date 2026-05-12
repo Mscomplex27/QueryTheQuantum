@@ -1,0 +1,5 @@
+Title: Utility of NISQ devices: optimizing experimental parameters for the fabrication of Au atomic junction using gate-based quantum computers
+Authors: Takumi Kanezashi, Daisuke Tsukayama, Jun-ichi Shirakashi, Tetsuo Shibuya, Hiroshi Imai
+Categories: quant-ph
+Published: 2026-04-14 10:23:58+00:00
+Abstract: Feedback-controlled electromigration (FCE) enables precise regulation of atomic migration by carefully optimizing multiple experimental parameters. However, manually fine-tuning these parameters poses significant challenges. This study investigated the feasibility of autonomously fabricating Au atomic junctions through gate-based quantum computing using a noisy intermediate-scale quantum (NISQ) device, which effectively approximates solutions to combinatorial optimization problems. We compared the computational accuracy of the NISQ device against a previously reported D-Wave quantum annealer. The results indicate that the NISQ device achieved lower residual energies and produced higher-quality approximate solutions for large-scale problems than the quantum annealing system.

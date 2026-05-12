@@ -1,0 +1,5 @@
+Title: Some effective operators for graphene monolayer superlattices, from variational perturbation theory
+Authors: Louis Garrigue
+Categories: math-ph, cond-mat.mtrl-sci, quant-ph
+Published: 2026-02-22 13:31:09+00:00
+Abstract: Our goal is to provide precise effective operators for monolayer graphene at Fermi energy. We consider the microscopic potential created by a lattice, and add a macroscopic potential with the same periodicity but varying at a scale $\varepsilon^{-1} \in \mathbb{N}$, creating a superlattice. Our approach consists in coupling the variational approximation, perturbation theory together with a multiscale method. At the effective level the usual massless Dirac operator is replaced by other operators, and we provide simulations in the case of graphene.

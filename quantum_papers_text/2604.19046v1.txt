@@ -1,0 +1,5 @@
+Title: A first approach to the open dynamics of bipartite systems
+Authors: M. Salado-Mejía
+Categories: quant-ph
+Published: 2026-04-21 03:52:53+00:00
+Abstract: In this work, we review the open quantum dynamics of the most known bipartite systems, such as the qubit-qubit system, the oscillator-oscillator system, and the qubit-oscillator system. First, we compare each system with and without rotating wave approximation. In this analysis, we observe the influence of the counter-rotating term in the system dynamics. Also, we compare and analyze the resulting dynamics of the three bipartite systems where, due to the nature of each system, different dynamics are observed, but some similarities are also observed between them. To obtain the system dynamics, we use the same platform, the Qutip Toolbox starting from the phenomenological master equation of each system. We made the latter have the same platform for comparison. We attach the codes to generate these dynamics.

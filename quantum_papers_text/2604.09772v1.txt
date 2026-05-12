@@ -1,0 +1,5 @@
+Title: Leggett-Garg Inequality Violations Bound Quantum Fisher Information
+Authors: Nick Abboud, Yuntao Guan, Barry Bradlyn, Jorge Noronha
+Categories: quant-ph, cond-mat.stat-mech, hep-th
+Published: 2026-04-10 18:00:34+00:00
+Abstract: We prove that a violation of a Leggett-Garg inequality for bounded observables in stationary pure states and thermal states yields a rigorous lower bound on the quantum Fisher information. This turns a qualitative foundations test of realism in quantum systems into a quantitative witness of useful quantum sensitivity and, in the collective setting, into a lower bound on multipartite entanglement depth in many-body systems. We further demonstrate that Leggett-Garg violations are constrained by the same spectral moments, susceptibilities, and $f$-sum-rule bounds that organize many-body response. Our results show that temporal correlations of a single collective observable can serve as an experimentally accessible witness of many-body quantum coherence, without requiring full state reconstruction.

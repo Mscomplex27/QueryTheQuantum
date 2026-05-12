@@ -1,0 +1,5 @@
+Title: Ground state and persistent oscillations in the quantum East model
+Authors: Adway Kumar Das, Achilleas Lazarides
+Categories: quant-ph
+Published: 2026-02-26 19:00:01+00:00
+Abstract: For the 1D quantum East model with open boundaries, we show that in the limit $s \to -\infty$, the ground state is accurately captured by a simple spin-coherent product state. We further identify a low-entanglement excited eigenstate that differs from the ground state only by a $π$-rotation of the boundary spin, remaining well approximated by a spin-coherent state. For a range of $-\infty<s<0$, the edge-coherent product state overlaps with two eigenstates separated by a size-independent energy gap, leading to persistent coherent oscillations of both global and local observables in the thermodynamic limit. These oscillations originate from boundary physics and are distinct from quantum many-body scars or hypercube-like Fock-space mechanisms.

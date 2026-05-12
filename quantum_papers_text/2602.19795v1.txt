@@ -1,0 +1,5 @@
+Title: Floquet product mode and eigenphase order
+Authors: Felix Möckel, Harald Schmid, Felix von Oppen
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-02-23 12:50:56+00:00
+Abstract: We study the robustness of the Floquet quantum Ising model against integrability-breaking perturbations, focusing on the phase hosting both Majorana zero and $π$ modes. A recent work [Phys. Rev. B 110, 075117, (2024)] observed that the Floquet product mode, a composite edge mode constructed from both Majorana operators, is considerably more robust than the individual Majorana edge modes. We analyze these strong modes from the point of view of the eigenphase order present in finite chains with open boundary conditions. As a result of the Majorana modes, all Floquet eigenstates come in quadruplets in the integrable limit. We show that the robustness of the various modes as well as the behavior of the boundary spin correlation functions can be understood in terms of the spectral statistics of these quadruplets in the presence of integrability-breaking perturbations.

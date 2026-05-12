@@ -1,0 +1,5 @@
+Title: Topological Optical Chirality Dichroism
+Authors: Wojciech J. Jankowski, Giandomenico Palumbo, Robert-Jan Slager
+Categories: cond-mat.mes-hall, physics.optics, quant-ph
+Published: 2026-03-30 17:55:38+00:00
+Abstract: We report on a universal topological dichroism of chiral three-dimensional systems in response to the chirality of light. We show that chiral topological invariants result in integer-quantized dichroic excitation rate differences. Moreover, we demonstrate that such topological effects arise more generally from coupling optical chirality to higher tensor Berry curvatures and Dixmier-Douady invariants of quantum states, including Hopf indices. We finally propose an experimental setup that leverages superchiral light as a smoking-gun probe of chiral band topologies in three-dimensional materials. Our findings establish an optical route for probing to date unobserved chiral electronic band topologies.

@@ -1,0 +1,5 @@
+Title: Tunable many-body burst in isolated quantum systems
+Authors: Shozo Yamada, Akihiro Hokkyo, Masahito Ueda
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-02-10 11:20:44+00:00
+Abstract: Thermalization in isolated quantum many-body systems can be nonmonotonic, with its process dependent on an initial state. We propose a numerical method to construct a low-entangled initial state that creates a "burst" -- a transient deviation of an observable from its thermal equilibrium value -- at a designated time. We apply this method to demonstrate that a burst of magnetization can be realized for a nonintegrable mixed-field Ising chain on a timescale comparable to the onset of quantum scrambling. Contrary to the typical spreading of information in this regime, the created burst is accompanied by a slow or even negative entanglement growth. Analytically, we show that a burst becomes probabilistically rare after a long time. Our results suggest that a nonequilibrium state is maintained for an appropriately chosen initial state until scrambling becomes dominant. These predictions can be tested with programmable quantum simulators.

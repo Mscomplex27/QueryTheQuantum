@@ -1,0 +1,5 @@
+Title: Entanglement-assisted Hamiltonian dynamics learning
+Authors: Ayaka Usui, Guillermo Abad-López, Hari krishnan SV, Anna Sanpera, Some Sankar Bhattacharya
+Categories: quant-ph
+Published: 2026-02-17 19:00:02+00:00
+Abstract: Approximating the dynamics given by a complex many-body Hamiltonian with a simpler effective model lies at the interface of quantum Hamiltonian learning and quantum simulation. In this context, quantum generative adversarial networks (QGANs) have been shown to outperform standard Trotter-based approximations. However, their performance is often hindered by training plateaus and local minima that become increasingly severe with system size. To overcome these limitations, we propose an entanglement-assisted learning strategy that couples a single randomly initialized auxiliary qubit to the learning system at an intermediate stage of the training process. The interplay between randomization and entanglement significantly enhances the learning performance of the protocol.

@@ -1,0 +1,5 @@
+Title: Negative Hybridization: a Potential Cure for Braiding with Imperfect Majorana Modes
+Authors: Cole Peeters, Themba Hodge, Stephan Rachel
+Categories: cond-mat.mes-hall, cond-mat.supr-con, quant-ph
+Published: 2026-02-09 19:00:19+00:00
+Abstract: Majorana zero modes, the elementary building blocks for the quantum bits of topological quantum computers, are known to suffer from hybridization as their wavefunctions begin to overlap. This breaks the ground state degeneracy, splitting their energy levels and leading to an accumulation of error when performing topological quantum gates. Here we show that the energy splitting of the Majorana zero modes can become negative, which can be utilized to reduce the average hybridization energy of the total gate. We present two illustrative examples where negative hybridization suppresses gate errors to such an extent that they remain below the fault-tolerance threshold. As an intrinsic property of Majorana zero modes, negative hybridization enables systems based on imperfect Majorana zero modes to regain functionality for quantum information processing.

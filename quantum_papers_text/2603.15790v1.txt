@@ -1,0 +1,5 @@
+Title: Hubbard model at U=$\infty$: Role of single and two-boson fluctuations
+Authors: Debanand Sa, Anirban Dutta
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-03-16 18:15:44+00:00
+Abstract: We have developed a semi-analytical framework formulated in the canonical fermion representation to investigate strongly correlated electron systems. We consider the U=$\infty$ Hubbard model and used the equation of motion method to calculate the fermion self-energy which has two parts: single and two-boson exchange processes. The emergent bosons here are self-generated local charge and spin-density fluctuations which become strongly time-dependent due to extreme correlations. The computed boson spectral density is a diffusive damped mode with a long tail. The electron self-energy at $d=\infty$ is computed self-consistently. The corresponding fermionic spectral density displays a pronounced coherence peak at $ω=0$, while its frequency derivative develops a two-peak structure at finite $ω$. The resistivity shows a linear temperature dependence over a broad range, crossing over to coherent Fermi-liquid behavior at extremely low temperatures.

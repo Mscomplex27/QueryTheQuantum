@@ -1,0 +1,5 @@
+Title: The Hidden Nature of Non-Markovianity
+Authors: Jihong Cai, Advith Govindarajan, Marius Junge
+Categories: quant-ph, math.DS, math.OC
+Published: 2026-02-19 18:47:28+00:00
+Abstract: The theory of open quantum systems served as a tool to prepare entanglement at the beginning stage of quantum technology and more recently provides an important tool for state preparation. Dynamics given by time dependent Lindbladians are Markovian and lead to decoherence, decay of correlation and convergence to equilibrium. In contrast Non-Markovian evolutions can outperform their Markovian counterparts by enhancing memory. In this letter we compare the trajectories of Markovian and Non-Markovian evolutions starting from a fixed initial value. It turns out that under mild assumptions every trajectory can be obtained from a family of time dependent Lindbladians. Hence Non-Markovianity is invisible if single trajectories are concerned.

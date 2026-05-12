@@ -1,0 +1,5 @@
+Title: Extending UNIQuE: Quantum Simulation Speedup for the HHL Algorithm
+Authors: Reece Robertson, Ameya Bhave
+Categories: quant-ph, cs.MS
+Published: 2026-04-28 02:53:15+00:00
+Abstract: In an extension of the Unconventional Noiseless Intermediate Quantum Emulator, this work introduces a classical emulation of the quantum Harrow-Hassidim-Lloyd algorithm for sampling from the solution space of linear systems. The emulated HHL algorithm scales exponentially with the number of qubits required to represent the linear system, which is an advantage over the state vector simulation of the HHL algorithm, which scales exponentially as a function of both the size of the linear system and the magnitude of its largest (scaled) eigenvalue. We benchmark our emulator by comparing it with the Intel Quantum Simulator and demonstrate a runtime advantage for small linear systems.

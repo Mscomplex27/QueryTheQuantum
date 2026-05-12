@@ -1,0 +1,5 @@
+Title: Quantum Mpemba effect in chaotic systems with conservation laws
+Authors: Thomas Martin Müller, Silvia Pappalardi, Rosario Fazio
+Categories: quant-ph
+Published: 2026-04-13 18:00:01+00:00
+Abstract: Closed chaotic quantum systems relax after a quench into a Gibbs ensemble. At late times, the relaxation speed is determined by their conservation laws and hydrodynamics. As a result, there exist pairs of initial states which thermalize to the same ensemble, yet exhibit drastically different hydrodynamic relaxation. We show in two chaotic spin chains how this enables a simple and robust realization of the quantum Mpemba effect: a system initially closer to equilibrium relaxes slower than one that starts farther away, despite both approaching the same final state.

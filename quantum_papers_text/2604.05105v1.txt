@@ -1,0 +1,5 @@
+Title: A superconducting quantum circuit single artificial atom maser
+Authors: Maria Mucci, Nicholas Hougland, Chun-Che Wang, Israa Yusuf, Chenxu Liu, David Pekker, Michael Hatridge
+Categories: quant-ph
+Published: 2026-04-06 19:10:03+00:00
+Abstract: We demonstrate a circuit QED analog of an atomic micromaser that utilizes an artificial, multi level atom, pumped into a population-inverted state by a microwave tone, as the gain medium. Our demonstration is enabled by the flexibility of the circuit QED platform, which allowed us to precisely engineer the level-structure, coupling, and dissipation of the micromaser components. Our device shows rich physics and perhaps points to ways to use the recent developments in the domain of microwave quantum circuits to probe the domain of maser physics.

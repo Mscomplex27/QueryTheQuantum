@@ -1,0 +1,5 @@
+Title: Theory Framework for Medium-Mass Muonic Atoms
+Authors: S. Rathi, I. A. Valuev, Z. Sun, M. Heines, P. Indelicato, B. Ohayon, N. S. Oreshkina
+Categories: physics.atom-ph, quant-ph
+Published: 2026-03-23 14:29:25+00:00
+Abstract: We present a state-of-the-art theoretical approach for computing bound-state energies in muonic atoms, incorporating improved quantum electrodynamics effects and nuclear polarization corrections with a systematic assessment of theoretical uncertainties. Our approach is based on a combination of the $Zα$-expansion and the all-order formalism (Furry picture) optimized for the medium-mass range $(3 \leq Z \lesssim 30)$ and guided by the accuracy requirements of modern muonic spectroscopy experiments. These calculations are directly relevant to ongoing and forthcoming measurements aimed at extracting nuclear structure parameters, particularly nuclear charge radii, with unprecedented precision.

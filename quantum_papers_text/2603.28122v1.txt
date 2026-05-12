@@ -1,0 +1,5 @@
+Title: Q-DIVER: Integrated Quantum Transfer Learning and Differentiable Quantum Architecture Search with EEG Data
+Authors: Junghoon Justin Park, Yeonghyeon Park, Jiook Cha
+Categories: quant-ph, cs.AI
+Published: 2026-03-30 07:37:53+00:00
+Abstract: Integrating quantum circuits into deep learning pipelines remains challenging due to heuristic design limitations. We propose Q-DIVER, a hybrid framework combining a large-scale pretrained EEG encoder (DIVER-1) with a differentiable quantum classifier. Unlike fixed-ansatz approaches, we employ Differentiable Quantum Architecture Search to autonomously discover task-optimal circuit topologies during end-to-end fine-tuning. On the PhysioNet Motor Imagery dataset, our quantum classifier achieves predictive performance comparable to classical multi-layer perceptrons (Test F1: 63.49\%) while using approximately \textbf{50$\times$ fewer task-specific head parameters} (2.10M vs. 105.02M). These results validate quantum transfer learning as a parameter-efficient strategy for high-dimensional biological signal processing.

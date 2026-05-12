@@ -1,0 +1,5 @@
+Title: Thermalisation as Diffusion in Hilbert Space
+Authors: Aleksey Lunkin
+Categories: cond-mat.dis-nn, cond-mat.stat-mech, quant-ph
+Published: 2026-03-12 17:52:15+00:00
+Abstract: We develop a microscopic theory of thermalisation for a thermometer coupled to a many-body bath beyond standard Markovian and Fermi-golden-rule assumptions. By modeling interaction matrix elements in the non-interacting basis as independent random variables, we derive a diffusion-propagator expression for the reduced dynamics and show that relaxation is controlled by the distribution of interaction-induced level broadenings. The theory predicts a thermalisation timescale set by the inverse typical broadening and yields a non-Markovian generalization of global balance. Exact-diagonalization tests for heavy-tailed L{é}vy couplings, an all-to-all transverse-field Ising model, and the one-dimensional Imbrie model show good agreement with these predictions.

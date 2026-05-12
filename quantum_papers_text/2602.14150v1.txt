@@ -1,0 +1,6 @@
+Title: Approximating the $S$ matrix for solving the Marchenko equation: the case of channels with different thresholds
+Authors: N. A. Khokhlov
+Categories: quant-ph, nucl-th
+Published: 2026-02-15 13:56:40+00:00
+Abstract: This work extends previous results on the inverse scattering problem within the framework of Marchenko theory (fixed-$l$ inversion). In particular, I approximate an $n$-channel $S$-matrix as a function of the first-channel momentum $q$ by a sum of a rational term and a truncated sinc series for each matrix element. Relativistic kinematics are taken into account through the correct momentum-energy relation, and the necessary minor generalization of Marchenko theory is given.
+  For energies where only a subset of scattering channels is open, the analytic structure of the $S$-matrix is analyzed. I demonstrate that the submatrix corresponding to closed channels, particularly near their thresholds, can be reconstructed from the experimentally accessible submatrix of open channels.The convergence of the proposed method is verified by applying it to data generated from a direct solution of the scattering problem for a known potential, and comparing the reconstructed potential with the original one. Finally, the method is applied to the analysis of $S_{31}$ $πN$ scattering data.

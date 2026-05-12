@@ -1,0 +1,5 @@
+Title: Quantum Riemannian Cubics with Obstacle Avoidance for Quantum Geometric Model Predictive Control
+Authors: Leonardo Colombo
+Categories: math-ph, eess.SY, math.OC, quant-ph
+Published: 2026-02-09 16:43:11+00:00
+Abstract: We propose a geometric model predictive control framework for quantum systems subject to smoothness and state constraints. By formulating quantum state evolution intrinsically on the projective Hilbert space, we penalize covariant accelerations to generate smooth trajectories in the form of Riemannian cubics, while incorporating state-dependent constraints through potential functions. A structure-preserving variational discretization enables receding-horizon implementation, and a Lyapunov-type stability result is established for the closed-loop system. The approach is illustrated on the Bloch sphere for a two-level quantum system, providing a viable pathway toward predictive feedback control of constrained quantum dynamics.

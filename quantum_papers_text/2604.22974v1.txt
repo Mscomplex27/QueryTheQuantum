@@ -1,0 +1,5 @@
+Title: Heralded Entanglement Transfer from Entangled Atomic Pair to Free Electrons
+Authors: Du Ran, Reuven Ianconescu, Shuai Liu, Ya-dong Li, Ji-Yuan Bai, Ze-Long He, Zhi-Cheng Shi, Yan Xia, Avraham Gover
+Categories: quant-ph
+Published: 2026-04-24 19:38:15+00:00
+Abstract: We propose a protocol that transfers entanglement from an entangled atomic two-level-system (TLS) resource to a pair of free electrons in an energy-sideband ladder via local electron-TLS interactions. In a controlled rotating-wave regime, closed-form reduced states are derived. TLS heralding then prepares a maximally entangled electron state in a two-dimensional single-excitation manifold, with a simple dependence on the initial TLS resource entanglement. Numerical integration of the full bilinear Hamiltonian quantifies the impacts of detuning and pulse shaping and identifies the leading beyond-rotating-wave corrections. The results establish a heralded route to entangled free electrons and will facilitate further advances in quantum electron optics.

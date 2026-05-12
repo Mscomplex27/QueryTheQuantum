@@ -1,0 +1,5 @@
+Title: Warring Contextualities -- Provably Classical vs Provably Nonclassical
+Authors: Enrico Bozzetto, Jonte R. Hance
+Categories: quant-ph, physics.hist-ph
+Published: 2026-04-15 18:22:06+00:00
+Abstract: In the literature, there are two differing definitions of contextuality: Kochen and Specker's, and Spekkens' (or ``generalised''). However, researchers using one of these definitions rarely consider the other, meaning comparative analysis of these two notions is rare. In this paper, we advance the idea that Kochen-Specker contextuality provides a generalisation of the idea of system being fundamentally nonclassical, while Spekkens' noncontextuality provides a generalisation of the idea of a system being classical. This allows us to reconcile the two approaches, as different stages in a hierarchy of classicality/nonclassicality.

@@ -1,0 +1,5 @@
+Title: Local Equivalence Classes of Distance-Hereditary Graphs using Split Decompositions
+Authors: Nicholas Connolly, Shin Nishio, Kae Nemoto
+Categories: math.CO, cs.DM, quant-ph
+Published: 2026-02-27 09:07:41+00:00
+Abstract: Local complement is a graph operation formalized by Bouchet which replaces the neighborhood of a chosen vertex with its edge-complement. This operation induces an equivalence relation on graphs; determining the size of the resulting equivalence classes is a challenging problem in general. Bouchet obtained formulas only for paths and cycles, and brute-force methods are limited to very small graphs. In this work, we extend these results by deriving explicit formulas for several broad families of distance-hereditary graphs, including complete multipartite graphs, clique-stars, and repeater graphs. Our approach uses a technique known as split decomposition to establish upper bounds on equivalence class sizes, and we prove these bounds are tight through a combinatorial enumeration of the graphs' decomposed structure up to symmetry.

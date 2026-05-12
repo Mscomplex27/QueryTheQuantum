@@ -1,0 +1,5 @@
+Title: Quantifying entanglement in quantum thermodynamics via separability constraints
+Authors: Joan Alba, Laura Ares, Jan Sperling, Julien Pinske
+Categories: quant-ph
+Published: 2026-03-17 19:05:22+00:00
+Abstract: The role of quantum entanglement in thermodynamical systems remains elusive. Does entanglement result in thermodynamic advantages or does it impose fundamental limitations? Here, we unambiguously quantify the amount of heat and work in a quantum system that is due to the presence of entanglement. This is achieved by constraining the system's non-equilibrium dynamics to separable states, thereby isolating the impact entanglement has on thermodynamic effects. Unlike thermodynamic entanglement measures, which signify a loose connection between entanglement and thermodynamic properties, imposing a constraint constitutes an active intervention into a system -- answering how much of a system's thermodynamics is caused by (not correlated with) its quantumness. We benchmark our theory by applying the constrained dynamics to several multipartite systems, including quantum batteries and quantum refrigerators.

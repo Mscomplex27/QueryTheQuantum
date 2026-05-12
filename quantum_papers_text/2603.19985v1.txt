@@ -1,0 +1,9 @@
+Title: Cryptanalysis of four arbitrated quantum signature schemes
+Authors: Pierre-Alain Jacqmin, Jean Liénardy
+Categories: quant-ph
+Published: 2026-03-20 14:33:13+00:00
+Abstract: Arbitrated quantum signature (AQS) schemes aim at ensuring the authenticity of a message with the help of an arbitrator. Moreover, they aim at preventing repudiation, both from a sender that denies the origin of a message, and from a receiver who disavows its reception. Such protocols use quantum communication and are often designed to protect quantum messages. In this paper, we study four recently submitted AQS schemes and propose attacks on their security.
+  Firstly, we look at Zhang, Sun, Zhang and Jia's AQS scheme which aims at signing quantum messages with chained CNOT encryption. We show that the sender can repudiate her messages and make false allegation of reception. Moreover, we show that a dishonest receiver can forge signatures.
+  Secondly, we analyse Ding, Xin, Yang and Sang's AQS protocol to sign classical messages based on GHZ states. We show that both the sender and the receiver have simple repudiation strategies.
+  Thirdly, we study Lu, Li, Yu and Han's AQS scheme that uses controlled teleportation to protect quantum messages. We expose forgeries, false allegation attacks and the possibility of repudiation by both parties.
+  Fourthly, we focus on the AQS scheme by Zhang, Xin, Sun, Li and Li designed to sign classical messages without entangled states. We show that one can disavow the reception of messages, and that information-theoretic security is not achieved for other security goals.

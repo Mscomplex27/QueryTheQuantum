@@ -1,0 +1,5 @@
+Title: CHSH inequality always holds in bipartite qutrits with spin-1 observables
+Authors: Hyunho Cha
+Categories: quant-ph
+Published: 2026-03-11 00:36:33+00:00
+Abstract: We resolve a conjecture of Hanotel and Loubenets concerning CHSH inequality in bipartite qutrits. It states that nonseparable pure states of two qutrits do not violate the CHSH inequality when each party is restricted to spin-1 observables. We prove a stronger result that \emph{all} bipartite states on $\mathbb{C}^3 \otimes \mathbb{C}^3$ satisfy the CHSH inequality under spin-1 measurements, regardless of whether the state is pure or mixed.

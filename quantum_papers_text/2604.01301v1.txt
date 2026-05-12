@@ -1,0 +1,5 @@
+Title: Numerically Optimizing Shortcuts to Adiabaticity: A Hybrid Control Strategy
+Authors: Bo Xing, Jesús G. Parejo, Sofía Martínez-Garaot, Paola Cappellaro, Mikel Palmero
+Categories: quant-ph, math-ph
+Published: 2026-04-01 18:05:32+00:00
+Abstract: Achieving fast, excitation-free quantum control is a vital challenge in modern quantum technologies. In many cases, shortcuts to adiabaticity enable fast adiabatic-like protocols, yet determining control parameters that satisfy practical constraints is often challenging in complex systems. Here, we combine an analytical shortcut to adiabaticity approach with several numerical optimization methods to boost the performance of the protocol. As a proof-of-principle for this hybrid approach, we study a particularly intricate control problem, the separation of two trapped ions. We show that this analytical-numerical approach, along with the physical insight gained through the variety of suboptimal solutions, leads to the exploration of new solutions in a complex landscape that yield improvements of up to 3 orders of magnitude. Moreover, this improvement comes with no additional cost from an experimental point of view.

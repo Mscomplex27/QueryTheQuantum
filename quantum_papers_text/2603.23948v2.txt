@@ -1,0 +1,5 @@
+Title: Thermalization of SU(2) Lattice Gauge Fields on Quantum Computers
+Authors: Jiunn-Wei Chen, Yu-Ting Chen, Ghanashyam Meher, Berndt Müller, Andreas Schäfer, Xiaojun Yao
+Categories: hep-lat, hep-ph, nucl-th, quant-ph
+Published: 2026-03-25 05:09:36+00:00
+Abstract: We simulate the thermalization dynamics for minimally truncated SU(2) pure gauge theory on linear plaquette chains with up to 151 plaquettes using IBM quantum computers. We study the time dependence of the entanglement spectrum, Rényi-2 entropy and anti-flatness on small subsystems. The quantum hardware results obtained after error mitigation agree with extrapolated classical simulator results for chains consisting of up to 101 plaquettes. Our results demonstrate the feasibility of local thermalization studies for chaotic quantum systems, such as nonabelian lattice gauge theories, on current noisy quantum computing platforms.

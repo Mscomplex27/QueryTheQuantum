@@ -1,0 +1,5 @@
+Title: Multipartite parity bounds and total correlation
+Authors: James Tian
+Categories: quant-ph, math-ph
+Published: 2026-03-01 13:45:33+00:00
+Abstract: This paper studies multipartite observables formed from sums of local self-adjoint contractions on tensor product Hilbert spaces. The square of such a sum has a parity structure: after decomposing each local product into commutator and anticommutator parts, the odd parity terms cancel and only even parity contributions remain. This yields a norm bound in terms of a family of pairwise defect weights built from local commutator and anticommutator norms. These defect weights also control an information theoretic estimate. The excess of the observable expectation above the product state threshold is shown to necessarily carry a definite amount of total correlation. Under a natural $\ell^{2}$-type bound on each local family, this product state threshold becomes explicit, which leads to a fully explicit lower bound on total correlation. A simple depolarizing example illustrates the resulting decay mechanism under local noise.

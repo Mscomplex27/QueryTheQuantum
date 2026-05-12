@@ -1,0 +1,5 @@
+Title: Mutually-commuting von Neumann algebra models of quantum networks and violation of Bell-type inequalities
+Authors: Shuyuan Yang, Jinchuan Hou, Kan He
+Categories: quant-ph, math-ph, math.OA
+Published: 2026-04-20 03:43:01+00:00
+Abstract: Employing mutually-commuting von Neumann algebras to represent the algebra of observables on quantum systems provides a framework for studying quantum information theory in systems with infinite degrees of freedom and quantum field theory, yielding many profound results that differ from non-relativistic quantum systems. In this paper, we establish a mutually-commuting von Neumann algebra model of quantum networks with arbitrary structures. We derive Bell-type inequalities on this model, and determine various bounds for Bell-type inequalities based on the structure of underline von Neumann algebras, and identify the algebraic structural conditions required for their violation. The conditions on the algebraic structure of observables for maximal violation of Bell-type inequalities, which we discovered in the context of von Neumann algebra models, can in turn guide the search for measurements in the non-relativistic setting.

@@ -1,0 +1,5 @@
+Title: Entanglement Before Spacetime in Quantum-Gravity-Induced Interactions
+Authors: Hollis Williams
+Categories: quant-ph
+Published: 2026-02-05 07:36:08+00:00
+Abstract: Quantum-gravity-induced entanglement of massive systems (QGEM) is commonly approximated in the nonrelativistic static limit by a Newtonian interaction between spatially separated masses. In this work, we reformulate the gravitationally mediated interaction phase in a conformally invariant twistor framework in which no notion of spacetime distance is assumed. We show that the bilocal phase responsible for entanglement generation remains well-defined and non-factorizable even in the absence of spacetime geometry. The familiar Newtonian $1/r$ phase, relevant for QGEM protocols, arises only after the conformal invariance is broken by introducing the infinity twistor, which selects a particular spacetime representation of the underlying bilocal quantum interaction. Our results isolate the genuinely quantum content of QGEM protocols and clarify the contingent role played by spacetime geometry in mediating entanglement.

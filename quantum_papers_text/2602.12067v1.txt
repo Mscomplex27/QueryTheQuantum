@@ -1,0 +1,5 @@
+Title: Momentum Distribution of the Dilute Fermi Gas
+Authors: Niels Benedikter, Emanuela L. Giacomelli, Asbjørn Bækgaard Lauritsen, Sascha Lill
+Categories: math-ph, cond-mat.quant-gas, quant-ph
+Published: 2026-02-12 15:25:40+00:00
+Abstract: We consider a dilute quantum gas of interacting spin-1/2 fermions in the thermodynamic limit. For a trial state that resolves the ground state energy up to the precision of the Huang--Yang formula, we rigorously derive its momentum distribution. Our result agrees with the formal perturbative argument of Belyakov (Sov. Phys. JETP 13: 850--851 (1961)).

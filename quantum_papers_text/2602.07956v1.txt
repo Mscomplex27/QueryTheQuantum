@@ -1,0 +1,5 @@
+Title: Quantum self-interaction within an infinitely deep cavity
+Authors: Sergio Giardino
+Categories: quant-ph
+Published: 2026-02-08 13:01:06+00:00
+Abstract: One examines the infinitely deep quantum cavity, also known as the quantum infinite square well, within the framework of the real Hilbert space. The solutions are considered in terms of complex wave functions, and also in terms of quaternionic wave functions. The complex results reproduce the usual achievements established in the complex Hilbert space, but also extend them to non-stationary solutions, as well as to distorted stationary solutions, different energy spectra, and dislocated observed position. The quaternionic cases further admit the incidence of self-interaction, something that cannot be observed in complex solutions. Therefore, both the complex and quaternionic solutions are more general than previous cases, thus opening the way to further one-dimensional solutions to be researched in the non-relativistic theory.

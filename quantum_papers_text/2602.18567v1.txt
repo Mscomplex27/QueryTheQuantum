@@ -1,0 +1,5 @@
+Title: Four- and six-photon stimulated Raman transitions for coherent qubit and qudit operations
+Authors: Gabriel J. Gregory, Evan R. Ritchie, Alex Quinn, Sean Brudney, David J. Wineland, David T. C. Allcock, Jameson O'Reilly
+Categories: quant-ph, physics.atom-ph
+Published: 2026-02-20 19:09:28+00:00
+Abstract: We experimentally demonstrate transitions between electronic angular momentum states with a difference in magnetic quantum numbers $Δ\mathrm{m_J} = $ 3, 4, and 5 via resonant four- and six-photon stimulated Raman transitions in a single trapped atom. Derivation of the corresponding Rabi frequencies, which are verified experimentally, follows the standard treatment of two-photon transitions including the adiabatic elimination of intermediate states. Finally, we discuss pathways to increase the observed multi-photon transition fidelities to $>99.99\%$, providing a tool for efficient, high-fidelity control of qu\textit{d}its and single-atom logical qubits.

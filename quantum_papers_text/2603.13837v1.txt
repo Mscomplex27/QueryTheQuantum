@@ -1,0 +1,5 @@
+Title: Millimeter Wave Readout of a Superconducting Qubit
+Authors: Akash V. Dixit, Zachary L. Parrott, Dennis Chunikhin, Bradley Hauer, Trevyn F. Q. Larson, John D. Teufel
+Categories: quant-ph
+Published: 2026-03-14 08:45:33+00:00
+Abstract: Millimeter waves are emerging as an enabling technology for connecting and enhancing different quantum platforms such as Rydberg atoms, optomechanics, and superconducting qubits. In this work, we focus on the interaction between millimeter wave photons and conventional transmon qubits, specifically for qubit readout. We study a circuit quantum electrodynamic (cQED) system consisting of a millimeter-wave cavity at $ω_r = 2π\times 34.7$ GHz and a transmon qubit at $ω_q = 2π\times 3.1$ GHz coupled at rate $g = 2π\times 1.3$ GHz. With such a large detuning between cavity and qubit, $ω_r/ω_q > 10$, we are able to suppress drive induced unwanted state transitions, enabling strong drives for qubit readout. We measure no resonant state transitions up to $1,000$ drive photons and readout the qubit state with more than $100$ photons to achieve a measurement fidelity greater than 99% without the aid of a quantum limited amplifier.

@@ -1,0 +1,5 @@
+Title: Dynamics of wavepackets and entanglement in many-body kicked rotors under quantum resonance
+Authors: Yangshuo Zhou, Jiao Wang
+Categories: quant-ph, cond-mat.other, nlin.CD, nlin.SI
+Published: 2026-04-15 01:12:24+00:00
+Abstract: We investigate a many-body interacting system of quantum kicked rotors, where each rotor resides in its respective quantum resonance. Rich many-body dynamics are found to emerge from the interplay between the principal and secondary resonances. In particular, for both the wavepacket and bipartite entanglement entropy, we analytically demonstrate three distinct dynamical regimes -- quadratic spreading (growth), period-2 oscillation, and their hybrid -- governed by the respective symmetries of the relevant potentials. Based on these symmetries, the connection between the wavepacket and the entanglement dynamics is illustrated. Other related issues are also discussed, including higher-order resonance effects, the robustness of the predicted dynamical behaviors, extension to many-body kicked tops, and relevance to experimental studies.

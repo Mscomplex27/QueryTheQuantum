@@ -1,0 +1,5 @@
+Title: Exponential quantum space advantage for Shannon entropy estimation in data streams
+Authors: Weijun Feng, Yongzhen Xu, Lvzhou Li, Gongde Guo, Song Lin
+Categories: quant-ph
+Published: 2026-04-20 09:37:19+00:00
+Abstract: Near-term quantum devices with limited qubits motivate the study of space-bounded quantum computation in the data stream model. We show that Shannon entropy estimation exhibits an exponential separation between quantum and classical space complexity in this setting. Technically, we develop a two-stage quantum streaming algorithm based on a quantum procedure with an explicitly constructed oracle derived from the streaming input. This algorithm achieves logarithmic space complexity in the accuracy parameter, whereas any classical streaming algorithm requires polynomial space. In sharp contrast, existing results for Shannon entropy estimation in the quantum query model achieve only a quadratic speedup. Our work establishes a natural problem with practical applications in computer networking that admits an exponential quantum space advantage, revealing a fundamental gap between quantum query complexity and streaming space complexity.

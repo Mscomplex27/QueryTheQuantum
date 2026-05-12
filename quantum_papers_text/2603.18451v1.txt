@@ -1,0 +1,5 @@
+Title: Inhomogeneous mass trap for dark-state polaritons in atomic media
+Authors: Ding-An Chen, Kai-You Huang, Chun-Yen Hsu, Meng-Cheng Xie, Ite A. Yu, Wen-Te Liao
+Categories: quant-ph, physics.atom-ph
+Published: 2026-03-19 03:27:41+00:00
+Abstract: The generation of a trapping potential for dark-state polaritons in a two-dimensional electromagnetically induced transparency system is theoretically studied. We show that such a trap can arise from a spatially inhomogeneous effective mass of the dark-state polariton. Because this mass inhomogeneity can be engineered by tuning the parameters of the control fields, the motion, spatial profile, and coherent behavior of bound dark-state polaritons can be tailored accordingly. Our results enable spatial controls of optical information and provide a possible route toward realizing Bose-Einstein condensation of dark-state polaritons in a trapping potential.

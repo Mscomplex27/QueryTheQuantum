@@ -1,0 +1,5 @@
+Title: Non-Markovian environment induced Schrödinger cat state transfer in an optical Newton's cradle
+Authors: Xinyu Zhao, Yan Xia
+Categories: quant-ph
+Published: 2026-02-17 08:51:42+00:00
+Abstract: In this manuscript, we study the Schrödinger cat state transfer in a quantum optical version of Newton's cradle in non-Markovian environment. Based on a non-Markovian master equation, we show that the cat state can be transferred purely through the memory effect of the non-Markovian common environment, even without any direct couplings between neighbor cavities. The mechanism of the environment induced cat state transfer is analyzed both analytically and numerically to demonstrate that the transfer is a unique phenomenon in non-Markovian regime. From this example, the non-Markovian environment is shown to be qualitatively different from the Markovian environment reflected by the finite versus zero residue coherence. Besides, we also show the influence of environmental parameters are crucial for the transfer. We hope the cat state transfer studied in this work may shed more light on the fundamental difference between non-Markovian and Markovian environments.

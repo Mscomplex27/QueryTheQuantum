@@ -1,0 +1,5 @@
+Title: A Complex-Valued Continuous-Variable Quantum Approximation Optimization Algorithm (CCV-QAOA)
+Authors: Raneem Madani, Abdel Lisser, Zeno Toffano
+Categories: quant-ph
+Published: 2026-04-23 08:18:17+00:00
+Abstract: Continuous-variable (CV) quantum systems offer a natural framework for continuous optimization through their infinite-dimensional Hilbert spaces. In this paper, we propose the Complex Continuous-Variable Quantum Approximate Optimization Algorithm (CCV-QAOA), a variational framework operating in the complex domain that optimizes over complex decision variables. The method efficiently solves real and complex multivariate optimization problems. To demonstrate its versatility, we apply CCV-QAOA across a broad suite of optimization use cases, including convex quadratic minimization, scaling studies with circuit depth and cutoff dimension, constrained quadratic programs using penalty constructions, and non-convex benchmarks such as the Styblinski-Tang function and complex quartic landscapes.

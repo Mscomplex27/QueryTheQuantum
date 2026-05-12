@@ -1,0 +1,5 @@
+Title: Pulse-level control for quantum resource preparation
+Authors: K. De La Ossa Doria, T. Merlo Vergara, D. Goyeneche
+Categories: quant-ph
+Published: 2026-02-23 19:02:31+00:00
+Abstract: Minimizing the time required for quantum state preparation is crucial to mitigate decoherence and enable practical quantum algorithms on near-term hardware. In this work, we introduce a technique for quantum state preparation in transmon-qubit systems using optimized electromagnetic pulse sequences rather than discrete quantum gates. By directly targeting quantum correlations instead of specific target states, we identify minimal-time pulse protocols that optimize relevant entanglement resources, such as concurrence and the three-tangle for two and three qubit systems, respectively. For the figures of merit considered, this approach successfully achieves maximal entanglement in each case: Bell, GHZ and W like states. Beyond state preparation, the resource-oriented nature of the approach leads to a reduced effective expressivity of the control scheme, a feature that represents an advantage in algorithmic settings where excessive control freedom is known to hinder performance.

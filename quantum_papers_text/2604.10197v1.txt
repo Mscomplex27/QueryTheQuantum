@@ -1,0 +1,5 @@
+Title: Interference-Protected Subradiance and Bound States in Nested Atomic Arrays
+Authors: Bella Santosa, Daniel Leykam
+Categories: quant-ph, physics.optics
+Published: 2026-04-11 13:08:26+00:00
+Abstract: Collective subradiant states in waveguide QED are highly sensitive to disorder, limiting their scalability and robustness. We propose a deterministic approach to engineering atom arrays based on a Minkowski sum construction, generating quasi-disordered structures with built-in correlations. This leads to mode-selective radiative coupling: interactions between dark modes are parametrically suppressed, while bright modes can hybridize. We study the stability of these subradiant and bound-state-like modes against moderate positional disorder. Our work provides a route to robust, analytically controllable subradiance through engineered quasi-disorder, with direct relevance to atom-waveguide and circuit QED experiments.

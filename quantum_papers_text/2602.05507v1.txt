@@ -1,0 +1,5 @@
+Title: Bell and EPR experiments with signalling data
+Authors: Lucas Maquedano, Sophie Egelhaaf, Amro Abou-Hachem, Jef Pauwels, Armin Tavakoli, Ana C. S. Costa, Roope Uola
+Categories: quant-ph
+Published: 2026-02-05 10:07:09+00:00
+Abstract: The no-signalling principle is a fundamental assumption in Bell-inequality and quantum-steering experiments. Nonetheless, experimental imperfections can lead to apparent violations beyond those expected from finite-sample statistics. Here, we propose extensions of local hidden variable and local hidden state theories that allow for bounded, operationally quantifiable, amounts of signalling. We show how non-classicality tests can be developed for these models, both through exact methods based on the full set of observed statistics and through corrections to the standard Bell and steering inequalities. We demonstrate the applicability of these methods via two scenarios that feature apparent signalling: an IBM quantum processor and post-selected data from inefficient detectors.

@@ -1,0 +1,5 @@
+Title: Coherent Rydberg excitation of single atoms using a pulsed fiber amplifier
+Authors: Ying-Wen Zhang, Yang Wang, Chen-Long Xu, Yi-Bo Wang, Peng Xu
+Categories: quant-ph
+Published: 2026-04-15 03:28:41+00:00
+Abstract: In recent years, the growing scale of programmable neutral-atom arrays has led to an increasing demand for higher-power Rydberg excitation light. Although pulsed amplifiers deliver higher peak power than continuous-wave lasers, their use for efficient coherent Rydberg excitation of single atoms in arrays has been limited by challenges such as pulse distortion, synchronization with excitation sequences, and spectral linewidth broadening. Here, we address these issues using a fiber-based master-oscillator power-amplifier system. We demonstrate efficient coherent Rydberg excitation of single atoms in a rubidium atom array, achieving performance comparable to continuous-wave methods. This study provides a potentially new technical pathway toward future large-scale quantum simulation and computation with Rydberg atom arrays.

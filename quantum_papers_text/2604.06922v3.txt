@@ -1,0 +1,5 @@
+Title: A Practical Introduction to Tensor Network Renormalization with TNRKit.jl
+Authors: Victor Vanthilt, Adwait Naravane, Chenqi Meng, Atsushi Ueda
+Categories: cond-mat.str-el, cond-mat.stat-mech, cs.MS, quant-ph
+Published: 2026-04-08 10:23:24+00:00
+Abstract: We present TNRKit, an open-source Julia package for Tensor Network Renormalization (TNR) of two- and three-dimensional classical statistical models and Euclidean lattice field theories. Built on top of TensorKit, it provides a symmetry-aware framework for constructing tensor-network representations of partition functions and coarse-graining them using methods such as TRG, HOTRG, and LoopTNR. Beyond thermodynamic quantities, the package enables the extraction of universal conformal data -- including scaling dimensions and the central charge -- directly from fixed-point tensors. TNRKit is designed with both usability and extensibility in mind, offering a practical platform for applying, benchmarking, and developing modern tensor renormalization algorithms. This paper also serves as a self-contained introduction to the TNR framework.

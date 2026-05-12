@@ -1,0 +1,10 @@
+Title: Neural network approach to mitigating intra-gate crosstalk in superconducting CZ gates
+Authors: Yiming Yu, Yexiong Zeng, Ye-Hong Chen, Franco Nori, Yan Xia
+Categories: quant-ph
+Published: 2026-03-23 06:55:42+00:00
+Abstract: The potential of quantum computing is fundamentally constrained by the inherent susceptibility of qubits to noise and crosstalk, particularly during multi-qubit gate operations.
+  Existing strategies, such as hardware isolation and dynamical decoupling, face limitations in scalability, experimental feasibility, and robustness against complex noise sources.
+  In this manuscript, we propose a physics-guided neural control (PGNC) framework to generate robust control pulses for superconducting transmon qubit systems, specifically targeting crosstalk mitigation.
+  By combining a hardware aware parameterization with a Hamiltonian-informed objective that accounts for condition-dependent crosstalk distortions, PGNC steers the search toward smooth and physically realizable pulses while efficiently exploring high dimensional control landscapes.
+  Numerical simulations for the CZ gate demonstrate superior fidelity and pulse smoothness compared to a Krotov baseline under matched constraints.
+  Taken together, the results show consistent and practically meaningful improvements in both nominal and perturbed conditions, with pronounced gains in worst-case fidelity, supporting PGNC as a viable route to robust control on near-term transmon devices.

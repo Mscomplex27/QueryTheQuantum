@@ -1,0 +1,5 @@
+Title: Configurational control of photon emission from a molecular dimer
+Authors: Maximilian Kögler, Nicolas Néel, Jörg Kröger
+Categories: cond-mat.mes-hall, quant-ph
+Published: 2026-03-02 14:17:07+00:00
+Abstract: Tin-phthalocyanine molecules adsorbed on a NaCl ultrathin film on Au(111) exhibit electrofluorescence excited by a current across a scanning tunneling microscope junction. Exploring the dependence of the molecular monomer photon yield on the injected current evidences the one-electron excitation process underlying the neutral-exciton luminescence. Photon spectra of the monomer exhibit vibrational progression and hot luminescence, while the dimer electrofluorescence spectroscopic fine structure results from the coupling of the adjacent optical transition dipoles. The photon yield of the dimer is significantly altered upon changing the configurational state of one of the two molecules. In one of the bistable configurations light emission is amplified compared to the monomer, and it is reduced in the other.

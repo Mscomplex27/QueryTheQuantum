@@ -1,0 +1,5 @@
+Title: Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings
+Authors: Sreejith Sreekumar, Nir Weinberger
+Categories: cs.IT, cs.LG, quant-ph, stat.ML
+Published: 2026-02-20 17:16:38+00:00
+Abstract: Recent works have proposed various explanations for the ability of modern large language models (LLMs) to perform in-context prediction. We propose an alternative conceptual viewpoint from an information-geometric and statistical perspective. Motivated by Bach[2023], we model training as learning an embedding of probability distributions into the space of quantum density operators, and in-context learning as maximum-likelihood prediction over a specified class of quantum models. We provide an interpretation of this predictor in terms of quantum reverse information projection and quantum Pythagorean theorem when the class of quantum models is sufficiently expressive. We further derive non-asymptotic performance guarantees in terms of convergence rates and concentration inequalities, both in trace norm and quantum relative entropy. Our approach provides a unified framework to handle both classical and quantum LLMs.

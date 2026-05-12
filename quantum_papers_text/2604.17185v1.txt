@@ -1,0 +1,5 @@
+Title: Map-Dependent Quantum Characteristic Functions and CP-Divisibility in Non-Markovian Quantum Dynamics
+Authors: Koichi Nakagawa
+Categories: quant-ph, math-ph
+Published: 2026-04-19 01:08:19+00:00
+Abstract: We introduce map-dependent quantum characteristic functions constructed from the normalized Choi operator of quantum dynamical maps. We prove a Bochner--Choi positivity theorem establishing that the positive-type condition of the associated Gram matrix is equivalent to complete positivity of the underlying quantum channel. Applying the construction to intermediate dynamical maps, we obtain a characterization of CP-divisibility in terms of positivity of two-time characteristic functions. Numerical examples for amplitude damping and pure dephasing models demonstrate that negativity of the Gram matrix coincides with the breakdown of CP-divisibility and the emergence of information backflow. The proposed framework provides a new bridge between characteristic-function methods in quantum statistics and structural properties of quantum dynamical maps.

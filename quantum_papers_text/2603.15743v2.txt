@@ -1,0 +1,5 @@
+Title: Redundancy from Subsystem Thermalization
+Authors: Xiangyu Cao, Zohar Nussinov
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-16 18:00:03+00:00
+Abstract: In the theory of decoherence, redundancy is the correlation between a quantum system and fractions of the environment. It underlies the emergence of classical behavior. We show that redundancy can persist despite thermalizing dynamics in the environment. This follows an initial broadcasting interaction that changes the density of a conserved quantity. The mutual information between the system and a fraction of the environment is estimated using the large deviation principle governing subsystem thermalization.

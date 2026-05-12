@@ -1,0 +1,5 @@
+Title: Hardy's Paradox for Yu-Oh Set Constructed by Logically Contextual Quantum States
+Authors: Chang He, Yongjun Wang, Baoshan Wang, Songyi Liu, Yunyi Jia
+Categories: quant-ph
+Published: 2026-03-13 07:33:32+00:00
+Abstract: Quantum contextuality is a fundamental nonclassical property of quantum systems, regarded as a key resource that demonstrates the computational and informational advantages of quantum over classical systems. Our present work aims to construct Hardy's paradoxes, a set of possibilistic conditions witnessing contextuality, for Yu-Oh set, which is the state-independent contextual quantum system with the least number of vectors. To achieve the aim, we systematically enumerate all logically contextual pure states on Yu-Oh set, and theoretically prove that no mixed states in this scenario are logically contextual. Based on the identified logically contextual quantum states, we construct 12 Hardy's paradoxes with identical success probability SP=11.1%. Furthermore, we present corresponding observables to experimentally witness these Hardy's paradoxes.

@@ -1,0 +1,5 @@
+Title: Optical transport of cold atoms to quantum degeneracy
+Authors: Yanqing Tao, Yufei Wang, Ligeng Yu, Bo Song
+Categories: cond-mat.quant-gas, physics.atom-ph, quant-ph
+Published: 2026-02-15 17:42:11+00:00
+Abstract: Efficient transport of cold atoms is essential for continuous operation, enabling applications ranging from atomic lasers to continuously operated qubits. However, deep potentials required to overcome vibrations, axial trap nonuniformity and insufficient cooling have limited transport of cold atoms near quantum degeneracy. Here we demonstrate rapid optical transport of cold atoms to Bose-Einstein condensation using a moving optical lattice formed by two Bessel beams. A gas of $3 \times 10^5$ ytterbium atoms at a temperature of $340\,$nK is transported over $34\,$cm in $350\,$ms with efficiency over $60\%$. Furthermore, a degenerate gas of $1 \times 10^5$ atoms with a $40\%$ condensate fraction emerges from the phase synchronization process driven by atomic interactions. This demonstration enables the fast preparation of ultracold atomic beams and large-scale atom arrays for quantum sensing, simulation and computing.

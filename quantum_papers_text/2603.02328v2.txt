@@ -1,0 +1,5 @@
+Title: Local decoder for the toric code via signal exchange
+Authors: Louis Paletta
+Categories: quant-ph, cond-mat.stat-mech, nlin.CG
+Published: 2026-03-02 19:00:24+00:00
+Abstract: Local decoders provide a promising approach to real-time quantum error-correction by replacing centralized classical decoding, with significant hardware constraints, by a fully distributed architecture based on a simple, local update rule. We propose a new local decoder for Kitaev's toric code: the 2D signal-rule, that interprets odd parity stabilizer measurements as defects, attracted to each other via the exchange of binary signals. We present numerical evidence of exponential suppression of the logical error rate with system size below a threshold, under a phenomenological noise model with data and measurement errors at each iteration. The construction achieves a significantly improved threshold and optimal finite-size scaling relative to hierarchical schemes. It also provides a lightweight alternative to windowed local decoder constructions while maintaining strong performance, thus enabling a streamlined architecture for a two-dimensional local quantum memory.

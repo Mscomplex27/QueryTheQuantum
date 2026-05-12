@@ -1,0 +1,5 @@
+Title: Fault-Tolerant Error Detection Above Break-Even for Multi-Qubit Gates
+Authors: Colburn Riffel, Reece Robertson, Peter Hendrickson
+Categories: quant-ph
+Published: 2026-04-14 18:43:55+00:00
+Abstract: A fully fault-tolerant implementation of the quantum error-detecting Iceberg $[[2m, 2m-2, 2]]$ code applied to a Toffoli circuit achieved beyond-break-even error detection on a leading trapped-ion quantum computer, where the effect of encoding a circuit with a quantum error-detection code enables increased fidelity compared to an unencoded circuit. This code was also applied to Bell state preparation circuits, where a lean non-fault-tolerant implementation of the Iceberg code enables a fidelity gain as well. This highlights the important point that, at least for small-scale circuits with a substantial portion of error-free runs, it can be effective simply to use error detection to filter out the runs with errors. Furthermore, experiments performed in this work highlight the necessity for judicious compilation of circuits not only for a given hardware but also within a quantum error detection code.

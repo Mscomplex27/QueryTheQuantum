@@ -1,0 +1,5 @@
+Title: A parallel and distributed fixed-point quantum search algorithm for solving SAT problems
+Authors: He Wang, Jinyang Yao
+Categories: quant-ph
+Published: 2026-04-11 01:28:20+00:00
+Abstract: Boolean satisfiability (SAT) problem is of fundamental importance in computer science and many application domains. For Grover's algorithm, solving the SAT problem requires $\mathcal{O}(\sqrt{2^n})$ queries--where n denotes the number of logic variables in the problem. However, Grover's algorithm suffers from the Souffle problem: specifically, when the number of solutions is unknown, terminating the algorithm too early or too late leads to a significant reduction in the probability of obtaining a solution. In this paper, we propose a parallel fixed-point (PFP) search algorithm to solve the SAT problem. By exploiting entanglement, each clause in the conjunctive normal form (CNF) formula can be processed independently, leading to a significant reduction in circuit depth. We also discuss how to perform the algorithm in distributed manner. These make the PFPS algorithm particularly suitable for the noisy intermediate-scale quantum (NISQ) era.

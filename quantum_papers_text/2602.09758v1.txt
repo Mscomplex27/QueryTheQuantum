@@ -1,0 +1,5 @@
+Title: Questioning the reasonableness of the quantum nonlocality debate
+Authors: Justo Pastor Lambare
+Categories: quant-ph
+Published: 2026-02-10 13:15:03+00:00
+Abstract: We critically discuss the apparent lack of logical rigor pervading the debate on quantum nonlocality. Strong convictions often prevail over rational assessment, leading to the acceptance of loose ideas that become entrenched dogmas. The lack of sound rationales and adherence to the rules of logical inference lead to widely adopted antinomies that receive little conceptual scrutiny.

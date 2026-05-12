@@ -1,0 +1,5 @@
+Title: More on OTOCs and Chaos in Quantum Mechanics -- Magnetic Fields
+Authors: Cameron Beetar, Jeff Murugan
+Categories: hep-th, nlin.CD, quant-ph
+Published: 2026-02-05 05:42:20+00:00
+Abstract: We revisit thermal out-of-time-order correlators (OTOCs) in single-particle quantum systems, focusing on magnetic billiards. Using the stadium billiard as a testbed, we compute the thermal OTOC $C_T(t) = -\langle [x(t), p]^2 \rangle_β$ and extract Lyapunov-like exponents $λ_L$ that quantify early-time growth. We map out $λ_L(T, B)$, revealing a crossover from quantum chaos to magnetic rigidity. In parallel, we compute an alternative OTOC built from guiding-center operators, which exhibits qualitatively distinct dynamics and no exponential growth. Our results offer a controlled framework for probing scrambling, temperature dependence, and the interplay of geometry and magnetic fields in quantum systems.

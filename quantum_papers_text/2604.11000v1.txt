@@ -1,0 +1,5 @@
+Title: Compiler Framework for Directional Transport in Zoned Neutral Atom Systems with AOD Assistance: A Hybrid Remote CZ Approach
+Authors: Lingyi Kong, Chen Huang, Zhemin Zhang, Yidong Zhou, Xiangyu Ren, Shaochen Li, Zhiding Liang
+Categories: quant-ph, cs.AR
+Published: 2026-04-13 04:58:55+00:00
+Abstract: We present a directional-transport (DT)-based remote CZ gate and compiler for zoned neutral-atom arrays that overcomes movement-bound entanglement limitations. Current AOD-based shuttling faces row/column non-crossing constraints, device-speed limits, and hardware-restricted range - bottlenecks for long-distance connectivity. Our approach reserves AODs for channel setup and micro-tuning while making DT the default for remote entanglement. Under antiblockade, a detuning-modulated pi-pulse sequence drives directional transport of a Rydberg excitation along a dynamic and resettable ancilla corridor, realizing a CZ gate between stationary, non-adjacent qubits. This cuts entangling-stage duration by approximately 50 to 90 percent versus AOD-only baselines and enables long-distance connectivity beyond objective-limited shuttling.

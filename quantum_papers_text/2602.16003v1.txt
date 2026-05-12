@@ -1,0 +1,5 @@
+Title: Dynamic Synaptic Modulation of LMG Qubits populations in a Bio-Inspired Quantum Brain
+Authors: J. J. Torres, E. Romera
+Categories: quant-ph, physics.comp-ph
+Published: 2026-02-17 20:47:48+00:00
+Abstract: We present a biologically inspired quantum neural network that encodes neuronal populations as fully connected qubits governed by the Lipkin-Meshkov-Glick (LMG) quantum Hamiltonian and stabilized by a synaptic-efficacy feedback implementing activity-dependent homeostatic control. The framework links collective quantum many-body modes and attractor structure to population homeostasis and rhythmogenesis, outlining scalable computational primitives -- stable set points, controllable oscillations, and size-dependent robustness -- that position LMG-based architectures as promising blueprints for bio-inspired quantum brains on future quantum hardware.

@@ -1,0 +1,59 @@
+import os
+import time
+from fastembed import TextEmbedding
+import chromadb
+from groq import Groq
+from dotenv import load_dotenv
+
+# Silence tokenizers parallelism warning
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+load_dotenv()
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+embed_model = TextEmbedding(model_name="BAAI/bge-small-en-v1.5")
+
+# Persistent ChromaDB
+chroma_client = chromadb.PersistentClient(path="./chroma_db")
+collection = chroma_client.get_or_create_collection("quantum_papers")
+
+def index_papers():
+    """Index only if empty."""
+    if collection.count() > 0:
+        print(f"✅ Already have {collection.count()} papers indexed. Skipping.")
+        return
+    files = [f for f in os.listdir("quantum_papers_text") if f.endswith(".txt")]
+    docs = []
+    for f in files:
+        with open(f"quantum_papers_text/{f}", encoding='utf-8') as file:
+            docs.append(file.read())
+    print(f"Indexing {len(docs)} papers (first time only)...")
+    embeddings = list(embed_model.embed(docs))
+    for i, (doc, emb) in enumerate(zip(docs, embeddings)):
+        collection.upsert(ids=[str(i)], embeddings=[emb.tolist()], documents=[doc])
+    print("Done indexing.")
+
+def retrieve(query, top_k=3):
+    q_emb = list(embed_model.embed([query]))[0].tolist()
+    return collection.query(query_embeddings=[q_emb], n_results=top_k)["documents"][0]
+
+def basic_rag(query):
+    start = time.time()
+    context = "\n\n".join(retrieve(query))
+    prompt = f"Context: {context}\n\nQuestion: {query}\nAnswer:"
+    response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[{"role": "user", "content": prompt}]
+    )
+    latency = (time.time() - start) * 1000
+    return {
+        "answer": response.choices[0].message.content,
+        "tokens": response.usage.total_tokens,
+        "latency_ms": round(latency, 2)
+    }
+
+if __name__ == "__main__":
+    index_papers()
+    query = "What is quantum error correction?"
+    res = basic_rag(query)
+    print(res["answer"])
+    print(f"Tokens: {res['tokens']}\nLatency: {res['latency_ms']} ms")

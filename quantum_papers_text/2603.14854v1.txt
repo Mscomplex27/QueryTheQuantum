@@ -1,0 +1,5 @@
+Title: Cavity-Free Distributed Quantum Computing with Rydberg Ensembles via Collective Enhancement
+Authors: Aman Ullah
+Categories: quant-ph
+Published: 2026-03-16 05:53:21+00:00
+Abstract: A complete architecture for cavity-free quantum networking based on collective enhancement in Rydberg atom ensembles is presented. The protocol exploits Rydberg blockade and phase-matched directional emission to eliminate optical cavities without sacrificing performance. The architecture comprises three steps: (i) local control-ensemble entanglement via Rydberg blockade with fidelity $F_{\mathrm{gate}} \approx 99.93\%$; (ii) atom-photon conversion via Raman transitions, achieving directional emission ($η_{\mathrm{dir}} \approx 35\%$) and single-node efficiency $η_{\mathrm{node}} \approx 19\%$; and (iii) remote atom-atom entanglement via Hong-Ou-Mandel interference, producing Bell states with fidelity $F > 97.5\%$. With quantum memories enabling retry protocols, entanglement generation rates exceed $600$ Hz at 20 km separation. This cavity-free approach provides a practical and scalable pathway for distributed quantum computing and secure quantum communication.

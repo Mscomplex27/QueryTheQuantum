@@ -1,0 +1,5 @@
+Title: A mathematical model for the Einstein-Podolsky-Rosen argument
+Authors: Riccardo Adami, Luigi Barletti, Alessandro Teta
+Categories: math-ph, math.AP, math.DS, quant-ph
+Published: 2026-02-24 12:04:30+00:00
+Abstract: We study a nonrelativistic system made of two quantum particles constrained to move on a line and a spin located at a fixed point of the line. Initially the two particles are in a maximally entangled state and the spin is down. The first particle interacts with the spin while the second particle is free, i.e., it does not interact neither with the first particle nor with the spin. We rigorously prove that there is a correlation between the state of the spin and the state of the second particle. More precisely, we show that, in a suitable scaling limit, if the first particle flips the spin, then the second particle possesses a definite momentum in the direction opposite to the spin.

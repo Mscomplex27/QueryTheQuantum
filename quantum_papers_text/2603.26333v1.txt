@@ -1,0 +1,5 @@
+Title: Conjugate measurements, equilibration and emergent classicality
+Authors: S. Adarsh, P. N. Bala Subramanian, Sreeraj T. P
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-03-27 11:56:02+00:00
+Abstract: Simultaneous decoherence of conjugate observables of an open quantum system leads to a classical statistical mechanical description with constant phase space probability density in terms of a uniform ensemble. We investigate a scenario where this may be realized by measurement of basic conjugate observables of a quantum system by the environment.

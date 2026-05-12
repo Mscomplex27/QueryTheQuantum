@@ -1,0 +1,5 @@
+Title: Breakdown of the periodic potential ansatz in correlated electron systems
+Authors: Wouter Montfrooij
+Categories: cond-mat.str-el, quant-ph
+Published: 2026-03-25 14:24:09+00:00
+Abstract: Our electronic structure theory for crystalline solids is commonly built on the periodic potential assumption $V(\mathbf r)=V(\mathbf r+\mathbf R)$ for every lattice translation $\mathbf R$, enabling Bloch eigenstates, crystal momentum as a good quantum number, and the standard quasiparticle-based description of the behavior of metals. Because the zero-point motion of the ions, however, in correlated electron systems the electronic environment experienced by an itinerant electron is neither static nor self-averaging at the single-particle level, even in perfectly stoichiometric crystals, leading to a distribution of local Kondo scales that spans two orders of magnitude in temperature. We discuss, through a comparison between uniform scenarios and one that breaks with perfect lattice translational symmetry, how incorporating this distribution yields a unified description for all heavy-fermion systems at the quantum critical point.

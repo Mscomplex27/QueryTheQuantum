@@ -1,0 +1,5 @@
+Title: Nonlinear Phase Gates Beyond the Lamb-Dicke Regime
+Authors: Akram Kasri, Kimin Park, Radim Filip
+Categories: quant-ph
+Published: 2026-02-17 14:46:32+00:00
+Abstract: Nonlinear phase gates are essential to achieve the universality of continuous-variable quantum processing and its applications. We present a deterministic protocol for generating nonlinear phase gates in trapped ion systems using simultaneous two-tone sideband drives beyond the Lamb-Dicke regime. Our approach harnesses higher-order interaction terms typically neglected or suppressed to construct nonlinear phase gates. This methodology enables high-fidelity gate engineering with a near three-fold reduction in control pulses compared to state-of-the-art theoretical proposals.

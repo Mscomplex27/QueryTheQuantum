@@ -1,0 +1,5 @@
+Title: Shortcuts to Adiabaticity via Adaptive Quantum Zeno Measurements
+Authors: Adolfo del Campo
+Categories: quant-ph, cond-mat.other, physics.atom-ph
+Published: 2026-02-19 19:44:08+00:00
+Abstract: We consider the quantum Zeno dynamics arising from monitoring a time-dependent projector. Starting from a stroboscopic measurement protocol, it is shown that the effective Hamiltonian for Zeno dynamics involves a nonadiabatic geometric connection that takes the form of the Kato-Avron Hamiltonian for parallel transport, stirring the evolution within the time-dependent Zeno subspace. The latter reduces to counterdiabatic driving when projective measurements are performed in the instantaneous energy eigenbasis of the quantum system. The effective Zeno Hamiltonian can also be derived in the context of continuous quantum measurements of a time-dependent observable and the non-Hermitian evolution with a complex absorbing potential varying in time. Our results thus provide a unified framework for realizing shortcuts to adiabaticity via adaptive quantum Zeno measurements.

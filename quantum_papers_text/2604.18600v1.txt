@@ -1,0 +1,5 @@
+Title: Tomiyama-type maps with a diagonal perturbation
+Authors: Anindita Bera, Bihalan Bhattacharya, Dariusz Chruściński
+Categories: math.RA, math.OA, quant-ph
+Published: 2026-04-09 15:30:32+00:00
+Abstract: We investigate a two-parameter family of linear maps on matrix algebras, constructed as diagonal perturbations of classical Tomiyama maps. Employing the Choi matrix method alongside block-positivity techniques, we derive explicit necessary and sufficient conditions for positivity, complete positivity, and k-positivity across arbitrary dimensions. These conditions provide a transparent geometric characterization of the positivity regions within the parameter space.

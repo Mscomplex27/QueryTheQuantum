@@ -1,0 +1,5 @@
+Title: Kaiwu-PyTorch-Plugin: Bridging Deep Learning and Photonic Quantum Computing for Energy-Based Models and Active Sample Selection
+Authors: Hongdong Zhu, Qi Gao, Yin Ma, Shaobo Chen, Haixu Liu, Fengao Wang, Tinglan Wang, Chang Wu, Kai Wen
+Categories: quant-ph, cs.AI
+Published: 2026-02-22 10:11:23+00:00
+Abstract: This paper introduces the Kaiwu-PyTorch-Plugin (KPP) to bridge Deep Learning and Photonic Quantum Computing across multiple dimensions. KPP integrates the Coherent Ising Machine into the PyTorch ecosystem, addressing classical inefficiencies in Energy-Based Models. The framework facilitates quantum integration in three key aspects: accelerating Boltzmann sampling, optimizing training data via Active Sampling, and constructing hybrid architectures like QBM-VAE and Q-Diffusion. Empirical results on single-cell and OpenWebText datasets demonstrate KPPs ability to achieve SOTA performance, validating a comprehensive quantum-classical paradigm.

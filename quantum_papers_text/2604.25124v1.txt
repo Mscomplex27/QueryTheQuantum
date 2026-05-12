@@ -1,0 +1,5 @@
+Title: USEQIP: Outcomes and experiences from 17 years of undergraduate summer schools in experimental quantum information science
+Authors: John M Donohue, Michael J Grabowecky, George Nichols, Martin Laforest, Lino Eugene, Fiona Thompson, Peter Sprenger, Kevin Resch, David G Cory
+Categories: physics.ed-ph, quant-ph
+Published: 2026-04-28 01:58:42+00:00
+Abstract: To grow the quantum information science and technology workforce, opportunities for students to gain experiential learning and build a sense of belonging in the broader community are essential. The Undergraduate School on Experimental Quantum Information Processing (USEQIP) is a two-week summer school for undergraduate students that has been held since 2009 with the goal of introducing undergraduate students from around the world to the tools of quantum information research, paired with a summer internship program. Here we report on the structure, impact, and outlook of the program, including hands-on laboratory activities refined over many iterations of the program. We highlight the career trajectories of program alumni, many of whom have made significant contributions to the quantum field.

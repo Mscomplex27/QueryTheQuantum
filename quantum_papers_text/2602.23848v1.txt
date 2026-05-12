@@ -1,0 +1,7 @@
+Title: MAFFT-inspired Quantum Shift-based Sequence Alignment and its Efficient Simulation on Decision Diagrams
+Authors: Yusuke Kimura, Yutaka Takita
+Categories: quant-ph
+Published: 2026-02-27 09:42:57+00:00
+Abstract: Multiple sequence alignment (MSA) is a core operation for comparing genome sequences and is widely used in bio-informatics. MAFFT, a practical MSA tool, repeatedly shifts a pair of sequences and computes a distance. Because the number of sequence pairs grows quadratically with the number of sequences, this procedure can become a bottleneck.
+  We propose Quantum Shift-based Sequence Alignment (QShift-SA), which implements this ``shift-wise score computation'' as a gate-based quantum circuit and searches over shift amounts and sequence pairs using Grover algorithm. QShift-SA constructs an oracle circuit that compute the Hamming distance (the number of mismatches) between two sequences with data encoding, controlled shift, comparison, and addition. This oracle can search for candidates with small distances. QShift-SA does not aim to replace the full MSA workflow; instead, it targets the screening steps that often dominate the runtime in classical MAFFT as stated above.
+  We evaluate circuit resources (number of qubits, gate count, and depth) and benchmark simulation time across multiple quantum circuit simulators. We find that a decision diagram (DD)-based quantum circuit simulator runs more than 1,000$\times$ faster than state-vector and MPS simulators and can handle larger circuits.

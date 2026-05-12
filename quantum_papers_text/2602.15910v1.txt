@@ -1,0 +1,5 @@
+Title: Experimental Characterization and Model Validation of Interference in Classical-QKD Coexistence Transmission
+Authors: Lucas Alves Zischler, Amirhossein Ghazisaeidi, Carina Castiñeiras Carrero, Tristan Vosshenrich, Jeremie Renaudier, Antonio Mecozzi, Cristian Antonelli
+Categories: quant-ph
+Published: 2026-02-16 15:29:59+00:00
+Abstract: We present an experimental characterization of coexistence-induced interference in QKD transmission arising from SpRS and FWM, validating a comprehensive semi-analytical model for accurate noise estimation. Experimental results show good agreement with theoretical predictions.

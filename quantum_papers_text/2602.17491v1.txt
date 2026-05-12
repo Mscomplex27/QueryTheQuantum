@@ -1,0 +1,5 @@
+Title: Phase transitions in quasi-Hermitian quantum models at exceptional points of order four
+Authors: Miloslav Znojil
+Categories: quant-ph, math-ph
+Published: 2026-02-19 16:01:22+00:00
+Abstract: Quantum phase transition is interpreted as an evolution, at the end of which a parameter-dependent Hamiltonian $H(g)$ loses its observability. In the language of mathematics, such a quantum catastrophe occurs at an exceptional point of order $N$ (EPN). Although the Hamiltonian $H(g)$ itself becomes unphysical in the limit of $g \to g^{EPN}$, it is shown that it can play the role of an unperturbed operator in a perturbation-approximation analysis of the vicinity of the EPN singularity. Such an analysis is elementary at $N\leq 3$ and numerical at $N\geq 5$, so we pick up $N=4$. We demonstrate that the specific EP4 degeneracy becomes accessible via a unitary evolution process realizable inside a parametric domain ${\cal D}_{\rm physical}$, the boundaries of which are determined non-numerically. Possible relevance of such a mathematical result in the context of non-Hermitian photonics is emphasized.

@@ -1,0 +1,5 @@
+Title: Exact analytical edge states in the extended Su-Schrieffer-Heeger model
+Authors: P. A. Grizzi, A. A. Aligia, P. Roura-Bas
+Categories: cond-mat.other, quant-ph
+Published: 2026-04-22 13:43:32+00:00
+Abstract: We investigate the topology of the different phases of the extended Su-Schrieffer-Heeger (eSSH) model, which includes hopping processes between translationally inequivalent atoms beyond nearest neighbors. Exact analytical expressions for the edge states of a semi-infinite eSSH chain are derived, with wave functions that decay exponentially from the boundary with a unit-cell decay factor z. From the winding number of the bulk Hamiltonian under periodic boundary conditions, we determine the topological phase diagram and establish the bulk-boundary correspondence: changes in the winding number coincide with bulk gap closings and with the condition |z|=1 for the edge-state solutions. For finite chains, we further obtain analytical, approximate expressions for the low-energy edge states, which are shown to be highly accurate.

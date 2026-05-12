@@ -1,0 +1,5 @@
+Title: A complete classification of 2d symmetry protected states with symmetric entanglers
+Authors: Alex Bols, Wojciech De Roeck, Michiel De Wilde, Bruno de O. Carvalho
+Categories: math-ph, quant-ph
+Published: 2026-03-10 17:55:48+00:00
+Abstract: We consider symmetry protected topological states of 2d quantum spin systems, with a finite symmetry group $G$. It has been conjectured that such states are classified by the cohomology group $H^3(G,U(1))$, but the completeness of this classfication is an open problem. We restrict ourselves to symmetry protected topological states that can be prepared from a product state by a symmetric entangler. For this class of states, we prove that the classification by $H^3(G,U(1))$ is complete.

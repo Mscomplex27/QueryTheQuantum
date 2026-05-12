@@ -1,0 +1,5 @@
+Title: Nonuniversal beyond-LHY corrections to thermodynamic properties of a weakly interacting Bose gas
+Authors: Pham Duy Thanh, Nguyen Van Thu
+Categories: quant-ph
+Published: 2026-04-22 09:49:00+00:00
+Abstract: We investigate the effects of finite-range interatomic interactions on the equation of state (EoS) of a weakly interacting Bose gas. Within the Cornwall-Jackiw-Tomboulis effective action approach, we show that finite-range effects influence not only the EoS but also the thermodynamic properties of the system at zero temperature, leading to nonuniversal behavior.

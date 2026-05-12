@@ -1,0 +1,5 @@
+Title: Generation of 12 dB squeezed light from a waveguide optical parametric amplifier using a machine-learning-controlled spatial light modulator
+Authors: Gyeongmin Ha, Kazuki Hirota, Takahiro Kashiwazaki, Takumi Suzuki, Akito Kawasaki, Warit Asavanant, Mamoru Endo, Akira Furusawa
+Categories: quant-ph
+Published: 2026-03-03 08:46:30+00:00
+Abstract: We demonstrate the generation of $12.1 \pm 0.2$ dB squeezed light from a periodically poled lithium niobate (PPLN) waveguide optical parametric amplifier (OPA). While single-pass OPAs offer squeezed light with THz-order bandwidths, loss from spatial mode mismatch between the squeezed light and the local oscillator (LO) previously capped the squeezing level at $\sim$10 dB [K. Hirota et al., Opt. Express 34, 7958 (2026)]. In this work, we minimize this loss by introducing a machine-learning-optimized spatial light modulator (SLM) in the path of the LO. Specifically, we employed a double-reflection configuration to increase the spatial degrees of freedom, and directly used the measured squeezing level as the optimization's objective function.

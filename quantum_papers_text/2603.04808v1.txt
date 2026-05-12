@@ -1,0 +1,5 @@
+Title: Multistability and Self-Trapping in Cavity-Magnonic Dimer
+Authors: Pooja Kumari Gupta, Amarendra K. Sarma, Subhadeep Chakraborty
+Categories: quant-ph
+Published: 2026-03-05 04:52:35+00:00
+Abstract: We show that a driven-dissipative cavity-magnonic dimer supports multistability with coexisting symmetric and symmetry-broken steady states. The interplay between magnon Kerr nonlinearity and photon tunneling induces magnon self-trapping, leading to a persistent population imbalance between the two resonators. In the vicinity of saddle-node bifurcations, the system exhibits critical slowing down, with relaxation times far exceeding the intrinsic dissipation scale. Focusing on quan- tum correlations, we analyze the quantum fidelity and mutual information between the intercavity magnon modes. We find that both the infidelity and the mutual information increase sharply near the phase boundaries, providing clear quantum signatures of the multistable and symmetry-broken phases. Our results establish cavity magnonic dimers as a versatile platform for exploring nonlinear nonequilibrium physics in hybrid quantum systems.

@@ -1,0 +1,8 @@
+Quantum Error Correction and Surface Codes
+Quantum error correction (QEC) protects quantum information from decoherence and other errors. The surface code is a leading QEC approach due to its high error threshold and local connectivity requirements. It arranges qubits on a 2D grid with nearest-neighbor interactions.
+
+IBM Eagle Processor
+IBM unveiled the Eagle processor in 2021, featuring 127 qubits. It was the first quantum processor to exceed 100 qubits. Eagle uses a heavy-hex lattice design and has demonstrated significant improvements in coherence times.
+
+Connecting Error Correction to Eagle
+To achieve fault-tolerant quantum computing, error correction must be integrated with large-scale processors like IBM's Eagle. The surface code's requirement for many physical qubits per logical qubit means that processors with over 1000 qubits will be needed for practical error correction.

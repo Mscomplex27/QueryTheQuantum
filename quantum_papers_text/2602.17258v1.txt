@@ -1,0 +1,5 @@
+Title: Les Houches lectures on random quantum circuits and monitored quantum dynamics
+Authors: Romain Vasseur
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-02-19 10:59:35+00:00
+Abstract: These lecture notes are based on lectures given by the author at the Les Houches 2025 summer school on "Exact Solvability and Quantum Information". The central theme of these notes is to apply the philosophy of statistical mechanics to study the dynamics of quantum information in ideal and monitored random quantum circuits -- for which an exact description of individual realizations is expected to be generically intractable.

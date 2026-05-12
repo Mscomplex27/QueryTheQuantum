@@ -1,0 +1,7 @@
+Title: A Course on the Introduction to Quantum Software Engineering: Experience Report
+Authors: Andriy Miranskyy
+Categories: cs.SE, cs.CY, cs.ET, quant-ph
+Published: 2026-02-07 15:35:04+00:00
+Abstract: Quantum computing is increasingly practiced through programming, yet most educational offerings emphasize algorithmic or framework-level use rather than software engineering concerns such as testing, abstraction, tooling, and lifecycle management.
+  This paper reports on the design and first offering of a cross-listed undergraduate--graduate course that frames quantum computing through a software engineering lens, focusing on early-stage competence relevant to software engineering practice. The course integrates foundational quantum concepts with software engineering perspectives, emphasizing executable artifacts, empirical reasoning, and trade-offs arising from probabilistic behaviour, noise, and evolving toolchains. Evidence is drawn from instructor observations, supplemented by anonymous student feedback, a background survey, and inspection of student work.
+  Despite minimal prior exposure to quantum computing, students were able to engage productively with quantum software engineering topics once a foundational understanding of quantum information and quantum algorithms, expressed through executable artifacts, was established. This experience report contributes a modular course design, a scalable assessment model for mixed academic levels, and transferable lessons for software engineering educators developing quantum computing curricula.

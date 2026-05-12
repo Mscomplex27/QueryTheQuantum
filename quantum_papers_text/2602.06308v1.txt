@@ -1,0 +1,5 @@
+Title: Time-reversal Interferometry Using Cat States with Scalable Entangling Resources
+Authors: Sebastián C. Carrasco, Michael H. Goerz, Zeyang Li, Simone Colombo, Vladan Vuletic, Wolfgang P. Schleich, Vladimir S. Malinovsky
+Categories: quant-ph
+Published: 2026-02-06 02:02:29+00:00
+Abstract: We propose a novel method for generating Schrödinger-cat states -- defined as equal superpositions of arbitrary coherent states -- using a concise sequence of rapid twist-and-turn pulses. We demonstrate that the required shearing strength for the protocol, which scales linearly with time, decreases with increasing number of atoms ($N$) in proportion to $1/\sqrt{N}$. The resulting states exhibit optimal quantum Fisher information, making them ideal for surpassing the classical limit of phase sensitivity in quantum metrology applications. Notably, our protocol is compatible with a time-reversal strategy for quantum metrology, ensuring its practical viability. Furthermore, we demonstrate that the Heisenberg limit scaling remains intact even when reducing the twisting employed in tandem with the number of atoms, thereby mitigating realistic losses such as photon scattering.

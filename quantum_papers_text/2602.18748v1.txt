@@ -1,0 +1,5 @@
+Title: Nonabelian Anyons attached to Superconducting Islands in FQH Liquids
+Authors: Hisham Sati, Urs Schreiber
+Categories: cond-mat.mes-hall, cond-mat.str-el, math-ph, math.AT, quant-ph
+Published: 2026-02-21 08:06:32+00:00
+Abstract: The idea that topologically protected quantum states, such as anyons, may be attached to super/semiconductor heterostructures has received enormous attention, but experimental signatures in 1D systems remain elusive. Here we revisit theoretical underpinnings of anyons in 2D fractional quantum Hall (FQH) systems, whose signatures have been experimentally observed by independent groups. Invoking novel theorems about the Hopfion or $\mathbb{C}P^1$-model understood as flux quantization in 2-Cohomotopy, we demonstrate a robust prediction for possibly nonabelian anyonic states induced by superconducting islands.

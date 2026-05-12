@@ -1,0 +1,5 @@
+Title: Sensing weak anharmonicities with a passive-active anti-PT symmetric system
+Authors: Ya-Wei Zeng, Wei-Xin Chen, Tian-Le Yang, Wan-Jun Su, Huaizhi Wu
+Categories: quant-ph
+Published: 2026-02-07 09:33:04+00:00
+Abstract: We propose a scheme for enhanced sensing of weak anharmonicities based on a three-mode anti-parity-time (anti-PT) symmetric cavity-magnon-waveguide system. By tuning the optical gain to the active cavity mode, the linewidth suppression point for the anti-PT symmetric Hamiltonian can be flexibly controlled even when the two dissipative magnonic modes experience strong intrinsic decay. This essential characteristic is utilized for detecting weak nonlinearities in both the cavity and magnonic modes, with both demonstrating similar high levels of sensitivity. Moreover, the sensitivity can be greatly improved with a detuned laser drive. Based on the integrated passive-active three-mode anti-PT symmetric system, the sensing scheme can be generalized to various physical systems with anharmonicities.

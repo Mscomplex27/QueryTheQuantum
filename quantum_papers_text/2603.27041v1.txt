@@ -1,0 +1,5 @@
+Title: Derivation of the Schrodinger equation from fundamental principles
+Authors: Wenzhuo Zhang, Anatoly Svidzinsky
+Categories: quant-ph, hep-ph, hep-th, physics.hist-ph
+Published: 2026-03-27 23:12:55+00:00
+Abstract: Schrodinger path to the quantum mechanical wave equation was heuristic and guided more by physical intuition than formal deduction. Here we derive the Schrodinger equation for the particle wave function, assuming that it has a meaning of the probability amplitude to find the particle at time t at point r and the relations E=hw, p=hk expressing particle energy and momentum in terms of the frequency and wave vector of the associated probability wave.

@@ -1,0 +1,5 @@
+Title: Nonlocal continuous-variable quantum nondemolition gates by optical connections
+Authors: Michele N. Notarnicola, Radim Filip
+Categories: quant-ph
+Published: 2026-03-13 10:13:37+00:00
+Abstract: Nonlocal quantum gates, coupling quantum systems located at distance, are crucial for distributed quantum computing. High-capacity optical noiseless connections between these quantum systems are essential for transmitting large amounts of information per mode. We propose a library of feasible protocols to implement a necessary nonlocal continuous-variable (CV) quantum nondemolition (QND) gate between two distant users sharing a quantum channel with a newly available element - single-pass phase-sensitive optical parametric amplifiers (OPAs), allowing for both online squeezing and channel-loss compensation, and classical communication between them. The use of OPAs enhances quality of the resulting entangling gate in terms of both excess noise and logarithmic negativity. The proposed schemes are also applicable to CV cluster state fusion, providing a first step towards development of distributed CV measurement-based quantum computation.

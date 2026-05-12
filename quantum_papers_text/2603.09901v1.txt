@@ -1,0 +1,5 @@
+Title: Has quantum advantage been achieved?
+Authors: Dominik Hangleiter
+Categories: quant-ph, cs.CC, physics.hist-ph
+Published: 2026-03-10 16:55:03+00:00
+Abstract: Quantum computational advantage was claimed for the first time in 2019 and several experiments since then have reinforced the claim. And yet, there is no consensus whether or not quantum advantage has actually been achieved. In this article, I address this question and argue that, in fact, it has. I also outline next steps for theory and experiments in quantum advantage.

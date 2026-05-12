@@ -1,0 +1,5 @@
+Title: Fractional topology in open systems
+Authors: Xi Wu, Xiang Zhang, Fuxiang Li
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-03-04 09:04:20+00:00
+Abstract: We investigate the emergence of fractional topological invariants in a periodic Su-Schrieffer- Heeger chain subject to gain and loss, governed by the Gorini-Kossakowski-Sudarshan-Lindblad master equations. After preparing the symmetry condition for integer topological invariants, we investigate their transition to fractional ones in steady states, which can happen either by tuning parameters in jump operators or as a dynamical transition during time evolution. Moreover, we show that these fractional topological invariants no longer possess quantized topology in the conventional sense. However, by extending the Brillouin zone to cover multiple cycles, the total winding regains integer quantization. Finally, we show how such effects can be observed in long-range hopping photonic lattices with fractional fillings, via Bloch state tomography. Our results open a new pathway to understand fractional topology in open quantum systems.

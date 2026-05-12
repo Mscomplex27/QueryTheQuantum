@@ -1,0 +1,5 @@
+Title: Compressed Sensing for Efficient Fidelity Estimation of GHZ States
+Authors: Farrokh Labib, David Nicholaeff, Vincent Russo, William J. Zeng
+Categories: quant-ph
+Published: 2026-04-30 13:11:34+00:00
+Abstract: Accurately characterizing multipartite entangled states is a critical challenge in quantum information processing. In this work, we focus on applying compressed sensing techniques to efficiently estimate the fidelity of Greenberger-Horne-Zeilinger (GHZ) states. By exploiting the inherent sparsity of these states, our compressed sensing protocol drastically reduces the measurement overhead traditionally required for state verification while maintaining high accuracy. To evaluate the practical performance of this approach, we test the protocol on GHZ states using both quantum simulators and Quantinuum's trapped-ion hardware. Furthermore, we implement error detection techniques during our hardware evaluations, demonstrating the robustness and viability of compressed sensing for fidelity estimation in noisy experimental environments.

@@ -1,0 +1,5 @@
+Title: Rydberg states with a liquid core
+Authors: Juan Carlos Acosta Matos, P. Giannakeas, Jan M. Rost
+Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
+Published: 2026-02-20 12:15:13+00:00
+Abstract: We develop a self-consistent approach that provides an explicit potential for a Rydberg electron whose ionic core consists of a polarizable medium, typically realized with superfluid droplets. The electron's motion remains separable in spherical coordinates, but the radial force exerted by the droplet breaks degeneracy of the angular momentum states non-perturbatively. The ensuing electron spectrum reveals intriguing properties dependent on droplet size and electron excitation. Deviations of the polarizable medium from the continuous spherical distribution can be taken into account as a perturbation of this redefined Rydberg dynamics. We discuss specific but paradigmatic examples for superfluid helium and also propose a way to probe droplet properties including its possible crystallized fraction through stimulated transitions of the Rydberg electron.

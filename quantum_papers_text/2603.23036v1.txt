@@ -1,0 +1,5 @@
+Title: Zero-Uncertainty States Relative to Observable Algebras
+Authors: Jiayu Ran
+Categories: quant-ph
+Published: 2026-03-24 10:13:17+00:00
+Abstract: We study zero-uncertainty states with quantum memory from an operator-algebraic perspective, which naturally accommodates degenerate projective-valued measurements. In the equal-dimension setting, we prove a rigidity theorem for purity and maximal entanglement. We then analyze two mechanisms by which this rigidity can fail: one arising from proper observable subalgebras, and the other from allowing larger memory dimensions. In these cases, we give corresponding algebraic decomposition and representation-theoretic descriptions, and compare their mathematical structure with their physical interpretation. Finally, we present an example from quantum steering to illustrate how our framework helps resolve a concrete physical question in a specific setting.

@@ -1,0 +1,5 @@
+Title: Kirkwood-Dirac distributions in classical optics
+Authors: Alfredo Luis, Lorena Ballesteros Ferraz
+Categories: quant-ph, physics.optics
+Published: 2026-04-09 14:56:51+00:00
+Abstract: We develop a comprehensive analysis of the Kirkwood-Dirac distributions in classical optics, revealing their deep connection with optical coherence as fundamental concept in optics. From their very definition, the Kirkwood-Dirac distributions emerge as generalized mutual coherence functions involving two different bases instead of just one. This perspective provides a unified interpretation of the so-called anomalous values, that are complex and negative values, as direct manifestations of coherence. We show that this interpretation consistently applies across all field variables considered in this work, including polarization, interference and wave propagation. Furthermore, we propose diverse methods of experimental determination of these distributions based on interference, in full agreement with their coherence-based interpretation.

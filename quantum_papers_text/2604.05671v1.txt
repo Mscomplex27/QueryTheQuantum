@@ -1,0 +1,6 @@
+Title: A Global Model Structure for $\mathbb{K}$-Linear $\infty$-Local Systems
+Authors: Hisham Sati, Urs Schreiber
+Categories: math.AT, math.CT, quant-ph
+Published: 2026-04-07 10:17:35+00:00
+Abstract: Parameterized stable homotopy theory organizes local systems of spectra over homotopy types, governed by a "yoga" of six functors. To provide semantics for the recently developed Linear Homotopy Type Theory (LHoTT), good model categories of these spectra are required, preferably monoidal with respect to the external smash product.
+  We focus on the case of parameterized $H\mathbb{K}$-module spectra ($\infty$-local systems), motivated by recent applications of parameterized homotopy to topological quantum computing. While traditionally treated via dg-categories, we leverage combinatorial model structures on simplicial chain complexes to construct the first dedicated global model structure for $\mathbb{K}$-linear $\infty$-local systems, which offers better control than existing models for general parameterized spectra. In particular, when restricted to base 1-types, our model structure is monoidal with respect to the external tensor product, making it a candidate target semantics for the multiplicative fragment of LHoTT.

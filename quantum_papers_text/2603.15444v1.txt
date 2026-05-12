@@ -1,0 +1,5 @@
+Title: MACOR glass-ceramic based UHV cell for quantum technology applications
+Authors: M. Proske, S. Boles-Herresthal, D. Latorre-Bastidas, I. Varma, R. Skanda, O. Hellmig, K. Sengstock, A. Wenzlawski, P. Windpassinger
+Categories: quant-ph
+Published: 2026-03-16 15:45:45+00:00
+Abstract: Compact, customizable, non-magnetic vacuum systems are a key requirement for many field applications of quantum technology based on cold atoms. We report on the development and construction of a compact, low-cost ultra-high vacuum compatible cell using the glass-ceramic MACOR. The cell offers a CF flange connection to commercial vacuum technology, as well as high numerical aperture viewports for precision optical measurements. The presented technology shows stable vacuum pressures of $< 1 \cdot 10^{-10}$ mbar for more than a year since the implementation into the vacuum system of a quantum gas experiment, further proving suitability for general quantum technology applications.

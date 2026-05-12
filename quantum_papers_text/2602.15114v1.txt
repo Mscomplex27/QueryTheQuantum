@@ -1,0 +1,5 @@
+Title: Triangular tensor networks, pencils of matrices and beyond
+Authors: Alessandra Bernardi, Fulvio Gesmundo
+Categories: math.AG, quant-ph
+Published: 2026-02-16 19:00:04+00:00
+Abstract: We study tensor network varieties associated with the triangular graph, with a focus on the case where one of the physical dimensions is 2. This allows us to interpret the tensors as pencils of matrices. We provide a complete characterization of these varieties in terms of the Kronecker invariants of pencils. We determine their dimension, identifying the cases for which the dimension is smaller than the expected parameter count. We provide necessary conditions for membership in these varieties, in terms of the geometry of classical determinantal varieties, coincident root loci and plane cubic curves. We address some extensions to arbitrary graphs.

@@ -1,0 +1,5 @@
+Title: Invariant measures of randomized quantum trajectories
+Authors: Tristan Benoist, Sascha Lill, Cornelia Vogel
+Categories: math-ph, math.PR, quant-ph
+Published: 2026-03-30 16:49:36+00:00
+Abstract: Quantum trajectories are Markov chains modeling quantum systems subjected to repeated indirect measurements. Their stationary regime depends on what observables are measured on the probes used to indirectly measure the system. In this article we explore the properties of quantum trajectories when the choice of probe observable is randomized. The randomization induces some regularization of the quantum trajectories. We show that non-singular randomization ensures that quantum trajectories purify and therefore accept a unique invariant probability measure. We furthermore study the regularity of that invariant measure. In that endeavour, we introduce a new notion of ergodicity for quantum channels, which we call multiplicative primitivity. It is a priory stronger than primitivity but weaker than positivity improving. Finally, we compute some invariant measures for canonical quantum channels and explore the limits of our assumptions with several examples.

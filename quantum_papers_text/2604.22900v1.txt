@@ -1,0 +1,5 @@
+Title: Module Lattice Security (Part II): Module Lattice Reduction via Optimal Sign Selection
+Authors: Ming-Xing Luo
+Categories: cs.CR, cs.IT, quant-ph
+Published: 2026-04-24 13:54:33+00:00
+Abstract: We extend the CDPR lattice reduction algorithm from ideal to module lattices, leveraging the trace orthogonality of the power basis to decompose the module into rank-1 submodules and applying CDPR independently to each. This base module reduction achieves a Hermite factor $\exp(\tilde{O}(\sqrt{n}))$ matching the ideal case, with a module reduction factor $O(1)$ independent of the rank, under a balance hypothesis automatically satisfied for MLWE-distributed bases. To control precision, we introduce CRT-scaled rounding at totally split primes, reducing the Gram-Schmidt rounding error and yielding a bounded-precision implementation. We further reformulate the CDPR sign-selection subproblem as a mixed-integer linear program, determining the optimal balanced discrepancy to be a universal constant $δ^*\approx 0.4407$. All results build on the class number one condition $h_k^+=1$ established in Part I of this series.

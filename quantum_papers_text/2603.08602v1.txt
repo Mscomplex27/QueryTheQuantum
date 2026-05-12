@@ -1,0 +1,5 @@
+Title: Quantum-limited estimation of the difference between photonic momenta via spatially resolved two-photon interference
+Authors: Luca Maggio, Vincenzo Tamma
+Categories: quant-ph
+Published: 2026-03-09 16:51:00+00:00
+Abstract: We present a quantum sensing protocol for three-dimensional estimation of the difference between the momenta of two photons based on spatially resolved interferometric sampling measurements. The protocol attains ultimate quantum precision in the simultaneous estimation of the components of the relative momentum for any values of the parameters already with $\sim 2000$ sampling measurements and a bias below $1\%$. These results identify 3D spatially resolved two-photon interference as an efficient tool for multi-parameter quantum sensing, with potential applications in high-precision 3D localization, refractometry, and near-field calibration in free-space quantum technologies.

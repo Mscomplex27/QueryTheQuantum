@@ -1,0 +1,5 @@
+Title: Quantum target ranging with Hetero-Homodyne detection
+Authors: Sangwoo Jeon, Yonggi Jo, Jihwan Kim, Zaeill Kim, Duk Y. Kim, Yong Sup Ihn, Su-Yong Lee
+Categories: quant-ph
+Published: 2026-04-08 04:39:56+00:00
+Abstract: Quantum target ranging, which estimates a target position using entangled photon pairs, is known to offer an error-probability advantage over classical ranging strategies. Yet, realizing this advantage in practice remains challenging, as an existing receiver design relies on collective measurements and requires an impractically large number of quantum memories and linear passive components. In this work, we propose the hetero-homodyne receiver, a practically implementable architecture that achieves quantum advantage in target ranging using only local measurements. The receiver requires only one heterodyne setup, a single homodyne setup, and a delay line, making the implementation scalable and experimentally feasible. Our results establish a realistic framework for demonstrating quantum advantage in target ranging and contribute toward practical quantum radar systems.

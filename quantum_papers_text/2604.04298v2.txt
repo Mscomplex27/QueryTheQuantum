@@ -1,0 +1,5 @@
+Title: Refining Quantum Phase Estimation Precision Conditions on Unitaries for Many-Electron Systems
+Authors: Jérémie Messud, Wassil Sennane
+Categories: quant-ph
+Published: 2026-04-05 22:37:03+00:00
+Abstract: Beyond ground state energy estimation, quantum phase estimation (QPE) applied to many-electron systems has the potential to output an approximation of the ground state, enabling in a second step an evaluation of observables other than the energy. We here focus on the impact of approximate controlled-unitaries implementations on QPE precision. After recalling the role of the QPE free parameters, we derive first-order and unified conditions on the unitaries that are necessary to control the QPE energy estimation precision together with the QPE output state precision, important in case we want to leverage the full potential of QPE. We apply these conditions to a Trotterization case, leading to tighter or more general bounds than in previous works. The main results in this article are formal. First numerical illustrations on the H2 molecule provide useful insights.

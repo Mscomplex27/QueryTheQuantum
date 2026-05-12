@@ -1,0 +1,5 @@
+Title: Temporal Entanglement in Quantum Field Theory
+Authors: Olalla A. Castro-Alvaredo
+Categories: hep-th, quant-ph
+Published: 2026-03-21 11:29:46+00:00
+Abstract: In this paper I propose a branch point twist field approach to computing a temporal entropy, that is, an entanglement measure across different time regions, as opposed to the usual spacial measures. I discuss how the shift to time-dependence manifests in form factor calculations and how the generalization of the spacial measures to temporal ones reproduces expected features of the temporal entanglement: the entropy is complex, oscillatory and reminiscent of the evolution of entanglement following a global quench. Considering the temporal von Neumann entropy, I argue that spacial and temporal entropies are two sides of the same coin. They both encapsulate universal information about the theory, in particular its mass spectrum. Also in both cases, a quasiparticle picture can be employed to interpret results. Some qualitative features of this version of temporal entropy, such as its similarity to the entanglement entropy after a global quench, are shared with the known temporal measures.

@@ -1,0 +1,5 @@
+Title: All-photonic quantum key distribution beyond the single-repeater bound
+Authors: Matthew S. Winnel, Sergio Juárez, Chithrabhanu Perumangatt, Taofiq Paraiso, R. Mark Stevenson
+Categories: quant-ph
+Published: 2026-04-17 15:41:58+00:00
+Abstract: Quantum protocols require classical signaling, and when classical signals propagate faster than quantum ones, standard rate-loss limits can be surpassed. We introduce an all-photonic measurement-device-independent quantum key distribution protocol that exceeds the single-repeater bound without error correction. When quantum signals travel at two-thirds the classical speed, the key rate scaling approaches $η^{2/5}$. We propose a single-rail, temporally multiplexed architecture that extends twin-field-type protocols to multiple nodes and surpasses their key rate without ideal quantum memories.

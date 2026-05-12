@@ -1,0 +1,5 @@
+Title: Putting fermions onto a digital quantum computer
+Authors: Riley W. Chien, Mitchell L. Chiew, Brent Harrison, Jason Necaise, Weishi Wang, Maryam Mudassar, Campbell McLauchlan, Thomas M. Henderson, Gustavo E. Scuseria, Sergii Strelchuk, James D. Whitfield
+Categories: quant-ph
+Published: 2026-02-06 19:50:44+00:00
+Abstract: Quantum computers are expected to become a powerful tool for studying physical quantum systems. Consequently, a number of quantum algorithms for studying the physical properties of such systems have been developed. While qubit-based quantum computers are naturally suited to the study of spin-1/2 systems, systems containing other degrees of freedom must first be encoded into qubits. Transformations to and from fermionic degrees of freedom have long been an important tool in physics and, now the simulation of fermionic systems on quantum computers based on qubits provides yet another application. In this perspective, we review methods for encoding fermionic degrees of freedom into qubits and attempt to dispel the persistent notion that fermionic systems beyond one dimension are fundamentally more difficult to deal with.

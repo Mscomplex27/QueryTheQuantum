@@ -1,0 +1,5 @@
+Title: From Multipartite Entanglement to TQFT
+Authors: Michele Del Zotto, Abhijit Gadde, Pavel Putrov
+Categories: hep-th, cond-mat.str-el, math-ph, math.QA, quant-ph
+Published: 2026-02-18 19:00:00+00:00
+Abstract: At long distances, a gapped phase of matter is described by a topological quantum field theory (TQFT). We conjecture a tight and concrete relationship between the genuine $(d+1)$-partite entanglement -- labelled by a $d$-dimensional manifold $M$ -- in the ground state of a $(d-1)+1$-dimensional gapped theory and the partition function of the low energy TQFT on $M$. In particular, the conjecture implies that for $d=3$, the ground state wavefunction can determine the modular tensor category description of the low energy TQFT. We verify our conjecture for general (2+1)-dimensional Levin-Wen string-net models.

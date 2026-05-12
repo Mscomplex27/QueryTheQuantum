@@ -1,0 +1,5 @@
+Title: Effect of the Atomic Dipole-Dipole Interaction on the Phase Diagrams of Field-Matter Interactions
+Authors: S. Cordero, E. Nahmad-Achar, O. Castaños, R. López-Peña
+Categories: quant-ph
+Published: 2026-03-24 00:19:14+00:00
+Abstract: Quantum information measures are used to study the quantum phase diagrams of the two-level Dicke model including the atomic dipole-dipole interaction, for a finite number of particles, with and without the rotating-wave approximation, which yields the conservation of the total number of excitations in the first case and its parity in the general case. We show that the quantum phase transitions can be observed in the fluctuation of the atomic populations and that of the number of photons, and also that the conditional probability distribution of the population of the excited state with zero photons carries the information of the quantum phase transitions when the matter-field interaction is weak.

@@ -1,0 +1,5 @@
+Title: Localized Entanglement Purification
+Authors: Katerina Stloukalova, Jorge Miguel-Ramiro, Wolfgang Dür, Julius Wallnöfer
+Categories: quant-ph
+Published: 2026-04-02 18:01:36+00:00
+Abstract: Entanglement purification protocols are fundamental primitives in quantum communication, enabling the distillation of high-quality entanglement using only local operations and classical communication. For large multipartite states, however, existing purification schemes typically require substantial resources and become progressively inefficient as system size increases. We introduce a new type of multipartite entanglement purification, Localized Entanglement Purification (LEP), a family of protocols that purify entanglement at the level of network regions rather than globally. By exploiting spatial noise asymmetries, LEP reduces resource consumption and enables scalable purification strategies for larger quantum systems.

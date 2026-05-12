@@ -1,0 +1,5 @@
+Title: Qubit syndrome measurements with a high fidelity Rb-Cs Rydberg gate
+Authors: J. Miles, M. T. Lichtman, A. M. Scott, J. Scott, S. A. Norrell, M. J. Bedalov, D. A. Belknap, D. C. Cole, S. Y. Eubanks, M. Gillette, P. Gokhale, J. Goldwin, M. Iliev, R. A. Jones, K. W. Kuper, D. Mason, P. T. Mitchell, J. D. Murphree, N. A. Neff-Mallon, T. W. Noel, A. G. Radnaev, I. V. Vinogradov, M. Saffman
+Categories: quant-ph
+Published: 2026-03-13 18:09:57+00:00
+Abstract: We demonstrate an inter-species entangling Rydberg gate between rubidium (Rb) and cesium (Cs) atoms with fidelity $\mathcal F = 0.975\pm 0.002$. The two-species atom array enables in-place quantum non-demolition (QND) qubit measurements which are a key capability for quantum error correction. We demonstrate this functionality with multi-atom error syndrome measurements achieving QND measurement fidelities of ${\mathcal F}_{\rm QND} = 0.933(12)$ and 0.865(17) for two- and three-qubit plaquettes, respectively.

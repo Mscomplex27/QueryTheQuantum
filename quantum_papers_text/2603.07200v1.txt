@@ -1,0 +1,5 @@
+Title: Thermal Properties of Gauge-Invariant Graphene in Noncommutative Phase-Space
+Authors: Ilyas Haouam
+Categories: math-ph, quant-ph
+Published: 2026-03-07 13:18:55+00:00
+Abstract: We study graphene in an external magnetic field within a noncommutative (NC) framework. A gauge-invariant NC Hamiltonian is derived, and the system is analyzed using the ladder-operator formalism, yielding deformed Landau levels and eigenstates. The thermal properties of gauge-invariant NC graphene are then investigated via the partition function, constructed using Euler and Hurwitz zeta functions. Analytical expressions for the partition function, free energy, internal energy, entropy, and specific heat are obtained and numerically evaluated.

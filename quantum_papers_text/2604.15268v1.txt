@@ -1,0 +1,5 @@
+Title: Assembling Extensive Quantum Fisher Information in Stabilizer Systems
+Authors: Arnau Lira-Solanilla, Sreemayee Aditya, Xhek Turkeshi, Silvia Pappalardi
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-04-16 17:40:33+00:00
+Abstract: We introduce a systematic framework to construct nonlocal observables with extensive quantum Fisher information (QFI) density in stabilizer codes. The construction maps stabilizer generators to dual Ising spins whose correlators equal string order parameters, converting hidden nonlocal order into a metrologically accessible observable. Applying this to monitored cluster codes and the toric code, we identify transitions in the QFI scaling from an extensive regime, where long-range string order prevails, to an intensive one driven by competing single-site measurements.

@@ -1,0 +1,5 @@
+Title: Semiclassical theory of transport
+Authors: Marcel Novaes
+Categories: quant-ph, nlin.CD
+Published: 2026-04-14 18:16:32+00:00
+Abstract: We discuss the semiclassical approximation to transport problems in quantum chaotic systems. The figures of merit are moments of the transmission matrix and of the time delay matrix. After reviewing a few results obtained by treating these matrices are random matrices, we show how expressions for their elements in terms of sums over trajectories lead to diagrammatic formulations that correspond to perturbative calculations. This semiclassical approach agrees with random matrix theory when it should, and allows further elements to be incorporated, like tunnel barriers, superconductors, absorption effects. We also discuss how this approach can be encoded in matrix integrals, resulting in a powerful and versatile theory that is amenable to algebraic solutions.

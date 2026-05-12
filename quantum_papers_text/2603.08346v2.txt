@@ -1,0 +1,5 @@
+Title: Bound Trions in Two-Dimensional Monolayers: A Review
+Authors: Roman Ya. Kezerashvili
+Categories: cond-mat.mes-hall, physics.chem-ph, quant-ph
+Published: 2026-03-09 13:07:26+00:00
+Abstract: Trions -- Coulomb-bound three-particle excitations composed of two like-charge carriers and one oppositely charged carrier -- are central quasiparticles in two-dimensional semiconductors. Reduced dielectric screening and quantum confinement strongly enhance their binding energies, making them robust and experimentally accessible. This review surveys theoretical and experimental advances in trion physics, emphasizing rigorous few-body approaches and the role of dielectric environment, anisotropy, and external electric and magnetic fields. We analyze computational methods for describing trions in two-dimensional configuration spaces and discuss how reduced dimensionality modifies their structure and stability. Connections to many-body phenomena, including screening, Landau-level mixing, and exciton--polaron crossover, are also highlighted.

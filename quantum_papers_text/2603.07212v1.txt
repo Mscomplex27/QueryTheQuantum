@@ -1,0 +1,5 @@
+Title: Boundary-Driven Exceptional Points in Photonic Waveguide Lattices
+Authors: Stefano Longhi
+Categories: physics.optics, quant-ph
+Published: 2026-03-07 13:38:26+00:00
+Abstract: We predict and analyze boundary-driven exceptional points in semi-infinite Hermitian photonic waveguide lattices with a side-coupled defect. The exceptional points arise from coherent reflections at the lattice termination, which induce strong memory effects in the defect dynamics. Using an exact analytic approach, we derive the defect's non-Markovian memory kernel, revealing the trajectories and coalescence conditions of the resonances, which can be precisely tuned by the defect position and the coupling strength. Our results provide a simple and experimentally accessible platform for exploring memory-enabled non-Hermitian physics in Hermitian photonic lattices.

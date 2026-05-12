@@ -1,0 +1,5 @@
+Title: Massless Dirac Fermions in curved surfaces with localized curvature
+Authors: A. R. N. Lima, D. F. S. Veras, J. E. G. Silva
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-03-27 17:46:16+00:00
+Abstract: We investigate how a localized curvature affects the dynamics of massless Dirac fermions in a curved surface. We consider a smooth bump with axial symmetry, adopting two specific geometric models, namely a Gaussian and a volcano-like bumps. By considering a minimal coupling between the spinor and the surface geometry, described by the vielbeins and the spin connection, we study the behavior of the wave function over the surface. By using appropriate numerical methods, we find a linear discrete energy spectrum for the Dirac fermions and its corresponding wavefunctions when the Fermi velocity is considered. It turns out that, since the curvature vanishes asymptotically, the electron states are free waves far from the bumps, but around the curved points, the wave function increases its probability density.

@@ -1,0 +1,5 @@
+Title: Multi-qubit controlled gate with optimal T-count
+Authors: Soichiro Yamazaki, Seiseki Akibue
+Categories: quant-ph
+Published: 2026-03-15 03:22:15+00:00
+Abstract: Controlled gates are key components in various quantum algorithms. Improving on the prior work of Gosset et al., we show that, for an allowed error $\varepsilon$, $3\log_2(1/\varepsilon) + o(\log(1/\varepsilon))$ $T$ gates are sufficient to approximate most multi-qubit controlled SU(2)s. We also show that this T-count matches the lower bound when the use of an almost controlled gate is prohibited. As an application, general controlled gate synthesis and efficient SU(4) gate synthesis are given.

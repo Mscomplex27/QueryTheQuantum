@@ -1,0 +1,6 @@
+Title: Learning Non-Markovian Noise via Ensemble Optimal Control
+Authors: Da-Wei Luo, Ting Yu
+Categories: quant-ph
+Published: 2026-04-18 02:15:58+00:00
+Abstract: We study the estimation of parameters pertaining to non-Markovian quantum open systems, such as the dissipation rate and environmental memory time. A key challenge is identifying the optimal measurement time, which must allow sufficient time to acquire information about the environment, yet be short enough to avoid dissipation that erases the information.
+  Using machine learning approaches, we develop an optimized control scheme trained over a representative ensemble to fix the optimal measurement time at a prescribed runtime. The protocol is robust to errors in the training process, enhances precision by exploiting non-Markovian memory effects, and achieves measurement uncertainties approaching the quantum limits set by the Cramér-Rao bound.

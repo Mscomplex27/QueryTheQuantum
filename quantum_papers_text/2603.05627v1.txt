@@ -1,0 +1,5 @@
+Title: Classical Explanations in (and of) General Probabilistic Theories
+Authors: John Harding, Alex Wilce
+Categories: quant-ph, cs.LO
+Published: 2026-03-05 19:35:41+00:00
+Abstract: We introduce a notion of the ``explanation" of one (generalized) probabilistic model by another as particular kind of span in the category $\Prob$ of probabilistic models and morphisms. We show that explanations compose under a standard pullback construction (notwithstanding that $\Prob$ does not support arbitrary pullbacks). We then show that every locally-finite probabilistic model has a canonical, sharp classical explanation. The construction is functorial, so every locally-finite probabilistic theory has a canonical, sharp classical (though of course, usually non-local) representation.

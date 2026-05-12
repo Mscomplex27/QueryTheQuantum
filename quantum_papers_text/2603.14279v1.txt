@@ -1,0 +1,5 @@
+Title: Phase-preserving control of Floquet-engineered cavity quantum electrodynamics
+Authors: J. W. Yu, X. Q. Zhou, Z. B. Ni, X. T. Cheng, Y. Zhao, H. H. Zhu, C. H. Li, F. Liu, C. Y. Jin
+Categories: quant-ph
+Published: 2026-03-15 08:25:19+00:00
+Abstract: We propose a Floquet-engineered framework for the coherent control of the light-matter interaction in a two-level system (TLS) located in a time-modulated cavity. Strictly phase-preserving operation of the TLS-cavity interaction is demonstrated, allowing the interrupt and retrieval of coherent Rabi oscillations without the loss of quantum information. By introducing a phonon reservoir, it is proved that the frequency instability induced from non-Markovian processes does not produce significant phase decoherence during Floquet modulation. Our results provide new insights into the fundamental physics of a driven quantum system and establish Floquet engineering as a powerful tool for coherent quantum information processing.

@@ -1,0 +1,23 @@
+Title: Quantum-Accelerated Gowers $U_2$ Norm for Bent Boolean Functions
+Authors: Rajdeep Dwivedi, C. A Jothishwaran, Sugata Gangopadhyay, Vishvendra Singh Poonia
+Categories: quant-ph
+Published: 2026-04-28 11:05:20+00:00
+Abstract: Bent Boolean functions extremal objects that maximally resist affine approximation are
+  notoriously hard to construct for large numbers of variables.
+  We propose a hybrid quantum-classical genetic algorithm (GA) that uses a
+  \emph{quantum circuit} to evaluate the Gowers $U_2$ norm as the evolutionary
+  fitness function.
+  Our central contribution is a complexity-theoretic separation: the quantum evaluation
+  circuit requires only $3n$ qubits and $\bigO(n^2)$ two-qubit gates per function query,
+  whereas the classical computation of the exact Gowers $U_2$ norm demands
+  $\bigO(2^{2n})$ arithmetic operations an exponential overhead that renders it
+  infeasible for $n \gtrsim 25$.
+  We validate the framework on $n=6$ and $n=8$ variable systems.
+  For $n=8$, our classical GA run extended to 1000 generations achieves best fitness
+  $\Utwof = 0.250000$ \emph{exactly} the theoretical bent threshold $2^{-n/4}$ with
+  average fitness $0.257267$, confirming that the Gowers $U_2$ norm is a superior
+  fitness criterion over Walsh-Hadamard spectral flatness.
+  Quantum-assisted evaluation faithfully reproduces the classical trajectory up to
+  finite-sampling noise, and our complexity analysis demonstrates that for
+  $n > 25$ the quantum evaluator provides a decisive computational advantage
+  on fault-tolerant hardware.

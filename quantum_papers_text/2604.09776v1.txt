@@ -1,0 +1,5 @@
+Title: Visible Neutrino Decay As An Open Quantum System
+Authors: Joachim Kopp, George A. Parker
+Categories: hep-ph, hep-ex, quant-ph
+Published: 2026-04-10 18:02:42+00:00
+Abstract: Decays of heavier neutrino mass eigenstates into lighter ones, while very slow in the Standard Model, can be significantly enhanced in scenarios with more than three neutrino flavours, or in models with new ultra-light particles such as Majorons. A full theoretical description is challenging due to the intricate interplay between oscillations and decay, interference between different decay channels, and the possibility of multi-step decay cascades. In this paper, we develop a fully general description of arbitrarily complex systems of oscillating and decaying neutrinos using methods from the theory of open quantum systems. Notably, we demonstrate how such systems can be implemented using the Lindblad master equation, the Liouvillian superoperator, as well as Kraus operators. The last two methods eschew the need for solving a differential equation, thereby showing superior numerical performance.

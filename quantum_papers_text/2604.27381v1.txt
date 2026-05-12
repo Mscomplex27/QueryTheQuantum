@@ -1,0 +1,5 @@
+Title: Nonadiabatic Renormalization Group for Strongly Coupled Multiscale Quantum Systems
+Authors: Bing Gu
+Categories: quant-ph, cond-mat.str-el, math-ph
+Published: 2026-04-30 03:48:12+00:00
+Abstract: Complex quantum systems are often multiscale in nature with strong interactions between different scales. We present a novel idea: iteratively suppressing, rather than tracing out, the fast, high-energy degrees of freedom in strongly correlated quantum systems with multiple energy scales in a non-perturbative way, termed nonadiabatic renormalization group. This leads to a quantum geometric structure of a nested fiber bundle, in which each fiber of a layer is itself a fiber bundle of the next layer. The nonadiabatic renormalization group brings a new type of tensor network states that shares physical legs among ''sites'' and encodes quantum entanglement beyond conventional matrix product states. We demonstrate how to apply the nonadiabatic renormalization group to different types of problems, including an interacting boson model and ab initio quantum chemistry with interacting electrons.

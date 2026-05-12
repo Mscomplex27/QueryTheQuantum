@@ -1,0 +1,5 @@
+Title: Metastability, chaos and spectrum tomography for Bose-Hubbard rings and chains
+Authors: Rajat, Doron Cohen
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-03-24 12:01:00+00:00
+Abstract: We analyze the metastability of Bose-Hubbard condensates for finite-size one-dimensional ring lattices and open chains, using a semiclassical tomographic perspective that emphasizes the relation of the many-body spectrum to the underlying classical phase-space structures. This constitutes an arena for inspection of quantum ergodicity and localization, in far-from-equilibrium scenarios of experimental interest. Both local aspects (via Bogoliubov analysis) and global aspects (by inspecting the mixed regular-chaotic dynamics) are addressed. We also clarify how chaos is diminished in the limit of the Gross-Pitaevskii equation.

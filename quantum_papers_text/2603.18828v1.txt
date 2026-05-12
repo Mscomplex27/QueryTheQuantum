@@ -1,0 +1,5 @@
+Title: Certifying ergotropy under partial information
+Authors: Egle Pagliaro, Leonardo Zambrano, Mir Alimuddin, Alioscia Hamma, Antonio Acín, Donato Farina
+Categories: quant-ph, cond-mat.mes-hall, cond-mat.stat-mech
+Published: 2026-03-19 12:24:31+00:00
+Abstract: Ergotropy, the maximum work extractable from a quantum system, is a central resource in quantum physics. Computing ergotropy is well established when the system state is fully known, but its estimation under partial information remains an open problem. Here we introduce a general certification framework that lower bounds ergotropy using only the expectation values of a limited set of arbitrary observables. The method naturally applies in the finite-statistics regime, yielding confidence-certified bounds that explicitly incorporate shot noise. We benchmark our approach on both synthetic data and experimental measurements from an IBM quantum processor. This establishes a robust and experimentally accessible tool for certifying extractable work in realistic quantum settings.

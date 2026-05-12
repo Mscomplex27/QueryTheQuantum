@@ -1,0 +1,10 @@
+Title: The clock ambiguity problem: extended or extinguished?
+Authors: Ovidiu Cristinel Stoica
+Categories: quant-ph, physics.hist-ph
+Published: 2026-04-23 16:02:12+00:00
+Abstract: I show that the clock ambiguity cannot be solved by a purely relational condition like the noninteraction condition, and it is even stronger, extending to evolution laws. The ambiguity is solved by specifying the physical meaning of observables.
+  Page and Wootters (1983) showed how time and dynamics can emerge from entanglement within a stationary quantum system containing a clock. The clock ambiguity problem is that, from a purely relational stance and without fixing a clock-world split, the emergence is ambiguous, resulting in any possible history (Albrecht 1995).
+  I show that the ambiguity is stronger than previously recognized. Under the relational stance, it extends from histories to the evolution laws themselves. The spectrum of any ideal clock uniformizes the spectra of the world's evolution operators, leaving only the dimension of the Hilbert spaces as invariant information.
+  Fixing the clock-world split can solve the ambiguity, but this would block spacetime symmetries.
+  One might want to remove the ambiguity up to a unitary equivalence by imposing noninteraction, as in Marletto and Vedral (2017). But once the clock spectrum uniformizes the world spectrum, unitary equivalence becomes too coarse to distinguish any two possible world dynamics, which is the result proved here. Thus a purely relational condition such as noninteraction is insufficient.
+  Nor can all different decompositions be regarded as equally valid perspectives, since then records would not be correlated with the events they record, and empirical knowledge would be impossible. The resolution is therefore not to embrace the ambiguity, but to recognize what a bare reading of the Page-Wootters structure omits: the physical meaning of the operators.

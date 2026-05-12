@@ -1,0 +1,5 @@
+Title: Time evolution of impurity models and their universality for quantum computation
+Authors: N. C. Mai Pham, Raul A. Santos
+Categories: quant-ph
+Published: 2026-04-09 17:01:59+00:00
+Abstract: Impurity Hamiltonians are systems of $N$ fermionic modes where $O(1)$ of them interact among themselves via quartic (or higher order) fermion terms, while coupling quadratically with $O(N)$ bath modes. Without the quartic interactions, these systems are classically simulable with $O(N^3)$ resources. It was proved that the time-dependent evolution of these systems can perform universal quantum computation. The question of whether or not this remains true for time-independent evolution remains open. Here, we prove that the time evolution of generic time-independent impurity Hamiltonians on $O(N)$ qubits is universal on $N$ qubits if the input state is a product state of fermions in any single particle basis. In our proof we find that for a computation of depth $S$, the size of the impurity scales as $O(S\log S)$.

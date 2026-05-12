@@ -1,0 +1,5 @@
+Title: Defect-free arrays at the thousand-atom scale in a 4-K cryogenic environment
+Authors: Desiree Lim, Hadriel Mamann, Grégoire Pichard, Lilian Bourachot, Arvid Lindberg, Clotilde Hamot, Hugo Le Bars, Florian Fasola, Siddhy Tan, Gwennolé Cournez, Sylvain Dutartre, Thierry Cartry, Sylvain Lemettre, Richard Hostein, Julien Paris, Franck Ferreyrol, Andréa Collardey, Adrien Signoles, Thierry Lahaye, Corentin Monmeyran, Bruno Ximenez
+Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
+Published: 2026-04-08 15:29:12+00:00
+Abstract: We report on a cryogenic platform at 4 K incorporating high numerical aperture optics for the generation of large-scale tweezers arrays, and compatible with Rydberg-state manipulation. We achieve trapping lifetimes of around 5000 s, significantly extending the available experimental time for the preparation of large-scale arrays. By combining two trapping lasers at different wavelengths and by minimizing other atom losses during the rearrangement and imaging processes, we demonstrate the preparation of defect-free arrays with up to 1024 atoms. Our cryogenic design opens exciting prospects for analog and digital quantum computing.

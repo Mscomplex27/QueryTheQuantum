@@ -1,0 +1,11 @@
+Title: Enhancing light-matter coupling for exploring chaos in the quantum Rabi model
+Authors: Yan-Song Hu, Yuan Qiu, Ye-Hong Chen, XinYu Zhao, Yan Xia
+Categories: quant-ph
+Published: 2026-03-10 02:47:43+00:00
+Abstract: Accessing chaos in the quantum Rabi model (QRM) usually requires operating far from resonance, combined with ultra- or deep-strong light-matter coupling.
+  This makes direct experiments challenging.
+  In this manuscript, we propose a solution to this challenge by employing an anti-squeezing transformation to the bosonic field.
+  Specifically, we demonstrate that this transformation maps a weakly coupled, two-photon driven Jaynes-Cummings model (JCM) to an effective deep-strong-coupling QRM in the squeezed-light frame.
+  Using out-of-time-order correlator, Husimi distribution, and linear entanglement entropy, we numerically probe chaos in this coupling-enhanced platform and observe the similar chaotic phenomena as in the ideal QRM.
+  We also find the coupling-enhanced model can drive the system deeper into the chaotic regime.
+  This establishes coupling-enhanced method as a practical approach to study QRM chaos without requiring intrinsic ultra-strong coupling.

@@ -1,0 +1,5 @@
+Title: Spectroscopy of the Dirac oscillator perturbed by a surface delta potential
+Authors: J. Munárriz, F. Domínguez-Adame, R. P. A. Lima
+Categories: quant-ph
+Published: 2026-02-23 16:39:30+00:00
+Abstract: We study theoretically the level shift of the Dirac oscillator perturbed by any sharply peaked potential approaching a surface delta potential. A Green function method is used to obtain closed expressions for all partial waves and parities.

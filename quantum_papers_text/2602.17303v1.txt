@@ -1,0 +1,5 @@
+Title: Two-dimensional quantum lattice gas algorithm for anisotropic Burger-like equations
+Authors: Niccoló Fonio, Pierre Sagaut, Giuseppe Di Molfetta
+Categories: quant-ph
+Published: 2026-02-19 12:13:19+00:00
+Abstract: Building on hybrid quantum lattice gas algorithm, we revisit the possibilities of this quantum lattice model. By deriving a correction to the predicted viscosity, we provide analytical and numerical results that refine original formulation. We introduce a minimal 2D generalization of the algorithm, which allows to simulate anisotropic Burgerlike equations while retaining only two lattice velocities. This approach opens a promising route toward embedding momentum conservation and advancing toward NavierStokes dynamics in 2D, going beyond Frisch, Hasslacher and Pomeau (FHP) with a quantum native model.

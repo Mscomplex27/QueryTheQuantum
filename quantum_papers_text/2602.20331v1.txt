@@ -1,0 +1,6 @@
+Title: No change in Hilbert space fundamentalism
+Authors: Ovidiu Cristinel Stoica
+Categories: quant-ph, physics.hist-ph
+Published: 2026-02-23 20:26:47+00:00
+Abstract: Hilbert space fundamentalism (HSF) states that everything about the physical world is encoded in the Hamiltonian operator and the state vector (as a unit vector, not a wavefunction, which requires additional specification of a configuration space, a position basis, or the position observables). That all structures needed to describe reality, including subsystems, space, fields, emerge from these.
+  I show that HSF can't account for our observations that the physical world changes in time.

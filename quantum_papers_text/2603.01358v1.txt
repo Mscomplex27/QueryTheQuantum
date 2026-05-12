@@ -1,0 +1,5 @@
+Title: Quantum framework for parameterizing partial differential equations via diagonal block-encoding
+Authors: Hiroshi Yano, Yuki Sato
+Categories: quant-ph
+Published: 2026-03-02 01:36:38+00:00
+Abstract: We study a quantum-algorithmic framework for parameterizing partial differential equations (PDEs). For a broad class of problems in which the discretized parameter field admits a diagonal representation, block-encodings of diagonal matrices, or diagonal block-encodings, can be used to represent spatially varying coefficients with structured, potentially complicated profiles. This encoding enables efficient quantum simulation of forward PDEs and extends naturally to parameter-dependent settings. Such simulations are a key primitive for quantum algorithms for PDE-constrained optimization, where the goal is to identify optimal design parameters. We illustrate the framework numerically through forward simulation and parameter design for the two-dimensional wave equation with a Gaussian parameter profile.

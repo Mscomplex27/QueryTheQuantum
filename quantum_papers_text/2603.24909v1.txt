@@ -1,0 +1,5 @@
+Title: Test of the essential collapse-locality loophole
+Authors: Mónica Agüero, Juliana Bourdieu, Alejandro Hnilo, Marcelo Kovalsky, Myriam Nonaka
+Categories: quant-ph
+Published: 2026-03-26 00:47:32+00:00
+Abstract: Collapse-locality is an untested loophole in the violation of Bell's inequalities. The core of the argument is that the time value of photon detection is delayed by the time Tc required by the collapse of its quantum state. The value of Tc is given by the underlying theory of quantum collapse, and is mostly unknown. Depending on the value of Tc, detections in the performed Bell's experiments may have not been truly space-like separated events. This implies that the inequalities may have been violated as a consequence of (conspiratorial) information propagating at subluminal speed. We report an optical Bell experiment which closes the weaker ('essential') form of this loophole regardless the theory of quantum collapse. This is possible thanks to unique features of the setup. These features are: classical signals sent to the stations to define a time reference, and variable distance between the stations leaving all other parameters constant.

@@ -1,0 +1,5 @@
+Title: Mid-Infrared Modulation of Quantum Emitters in Hexagonal Boron Nitride
+Authors: Karin Yamamura, Xinyang Yu, Chaohao Chen, Mehran Kianinia, Christophe Galland, Igor Aharonovich
+Categories: physics.optics, quant-ph
+Published: 2026-03-09 15:05:58+00:00
+Abstract: Single photon emitters (SPEs) are promising building blocks for practical devices in quantum technologies. Traditionally, these systems are excited using off-resonant visible light through their phonon transitions, yet this process remains poorly understood. Here, we explore the interaction of mid-infrared (MIR) excitation on the properties of SPEs in hexagonal boron nitride. Notably, we present a reversible, non-destructive method to enhance emission from blue SPEs using MIR co-excitation. By resonantly driving defect-localized in-plane infrared-active optical phonon modes near 7.3 um, the MIR field modulates carrier dynamics through a phonon-assisted recombination. This unique feature, not observed previously for defects in solids, is a promising reservoir in a growing toolkit to modulate quantum emitters at room temperature for their use in practical quantum technologies.

@@ -1,0 +1,5 @@
+Title: HAMMR-L: Noise Reduction in Quantum Outcomes Using a Richardson-Lucy Deconvolution Algorithm for Quantum State Graphs
+Authors: Jake Scally, Austin Myers, Ryan Carmichael, Phat Tran, Xiuwen Liu
+Categories: quant-ph
+Published: 2026-03-29 03:30:16+00:00
+Abstract: Current quantum computers present significant noise, especially as circuit depth and qubit count increase. Prior work has demonstrated that erroneous outcomes exhibit some behavior in Hamming space, enabling improvements in the output distributions of NISQ-era computers. We present HAMMR-L: a principled post-processing technique for improving the fidelity of output distributions by applying Richardson-Lucy image deconvolution on a state graph of measurement results connected by Hamming distance. We show that this preliminary implementation of HAMMR-L outperforms existing cutting-edge Hamming-based post-processors such as QBEEP while being circuit and hardware agnostic, which QBEEP is not. HAMMR-L also demonstrates clear potential for future improvements and we discuss how such improvements might be realized while highlighting the strengths, limitations, and generality of the underlying concept.

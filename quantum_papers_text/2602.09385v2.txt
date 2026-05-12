@@ -1,0 +1,6 @@
+Title: Separating Quantum and Classical Advice with Good Codes
+Authors: John Bostanci, Andrew Huang, Vinod Vaikuntanathan
+Categories: quant-ph, cs.CC
+Published: 2026-02-10 03:53:09+00:00
+Abstract: We show an unconditional classical oracle separation between the class of languages that can be verified using a quantum proof ($\mathsf{QMA}$) and the class of languages that can be verified with a classical proof ($\mathsf{QCMA}$). Compared to the recent work of Bostanci, Haferkamp, Nirkhe, and Zhandry (STOC 2026), our proof is conceptually and technically simpler, and readily extends to other oracle separations. In particular, our techniques yield the first unconditional classical oracle separation between the class of languages that can be decided with quantum advice ($\mathsf{BQP}/\mathsf{qpoly}$) and the class of languages that can be decided with classical advice ($\mathsf{BQP}/\mathsf{poly}$), improving on the quantum oracle separation of Aaronson and Kuperberg (CCC 2007) and the classically-accessible classical oracle separation of Li, Liu, Pelecanos and Yamakawa (ITCS 2024).
+  Our oracles are based on the code intersection problem introduced by Yamakawa and Zhandry (FOCS 2022), combined with codes that have extremely good list-recovery properties.

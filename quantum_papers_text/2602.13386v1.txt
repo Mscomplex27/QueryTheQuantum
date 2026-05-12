@@ -1,0 +1,5 @@
+Title: Entanglement in quantum spin chains is strictly finite at any temperature
+Authors: Ainesh Bakshi, Soonwon Choi, Saúl Pilatowsky-Cameo
+Categories: quant-ph, cond-mat.stat-mech, math-ph
+Published: 2026-02-13 19:00:00+00:00
+Abstract: Entanglement is the hallmark of quantum physics, yet its characterization in interacting many-body systems at thermal equilibrium remains one of the most important challenges in quantum statistical physics. We prove that the Gibbs state of any quantum spin chain can be exactly decomposed into a mixture of matrix product states with a bond dimension that is independent of the system size, at any finite temperature. As a consequence, the Schmidt number, arguably the most stringent measure of bipartite entanglement, is strictly finite for thermal states, even in the thermodynamic limit. Our decomposition is explicit and is accompanied by an efficient classical algorithm to sample the resulting matrix product states.

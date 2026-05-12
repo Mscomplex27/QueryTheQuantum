@@ -1,0 +1,5 @@
+Title: Anderson transition in disordered Hatano-Nelson systems
+Authors: Silvio Barandun
+Categories: cond-mat.dis-nn, cond-mat.mes-hall, quant-ph
+Published: 2026-03-18 21:16:45+00:00
+Abstract: We illuminate the fundamental mechanism responsible for the transition between the non-Hermitian skin effect and defect-induced Anderson localization in the bulk via the study of Lyapunov exponents. We obtain a proof that the change of the topological invariant associated with an eigenvalue coincides with the eigenvector crossover from non-Hermitian skin effect to Anderson localization, establishing a universal criterion for localization behavior.

@@ -1,0 +1,5 @@
+Title: Quantifying Uhlmann curvature from Yang-Mills action and its implications in quantum multiparameter estimation
+Authors: Yi-Lin Ge, Bing-Shu Hu, Ling-Yun Deng, Xiao-Ming Lu
+Categories: quant-ph
+Published: 2026-04-17 06:54:17+00:00
+Abstract: The geometry of quantum states has profound implications in quantum multiparameter estimation. While the Riemannian structure of quantum state space is well understood, the full understanding of the curvature structure of mixed quantum states is still an open problem. Inspired by the Yang-Mills action in non-Abelian gauge theory, we propose a scalar quantifying the Uhlmann curvature and establish its connection to the measurement incompatibility in quantum multiparameter estimation problems. We show that this curvature measure is gauge invariant, reparametrization invariant, and vanishes if and only if the Uhlmann curvature vanishes. We also explicitly calculate the Uhlmann curvature for the joint estimation of phase and phase diffusion as an example.

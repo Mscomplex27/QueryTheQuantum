@@ -1,0 +1,5 @@
+Title: Module Lattice Security (Part I): Unconditional Verification of Weber's Conjecture for $k \le 12$
+Authors: Ming-Xing Luo
+Categories: cs.CR, quant-ph
+Published: 2026-04-17 09:05:50+00:00
+Abstract: Weber's conjecture (1886) governs three aspects of lattice-based cryptography: the solvability of the Principal Ideal Problem, the freeness of modules over rings of integers, and the tightness of worst-case-to-average-case reductions in Ring-LWE (R-LWE) and Module-LWE (MLWE). Existing verifications for $k \ge 9$ rely on Generalized Riemann Hypothesis (GRH). In this paper, we present the first unconditional proof for $k \le 12$. Our method combines the Fukuda-Komatsu computational sieve, inductive structure of the cyclotomic $\mathbb{Z}_2$-tower, and Herbrand's theorem.

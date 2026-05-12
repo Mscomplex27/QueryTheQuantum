@@ -1,0 +1,5 @@
+Title: Dressed-state master equation for two strongly coupled two-level atoms with long-lived entanglement
+Authors: Artemisa Villalobos-Ramirez, Juan Mauricio Torres
+Categories: quant-ph
+Published: 2026-03-23 17:36:14+00:00
+Abstract: We derive a dressed-state master equation in Lindblad form for two strongly coupled two-level atoms. The resulting decay dynamics are governed by Lindblad operators that couple different dressed states. We show that the eigenvalues and eigenvectors of the Liouvillian can be obtained in a compact form, since each off-diagonal element in the dressed-state basis constitutes an eigenvector. Depending on the interatomic distance and the atomic transition frequency, two distinct time scales emerge. On a short time scale, the system relaxes toward two states, one of which corresponds to a transient, maximally entangled configuration. On a longer time scale, this entangled state gradually decays to the steady state.

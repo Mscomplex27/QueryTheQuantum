@@ -1,0 +1,5 @@
+Title: Measurement-Induced Quantum Neural Network
+Authors: Paul Argyle, Djamil Lakhdar-Hamina, Sarah H. Miller, Victor Galitski
+Categories: quant-ph
+Published: 2026-03-19 17:52:14+00:00
+Abstract: We introduce a measurement-induced quantum neural network (MINN), an adaptive monitored-circuit architecture in which mid-circuit measurement outcomes determine the entangling gates in subsequent layers. In contrast to standard monitored circuits where sites and gates are sampled randomly, the gates are parametrized and variational, producing correlated history-dependent dynamics and injecting nonlinearity through measurement back-action. A generic MINN is not expected to be efficiently classically simulable. To demonstrate feasibility, we study a matchgate MINN that admits exact fermionic simulation and can be trained with gradient estimators. We apply the architecture to continuous optimization, image classification, and ground-state search in the Sherrington-Kirkpatrick spin glass, finding effective training and performance over a broad range of monitoring rates.

@@ -1,0 +1,5 @@
+Title: Quantum Reference Frames and Correlation Geometry
+Authors: Claudio F. Paganini
+Categories: math-ph, gr-qc, quant-ph
+Published: 2026-04-17 18:39:00+00:00
+Abstract: The aim of this paper is to provide a largely self-contained, compact and comprehensible introduction to the basic ideas behind correlation geometry, which underlies the theory of causal fermion system (CFS). A key focus here is on the manner in which the framework deals with gauge transformations, including diffeomorphisms via the principle of unitary equivalence. We will argue that, conceptually, the fundamental description of a physical system in terms of its correlation geometry is much closer to thermodynamics than quantum theory.

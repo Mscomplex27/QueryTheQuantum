@@ -1,0 +1,5 @@
+Title: Demonstrating Record Fidelity for the Quantum Fourier Transform
+Authors: Philipp Aumann, Michael Fellner, David Alber, Max Cykiert, Christoph Fleckenstein, Roeland ter Hoeven, Leo Stenzel, Riccardo J. Valencia-Tortora, Wolfgang Lechner
+Categories: quant-ph
+Published: 2026-04-14 08:52:07+00:00
+Abstract: We demonstrate the Parity Architecture on quantum hardware, using the quantum Fourier transform (QFT) as a benchmark. As a result, a record performance in both fidelity and qubit count is achieved using quantum processors with a native CZ-based instruction set. On the IBM Heron r3 chip, a process fidelity of the QFT algorithm of ${F \approx 10^{-2}}$ for ${N=50}$ qubits is achieved. The scaling of the speedup compared to previous swap-based methods is super-exponential $\mathcal{O}(\exp(N^2))$. Furthermore, we show that the scaling can be improved further by including iSWAP gates in the instruction set.

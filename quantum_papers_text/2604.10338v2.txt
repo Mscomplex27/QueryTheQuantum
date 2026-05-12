@@ -1,0 +1,5 @@
+Title: Crystalline topological invariants in quantum many-body systems
+Authors: Naren Manjunath, Maissam Barkeshli
+Categories: cond-mat.str-el, cond-mat.mes-hall, hep-th, math-ph, quant-ph
+Published: 2026-04-11 19:54:24+00:00
+Abstract: Crystalline symmetries give rise to topological invariants that can distinguish quantum phases of matter. Understanding these in strongly interacting systems is an ongoing research direction requiring non-perturbative methods. Recent developments have demonstrated that even classic models, like the Harper-Hofstadter model of free fermions on a lattice in a magnetic field, yield a host of crystalline symmetry protected topological invariants. Here we review some of these developments, focusing mainly on how to characterize, classify, and detect invariants arising from lattice translation and rotation symmetries along with charge conservation in two-dimensional systems, including integer and fractional Chern insulators.

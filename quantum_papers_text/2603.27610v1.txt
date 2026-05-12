@@ -1,0 +1,5 @@
+Title: Resonant excitation of single and coupled qubits for coherent quantum control and microwave detection
+Authors: O. A. Ilinskaya, S. N. Shevchenko
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-03-29 10:11:08+00:00
+Abstract: Resonant driving enables coherent control of quantum systems, including single and coupled qubits. From a complementary perspective, transitions of a quantum system can be exploited for the detection of microwave photons. In this work, we theoretically investigate resonant multiphoton excitations in a system of qubits. When the energy of K photons matches the energy splitting of the qubit system, the absorption of these photons leads to collective excitation of the qubits. We focus on the case of two coupled qubits and analyze the quantum dynamics of both excitation and relacation processes. In the particular case where only a single qubit is relevant and the remaining qubits can be neglected, the dynamics admits an analytical treatment. We examine multiphoton resonances, the Bloch-Siegert shift, and population inversion, phenomena that are central to both coherent quantum control and microwave photon detection.

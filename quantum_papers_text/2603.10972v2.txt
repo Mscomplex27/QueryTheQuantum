@@ -1,0 +1,5 @@
+Title: Violating the All-or-Nothing Picture of Local Charges in Non-Hermitian Bosonic Chains
+Authors: Mizuki Yamaguchi, Naoto Shiraishi
+Categories: cond-mat.stat-mech, math-ph, nlin.SI, quant-ph
+Published: 2026-03-11 16:57:23+00:00
+Abstract: We present explicit counterexamples to a widespread empirical expectation that local commuting charges display all-or-nothing behavior. In the class of bosonic chains with symmetric nearest-neighbor hopping and arbitrary on-site terms (including non-Hermitian terms), we exhibit systems that possess k-local charges for some but not all k. Concretely, we construct non-Hermitian models with a 3-local charge but no other nontrivial local charges and models with k-local charges for all k except k = 4. These results show that the Grabowski--Mathieu integrability test based on 3-local charges is not universally applicable. We further give necessary and sufficient conditions for the existence of k-local charges in this class, yielding an exhaustive classification and uncovering additional integrable models.

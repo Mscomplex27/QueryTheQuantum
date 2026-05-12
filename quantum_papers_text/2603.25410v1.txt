@@ -1,0 +1,5 @@
+Title: A counterexample to the strong spin alignment conjecture
+Authors: Zhiwei Song, Lin Chen
+Categories: quant-ph
+Published: 2026-03-26 13:08:12+00:00
+Abstract: The spin alignment conjecture was originally formulated in connection with the additivity of coherent information for a class of quantum channels known as platypus channels. Recently, a stronger majorization-based version was proposed by M. A. Alhejji and E. Knill [Commun. Math. Phys. 405, 119, 2024], asserting that the spectrum of the alignment operator is always majorized by that of the perfectly aligned configuration. In this letter, we show that this strong spin alignment conjecture is false in general by constructing an explicit counterexample in the smallest unresolved case, namely three qubits. The example uses two-body states that are not jointly compatible with any single three-qubit global state, which naturally leads to a compatibility-constrained variant of the conjecture.

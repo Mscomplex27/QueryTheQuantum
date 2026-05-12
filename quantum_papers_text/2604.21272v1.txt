@@ -1,0 +1,5 @@
+Title: Structured Quantum State Reconstruction via Physically Motivated Operator Selection
+Authors: Ayush Chambyal, Brijesh, Rakesh Sharma
+Categories: quant-ph
+Published: 2026-04-23 04:30:39+00:00
+Abstract: Quantum state tomography (QST) scales exponentially in both measurement and computational cost, making full reconstruction impractical for multi-qubit systems. Existing approaches attempt to reduce this complexity, but do not explicitly restrict the operator space based on physically relevant correlations. We develop a structured QST framework in which the density matrix is reconstructed using a restricted set of observables in a Gibbs representation. The Structured Gibbs Quantum State Tomography (SG-QST) is built by progressively including local, nearest-neighbor, and global correlations. Benchmarking on three, four, and five-qubit. GHZ states shows that comparable fidelity can be achieved with significantly fewer parameters by restricting the operator space to physically relevant observables. These results demonstrate that physically motivated operator-space restriction enables efficient and interpretable quantum state reconstruction.

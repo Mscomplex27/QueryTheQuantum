@@ -1,0 +1,5 @@
+Title: Wichmann-Kroll vacuum polarization correction to lithium-like systems in a Gaussian basis set
+Authors: Haisum Hayat, Harry M. Quiney
+Categories: physics.atom-ph, quant-ph
+Published: 2026-04-26 11:29:11+00:00
+Abstract: Recent developments have seen the application of finite Gaussian basis sets to the $α(Zα)^{n\geq3}$ vacuum polarization. The energy shift for $s$ and $p$ electron states have been tabulated and their convergence investigated. In this work, we extend this problem to the multi-electron case. Hartee-Fock potentials obtained self-consistently are used to treat the vacuum polarization for lithium-like systems and are found to be in good agreement with comparable results in the literature. The results presented in this work demonstrate the use of Gaussian basis sets for atomic potentials whose Green's functions expressions cannot be simply obtained via analytic or numerical methods.

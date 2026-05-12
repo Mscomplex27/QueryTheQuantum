@@ -1,0 +1,5 @@
+Title: Transmitting Correlation for Data Transmission over the Bosonic Arbitrarily Varying Channel
+Authors: Janis Nötzel, Florian Seitz
+Categories: quant-ph, cs.IT
+Published: 2026-03-02 17:02:11+00:00
+Abstract: Shared randomness is the central ingredient for stabilizing symmetrizable communication systems against arbitrarily varying jammers. Given the presence of the jammer, however, the question arises how this precious resource could have been distributed. Several works discuss the use of external sources for this task. In this work, we show, based on the most standard optical communication model, how the sender and receiver can employ either classically correlated thermal light or entangled two-mode squeezed states created at and transmitted by the sender to counter the jamming attack of an energy-limited jammer during the distribution phase. Both sender and receiver are only allowed to use homodyne detection in our model, and the sender has to obey a power limit as well.

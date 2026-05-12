@@ -1,0 +1,5 @@
+Title: Quantum noise in ranging with optical pulses
+Authors: Mylenne Manrique, Ilaria Gianani, Marco Barbieri, Valentina Parigi, Nicolas Treps
+Categories: quant-ph, physics.optics
+Published: 2026-04-06 19:13:47+00:00
+Abstract: Optical frequency combs combine ultrashort pulse duration and phase stability, making them powerful resources for high-precision ranging even when affected by atmospheric dispersion. It has been established that by classical modal engineering and mdoe-sensitive detection sensitivity to distance at the standard limit can be achieved, however attaining improved uncertainties by the use of squeezing has not been explored. Here, we apply an effective Hamiltonian framework to the problem of ranging with quantum frequency combs in order to derive the associated precision bounds for distance estimation. We analyse the role of intensity anti-squeezing and temporal beam shaping, and find that quantum solutions may be appealing mostly for short-distance applications.

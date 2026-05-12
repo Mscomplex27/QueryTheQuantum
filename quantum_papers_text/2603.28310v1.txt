@@ -1,0 +1,5 @@
+Title: Compact Continuous-Variable Quantum Key Distribution System Employing Monolithically Integrated Silicon Photonic Transceiver
+Authors: Denis Fatkhiev, João dos Reis Frazão, Alireza H. Derkani, Kadir Gümüş, Menno van den Hout, Aaron Albores-Mejia, Chigo Okonkwo
+Categories: quant-ph, eess.SY
+Published: 2026-03-30 11:33:36+00:00
+Abstract: We demonstrate the first CV-QKD system featuring a custom-designed monolithic silicon photonic dual-polarisation transceiver. Leveraging PS-64-QAM, we achieved 1.9 Mbit/s secret key rate across 25 km of standard single-mode fibre, highlighting the potential of electronic-photonic integration for practical QKD.

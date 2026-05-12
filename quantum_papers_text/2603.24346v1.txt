@@ -1,0 +1,5 @@
+Title: Parametrized Version of the Generalized Aubry-André Model
+Authors: Moorad Alexanian
+Categories: quant-ph
+Published: 2026-03-25 14:24:00+00:00
+Abstract: A recently introduced recurrence-relation ansatz applied to the Bose-Hubbard model is here used in the generalized Aubry-Andre model. The resulting modified Aubry-Andre model allows for a simple parametrization of the solutions in terms of three parameters, viz., the system energy when the quasiperiodicity amplitude Delta = 0, the site mu where the particle is initially localized, and the tuning parameter -1 < alpha < 1 that determines the regions of localized or extended states. The standard Aubry-Andre form corresponds to alpha = 0.

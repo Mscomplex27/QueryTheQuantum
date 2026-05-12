@@ -1,0 +1,5 @@
+Title: Canonical Uncertainty Relations for Madelung Variables in Curved Spacetime
+Authors: Jorge Meza-Domínguez, Tonatiuh Matos
+Categories: gr-qc, math-ph, quant-ph
+Published: 2026-04-06 15:54:59+00:00
+Abstract: We establish fundamental uncertainty relations for the hydrodynamic variables arising from the Madelung representation of quantum fields in curved spacetime. Through canonical quantization of the density $n$ and phase $θ$ variables and their conjugate momenta, we derive exact uncertainty principles that depend on spacetime geometry through the lapse function $N$ and spatial metric $γ_{ij}$. These relations reveal how gravitational fields modulate quantum fluctuations and provide first-principles constraints for scalar field dark matter models and stochastic quantum gravity.

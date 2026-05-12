@@ -1,0 +1,5 @@
+Title: Symbolic Quantum State Representation and its Simulation
+Authors: Simon Sekavcnik, Janis Noetzel
+Categories: quant-ph
+Published: 2026-03-12 11:43:41+00:00
+Abstract: We introduce a symbolic operator framework for simulating quantum photonic systems that works directly with the canonical commutation relations and the Weyl algebra. Unlike existing Fock-space or Gaussian simulators, our method treats temporal wave packets and polarization modes in a continuous setting and does not rely on discretization or Hilbert-space truncation. Device operations are expressed as algebraic rewrite rules acting on creation and annihilation operators, allowing exact evolution of finite-photon states through linear optical networks. As an illustration, we reproduce Hong-Ou-Mandel interference for Gaussian pulses with controlled temporal and spectral mismatch.

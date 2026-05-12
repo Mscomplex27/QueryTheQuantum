@@ -1,0 +1,5 @@
+Title: Quantum Time-Space Tradeoffs for Exponential Dynamic Programming
+Authors: Susanna Caroppo, Jevgēnijs Vihrovs, Dārta Zajakina, Aleksejs Zajakins
+Categories: quant-ph
+Published: 2026-04-02 16:28:18+00:00
+Abstract: We investigate the quantum algorithms for dynamic programming by Ambainis et al. (SODA'19). While giving provable complexity speedups and applicable to a variety of NP-hard problems, these algorithms have a notable drawback: they require a large amount of Quantum Random Access Memory (QRAM), which potentially could be very challenging to implement in a physical quantum computer. In this work, we study how we can improve the space complexity by trading it for time, while still retaining a speedup over the classical algorithms. We show novel quantum time-space tradeoffs, which we obtain by adjusting the parameters of these algorithms and combining them with "quantized" classical strategies.

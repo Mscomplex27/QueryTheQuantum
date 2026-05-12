@@ -1,0 +1,6 @@
+Title: Enhance Quantum Teleportation with Multi-Axis Measurement
+Authors: Junyao Zhang, Jonathan Ku, Zhiding Liang, Hai Li, Yiran Chen, Ben McCarty
+Categories: quant-ph
+Published: 2026-04-17 22:03:18+00:00
+Abstract: Quantum teleportation is a cornerstone of quantum information processing, enabling the nonlocal transmission of quantum states across arbitrary distances using shared entanglement and classical communication. While the standard protocol typically employs Z-basis Bell-state measurements, this fixed-basis approach limits flexibility in practical quantum networks, where dynamic operations, hardware variability, and advanced communications demand alternative measurement bases.
+  In this work, we introduce a multi-axis quantum teleportation protocol that generalizes the measurement process by allowing arbitrary basis choices. We provide a formal derivation and self-contained mathematical proof demonstrating that the input quantum state can be faithfully reconstructed under basis-adaptive restoration operations. By establishing a rigorous algorithmic and analytical foundation, this work validates the generalized teleportation protocol and paves the way toward advanced strategies for quantum communication. The demonstrations of the proposed protocol are available at: https://github.com/JJJayyyy/Multi-Axis-Quantum-Teleportation.

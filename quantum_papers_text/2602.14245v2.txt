@@ -1,0 +1,5 @@
+Title: Geometric phase of arbitrary Mueller evolutions and its two-level quantum analogue
+Authors: José J Gil
+Categories: quant-ph
+Published: 2026-02-15 17:36:42+00:00
+Abstract: We identify, for a general physically realizable Mueller transformation, the only intrinsic geometricphase structure that can be assigned to it in an invariant manner: the retarding part of the characteristic pure component selected by the characteristic decomposition, which defines a canonical holonomic content. A Mueller matrix does not, in general, determine a unique observed interferometric (Pancharatnam) geometric phase, since the latter depends on the specific physical realization of the transformation and on the interferometric readout. The remaining characteristic layers may modify the measured complex visibility, and even its observed argument through convex averaging, but they do not define a unique geometric holonomy of their own. We further establish the quantum analogue for open two-level dynamics within the Choi representation.

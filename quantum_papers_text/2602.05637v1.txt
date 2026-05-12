@@ -1,0 +1,5 @@
+Title: Hamiltonian Benchmark of a Solid-State Spin-Photon Interface for Computation
+Authors: Tejas Acharya, Loïc Lanco, Olivier Krebs, Hui Khoon Ng, Alexia Auffèves, Maria Maffei
+Categories: quant-ph
+Published: 2026-02-05 13:18:23+00:00
+Abstract: Light-matter interfaces are pivotal for quantum computation and communication. While typically analyzed using single-mode or open-quantum-system approximations, these models often neglect multi-mode field states and light-matter entanglement, hindering exact protocol modeling. Here, we solve the full Hamiltonian dynamics of a solid-state spin-photon interface for three key protocols: the generation of photon-number superpositions, a controlled photon-photon gate, and the production of photonic cluster states. By deriving exact fidelities, we identify fundamental performance limits. Our results reveal that while realistic imperfections severely limit photon-photon gates, they only slightly affect linear photonic clusters and are nearly harmless for photon-number state superpositions.

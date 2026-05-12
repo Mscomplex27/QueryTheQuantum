@@ -1,0 +1,5 @@
+Title: Directionality emergence and localization in a quantum random Lorentz gas
+Authors: Baptiste Lorent, Jean-Marc Sparenberg, David Gaspard
+Categories: quant-ph
+Published: 2026-03-12 20:29:07+00:00
+Abstract: The propagation of a spherical wave through a two-dimensional random Lorentz gas composed of small fixed scatterers is studied. Inspired by the Mott problem (how an initially isotropic quantum wave can give rise to a single particle-like track), we investigate, on a schematic model, whether such a directional behavior can emerge purely from the multiscattering process, without any explicit measurement or decoherence mechanism. Using the Foldy-Lax formalism, we derive the far-field angular behavior of the wavefunction, and introduce a directionality vector to quantify its anisotropy and identify its preferred direction. Numerical simulations reveal the existence of a strongly directional regime within a specific wavenumber range, which emerges from multiscattering with more than $100$ scatterers and which can be related to Anderson localization.

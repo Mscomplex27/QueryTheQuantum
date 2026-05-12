@@ -1,0 +1,6 @@
+Title: Quantization of Ricci Curvature in Information Geometry
+Authors: Carlos C. Rodriguez
+Categories: cs.IT, cs.LG, quant-ph
+Published: 2026-03-09 17:44:10+00:00
+Abstract: In 2004, while studying the information geometry of binary Bayesian networks (bitnets), the author conjectured that the volume-averaged Ricci scalar <R> computed with respect to the Fisher information metric is universally quantized to positive half-integers: <R> in (1/2)Z. This paper resolves the conjecture after 20 years. We prove it for tree-structured and complete-graph bitnets via a universal Beta function cancellation mechanism, and disprove it in general by exhibiting explicit loop counterexamples.
+  We extend the program to Gaussian DAG networks, where a sign dichotomy holds: discrete bitnets have positive curvature, while Gaussian networks form solvable Lie groups with negative curvature.

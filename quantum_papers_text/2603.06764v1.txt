@@ -1,0 +1,5 @@
+Title: Efficient Classical Simulation of Low-Rank-Width Quantum Circuits Using ZX-Calculus
+Authors: Fedor Kuyanov, Aleks Kissinger
+Categories: quant-ph
+Published: 2026-03-06 15:00:04+00:00
+Abstract: In this paper, we introduce a technique for contracting (i.e. numerically evaluating) ZX-diagrams whose complexity scales with their rank-width, a graph parameter that behaves nicely under ZX rewrite rules. Given a rank-decomposition of width $R$, our method simulates a graph-like ZX-diagram in $Õ(4^R)$ time. Applied to classical simulation of quantum circuits, it is no slower than either naive state vector simulation or stabiliser decompositions with $α= 0.5$, and in practice can be significantly faster for suitably chosen rank-decompositions. Since finding optimal rank-decompositions is NP-hard, we introduce heuristics that produce good decompositions in practice. We benchmark our simulation routine against Quimb, a popular tensor contraction library, and observe substantial reductions in floating-point operations (often by several orders of magnitude) for random and structured non-Clifford circuits as well as random ZX-diagrams.

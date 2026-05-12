@@ -1,0 +1,5 @@
+Title: Controlling emergent dynamical behavior via phase-engineered strong symmetries
+Authors: Marc Nairn, Beatriz Olmos, Parvinder Solanki
+Categories: quant-ph, cond-mat.quant-gas
+Published: 2026-02-20 19:00:23+00:00
+Abstract: Symmetry constraints provide a powerful means to control the dynamics of open quantum systems. However, the set of accessible control parameters is often limited. Here, we show that a tunable phase in the collective light-matter coupling of a cavity QED system induces a phase-dependent strong symmetry of the Liouvillian, enabling dynamical control of the open quantum system evolution. We demonstrate that tuning this phase substantially reduces the critical driving strength for dissipative phase transitions between stationary and non-stationary phases. We illustrate this mechanism in two experimentally relevant cavity QED settings: a two-species ensemble of two-level atoms and a single-species ensemble of three-level atoms. Our results establish phase control as a versatile tool for engineering dissipative phase transitions, with implications for quantum state preparation.

@@ -1,0 +1,5 @@
+Title: Enhanced Precision in Entangled Quantum Clocks with Phase Estimation Algorithm
+Authors: Won-Young Hwang
+Categories: quant-ph
+Published: 2026-04-08 02:39:46+00:00
+Abstract: We present an enhanced entangled quantum clock protocol that incorporates a quantum phase estimation algorithm to directly estimate proper-time differences as an unknown phase. By employing highly entangled multi-clock states, the achievable uncertainty scales inversely with the total number of quantum clocks, surpassing the standard projection-noise limit. This approach extends the original EQC framework and provides a systematic method for high-precision relativistic time comparison.

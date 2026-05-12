@@ -1,0 +1,5 @@
+Title: Optimally Controlled Storage of a Qubit in an Inhomogeneous Spin Ensemble
+Authors: Rahul Gupta, Florian Mintert, Himadri Shekhar Dhar
+Categories: quant-ph, physics.atom-ph, physics.optics
+Published: 2026-04-15 14:14:54+00:00
+Abstract: The storage of quantum information in spin-ensembles is limited by practically unavoidable inhomogeneous broadening, and the macroscopic number of spins in such an ensemble makes the design of control solutions to increase the coherence time a challenging task. Together with a concurrently developed Krylov theory that allows us to treat the control problem efficiently, we design optimal cavity modulation for such spin ensembles that achieve an order of magnitude enhancement in qubit lifetime compared to the losses due to inhomogeneity and cavity decay.

@@ -1,0 +1,5 @@
+Title: Degrees, Levels, and Profiles of Contextuality
+Authors: Ehtibar N. Dzhafarov, Victor H. Cervantes
+Categories: quant-ph, cs.AI, math.PR
+Published: 2026-03-16 08:58:27+00:00
+Abstract: We introduce a new notion, that of a contextuality profile of a system of random variables. Rather than characterizing a system's contextuality by a single number, its overall degree of contextuality, we show how it can be characterized by a curve relating degree of contextuality to level at which the system is considered. A system is represented at level n if one only considers the joint distributions with no more than n variables, ignoring higher-order joint distributions. We show that the level-wise contextuality analysis can be used in conjunction with any well-constructed measure of contextuality. We present a method of concatenated systems to explore contextuality profiles systematically, and we apply it to the contextuality profiles for three major measures of contextuality proposed in the literature.

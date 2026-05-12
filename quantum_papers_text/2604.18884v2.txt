@@ -1,0 +1,5 @@
+Title: Understanding Quantum Instruments
+Authors: Akel Hashim
+Categories: quant-ph
+Published: 2026-04-20 22:06:54+00:00
+Abstract: The quantum instrument (QI) formalism is required to model mid-circuit measurements (MCMs) and the dependence of the post-measurement state on the measurement outcome. Correctly modeling QIs is essential for applications using MCMs, such as adaptive circuits and quantum error correction. Although QIs yield a joint quantum-classical state after measurement, errors in QIs can still be represented by a $d^2 \times d^2$ superoperator (e.g., process or transfer matrix) for each outcome, just as superoperators describe Markovian errors on unitary gates. However, because the joint quantum-classical system has a distinct error model for each outcome, this complicates the usual interpretation of process- or transfer-matrix error models. This Note offers practical guidance on understanding and interpreting QI error models.

@@ -1,0 +1,5 @@
+Title: Emergent prethermal Bethe integrability in a periodically driven Rydberg chain
+Authors: Saptadip Roy, Arnab Sen, Diptiman Sen, K. Sengupta
+Categories: quant-ph
+Published: 2026-04-27 18:00:02+00:00
+Abstract: We study a chain of periodically driven Rydberg atoms and identify a class of drive protocols for which the system exhibits emergent prethermal Bethe integrability at special drive frequencies. We provide a perturbative analytic expression of its Floquet Hamiltonian in the large drive amplitude regime. We demonstrate integrability of the leading term of this Floquet Hamiltonian at special drive frequencies, which we identify, by mapping it to the Hamiltonian of the paradigmatic spin-$1/2$ ${\rm XXZ}$ chain. We support our analytical results by exact diagonalization studies on finite chains. Our numerical results on level statistics, half-chain entanglement entropy, and longitudinal magnetization of the driven chain brings out its emergent integrable nature at the special drive frequencies which persists up to a large prethermal timescale.

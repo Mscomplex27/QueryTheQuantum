@@ -1,0 +1,5 @@
+Title: A Floer Theoretic Approach to Energy Eigenstates on one Dimensional Configuration Spaces
+Authors: Kevin Ruck
+Categories: math.SG, math-ph, quant-ph
+Published: 2026-03-31 03:12:03+00:00
+Abstract: In this article we consider two classical problems in Quantum Mechanics, namely the 'particle on a ring' and the 'particle in a box' from the viewpoint of symplectic topology. Interpreting the solutions of the corresponding time independent Schrödinger equation as orbits in a suitably chosen time dependent Hamiltonian system allows us to investigate them using Floer theory. More precisely we extend the definition of Rabinowitz Floer homology to non-autonomous Hamiltonians on $\mathbb{R}^{2n}$ with its standard symplectic structure and show that compactness of the moduli space of J-holomorphic curves still holds. With this homology we are then able to prove existence results for energy $E$ eigenstates on the 'ring' or in the 'box' for a big range of exterior potentials.

@@ -1,0 +1,5 @@
+Title: A dimension-independent strict submultiplicativity for the transposition map in diamond norm
+Authors: Hyunho Cha
+Categories: quant-ph
+Published: 2026-02-19 15:38:21+00:00
+Abstract: We prove that there exists an absolute constant $α<1$ such that for every finite dimension $d$ and every quantum channel $T$ on $\mathsf{L}(\mathbb{C}^d)$, $\left\|Θ\circ(\mathrm{id}-T)\right\|_\diamond \le α\,\left\|Θ\right\|_\diamond\,\left\|\mathrm{id}-T\right\|_\diamond$, where $Θ$ is the transposition map. In fact we show the explicit choice $α=1/\sqrt{2}$ works.

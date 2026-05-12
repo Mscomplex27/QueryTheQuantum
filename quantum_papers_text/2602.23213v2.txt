@@ -1,0 +1,5 @@
+Title: Scaling and Luescher Term in a non-Abelian (2+1)d SU$(2)$ Quantum Link Model
+Authors: Paul Ludwig, Timo Jakobs, Carsten Urbach
+Categories: hep-lat, quant-ph
+Published: 2026-02-26 16:57:34+00:00
+Abstract: We investigate a non-Abelian SU$(2)$ quantum link model in $2+1$ dimensions on a hexagonal lattice using tensor network methods. We determine the static quark potential for a wide range of bare coupling values and find that the theory is confining. We also probe the existence of a Lüscher term and find a clear signal with a $g^2$ dependent coefficient, in qualitative agreement with a strong coupling expansion. Correspondingly, the width of the strings scales logarithmically with the string length again for all $g^2$-values, providing evidence for a rough string, with no indication for a roughening transition.

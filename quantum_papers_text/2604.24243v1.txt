@@ -1,0 +1,5 @@
+Title: On Realization of Back-Action-Evading Measurements and Quantum Non-Demolition Variables via Linear Systems Engineering
+Authors: Zhiyuan Dong, Weichao Liang, Guofeng Zhang
+Categories: quant-ph, eess.SY
+Published: 2026-04-27 09:53:41+00:00
+Abstract: We establish a framework for realizing back-action-evading (BAE) measurements and quantum non-demolition (QND) variables in linear quantum systems. The key condition, a purely imaginary Hamiltonian with a real or imaginary coupling operator, enables BAE measurements of conjugate observables. Symmetric coupling further yields QND variables. For non-compliant systems, coherent feedback is designed to engineer BAE measurements. Crucially, the QND interaction condition simultaneously ensures BAE measurements and promotes the coupling operator to a QND observable.

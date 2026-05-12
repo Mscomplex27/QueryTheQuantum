@@ -1,0 +1,5 @@
+Title: Renormalization and Non-perturbative Dynamics in Conformal Quantum Mechanics
+Authors: Jacob Hafjall, Thomas A. Ryttov
+Categories: quant-ph, hep-ph, hep-th
+Published: 2026-04-16 16:50:57+00:00
+Abstract: We study conformal quantum mechanics by first considering the perturbative $S$-matrix in various dimensions. The model has two couplings and we study perturbatively the degree of ultraviolet divergences arising in the interplay between the two couplings. We then focus on the inverse square potential in one spatial dimension and compute the beta function to arbitrarily perturbative and non-perturbative orders. This we do in both the bound state sector and scattering sector. We provide explicit, exact and infinite series results of the first few non-perturbative orders.

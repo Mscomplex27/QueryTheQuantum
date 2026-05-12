@@ -1,0 +1,5 @@
+Title: Quantum diffusion for a quantum particle with a correlated Gaussian noise
+Authors: Yun Jeong Kang, Sung Kyu Seo, Kyungsik Kim
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-02-26 17:06:19+00:00
+Abstract: We investigate the diffusive behavior of a quantum particle driven by a correlated Gaussian noise. We derive the analytical solution of the joint probability density function and obtain explicit expressions for the mean square momentum and the mean square displacement.

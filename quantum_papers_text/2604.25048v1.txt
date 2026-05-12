@@ -1,0 +1,5 @@
+Title: Bohmian Trajectories in a Bistable Potential Well
+Authors: O. F. de Alcantara Bonfim
+Categories: quant-ph, nlin.CD
+Published: 2026-04-27 23:00:03+00:00
+Abstract: We analyze the dynamics of a quantum particle in a one-dimensional bistable potential within the framework of Bohm's quantum mechanics. We give arguments that evidence the fallacy of certain claims found in the literature dealing with the impossibility of chaotic behavior of Bohmian trajectories in one-dimensional systems. We find that an appropriate choice for the initial position and wave packet causes the particle to undergo periodic, quasiperiodic, or chaotic motion. The transitions between these regimes occur in a continuos fashion.

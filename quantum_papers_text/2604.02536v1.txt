@@ -1,0 +1,5 @@
+Title: Engineering Perfect State Transfer Graphs via Givens Transformations
+Authors: Pablo Serra, Alejandro Ferrón, Omar Osenda
+Categories: quant-ph
+Published: 2026-04-02 21:40:06+00:00
+Abstract: Perfect quantum state transfer is achievable in different settings, including linear qubit chains, bi-dimensional arrays, ladders, etc. The most studied case contemplates transferring arbitrary one-qubit pure states in systems with homogeneous interactions. These restrictions allow finding numerous examples of systems that show perfect transfer but in geometries that are not implementable or are very difficult to implement in actual experimental settings. Relaxing the homogeneity of the interactions and inspired by the $XX$ qubit chains that show perfect transmission, we present a simple scheme based on the Givens Transformations to analyse and obtain a class of qubit graphs that possess perfect quantum state transmission. We present some simple examples and show how it is possible to generalize them for longer transmission lengths.

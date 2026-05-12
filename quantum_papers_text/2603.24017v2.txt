@@ -1,0 +1,6 @@
+Title: A conjecture on a tight norm inequality in the finite-dimensional l_p
+Authors: A. S. Holevo, A. V. Utkin
+Categories: quant-ph, math-ph, math.FA
+Published: 2026-03-25 07:24:55+00:00
+Abstract: We suggest a tight inequality for norms in $d$-dimensional space $l_p $ which has simple formulation but appears hard to prove. We give a proof for $d=3$ and provide a detailed numerical check for $d\leq 200$ confirming the conjecture. We conclude with a brief survey of solutions for kin problems which anyhow concern minimization of the output entropy of certain quantum channel and rely upon the symmetry properties of the problem.
+  Key words and phrases: $l_p $-norm, Rényi entropy, tight inequality, maximization of a convex function.

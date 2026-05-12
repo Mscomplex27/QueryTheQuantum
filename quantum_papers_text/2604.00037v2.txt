@@ -1,0 +1,5 @@
+Title: Fast elementwise operations on tensor trains with alternating cross interpolation
+Authors: Marc K. Ritter
+Categories: math.NA, physics.comp-ph, quant-ph
+Published: 2026-03-24 18:23:00+00:00
+Abstract: Tensor trains (TTs), also known as matrix product states (MPS), are compressed representations of high-dimensional data that can be efficiently manipulated to perform calculations on the data. In many applications, such as TT-based solvers for nonlinear partial differential equations, the most expensive step is an elementwise multiplication or similar elementwise operation on multiple TTs. Known error-controlled algorithms for such operations scale as $O(χ^4)$, where $χ$ is the TT rank. If the rank of the output is smaller than $χ^2$, it is possible to formulate algorithms with better scaling. In this work, we present the alternating cross interpolation (ACI) algorithm that performs such operations in $O(χ^3)$, while maintaining error control. We demonstrate these properties on benchmark problems, achieving a significant speedup for TT ranks that are commonly encountered in practical applications.

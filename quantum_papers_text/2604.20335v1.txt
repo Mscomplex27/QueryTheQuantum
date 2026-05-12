@@ -1,0 +1,5 @@
+Title: Interpolating between positive, Schwarz, and completely positive evolution for d-level systems
+Authors: Dariusz Chruściński, Farrukh Mukhamedov
+Categories: quant-ph
+Published: 2026-04-22 08:31:15+00:00
+Abstract: We study a class of quantum dynamical maps for d-level systems that interpolate between positive, Schwarz, and completely positive evolutions. Our approach is based on a geometric analysis of the parameter space, which reveals the structure of regions corresponding to different positivity classes and their boundaries. We show that dynamical trajectories naturally move across these regions, providing a clear geometric interpretation of transitions between Markovian and non-Markovian regimes. It is shown that within presented class the evolution becomes eventually entanglement breaking. This analysis highlights the role of divisibility and eternally non-Markovian evolution.

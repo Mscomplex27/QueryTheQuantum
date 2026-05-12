@@ -1,0 +1,5 @@
+Title: Steady state coherence in a qubit is incompatible with a quantum map
+Authors: Hans C. Fogedby
+Categories: quant-ph
+Published: 2026-02-17 18:25:03+00:00
+Abstract: We consider the recent proposal of steady state coherences in a single qubit in the case of a composite system-bath interaction. Based on a field theoretical approach we reanalyse the issue within a Redfield description. We find that the Redfield approach in accordance with a recent proposal yields steady state coherences but also violates the properties of a quantum map yielding negative populations. The issue is resolved by applying the Lindblad equation which is in accordance with a proper quantum map. The Lindblad equation, however, also implies the absence of steady state coherence. We conclude that steady state coherence in a a qubit is incompatible with a quantum map.

@@ -1,0 +1,5 @@
+Title: Optimal noisy quantum phase estimation with finite-dimensional states
+Authors: Jin-Feng Qin, Jing Liu
+Categories: quant-ph
+Published: 2026-04-09 05:30:50+00:00
+Abstract: Phase estimation in quantum interferometry is a major scenario where the quantum advantage is significantly revealed. Recently, the optimal finite-dimensional probe states (OFPSs) for phase estimation in two-mode quantum interferometry have been provided with the absence of noise [J.-F. Qin et al., Phys. Rev. A 112, 052428 (2025)]. However, the noise is inevitable in practice and the previously obtained OFPSs may cease to be optimal anymore. Hence, the forms of the true OFPSs in the existence of various noises are still open questions. Hereby, the noise of particle loss is studied and the true OFPSs under this noise have been investigated with the numerical algorithm named constrained optimization by linear approximation. Furthermore, a two-step measurement strategy is proposed to realize the ultimate precision limit in practice. The validity of this strategy is confirmed by the numerical simulation of practical experiments.

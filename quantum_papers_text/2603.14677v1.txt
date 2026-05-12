@@ -1,0 +1,5 @@
+Title: Stochastic Collision Theory of Magnetism in Radical Fluids
+Authors: Yoshiaki Uchida, Ryohei Kishi
+Categories: physics.chem-ph, cond-mat.mtrl-sci, cond-mat.stat-mech, quant-ph
+Published: 2026-03-16 00:24:26+00:00
+Abstract: How stochastic, microscopic events generate deterministic, macroscopic properties is a fundamental question in physics. We address this question by developing a quantum master equation model for concentrated radical solutions, where random molecular collisions govern the magnetic properties of the system. Our theory reveals a simple mechanism: the first-order exchange contribution averages to zero over collisions, while the second-order term survives as an effective ferromagnetic coupling that enhances magnetization. The model captures the experimentally observed trends in magnetic behavior that deviate from conventional theories. Because the mechanism arises from statistical averaging, it may apply to a broader class of soft matter phenomena, including liquid crystals.

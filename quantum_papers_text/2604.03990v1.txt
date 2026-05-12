@@ -1,0 +1,5 @@
+Title: Tighter entropic uncertainty relations in the presence of quantum memories for complete sets of mutually unbiased bases
+Authors: Qing-Hua Zhang, Cong Xu, Jing-Feng Wu, Shao-Ming Fei
+Categories: quant-ph
+Published: 2026-04-05 06:23:10+00:00
+Abstract: Entropic uncertainty relations provide an information-theoretic framework for quantifying the fundamental indeterminacy inherent in quantum mechanics. We propose more stringent quantum-memory-assisted entropic uncertainty relations for complete sets of mutually unbiased bases in multipartite scenarios. We present lower and upper bounds of the quantum uncertainties based on the complementarity of the observables, the purity of the measured state, the (conditional) von-Neumann entropies, the Holevo quantities and mutual information. The results are illustrated by several representative cases, showing that our bounds are tighter than and outperform previously existing bounds.

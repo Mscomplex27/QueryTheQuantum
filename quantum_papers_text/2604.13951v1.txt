@@ -1,0 +1,5 @@
+Title: Quantum Machine Learning for Colorectal Cancer Data: Anastomotic Leak Classification and Risk Factors
+Authors: Vojtěch Novák, Ivan Zelinka, Lenka Přibylová, Lubomír Martínek, Vladimír Benčurík, Martin Beseda
+Categories: cs.LG, quant-ph
+Published: 2026-04-15 15:03:37+00:00
+Abstract: This study evaluates colorectal risk factors and compares classical models against Quantum Neural Networks (QNNs) for anastomotic leak prediction. Analyzing clinical data with 14\% leak prevalence, we tested ZZFeatureMap encodings with RealAmplitudes and EfficientSU2 ansatze under simulated noise. $F_β$-optimized quantum configurations yielded significantly higher sensitivity (83.3\%) than classical baselines (66.7\%). This demonstrates that quantum feature spaces better prioritize minority class identification, which is critical for low-prevalence clinical risk prediction. Our work explores various optimizers under noisy conditions, highlighting key trade-offs and future directions for hardware deployment.

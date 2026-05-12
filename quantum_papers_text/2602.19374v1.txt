@@ -1,0 +1,5 @@
+Title: High-order long-time asymptotics for small solutions to the one-dimensional nonlinear Schrödinger equation
+Authors: Jacek Jendrej, Tony Salvi
+Categories: math.AP, quant-ph
+Published: 2026-02-22 22:59:23+00:00
+Abstract: We investigate the global well-posedness and modified scattering for the one-dimensional Schrödinger equation with gauge-invariant polynomial nonlinearity. For small localized initial data of finite energy in a low-regularity class, we establish global existence of solution together with persistence of the localization of the associated profile. We further provide a rigorous derivation of the asymptotic expansion at arbitrary order of such solutions, taking into account long-range effects induced by the cubic component of the nonlinearity. Our analysis relies on the space-time resonance method.

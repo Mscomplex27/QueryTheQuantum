@@ -1,0 +1,5 @@
+Title: High-threshold magic state distillation with quantum quadratic residue codes
+Authors: Michael Zurel, Santanil Jana, Nadish de Silva
+Categories: quant-ph
+Published: 2026-03-19 07:18:11+00:00
+Abstract: We present applications of quantum quadratic residue codes in magic state distillation. This includes showing that existing codes which are known to distill magic states, like the $5$-qubit perfect code, the $7$-qubit Steane code, and the $11$-qutrit and $23$-qubit Golay codes, are equivalent to certain quantum quadratic residue codes. We also present new examples of quantum quadratic residue codes that distill qubit $T$ states and qutrit Strange states with high thresholds, and we show that there are infinitely many quantum quadratic residue codes that distill $T$ states with a non-trivial threshold. All of these codes, including the codes with the highest currently known thresholds for $T$ state and Strange state distillation, are unified under the umbrella of quantum quadratic residue codes.

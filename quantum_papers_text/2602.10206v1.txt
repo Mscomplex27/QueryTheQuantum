@@ -1,0 +1,5 @@
+Title: Communication complexity bounds from information causality
+Authors: Nikolai Miklin, Prabhav Jain, Mariami Gachechiladze
+Categories: quant-ph
+Published: 2026-02-10 19:01:02+00:00
+Abstract: Communication complexity, which quantifies the minimum communication required for distributed computation, offers a natural setting for investigating the capabilities and limitations of quantum mechanics in information processing. We introduce an information-theoretic approach to study one-way communication complexity based solely on the axioms of mutual information. Within this framework, we derive an extended statement of the information causality principle, which recovers known lower bounds on the communication complexities for a range of functions in a simplified manner and leads to new results. We further prove that the extended information causality principle is at least as strong as the principle of non-trivial communication complexity in bounding the strength of quantum correlations attainable in Bell experiments. Our study establishes a new route for exploring the fundamental limits of quantum technologies from an information-theoretic viewpoint.

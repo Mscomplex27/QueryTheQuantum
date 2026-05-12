@@ -1,0 +1,5 @@
+Title: Detecting Higher Berry Phase via Boundary Scattering
+Authors: Chih-Yu Lo, Xueda Wen
+Categories: cond-mat.str-el, hep-th, math-ph, quant-ph
+Published: 2026-02-24 19:06:04+00:00
+Abstract: Higher Berry phase has recently been proposed to study the topology of the space of gapped many-body quantum systems. In this work, we develop a boundary-scattering approach to detect higher Berry phases in one-dimensional gapped free-fermion systems. By coupling a gapless lead to the gapped system, we demonstrate that the higher Berry invariant can be obtained by studying the higher winding number of the boundary reflection matrix. The resulting topological invariant is robust against perturbations such as disorder. Our approach establishes a connection between higher Berry invariants and transport properties, thereby providing a potentially experimentally accessible probe of parametrized topological phases.

@@ -1,0 +1,5 @@
+Title: Early-stage memory effect on the dephasing charger-mediated quantum battery
+Authors: Yu Wang, Jiasen Jin
+Categories: quant-ph
+Published: 2026-02-15 13:45:45+00:00
+Abstract: We investigate the performance of the charger-mediated quantum battery modeled by a two-qubit system. One of the qubits acts as the battery and the other acts as the charger which is subjected to a reservoir. We derived the time-local master equation in Lindblad form with a time-dependent dephasing rate. The dephasing rate may be negative in the early-stage of the charging process and thus indicate the presence of the memory effect. We find that such early-stage memory effect could increase the maximal ergotropy of the battery compared with the one under Markovian approximation with the corresponding asymptotic dephase rate. The enhancement of the performance is explained by means of the non-Markovian quantum jumps. Moreover, a discrete time scheme of the measurement-enhanced quantum battery is proposed in a quantum circuit with global and random local operations.

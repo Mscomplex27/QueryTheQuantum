@@ -1,0 +1,5 @@
+Title: Calculating the quantum Fisher information via the truncated Wigner method
+Authors: Thakur G. M. Hiranandani, Joseph J. Hope, Simon A. Haine
+Categories: quant-ph
+Published: 2026-03-31 03:03:28+00:00
+Abstract: In this work, we propose new methods of parameter estimation using stochastic sampling quantum phase-space simulations. We show that it is possible to compute the quantum Fisher information (QFI) from semiclassical stochastic samples using the Truncated Wigner Approximation (TWA). This method extends the class of quantum systems whose fundamental sensitivity limit can be computed efficiently to any system that can be modelled using the TWA, allowing the analysis of more meteorologically useful quantum states. We illustrate this approach with examples, including a system that evolves outside the spin-squeezing regime, where the method of moments fails.

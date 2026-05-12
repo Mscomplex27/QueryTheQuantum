@@ -1,0 +1,5 @@
+Title: Robust and High-Fidelity Controlled Two-Qubit Gates via Asymmetric Parallel Resonant Excitation
+Authors: Licheng Lin, Jize Han, Peng Zhu, Ziyu Wang, Ying Yan, Jie Lu, Zhiguo Huang
+Categories: quant-ph
+Published: 2026-04-08 14:54:01+00:00
+Abstract: Implementing high-fidelity controlled two-qubit gates in dipole-dipole interacting systems, such as rare-earth-ion crystals, in hindered by spectral inhomogeneity and weak coupling. Existing method often rely on detuned pulses, making them susceptible to frequency errors and AC Stark shifts. We propose a robust resonant scheme for arbitrary controlled two-qubit gates that utilizes asymmetric excitation and pulse engineering to achieve decoupled, parallel qubit control. Simulations on rare-earth-ion ensemble qubits demonstrate gate fidelities exceeding 99% within a 170 kHz detuning range with off-resonant excitation below 0.2%. This approach offers a robust, scalable route for quantum computing in spectrally crowded systems.

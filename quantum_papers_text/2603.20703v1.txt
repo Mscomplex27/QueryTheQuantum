@@ -1,0 +1,5 @@
+Title: Quantum corrections and multioccupancy in a semi-classical gas
+Authors: Loris Ferrari
+Categories: quant-ph
+Published: 2026-03-21 08:00:43+00:00
+Abstract: The quantum corrections to the behavior of a semi-classical gas can be expressed as a power series of the ratio $eta$ between the cube of De Broglie's thermal wavelength and the specific volume. The connection between $eta$ and the multioccupancy of quantum states is the aim of the present work. By means of a chemical/physical approach it is possible to associate $eta$ to the concrete realization of multioccupancy in momentum space, through the formation of what we call "pseudo-molecules", i.e. multiplets of particles sharing momenta whose differences are negligeable in the continuous spctrum approximation. The pseudo-molecules result as casual consequences of multiple scattering processes among non interacting (scattering apart) particles.

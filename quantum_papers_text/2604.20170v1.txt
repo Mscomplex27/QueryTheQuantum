@@ -1,0 +1,5 @@
+Title: Computational Cosmic Censorship
+Authors: Fuat Berkin Altunkaynak
+Categories: hep-th, gr-qc, quant-ph
+Published: 2026-04-17 16:54:49+00:00
+Abstract: We propose a computational formulation of weak cosmic censorship in AdS/CFT. Using the complexity=action proposal, we evaluate the Wheeler-DeWitt action for overcharged Reissner- Nordström-AdS spacetimes containing naked timelike singularities. We show that the bulk, null, and joint contributions remain finite, while the Gibbons-Hawking-York term at the singularity diverges. More generally, for any static and spherically symmetric geometry with near-origin scaling $f(r)\sim a r^{-p}$, the singularity term diverges whenever $p>D-3$. This implies divergent holographic complexity and, even relative to the logarithmically divergent extremal charged sector, leaves an infinite complexity gap. This suggests an operational form of censorship: naked singularities are excluded not by geometry alone, but by an infinite computational cost arising from their local near-singularity structure.

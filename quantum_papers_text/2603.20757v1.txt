@@ -1,0 +1,5 @@
+Title: Gap Engineered Superconducting Multilayer Nanobridge Josephson Junctions
+Authors: Giuseppe Colletta, Susan Johny, Hua Feng, Mohammed Alkhalidi, Jonathan A. Collins, Martin Weides
+Categories: cond-mat.supr-con, quant-ph
+Published: 2026-03-21 11:08:45+00:00
+Abstract: We report the realization of multilayer three-dimensional nanobridge Josephson junctions based on Nb/NbN and Nb/TiN superconducting stacks fabricated using electron-beam lithography and chlorine-based dry etching. In this architecture, a high-resistivity nitride layer defines the geometrical weak link, while the top Nb layer sets the overall critical temperature and film quality of the stack. This multilayer design enables engineering of the superconducting gap and proximity effects without relying on focused ion beam milling or oxide tunnel barriers. The devices are successfully integrated into dc SQUIDs, demonstrating reliable circuit-level operation. By combining material selectivity with three-dimensional geometry, this platform provides a scalable route toward oxide-free Josephson junctions suitable for superconducting electronics.

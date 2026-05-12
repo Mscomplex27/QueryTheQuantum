@@ -1,0 +1,5 @@
+Title: Arbitrary-Velocity Volkov Wavepackets
+Authors: D. Ramsey, J. McKeown, J. P. Palastro
+Categories: quant-ph, hep-ph
+Published: 2026-04-13 14:07:36+00:00
+Abstract: The evolution of a charged lepton in the field of an electromagnetic plane wave can be described as a superposition of Volkov states. Here we demonstrate that imposing specific momentum correlations among Volkov states produces a spatiotemporally structured wavepacket whose probability-density peak travels at an arbitrary, tailored velocity. This velocity can be chosen independently of both the field amplitude and the velocity expectation value. The imposed momentum correlations modify the expectation-value trajectory, providing a measurable signature of the arbitrary velocity within a physical observable.

@@ -1,0 +1,5 @@
+Title: Super-Klein tunneling in 2D Lorentzian-type barriers in graphene
+Authors: Alonso Contreras-Astorga, Francisco Correa, Luis Inzunza, Vit Jakubsky, Raul Valencia-Torres
+Categories: cond-mat.mes-hall, hep-th, math-ph, quant-ph
+Published: 2026-03-21 21:11:58+00:00
+Abstract: We introduce a two-dimensional model of spin-1/2 Dirac fermions in graphene subjected to a highly tunable electric field, which exhibits super-Klein tunneling. The electric field can be continuously interpolated between two limiting configurations: a uniform electrostatic Lorentzian barrier with translational invariance and a chain of well-separated electrostatic scatterers. We demonstrate that super-Klein tunneling arises naturally as a direct consequence of the intrinsic connection of the model to free-particle dynamics, a relation that is established through methods of supersymmetric quantum mechanics, which provide an elegant and analytically tractable framework. Besides the mentioned super-Klein tunneling, scale invariance of the model and invisibility of the potential for particles of specific energy are revealed, and possible routes toward experimental realization are discussed.

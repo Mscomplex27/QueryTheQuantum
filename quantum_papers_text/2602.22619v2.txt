@@ -1,0 +1,5 @@
+Title: SYK thermal expectations are classically easy at any temperature
+Authors: Alexander Zlokapa, Bobak T. Kiani
+Categories: quant-ph, cs.DS
+Published: 2026-02-26 04:48:32+00:00
+Abstract: Estimating thermal expectations of local observables is a natural target for quantum advantage. We give a simple classical algorithm that approximates thermal expectations for Gibbs states of local Hamiltonians, and we show it has quasi-polynomial cost $n^{O(\log (n/ε))}$ for all temperatures above a phase transition in the free energy. For many natural models, this coincides with the entire fast-mixing, quantumly easy phase. Our results apply to the Sachdev-Ye-Kitaev (SYK) model at any constant temperature due to its absence of a phase transition -- despite its entanglement, sign problem, and polynomial quantum circuit lower bounds. Beyond SYK, we rigorously establish a universal classically easy high-temperature phase for all local, bounded-degree Hamiltonians and show that it extends to temperatures strictly colder than the death of entanglement transition.

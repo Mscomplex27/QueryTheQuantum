@@ -1,0 +1,5 @@
+Title: Two-parameter Family-Vicsek scaling in a dissipative XXZ spin chain
+Authors: Cătălin Paşcu Moca, Doru Sticlet, Tamás Vicsek, Balázs Dóra
+Categories: quant-ph, cond-mat.str-el
+Published: 2026-03-24 16:19:10+00:00
+Abstract: Family-Vicsek (FV) scaling provides an understanding for the growth and finite-size saturation of fluctuations in classical systems. Here, we extend the FV roughness to transferred segment magnetization after quantum quenches in a dissipative XXZ spin chain with homogeneous gain and loss, starting from a nonequilibrium steady state with finite magnetization. In the non-interacting limit, we derive a closed-form expression for the roughness in the presence of dissipation. It displays two-parameter FV scaling and smoothly interpolates between the clean ballistic behavior and the dissipation dominated scalings. For interacting chains, tensor-network simulations show that the non-dissipative ballistic growth at finite magnetization is robust, whereas the full Lindblad evolution is generically controlled by the dissipative relaxation time and exhibits a dissipation-dominated collapse.

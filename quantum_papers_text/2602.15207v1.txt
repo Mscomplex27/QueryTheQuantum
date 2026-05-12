@@ -1,0 +1,5 @@
+Title: Near-Infrared and Telecommunication-Wavelength Photon-Pair Source in Optical Fiber
+Authors: Keshav Kapoor, Dong Beom Kim, Kriti Shetty, Virginia O. Lorenz
+Categories: quant-ph, physics.optics
+Published: 2026-02-16 21:36:46+00:00
+Abstract: We present a photon-pair source in commercially available optical fiber that produces paired photons at telecommunication and near-infrared (NIR) wavelengths. The highly nondegenerate pairs are 700 nm apart: one in the 1500 nm E- and S-band telecommunication range and the other in the 830 nm NIR range. The high non-degeneracy means the photon pairs are far-detuned from Raman noise, resulting in a high coincidence-to-accidental ratio even while operating at room temperature. The source produces two spectrally and spatially distinct phase-matched processes with low spectral cross-talk, distinct transverse spatial modes in the NIR, and a single fundamental spatial mode in the telecommunication range. The source's room-temperature operation, off-the-shelf materials, and multiplexing potential make it promising for deployment in quantum networks.

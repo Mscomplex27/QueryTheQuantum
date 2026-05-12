@@ -1,0 +1,5 @@
+Title: Quantum $f$-divergences via Nussbaum-Szkoła Distributions in Semifinite von Neumann Algebras
+Authors: Theodoros Anastasiadis, George Androulakis
+Categories: quant-ph, math-ph, math.OA
+Published: 2026-04-21 15:41:37+00:00
+Abstract: In this article, we prove that the quantum $f$-divergence between two normal states on a semifinite von~Neumann algebra is equal to the classical $f$-divergence between two corresponding classical states, which are called Nussbaum-Szkoła distributions. This result has been proved by the second named author and T.C.~John for normal states on the von~Neumann algebra $\mathbb{B}(\mathscr{H})$ of all bounded operators on a Hilbert space $\mathscr{H}$. We extend their result for normal states on any semifinite von~Neumann algebra, not only $\mathbb{B}(\mathscr{H})$.

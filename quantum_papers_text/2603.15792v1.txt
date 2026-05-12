@@ -1,0 +1,5 @@
+Title: Almost-iid information theory
+Authors: Giulia Mazzola, David Sutter, Renato Renner
+Categories: quant-ph, cs.IT
+Published: 2026-03-16 18:21:47+00:00
+Abstract: Information-theoretic techniques are based on the assumption that resources are well characterized by independent and identically distributed (iid) states. This assumption cannot be justified operationally, since, for example, correlations between subsequent systems emitted by a source cannot be detected by any practical tomographic protocol. Operationally motivated symmetry assumptions still imply, via de Finetti theorems, that the resources are described by almost-iid states. This raises the question: Are almost-iid resources as effective as perfect iid resources for information-processing tasks? Here we address this question and prove that the conditional entropy of almost-iid states asymptotically coincides with that of iid states. As an application, this implies that squashed entanglement is robust for almost-iid states, asymptotically matching its value on iid states.

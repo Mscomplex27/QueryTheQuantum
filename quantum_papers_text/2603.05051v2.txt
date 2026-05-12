@@ -1,0 +1,5 @@
+Title: Multi-mode input-output model for cavity magnonics: phase-resolved control of level repulsion, level attraction, and nonreciprocal transmission
+Authors: Guillaume Bourcin, Mufti Avicena, Vincent Vlaminck, Jeremy Bourhill, Vincent Castel
+Categories: quant-ph
+Published: 2026-03-05 11:02:03+00:00
+Abstract: We experimentally validate a unified input--output model that incorporates internal and external coupling phases across multiple cavity modes in a room-temperature cavity magnonic system. By explicitly accounting for both phase contributions, the model provides a clear interpretation of the transition from level repulsion to level attraction at an interference-induced antiresonance, and accurately reproduces nonreciprocal transmission arising from the internal phases of the contributing modes. Quantitative agreement between experiments and simulations is obtained across all coupling regimes, establishing a predictive framework for phase-controlled cavity--magnon devices including isolators, circulators, and quantum transducers.

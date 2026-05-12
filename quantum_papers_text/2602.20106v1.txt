@@ -1,0 +1,10 @@
+Title: The quantum superluminality in the tunnel-ionization process of H-like atoms
+Authors: Ossama Kullie, Igor A. Ivanov
+Categories: quant-ph
+Published: 2026-02-23 18:25:32+00:00
+Abstract: The quantum tunneling time remains the subject of heated debate,
+  and one of its most curious features is faster-than-light or
+  superluminal tunneling.
+  Our tunnel-ionization model of the time-delay, presented in previous work, shows good agreement with the attoclock measurement in the adiabatic and nonadiabatic field calibrations, which also enables the determination of the barrier time-delay.
+  In the present work, we show that the tunnel-ionization for H-like atoms with large nuclear charge can be superluminal (quantum superluminality), which in principle can be investigated experimentally using the attoclock scheme.
+  We discuss the quantum superluminality in detail for the different regimes of the tunnel-ionization. Our result shows that quantum tunneling faster-than-light is indeed possible, albeit only under somewhat extreme conditions.

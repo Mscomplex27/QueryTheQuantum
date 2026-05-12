@@ -1,0 +1,5 @@
+Title: Beyond Sparsity: Quantum Block Encoding for Dense Matrices via Hierarchically Low Rank Compression
+Authors: Kun Tang, Jun Lai
+Categories: quant-ph
+Published: 2026-02-10 12:56:49+00:00
+Abstract: While quantum algorithms for solving large scale systems of linear equations offer potentially exponential speedups, their application has largely been confined to sparse matrices. This work extends the scope of these algorithms to a broad class of structured dense matrices arise in potential theory, covariance modeling, and computational physics, namely, hierarchically block separable (HBS) matrices. We develop two distinct methods to make these systems amenable to quantum solvers. The first is a pre-processing approach that transforms the dense matrix into a larger but sparse format. The second is a direct block encoding scheme that recursively constructs the necessary oracles from the HBS structure. We provide a detailed complexity analysis and rigorous error bounds for both methods. Numerical experiments are presented to validate the effectiveness of our approaches.

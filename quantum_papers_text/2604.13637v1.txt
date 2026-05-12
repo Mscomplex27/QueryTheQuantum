@@ -1,0 +1,5 @@
+Title: Response theory for quantum fields in isolation
+Authors: Stefan Floerchinger
+Categories: quant-ph, hep-th, nucl-th
+Published: 2026-04-15 09:03:46+00:00
+Abstract: Response theory describes the reaction of observales to perturbations in external fields. We review this formalism for quantum fiels in isolation that have unitary time evolution. An emphasis is put on consequences of causality and the resulting spectral representations for linear and nonlinear response functions, on functional techniques and generating functionals, including the description of the initial state, the evolution, and measurements. We review consequences of time reversal symmetry and relations for the statistics of work, and discuss a large class of quantum correlation functions, and their relation to response functions through fluctuation-dissipation relations. Consequences of conservation laws and gauge symmetries are mentioned briefly.

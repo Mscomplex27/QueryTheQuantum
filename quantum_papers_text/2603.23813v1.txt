@@ -1,0 +1,6 @@
+Title: Identical Quantum Particles as Potential Parts
+Authors: Philip Goyal
+Categories: quant-ph
+Published: 2026-03-25 00:46:31+00:00
+Abstract: The mathematical rules used to handle systems of identical quantum particles bring into question whether the elementary constituents of matter, such as electrons, have the fundamental characteristics of persistence and reidentifiability that are usually attributed to classical particles. However, despite considerable philosophical debate, the metaphysical profile of these entities remains elusive.
+  Previous debates have taken the mathematical rules, and the language in which these are usually couched, as a starting point. Here, we argue that this methodology is inherently limited, and develop a new conception of identical particles based on a recent mathematical reconstruction of these rules. Using this reconstruction, we demonstrate that the special behaviour of identical particles originates in the confluence of identicality and the active nature of the quantum measurements. We propose that identical particles are appropriately viewed as potential parts of a whole, and show how this leads to striking consequences such as restricted transtemporal identity.

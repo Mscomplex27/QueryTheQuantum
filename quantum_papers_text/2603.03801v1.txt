@@ -1,0 +1,5 @@
+Title: Variational Gibbs State Preparation on Trapped-Ion Devices
+Authors: Reece Robertson, Mirko Consiglio, Josey Stevens, Emery Doucet, Tony J. G. Apollaro, Sebastian Deffner
+Categories: quant-ph
+Published: 2026-03-04 07:24:19+00:00
+Abstract: We implement a variational quantum algorithm for Gibbs state preparation of a transverse-field Ising model on IonQ's quantum computers. To this end, we train the variational parameters via classical simulation and perform state tomography on the quantum devices to evaluate the fidelity of the prepared Gibbs state. As a main result, we find that fidelity decreases (non-monotonically) as a function of the inverse temperature $β$ of the system. Fidelity also decreases as a function of the size of the system. Interestingly, we find that a Gibbs state prepared for a specified $β$ is a better representative of a Gibbs state prepared for a $\textit{lower}$ $β$; or in other words, thermal fluctuations in the quantum hardware lead to digital heating, that is, an increase in the temperature of the prepared Gibbs state above what was intended.

@@ -1,0 +1,5 @@
+Title: A Loop-Shaping Approach to Coherent Feedback Control in Cavity Optomechanical Cooling
+Authors: Aoi Fujimoto, Hiroyuki Ichihara, Rina Kanamoto
+Categories: quant-ph
+Published: 2026-04-02 10:57:00+00:00
+Abstract: We present a loop-shaping approach to coherent feedback (CF) control. By formulating the coupling between a quantum system and its environment in terms of the noise power spectrum, our method enables direct manipulation of the effective dissipation coefficients through spectral shaping. A systematic design framework for CF controllers is also developed, in which transfer functions are shaped to realize desired spectral responses. Applying this framework to optomechanical sideband cooling, we demonstrate that suppression of the Stokes process and enhancement of the anti-Stokes process can be simultaneously achieved, enabling ground-state cooling even in the unresolved-sideband regime. This loop-shaping framework provides an intuitive and general foundation for the design of CF controllers and can be extended to a wide class of quantum systems in which interactions with environments are characterized by noise power spectra.

@@ -1,0 +1,5 @@
+Title: The Geometry Underlying the Quantum Harmonic Oscillator
+Authors: Alexander D. Popov
+Categories: math-ph, hep-th, physics.hist-ph, quant-ph
+Published: 2026-04-23 07:38:35+00:00
+Abstract: We consider two-dimensional harmonic oscillator in the complex Bargmann-Fock-Segal representation with $T^*{\mathbb R}^{2}={\mathbb C}^2$ as classical phase space. We show that the eigenfunctions $ψ_n$ of the quantum Hamiltonian correspond to complex radial coordinates in the reduced phase space ${\mathbb C}^2/{\mathbb Z}_n\subset{\mathbb C}^2$. They describe ${\mathbb Z}_n$-invariant motion of particle along a circle $S^1$ in lens space $S^3/{\mathbb Z}_n\subset{\mathbb C}^2/{\mathbb Z}_n$, where ${\mathbb Z}_n$ is the cyclic group of rotation by an angle $2π/n$ on the circle $S^1$, $n=1,2,...\,$. Thus the general solution of the Schrödinger equation carries information about an infinite number of admissible classical states $ψ_n$ that can be mapped to other states after lifting into the quantum bundle. We show that in the Kepler/hydrogen atom problem there is a similar correspondence between classical and quantum states.

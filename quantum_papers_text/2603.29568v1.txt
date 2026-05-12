@@ -1,0 +1,5 @@
+Title: Phase-space microscopes for quantum gases: Measuring conjugate variables and momentum-weighted densities
+Authors: N. R. Cooper, Y. Yang, C. Weitenberg
+Categories: cond-mat.quant-gas, quant-ph
+Published: 2026-03-31 10:50:00+00:00
+Abstract: Quantum gas microscopes offer unprecedented insights into quantum many-body states of cold atomic gases. Here we introduce concrete protocols for extending quantum gas microscopes to measure in phase space, by mapping momentum onto auxiliary degrees of freedom and using positive operator-valued measures. We distinguish between two distinct operational modes. In the Husimi-Q phase space microscope, position and momentum are jointly measured; in this mode the fundamental quantum noise appears in the position measurement. Conversely, the averaged-mode phase space microscope extracts the spatial dependence of averages of the momentum density (and its moments); these averages can be retrieved with arbitrary spatial resolution. We illustrate the utility of these techniques in diverse physical settings.

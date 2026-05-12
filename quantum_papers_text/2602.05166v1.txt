@@ -1,0 +1,5 @@
+Title: Quantum Sequential Circuits
+Authors: D. -S. Wang
+Categories: quant-ph, cond-mat.mtrl-sci, cs.AR
+Published: 2026-02-05 00:33:07+00:00
+Abstract: This work introduces and characterizes quantum sequential circuits (QSCs) as a hardware-oriented paradigm for quantum computing, built upon a novel foundational element termed the quantum transistor. Unlike conventional qubit-based architectures, QSCs employ symmetry-protected topological junctions where quantum gates are encoded as Choi states via channel-state duality and activated through bulk measurements, utilizing ebits to realize the functional analog of feedback loops in classical sequential circuits. This framework establishes a universal model for quantum computation that inherently incorporates memory and temporal sequencing, complementing existing combinational quantum circuit model. Our work advances the conceptual bridge towards a quantum von Neumann architecture, underscoring the potential of hybrid and modular design principles for the development of large-scale, integrated quantum information processors.

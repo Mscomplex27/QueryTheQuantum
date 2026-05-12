@@ -1,0 +1,5 @@
+Title: Direct U(2) approximation via repeat-until-success circuits
+Authors: Vadym Kliuchnikov, Jendrik Brachter, Marcus P. da Silva
+Categories: quant-ph
+Published: 2026-04-21 22:35:49+00:00
+Abstract: We show how to directly and efficiently approximate arbitrary one-qubit unitaries, bypassing the Euler decomposition and the magnitude approximation problem, at the cost of one ancillary qubit. Our technique also applies to approximating unitaries with multi-qubit gate sets such as Clifford and CS, or Clifford and CCZ, as well as to approximating orthogonal matrices using multi-qubit gate sets such as Real Clifford and CCZ. The key tools are repeat-until-success circuits, lattice-based exact synthesis algorithms, integer point enumeration in convex sets, and relative norm equations.

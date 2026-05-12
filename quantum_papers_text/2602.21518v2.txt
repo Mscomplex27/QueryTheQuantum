@@ -1,0 +1,5 @@
+Title: Momentum Diffusion, Decoherence and Drag Force on a Magnetic Nanoparticle
+Authors: Agya Sewara Alam, Anupam Mazumdar
+Categories: quant-ph
+Published: 2026-02-25 03:14:57+00:00
+Abstract: In this paper, we will provide a complete derivation of the decoherence rate for a magnetic nanoparticle in quantum superposition in the presence of the fluctuating electromagnetic field in a thermal background by using the fluctuation-dissipation theorem in the long-wavelength limit. The long-wavelength limit assumes that the superposition size is much smaller than the wavelength of the electromagentic filed fluctuations. We will extend this computation to two diamagnetic nanoparticles kept in quantum superposition adjacent to each other. We will also show how the drag force on a single nanoparticle arises from external electromagnetic-field fluctuations, and compare our results with those for the nanoparticle's dielectric properties.

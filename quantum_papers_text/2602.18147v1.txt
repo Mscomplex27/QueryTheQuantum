@@ -1,0 +1,5 @@
+Title: Clock Synchronization with Weakly Correlated Photons
+Authors: Justin Yu Xiang Peh, Darren Ming Zhi Koh, Zifang Xu, Xi Jie Yeo, Peng Kian Tan, Christian Kurtsiefer
+Categories: quant-ph
+Published: 2026-02-20 11:24:19+00:00
+Abstract: Clock synchronization is necessary for communication and distributed computing tasks. Previous schemes based on photon timing correlations use pulsed light or photon pairs for their strong timing correlations. In this work, we demonstrate successful synchronization of crystal clocks using weakly time-correlated photons of 180 ns coherence time from a bunched light source. A synchronization timing jitter of 10 ns is achieved over symmetric -102 dB optical channel loss between two parties, over a span of 25 hours. We also present a model that gives better estimates to the coherence peak finding success probabilities under low signal.

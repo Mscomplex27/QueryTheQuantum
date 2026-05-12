@@ -1,0 +1,5 @@
+Title: Superradiance enhances and suppresses fermionic pairing based on universal critical scaling in two order parameters systems
+Authors: Yilun Xu
+Categories: cond-mat.quant-gas, quant-ph
+Published: 2026-04-08 11:22:55+00:00
+Abstract: Distinguished from the system with one order parameter, systems described by two or more order parameters will manifest more complex and much richer phase diagram and critical phenomena. In systems of two order parameters, the phase transition of one order parameter may influence the strength of another. Focus on the Landau's theory of continuous phase transitions, we give a general physcial quantity to decide the changing rate of the two order parameters based on a general formula of free energy. Taking two-mode Rabi model and the 1D Fermi Dicke model as the examples, we verify our analytical results and show how the superradiant phase transition manipulates the two-spin pairing strength and the superconductor band gap. Our work proposes the new paradigm to study the complex systems with two or more order parameters and provides novel avenue to enhancing or suppressing the desired physical effect by such interplay.

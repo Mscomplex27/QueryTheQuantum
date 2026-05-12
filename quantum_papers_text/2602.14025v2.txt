@@ -1,0 +1,5 @@
+Title: Semiclassical Simulation of Homogeneous Emitter Ensembles with Local Dissipation
+Authors: Lewis Ruks
+Categories: quant-ph
+Published: 2026-02-15 07:12:03+00:00
+Abstract: Emitter ensembles constitute a fundamental component in quantum optical technologies, yet efficient and accurate simulation of large ensembles remains challenging. Here, we formulate a truncated Wigner approximation (TWA) for permutation-invariant emitter ensembles subject to local dissipation by sampling stochastic trajectories in an extended phase space encompassing the Bloch sphere. Benchmarks show that the TWA accurately captures dynamics, including nonclassical signatures, with the approximation improving with ensemble size. We demonstrate large-scale simulations of hundreds of interacting ensembles within the TWA to reveal emergent spatial coherence and selective directionality of cooperative emission in a pumped 1D chain, highlighting a path to studying extended light-matter systems. Our results expand the scope of scalable simulations of quantum emitter ensembles, establishing a bridge between microscopic models and emergent behavior.

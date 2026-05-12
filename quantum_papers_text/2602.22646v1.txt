@@ -1,0 +1,5 @@
+Title: Finite key analysis of experimentally realized practical COW-QKD protocol
+Authors: Neha Pathania, Sandeep Mishra, Anirban Pathak
+Categories: quant-ph
+Published: 2026-02-26 05:57:24+00:00
+Abstract: An experimental implementation of the Coherent One-Way Quantum Key Distribution (COW-QKD) protocol is reported under realistic conditions, and a clean and easy-to-use framework for performing finite key analysis of the COW-QKD protocol is provided by extending a set of existing results. The framework provided here is used to perform finite key rate analysis of the COW-QKD protocol with respect to the actual parameters used in the experimental realization reported here. The system is kept running for several hours with different experimental parameters and stable secure key rates between 1.2 to 1.6 kbps are observed. In addition, QBER, phase error rate and secure key rate are obtained under finite key analysis, and it is shown that COW-QKD is secure for medium-range transmissions (up-to ~ 156 (171) km of optical fiber with 0.2 dB loss per km if detector efficiency is 0.1 (0.2) and other parameters are same as those used in this experiment).

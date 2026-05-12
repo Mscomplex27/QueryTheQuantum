@@ -1,0 +1,5 @@
+Title: Black Hole--Entropy Container or Creator
+Authors: William G Unruh
+Categories: gr-qc, hep-th, quant-ph
+Published: 2026-03-19 00:23:02+00:00
+Abstract: Do black holes possess entropy or do they create it? The dominant assumption is that they possess entropy, and a they evaporate that entropy is emitted and decreases. In this paper I use a model of a linear amplifier, in which I argue that the amplifier has not entropy and yet it emits entropy in the process of it operation. This model is closely related to behaviour of black holes, resulting in answer the question of that title that black holes do not have entropy, but nevertheless them create and emit entropy with the total entropy emitted being the same as the usual expression proportional to the square of the mass of the black hole.

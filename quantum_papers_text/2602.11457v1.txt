@@ -1,0 +1,5 @@
+Title: The Pinnacle Architecture: Reducing the cost of breaking RSA-2048 to 100 000 physical qubits using quantum LDPC codes
+Authors: Paul Webster, Lucas Berent, Omprakash Chandra, Evan T. Hockings, Nouédyn Baspin, Felix Thomsen, Samuel C. Smith, Lawrence Z. Cohen
+Categories: quant-ph
+Published: 2026-02-12 00:30:48+00:00
+Abstract: The realisation of utility-scale quantum computing inextricably depends on the design of practical, low-overhead fault-tolerant architectures. We introduce the \textit{Pinnacle Architecture}, which uses quantum low-density parity check (QLDPC) codes to allow for universal, fault-tolerant quantum computation with a spacetime overhead significantly smaller than that of any competing architecture. With this architecture, we show that 2048-bit RSA integers can be factored with less than one hundred thousand physical qubits, given a physical error rate of $10^{-3}$, code cycle time of $1$ \textmu s and a reaction time of $10$ \textmu s. We thereby demonstrate the feasibility of utility-scale quantum computing with an order of magnitude fewer physical qubits than has previously been believed necessary.

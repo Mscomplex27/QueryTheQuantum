@@ -1,0 +1,5 @@
+Title: Vibrationally Induced Resonances in Lasing
+Authors: Kai Müller, Kimmo Luoma, Christian Schäfer
+Categories: quant-ph, physics.optics
+Published: 2026-04-01 12:06:27+00:00
+Abstract: Optical circuits and light sources, such as lasers, undergo continuous miniaturization. In its extreme, nanolasers might be comprised of only a few molecules confined in plasmonic nanoresonators. Few-emitter lasers promise low energy requirements and fast responses in a footprint that can be inserted into any device or biological tissue. Utilizing the recently developed stacked hierarchy approach, informed from first principles, we demonstrate the impact of vibrational structure on lasing, using the example of few-molecule lasing in plasmonic cavities. Explicitly accounting for the entire vibrational manifold unveils resonances in the laser intensity that depend on the Stokes shift, drive strength, and the number of emitters. Our work identifies the limits of the omnipresent "incoherent drive"-approximation and paves the way for the understanding of nanolasers at the molecular scale.

@@ -1,0 +1,5 @@
+Title: Ground-State Selection by Pure Energy Relaxation in Polariton Condensates
+Authors: D. A. Saltykova, A. V. Yulin, I. A. Shelykh
+Categories: cond-mat.mes-hall, nlin.PS, quant-ph
+Published: 2026-03-29 19:41:08+00:00
+Abstract: We study nonequilibrium mode selection in dissipative exciton-polariton condensates incoherently pumped through an excitonic reservoir in the presence of pure energy relaxation. For a confined system in which a vortex mode is selected at threshold, we show that energy relaxation qualitatively changes the condensation scenario: as the pump increases, the asymptotic state evolves from a vortex condensate to a rotating mixed state and then to a ground-state condensate. Pure energy relaxation thus destabilizes condensation into excited states and promotes ground-state selection.

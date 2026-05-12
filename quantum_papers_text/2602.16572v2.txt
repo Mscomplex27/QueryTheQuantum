@@ -1,0 +1,5 @@
+Title: Quantum Cellular Automata: The Group, the Space, and the Spectrum
+Authors: Mattie Ji, Bowen Yang
+Categories: math.AT, math-ph, math.OA, math.RA, quant-ph
+Published: 2026-02-18 16:15:36+00:00
+Abstract: Over an arbitrary commutative ring $R$, we develop a theory of quantum cellular automata. We then use algebraic K-theory to construct a space $\mathbf{Q}(X)$ of quantum cellular automata (QCA) on a given metric space $X$. In most cases of interest, $π_0 \mathbf{Q}(X)$ classifies QCA up to quantum circuits and stabilization. Notably, the QCA spaces are related by homotopy equivalences $\mathbf{Q}(*) \simeq Ω^n \mathbf{Q}(\mathbb{Z}^n)$ for all $n$, which shows that the classification of QCA on Euclidean lattices is given by an $Ω$-spectrum indexed by the dimension $n$. As a corollary, we also obtain a non-connective delooping of the K-theory of Azumaya $R$-algebras, which may be of independent interest. We also include a section leading to the $Ω$-spectrum for QCA over $C^*$-algebras with unitary circuits.

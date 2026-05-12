@@ -1,0 +1,5 @@
+Title: The road of quantum entanglement: from Einstein to 2022 Nobel Prize in Physics
+Authors: Yu Shi
+Categories: physics.hist-ph, hep-ph, quant-ph
+Published: 2026-02-16 10:02:28+00:00
+Abstract: We explain the achievements that were awarded 2022 Nobel Prize in Physics, as well as the preceding and the later developments. The main notions and historic cornerstones of Bell inequalities, the related researches on quantum entanglement are reviewed, and the key physical ideas are emphasized. Among the early work, C. S. Wu's contributions using polarization-entangled photons from electron-positron annihilation are introduced.

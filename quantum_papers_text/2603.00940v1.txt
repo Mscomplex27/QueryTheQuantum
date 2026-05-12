@@ -1,0 +1,5 @@
+Title: Nonlocality distillation can outperform entanglement distillation
+Authors: Peter Høyer, Jibran Rashid, Razeen ud Din
+Categories: quant-ph
+Published: 2026-03-01 06:18:30+00:00
+Abstract: Given the goal of maximizing CHSH violation, we compare the optimal strategies of entanglement and nonlocality distillation. In the limit of the number of copies of the shared state, entanglement distillation is guaranteed to work by generating a Bell state. For a small number of copies of the state, we show that nonlocality distillation can achieve a higher CHSH value, even though optimal entanglement distillation requires communication. Nonlocality distillation not only outperforms entanglement distillation but also demonstrates superior resource efficiency across multiple metrics for quantum resource estimation.

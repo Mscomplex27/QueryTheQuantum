@@ -1,0 +1,5 @@
+Title: Hybrid Photonic Quantum Reservoir Computing for High-Dimensional Financial Surface Prediction
+Authors: Fyodor Amanov, Azamkhon Azamov
+Categories: quant-ph
+Published: 2026-03-11 12:26:16+00:00
+Abstract: We propose a hybrid photonic quantum reservoir computing (QRC) framework for swaption surface prediction. The pipeline compresses 224-dimensional surfaces to a 20-dimensional latent space via a sparse denoising autoencoder, extracts 1,215 Fock-basis features from an ensemble of three fixed photonic reservoirs, concatenates them with a 120-dimensional classical context, and maps the resulting 1,335-dimensional feature vector to predictions with Ridge regression. We benchmark against 10 classical and quantum baselines on six held-out trading days. Our approach achieves the lowest surface RMSE of~$0.0425$ while maintaining sub-millisecond inference. The quantum layer has zero trainable parameters, sidestepping barren plateaus entirely. Variational quantum methods (VQC, Quantum LSTM) yield negative $R^{2}$ on test data, confirming that fixed quantum feature extractors paired with regularised readouts are more viable for low-data financial applications.

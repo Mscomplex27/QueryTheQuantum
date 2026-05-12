@@ -1,0 +1,5 @@
+Title: Quantifying the Operational Cost of Multipartite Entanglement
+Authors: Francois Payn, Michele Minervini, Davide Girolami
+Categories: quant-ph
+Published: 2026-02-04 16:58:44+00:00
+Abstract: Multipartite entanglement determines the strength and range of interactions in many-body quantum systems. Yet, it is hard to evaluate it, due to the complex structures of quantum states. Here, we introduce a generic method to quantify the k <= N-partite entanglement of an N-particle system, by maximizing an arbitrary bipartite entanglement measure within subsystems of size up to k. The resulting classification of multipartite states captures their experimental cost: creating a k-partite entangled state requires at least k-1 two-particle entangling gates. Further, we analytically calculate the newly defined k-partite entanglement of formation, which generalizes an important bipartite entanglement measure, in several classes of states, including the W states of any dimension.

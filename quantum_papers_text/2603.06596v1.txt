@@ -1,0 +1,5 @@
+Title: Quantum Walks Assisted Bidirectional Remote State Preparation
+Authors: K. K. Naseeda, Jumana Muhammed Abdul Asharaf, N. C. Randeep
+Categories: quant-ph
+Published: 2026-02-08 16:30:39+00:00
+Abstract: We present a scheme for bidirectional remote state preparation (BRSP) using quantum walks on two independent one-dimensional lattices and two independent cycles with two and four vertices, employing nearest-neighbor jumps with coin outcomes. The protocol is implemented in two distinct ways: one without the involvement of a controller and the other assisted by a controller . In this approach, the quantum walk dynamics generate entanglement during the remote state preparation process, thereby eliminating the need for any pre-shared initial entanglement between the communicating parties. Finally, we show that the bidirectional remote state preparation schemes based on quantum walks on a two-vertex and four-vertex system exhibit consistent behavior under the respective uncontrolled and controlled configurations.

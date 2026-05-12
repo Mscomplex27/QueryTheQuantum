@@ -1,0 +1,5 @@
+Title: Nonequilibrium Casimir-Polder Force: Motion-induced Thermal-like Effect
+Authors: D. Reiche, B. Beverungen, K. Busch, F. Intravaia
+Categories: quant-ph
+Published: 2026-02-18 14:15:43+00:00
+Abstract: The Casimir-Polder force is analyzed when an atom is moving at a constant velocity relative to a collection of translationally invariant macroscopic bodies with generic shapes and compositions. The interaction is described within an approach that accurately treats the atom-field coupling and accounts for the backaction from the environment onto the moving particle. Previously overlooked aspects are uncovered and linked to the nonequilibrium and nonconservative nature of the interaction. Specifically, we examine a behavior that can be understood by characterizing the underlying physical processes in terms of a motional-induced effective temperature. This phenomenon shares similarities with the Fulling-Davies-Unruh effect, opening new perspectives for the understanding of nonequilibrium physics at work in the system.

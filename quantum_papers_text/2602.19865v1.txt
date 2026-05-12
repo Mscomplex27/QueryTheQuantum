@@ -1,0 +1,5 @@
+Title: Separation of the Kibble-Zurek Mechanism from Quantum Criticality
+Authors: R. Jafari, Alireza Akbari
+Categories: cond-mat.stat-mech, cond-mat.str-el, quant-ph
+Published: 2026-02-23 14:09:21+00:00
+Abstract: When a system is swept through a quantum critical point (QCP), the Kibble-Zurek mechanism predicts that the average number of topological defects follows a universal power-law scaling with the ramp time scale. This scaling behavior is determined by the equilibrium critical exponents of the underlying phase transition. We show that the correspondence between Kibble-Zurek scaling and quantum criticality does not hold generally. In particular, the defect density can exhibit a suppression faster than the Kibble-Zurek prediction even when the quench crosses a critical point, while conventional Kibble-Zurek scaling may persist for quenches through a non-critical point. Our results, based on models representative of a broad class of quasi-one-dimensional Fermi systems, identify the dynamical conditions under which universal defect scaling emerges and clarify the relation between defect generation and equilibrium criticality.

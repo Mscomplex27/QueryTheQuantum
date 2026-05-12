@@ -1,0 +1,5 @@
+Title: Entanglement in a driven two-qubit system coupled to common cavity
+Authors: Amit Dey
+Categories: quant-ph
+Published: 2026-03-21 15:57:05+00:00
+Abstract: A system, comprised of a qubit pair coupled to a common cavity, is studied with the aim of establishing qubit entanglement. This study is the sequel of the paper Phys. Rev. A 111, 043705 (2025), where similar model was investigated for an initially vacuum cavity. In the present manuscript the cavity with finite initial occupancy is considered and the effect of asymmetric qubit cavity couplings is investigated. For a closed system scenario, the ratio of the qubit-cavity couplings shows a threshold beyond which no maximally-entangled qubit state is available. The threshold value is shown to depend on the excitation level of the cavity. For a driven-dissipative case steady state entanglement is shown to depend non-monotonically on the qubit drive. Intricate interplay of drive, dissipation, and coupling asymmetry is shown to be pivotal for steady-state entanglement generation.

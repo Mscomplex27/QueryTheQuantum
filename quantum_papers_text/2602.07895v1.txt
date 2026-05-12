@@ -1,0 +1,5 @@
+Title: Probing holographic conformal field theories
+Authors: Ming Zhang, Jiayue Yang, Dyuman Bhattacharya, Robert B. Mann
+Categories: hep-th, gr-qc, quant-ph
+Published: 2026-02-08 10:04:52+00:00
+Abstract: We introduce an operational, boundary-first framework that embeds relativistic quantum-information protocols into anti-de Sitter/Conformal Field Theory (AdS/CFT) by coupling an Unruh--DeWitt detector directly to a local scalar primary operator of a holographic CFT. Using the universal CFT Wightman function, we compute the detector's reduced density operator perturbatively, retaining both excitation probabilities and coherences. As a concrete resource-theoretic application, we implement magic resource (mana) harvesting with a qutrit probe. For a CFT dual to global AdS, we show that the harvested mana sharply distinguishes the two admissible scalar quantizations in the Breitenlohner--Freedman window, with the standard quantization yielding systematically larger mana than the alternate one. Our results provide a viable way of testing holography principle through quantum information resource.

@@ -1,0 +1,5 @@
+Title: Control the qubit-qubit coupling with double superconducting resonators
+Authors: Hui Wang, Rui Wang, Daichi Sugiyama, Chih-Yao Shih, Ching-Yeh Chen, Hiroto Mukai, Hang Xue, J. S. Tsai
+Categories: quant-ph
+Published: 2026-02-12 04:49:26+00:00
+Abstract: We experimentally studied the switching off processes in the double-resonator coupler superconducting quantum circuit. In both frequency and time-domain, we observed the variation of qubit-qubit effective coupling by tuning the frequency differences between qubits and the double-resonator coupler. According to the measurement results, by just shifting about 50 MHz of qubits' frequencies, we can tune the effective qubit-qubit coupling strength from switching off point to two qubit gate point (effective coupling larger than 5 MHz) in double-resonator superconducting quantum circuit.The double-resonator (coupler) superconducting quantum circuit has the advantage of simple fabrications, introducing less flux noises, reducing occupancy of dilution refrigerator cables,which might supply a promising platform for future large-scale superconducting quantum processors.

@@ -1,0 +1,5 @@
+Title: Understanding Bell locality tests at colliders
+Authors: J. A. Aguilar-Saavedra, J. A. Casas, J. M. Moreno
+Categories: hep-ph, hep-ex, quant-ph
+Published: 2026-03-19 18:26:18+00:00
+Abstract: For decades, it has been known that local hidden variable theories cannot be disproved by collider experiments involving decaying particles. However, if these theories satisfy a small set of mild assumptions, they become testable. In particular, they can be disproved using Bell-like inequalities for $μ^+ μ^-$ and $τ^+ τ^-$ pairs.

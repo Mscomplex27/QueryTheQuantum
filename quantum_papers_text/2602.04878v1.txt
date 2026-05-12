@@ -1,0 +1,5 @@
+Title: Thermal State Simulation with Pauli and Majorana Propagation
+Authors: Manuel S. Rudolph, Armando Angrisani, Andrew Wright, Iwo Sanderski, Ricard Puig, Zoë Holmes
+Categories: quant-ph
+Published: 2026-02-04 18:59:02+00:00
+Abstract: We introduce a propagation-based approach to thermal state simulation by adapting Pauli and Majorana propagation to imaginary-time evolution in the Schrödinger picture. Our key observation is that high-temperature states can be sparse in the Pauli or Majorana bases, approaching the identity at infinite temperature. By formulating imaginary-time evolution directly in these operator bases and evolving from the maximally mixed state, we access a continuum of temperatures where the state remains efficiently representable. We provide analytic guarantees for small-coefficient truncation and Pauli-weight (Majorana-length) truncation strategies by quantifying the error growth and the impact of backflow. Large-scale numerics on the 1D J1-J2 model (energies) and the triangular-lattice Hubbard model (static correlations) validate efficiency at high temperatures.

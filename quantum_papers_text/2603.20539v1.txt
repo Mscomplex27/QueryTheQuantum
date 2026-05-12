@@ -1,0 +1,5 @@
+Title: Existence, structure, and properties of quantum-like states
+Authors: Gregory D. Scholes
+Categories: quant-ph
+Published: 2026-03-20 22:22:59+00:00
+Abstract: The main purpose of thispaper is to show that composite quantum-like (QL) systems can closely mimic the separable states of quantum systems, and that suitable physical systems exhibiting these states exist. It is shown that QL graphs can closely emulate states of composite quantum systems, such as coupled two-level systems that display separable linear combinations of states. Examples of classical systems are suggested that show these states. These include multipole moments of waves or networks of phase oscillators. The work indicates that composite QL states can be manifest in complex network structures relevant to quantum biology or engineered into circuits, or even possibly soft matter.

@@ -1,0 +1,5 @@
+Title: Learning Quantum-Samplers for Stochastic Processes with Quantum Sequence Models
+Authors: Ximing Wang, Chengran Yang, Chidambaram Aditya Somasundaram, Jayne Thompson, Mile Gu
+Categories: quant-ph
+Published: 2026-03-25 08:23:56+00:00
+Abstract: Quantum circuits that generate coherent superpositions of stochastic processes are key to many downstream quantum-accelerated tasks, such as risk analysis, importance sampling, and DNA sequencing. However, traditional methods for designing such circuits from data face immense challenges, given the exponential growth in the size of the associated probability vectors as the desired simulation time horizon increases. Here, we introduce quantum sequence models that leverage a recurrent quantum circuit structure to generate coherent superpositions with circuit complexity that grows linearly with the desired time horizon; together with a recurrent variant of the parameter-shift rule, we train these models from observational data. When benchmarked against baseline quantum Born machines, our constructions exhibit orders-of-magnitude improvements in model accuracy in data-sparse regimes.

@@ -1,0 +1,5 @@
+Title: Two components relativistic quantum wave equation for scalar bosons
+Authors: Roland Combescot
+Categories: quant-ph
+Published: 2026-02-23 15:34:31+00:00
+Abstract: We show that, in the relativistic regime, scalar bosons satisfy a quantum wave equation which is quite analogous to the Dirac equation. In contrast with the Klein-Gordon equation it is first order with respect to time derivation. It leads in a regular way to the standard Schrödinger equation in the non-relativistic limit. There are two components for the wave function in this representation for the scalar boson, in a way completely analogous to the four components for the spin $1/2$ fermion in the Dirac equation.

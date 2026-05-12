@@ -1,0 +1,5 @@
+Title: Internal dynamics and guided motion in general relativistic quantum interferometry
+Authors: Thomas B. Mieling
+Categories: gr-qc, quant-ph
+Published: 2026-02-24 15:21:45+00:00
+Abstract: The coupling between internal degrees of freedom of quantum systems and their overall motion in an external gravitational field plays a central role in multiple extensions of Einstein's equivalence principle to quantum physics. While previous models of such effects were predominantly restricted to linearized gravity and often required quantum particles to follow prescribed world-lines, this letter shows how such phenomena can be understood using generally covariant semi-classical approximations in the framework of quantum field theory in curved space-times. This method provides a unification and generalization of previously established results, but also predicts new effects such as an influence of internal energies on field amplitudes, as well as correction terms to the internal Schrödinger equation that give rise to Berry phases.

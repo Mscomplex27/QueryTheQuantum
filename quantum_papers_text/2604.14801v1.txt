@@ -1,0 +1,5 @@
+Title: Coherence dynamics in quantum algorithm for linear systems of equations
+Authors: Linlin Ye, Zhaoqi Wu, Shao-Ming Fei
+Categories: quant-ph
+Published: 2026-04-16 09:25:22+00:00
+Abstract: Quantum coherence is a fundamental issue in quantum mechanics and quantum information processing. We explore the coherence dynamics of the evolved states in HHL quantum algorithm for solving the linear system of equation $A\overrightarrow{x}=\overrightarrow{b}$. By using the Tsallis relative $α$ entropy of coherence and the $l_{1,p}$ norm of coherence, we show that the operator coherence of the phase estimation $P$ relies on the coefficients $β_{i}$ obtained by decomposing $|b\rangle$ in the eigenbasis of $A$. We prove that the operator coherence of the inverse phase estimation $\widetilde{P}$ relies on the coefficients $β_{i}$, eigenvalues of $A$ and the success probability $P_{s}$, and it decreases with the increase of the probability when $α\in(1,2]$. Moreover, the variations of coherence deplete with the increase of the success probability and rely on the eigenvalues of $A$ as well as the success probability.

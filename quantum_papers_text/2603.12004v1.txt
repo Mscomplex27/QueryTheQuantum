@@ -1,0 +1,5 @@
+Title: Propagation of Two-Photon Zernike States in Atmospheric Turbulence
+Authors: Hakob Avetisyan, Vahagn Abgaryan
+Categories: quant-ph
+Published: 2026-03-12 14:49:54+00:00
+Abstract: We analyze propagation and detection of two-photon states expanded in Zernike modes through atmospheric turbulence using the extended Huygens-Fresnel formalism. For SPDC states prepared with a single Zernike pump mode, we analytically reduce the 8-dimensional continuous propagation integrals to an exact, discrete modal expansion. In the absence of turbulence, Zernike addition enforces conservation of azimuthal index and a strict radial-order bound. Turbulence relaxes these constraints, driving structured azimuthal and radial crosstalk dominated by low-order aberration modes. By explicitly removing the lowest-order terms from the discrete turbulence sum, we demonstrate that partial adaptive optics correcting only up to the sixth radial order is sufficient to heavily suppress this crosstalk and restore near-ideal spatial correlations.

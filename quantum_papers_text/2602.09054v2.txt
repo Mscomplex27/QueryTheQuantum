@@ -1,0 +1,8 @@
+Title: Structural Theory of Information Backflow in Non-Markovian Relaxation: TC/TCL Formalism and Minimal Phase Diagrams
+Authors: Koichi Nakagawa
+Categories: quant-ph, cond-mat.stat-mech
+Published: 2026-02-07 09:15:54+00:00
+Abstract: We develop a structural theory of information backflow in minimal non-Markovian relaxation processes within the framework of nonequilibrium statistical mechanics. The approach is based on the time-convolution (TC) and time-convolutionless (TCL) projection-operator formalisms for reduced dynamics and on the doubling construction of non-equilibrium thermo field dynamics, which provides an embedding representation of dissipative evolution.
+  We introduce a general backflow functional associated with a time-dependent information measure and derive generator-based sufficient conditions for the absence of backflow in terms of divisibility properties and effective relaxation rates. This allows a direct connection between memory kernels in generalized master equations and observable transient phenomena such as entropy overshoot and revival.
+  Furthermore, we propose a decomposition of backflow into classical mixing and intrinsic contributions in the doubled representation, leading to a unified classification of transient regimes. Minimal classical and quantum two-state models are analyzed as analytically tractable examples, yielding explicit phase diagrams and recovering Mittag-Leffler-type fractional relaxation as a universal envelope of non-Markovian damping.
+  The framework provides a constructive TC-to-TCL procedure for extracting effective rates and organizing memory-induced phenomena in a model-independent manner.

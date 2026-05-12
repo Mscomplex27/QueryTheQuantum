@@ -1,0 +1,5 @@
+Title: Many-body localization
+Authors: Jakub Zakrzewski
+Categories: quant-ph, cond-mat.dis-nn, cond-mat.quant-gas
+Published: 2026-04-14 08:51:21+00:00
+Abstract: We present an introductory review of nonergodic dynamics in interacting many-body quantum systems, focusing on the phenomenon of many-body localization (MBL). We describe aspects of MBL and summarize the evidence for a crossover from the ergodic to the MBL regime in finite systems, using the paradigmatic XXZ model as an example. We then broaden the scope to other models to illustrate the generality of the phenomenon. We briefly touch on the largely unexplored relation between MBL and quantum computing.

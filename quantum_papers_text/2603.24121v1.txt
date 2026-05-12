@@ -1,0 +1,5 @@
+Title: Controlling entanglement by phase engineering in giant-atom waveguide
+Authors: Peng-Fei Wang, Lei Huang, Miao-Miao Wei, Hong Yang, Dong Yan
+Categories: quant-ph
+Published: 2026-03-25 09:33:18+00:00
+Abstract: We investigate the entanglement dynamics of two giant atoms coupled to a common waveguide. By introducing additional phase modulation at each coupling point, every photon propagation path is jointly controlled by two distinct coupling phases, enabling precise and flexible manipulation of the entanglement evolution. This phase engineering induces destructive interference among different paths, leading to entanglement dynamics in nested giant atoms that become equivalent to those of small atoms, as well as dynamical equivalence between separated and braided configurations. Furthermore, the proposed scheme significantly enhances the robustness of entanglement against variations in the phase shift, offering a practical route to generate stable entanglement and enabling quantum devices with programmable propagation and controllable memory effects.

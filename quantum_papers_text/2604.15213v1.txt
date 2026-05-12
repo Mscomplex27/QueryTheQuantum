@@ -1,0 +1,5 @@
+Title: Simulation of quantum annealing on a semiconducting cQED device for Multiple Hypothesis Tracking (MHT) benchmark
+Authors: Quentin Schaeverbeke, Viktor Radović, Jean-Marc Divanon, Bing Hong Teh
+Categories: quant-ph, cond-mat.mes-hall
+Published: 2026-04-16 16:44:35+00:00
+Abstract: We explore the expected performance of a semiconducting spin cQED quantum processor for Multiple Hypothesis Tracking (MHT) algorithm via a quantum annealing procedure. From two different benchmarking scenarios we evaluate this type of quantum annealer on a quantum emulator in which we incorporated both dynamical coherent errors and incoherent errors. From estimate of the reset, measurement and annealing time of the processor, we find that cQED-spin processors could reach a total run time of around 50 ms. This makes this technology promising for potential real time application such as radar tracking.

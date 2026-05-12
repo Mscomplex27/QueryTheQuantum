@@ -1,0 +1,5 @@
+Title: Near-perfect quantum teleportation between continuous and discrete encodings
+Authors: Ravi Kamal Pandey, Shraddha Singh, Dhiraj Yadav, Devendra Kumar Mishra
+Categories: quant-ph
+Published: 2026-02-19 12:16:48+00:00
+Abstract: Quantum teleportation between polarized single-photon and phase-opposite coherent states is studied using a hybrid entangled resource and entangled coherent states. The polarized single-photon qubit represents a discrete-variable (DV) quantum system, whereas the phase-opposite coherent-state qubit constitutes a continuous-variable (CV) system. While teleportation from CV to DV can be achieved with near-unit success probability, the reverse process is usually limited to a maximum success probability of $1/2$. We demonstrate that, by employing cross-Kerr nonlinearity together with passive linear optical components such as polarizing beam splitters, beam splitters, and phase shifters, almost perfect teleportation from DV to CV encodings can also be achieved.

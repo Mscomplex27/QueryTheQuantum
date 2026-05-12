@@ -1,0 +1,5 @@
+Title: Kinematic Modulation in Driven Spin Resonance
+Authors: Sunghyun Kim
+Categories: quant-ph, math-ph, physics.atom-ph
+Published: 2026-02-07 17:33:17+00:00
+Abstract: The transition probability of a spin driven by a rotating magnetic field is reformulated. This work shows that, once projection onto the measurement basis is properly accounted for, the laboratory measured probability is governed by both intrinsic spin dynamics and the time dependence of the measurement basis. For the rotating-field eigenbasis, this yields an additional kinematic modulation, leading to measurable deviations under strong driving. A unified probability expression is derived that subsumes the classic 1937 and 1954 formulations as limiting cases, while correcting the conventional treatment of magnetic resonance transitions.

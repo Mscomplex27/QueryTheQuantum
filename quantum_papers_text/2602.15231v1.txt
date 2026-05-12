@@ -1,0 +1,5 @@
+Title: Strong Collective Chiroptical Response from Electric-Dipole Interactions in Atomic Systems
+Authors: Marcella L. Xavier, Felipe A. Pinheiro, Romain Bachelard
+Categories: physics.atom-ph, quant-ph
+Published: 2026-02-16 22:22:34+00:00
+Abstract: Chiroptical responses in atomic systems are usually weak, as they arise from the interference between electric- and much weaker magnetic-dipole transitions. We show that atoms arranged in chiral geometries can instead exhibit a strong collective chiroptical response mediated entirely by electric-dipole interactions. Using a coupled-dipole framework, we identify a regime of pronounced chiroptical response emerging at subwavelength interatomic separations, which can be tuned by the probe frequency. This enhancement is directly linked to the formation of subradiant collective modes. Our results establish a fundamental connection between geometric chirality and collective light-matter interactions, opening new pathways for engineering and exploiting chiral optical responses in atomic systems.

@@ -1,0 +1,5 @@
+Title: Principal component analysis of wavefunction snapshots in non-equilibrium dynamics
+Authors: Dharmesh Yadav, Devendra Singh Bhakuni, Bijay Kumar Agarwalla
+Categories: cond-mat.stat-mech, physics.comp-ph, physics.data-an, quant-ph
+Published: 2026-04-01 16:57:28+00:00
+Abstract: We study non-equilibrium quantum dynamics by performing principal component analysis on the data sets of wavefunction snapshots. We show that a specific transformation of the data sets maximizes the information content in the largest principal component and further enables its connection to certain observables. This connection enables us to explain the dynamical features revealed by such a dimensionality-reduction scheme. We demonstrate this using quantum dynamics of the Heisenberg spin chain, starting from different initial states, and further extend the approach to extract higher-order correlations. Our framework should also be applicable to other unsupervised machine-learning methods based on dimensionality-reduction schemes and is highly relevant to experiments with quantum simulators, including those in higher dimensions.

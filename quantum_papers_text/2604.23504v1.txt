@@ -1,0 +1,5 @@
+Title: Quantum average correlations and complementarity relations via metric-adjusted skew information
+Authors: Xiaoyu Ma, Qing-Hua Zhang, Cong Xu
+Categories: quant-ph
+Published: 2026-04-26 02:38:29+00:00
+Abstract: We investigate quantum average correlations and complementarity relations based on metric-adjusted skew information. Several natural averaging procedures are considered, including complete families of mutually unbiased bases, all orthonormal bases, operator orthonormal bases, and twirling channels induced by the unitary group. All these approaches lead to the same closed expression, which identifies the resulting average correlation as an intrinsic quantity independent of the averaging scheme. By defining measures of wave and particle features via metric-adjusted skew information, we establish complementarity relations among wave and particle features, quantum entropy, and average correlation. These results provide a unified framework for investigating quantum average correlations and complementarity relations in terms of metric-adjusted skew information.

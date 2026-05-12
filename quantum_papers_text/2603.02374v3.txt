@@ -1,0 +1,5 @@
+Title: Solution of Quantum Quartic Potential Problems with Airy Fredholm Operators
+Authors: Ori J. Ganor
+Categories: hep-th, cond-mat.stat-mech, math-ph, quant-ph
+Published: 2026-03-02 20:28:57+00:00
+Abstract: Fredholm integral operators that commute with the Hamiltonians of certain quantum mechanical problems with quartic potentials are introduced. The operators are expressed in terms of an Airy function, and their eigenvalues fall off exponentially fast. They may help with high-accuracy numerical analysis, and their existence leads to dual descriptions in terms of infinite one-dimensional chains with variables on nodes, and weights on nodes and links. The systems discussed include the anharmonic quartic oscillator as well as multivariable potentials and higher dimensional systems, including certain quantum field theories with nonlocal interactions.

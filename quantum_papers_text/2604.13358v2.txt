@@ -1,0 +1,5 @@
+Title: Atiyah--Singer Index Theorem for Non-Hermitian Dirac Operators
+Authors: João Pedro Breveglieri da Silva, Dmitri Vassilevich
+Categories: hep-th, cond-mat.mes-hall, quant-ph
+Published: 2026-04-14 23:45:24+00:00
+Abstract: If an operator $H$ anticommutes with a chirality operator $Γ_*$ such that $Γ_*^2=1$, the null space of $H$ can be decomposed in a direct sum of two spaces having positive and negative chiralities, respectively. When both spaces are finite dimensional, one can define an index, $\mathrm{Ind}(Γ_*,H)$, as the difference of dimensions of these two spaces. The key issue is whether $\mathrm{Ind}(Γ_*,H)$ is topologically protected, i.e., whether it remains constant under smooth variations of the parameters and background fields entering $H$. For Hermitian Dirac operators, topological protection of the index is guaranteed by the Atiyah--Singer theorem. In this paper, by using the heat kernel methods, we show that $\mathrm{Ind}(Γ_*,H)$ is topologically protected also for non-hermitian operators $H$ as long as they are diagonalizable and satisfy some ellipticity conditions.

@@ -1,0 +1,5 @@
+Title: Benchmarking simulation of hybrid decoding scheme for parity-encoded spin systems
+Authors: Yoshihiro Nambu
+Categories: quant-ph, cs.IT
+Published: 2026-03-29 17:18:32+00:00
+Abstract: This paper presents classical benchmark simulations of a practical hybrid decoding scheme for parity-encoded spin systems, which is well-suited to the development of quantum annealing devices based on on-chip superconducting technology. We compared the performance of finding the optimal solution using two embedding schemes for emulating all-to-all connectivity from local interactions: the SLHZ scheme, proposed by Sourlas, Lechner, Hauke, and Zoller, and the commonly used minor embedding (ME) scheme. We found that the SLHZ scheme is more efficient than the ME scheme when combined with postreadout classical decoding based on the classical bit-flipping algorithm, although the SLHZ scheme itself is substantially less efficient than the ME scheme.

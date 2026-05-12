@@ -1,0 +1,5 @@
+Title: Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries
+Authors: Erik J. Gustafson, Henry Lamm
+Categories: quant-ph, hep-lat
+Published: 2026-03-23 18:01:03+00:00
+Abstract: We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\varepsilon$, $M$ is found to scale empirically as $M \propto \frac{1}{mg}\log(1/g)\log(1/m)$.

@@ -1,0 +1,5 @@
+Title: High-performance source of indistinguishable polarization-entangled photons with a local oscillator reference for quantum networking
+Authors: Michael Grayson, Shawn Meyer, Daniel Sorensen, Abigail Gookin, Markus Allgaier, Nicholas V. Nardelli, Tara M. Fortier, Dileep V. Reddy, Martin J. Stevens, Michael D. Mazurek, Juliet T. Gopinath, L. Krister Shalm
+Categories: quant-ph, physics.optics
+Published: 2026-02-10 21:46:54+00:00
+Abstract: Optical quantum networking protocols impose stringent requirements on the states produced by sources of entanglement. We demonstrate a free-space, compact, source of indistinguishable pairs of polarization entangled photons, with an integrated local oscillator reference as a significant step towards this goal. This source achieves $(99.11 \pm 0.01) \%$ polarization entanglement visibility, $(96.3 \pm 0.6) \%$ successive-photon Hong-Ou-Mandel interference visibility, $(68.0 \pm 0.1$) \% heralded efficiency as detected, and $(88.6 \pm 0.2) \%$ interference visibility with a local oscillator. This simultaneous achievement of state-of-the-art metrics demonstrates an adaptable platform for quantum networking.

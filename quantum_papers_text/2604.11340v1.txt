@@ -1,0 +1,5 @@
+Title: Optimal Two-Qubit Gates for Group-IV Color-Centers in Diamond
+Authors: Jurek Frey, Katharina Senkalla, Philipp J. Vetter, Fedor Jelezko, Frank K. Wilhelm, Matthias M. Müller
+Categories: quant-ph
+Published: 2026-04-13 11:40:08+00:00
+Abstract: Color centers associated with group-IV dopants in diamond with long-lived nuclear spins have emerged as major candidates for distributed quantum computing nodes and quantum repeaters. Several proof-of-principle experiments have already been demonstrated. A key operation for long-distance entanglement-distribution protocols are fast and robust gates between the electron spin and a nuclear spin. Here, we investigate numerically for an existing experimental platform of a Germanium-vacancy (GeV) center with a strongly-coupled ${}^{13}$C spin, how such gates can be implemented via quantum optimal control. In the presence of realistic noise we investigate different parameter regimes and gate operations and obtain robust two-qubit gates with fidelities exceeding $99.9 \%$. The framework provides a scalable strategy for group-IV quantum nodes and can be adapted to related architectures.
