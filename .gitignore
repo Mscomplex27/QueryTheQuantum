@@ -47,3 +47,4 @@ test_connection.py
 
 # Backup files
 *.bak
+venv/
