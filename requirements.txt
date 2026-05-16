@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+groq
+python-dotenv
+fastembed
+chromadb
+pyTigerGraph
