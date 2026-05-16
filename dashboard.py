@@ -14,16 +14,26 @@ from tigergraph_graphrag.entity_extractor import extract_entities
 from tigergraph_graphrag.load_data import graphrag_query
 try:
     from llm_only import run_llm_only
-except ImportError:
-    st.error("llm_only.py not found.")
+except Exception as e:
+    st.warning(f"LLM-only module unavailable: {e}")
     run_llm_only = None
 
-try:
-    from basic_rag_2m import basic_rag, index_papers
-except ImportError:
-    st.error("basic_rag_2m.py not found.")
-    basic_rag = None
-    index_papers = None
+basic_rag = None
+index_papers = None
+basic_rag_error = None
+
+def load_basic_rag_module():
+    global basic_rag, index_papers, basic_rag_error
+    if basic_rag is not None or index_papers is not None or basic_rag_error is not None:
+        return
+    try:
+        import basic_rag_2m as basic_rag_mod
+        basic_rag = basic_rag_mod.basic_rag
+        index_papers = basic_rag_mod.index_papers
+    except Exception as e:
+        basic_rag_error = str(e)
+        basic_rag = None
+        index_papers = None
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
@@ -47,7 +57,9 @@ def run_llm_only_task(query: str) -> Dict[str, Any]:
 
 def run_basic_rag_task(query: str) -> Dict[str, Any]:
     if basic_rag is None:
-        return {"error": "Basic RAG not available"}
+        load_basic_rag_module()
+    if basic_rag is None:
+        return {"error": basic_rag_error or "Basic RAG not available"}
     try:
         result = basic_rag(query)
         return {
