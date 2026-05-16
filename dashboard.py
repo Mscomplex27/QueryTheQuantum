@@ -9,7 +9,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import base64
-from tigergraph_graphrag.entity_extractor import *
+from tigergraph_graphrag.entity_extractor import extract_entities
 # sys.path.insert(0, '/Users/mac/Documents/Projects/GraphRAGHackathon/tigergraph_graphrag')
 from tigergraph_graphrag.load_data import graphrag_query
 try:

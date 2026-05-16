@@ -14,8 +14,16 @@ TG_PASSWORD = os.getenv("TG_PASSWORD")
 TG_GRAPH = os.getenv("TG_GRAPH", "GraphRAG_Hackathon")
 
 conn = None
+_client = None
 
-client = Groq(api_key=GROQ_API_KEY)
+def get_groq_client():
+    global _client
+    if _client is not None:
+        return _client
+    if not GROQ_API_KEY:
+        raise ValueError("GROQ_API_KEY is not set.")
+    _client = Groq(api_key=GROQ_API_KEY)
+    return _client
 
 
 def get_tg_connection():
@@ -160,6 +168,7 @@ Question:
 Explain clearly and technically.
 """
 
+    client = get_groq_client()
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": prompt}],

@@ -5,13 +5,26 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+_client = None
+
+def get_groq_client():
+    global _client
+    if _client is not None:
+        return _client
+
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        raise ValueError("GROQ_API_KEY is not set.")
+
+    _client = Groq(api_key=api_key)
+    return _client
 
 def run_llm_only(query):
     """Run query through LLM-only pipeline and return answer + metrics"""
     
     start_time = time.time()
     
+    client = get_groq_client()
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": query}],

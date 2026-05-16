@@ -8,7 +8,20 @@ from dotenv import load_dotenv
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 load_dotenv()
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+_client = None
+
+def get_groq_client():
+    global _client
+    if _client is not None:
+        return _client
+
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        raise ValueError("GROQ_API_KEY is not set.")
+
+    _client = Groq(api_key=api_key)
+    return _client
+
 embed_model = TextEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
@@ -38,6 +51,7 @@ def basic_rag(query):
     start = time.time()
     context = "\n\n".join(retrieve(query))
     prompt = f"Context: {context}\n\nQuestion: {query}\nAnswer:"
+    client = get_groq_client()
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": prompt}]
