@@ -11,7 +11,7 @@ import plotly.express as px
 import base64
 
 sys.path.insert(0, '/Users/mac/Documents/Projects/GraphRAGHackathon/tigergraph_graphrag')
-from load_data import graphrag_query
+from tigergraph_graphrag.load_data import graphrag_query
 try:
     from llm_only import run_llm_only
 except ImportError:
