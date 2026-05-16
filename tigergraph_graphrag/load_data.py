@@ -3,7 +3,7 @@ import time
 from groq import Groq
 from dotenv import load_dotenv
 from pyTigerGraph import TigerGraphConnection
-from entity_extractor import extract_entities
+from .entity_extractor import extract_entities
 
 load_dotenv()
 
@@ -13,18 +13,35 @@ TG_USERNAME = os.getenv("TG_USERNAME")
 TG_PASSWORD = os.getenv("TG_PASSWORD")
 TG_GRAPH = os.getenv("TG_GRAPH", "GraphRAG_Hackathon")
 
-conn = TigerGraphConnection(
-    host=TG_HOST,
-    graphname=TG_GRAPH,
-    username=TG_USERNAME,
-    password=TG_PASSWORD,
-    useCert=False
-)
-
-# Auto token
-conn.apiToken = conn.getToken(conn.createSecret())
+conn = None
 
 client = Groq(api_key=GROQ_API_KEY)
+
+
+def get_tg_connection():
+    global conn
+    if conn is not None:
+        return conn
+
+    if not TG_HOST or not TG_USERNAME or not TG_PASSWORD:
+        raise ValueError(
+            "TigerGraph configuration is missing. Set TG_HOST, TG_USERNAME, and TG_PASSWORD."
+        )
+
+    host = TG_HOST
+    if not host.startswith("http://") and not host.startswith("https://"):
+        host = "https://" + host
+
+    conn = TigerGraphConnection(
+        host=host,
+        graphname=TG_GRAPH,
+        username=TG_USERNAME,
+        password=TG_PASSWORD,
+        useCert=False
+    )
+
+    conn.apiToken = conn.getToken(conn.createSecret())
+    return conn
 
 def parse_chunks(result):
     """
@@ -61,6 +78,12 @@ def multi_hop_retrieve(seed_entities, top_k=5):
     if not seed_entities:
         return "No entities found."
 
+    try:
+        tg_conn = get_tg_connection()
+    except Exception as e:
+        print("TigerGraph connection error:", e)
+        return ""
+
     all_chunks = set()
 
     for entity in seed_entities:
@@ -79,7 +102,7 @@ def multi_hop_retrieve(seed_entities, top_k=5):
         """
 
         try:
-            res1 = conn.gsql(q1)
+            res1 = tg_conn.gsql(q1)
             all_chunks.update(parse_chunks(res1))
         except Exception as e:
             print("1-hop error:", e)
@@ -102,7 +125,7 @@ def multi_hop_retrieve(seed_entities, top_k=5):
         """
 
         try:
-            res2 = conn.gsql(q2)
+            res2 = tg_conn.gsql(q2)
             all_chunks.update(parse_chunks(res2))
         except Exception as e:
             print("2-hop error:", e)
@@ -112,7 +135,22 @@ def multi_hop_retrieve(seed_entities, top_k=5):
 def graphrag_query(query: str):
     start_time = time.time()
     entities = extract_entities(query)
-    context = multi_hop_retrieve(entities)
+
+    context = ""
+    try:
+        context = multi_hop_retrieve(entities)
+    except Exception as e:
+        return {
+            "answer": "",
+            "entities": entities,
+            "latency_ms": 0,
+            "context_length": 0,
+            "tokens_used": 0,
+            "cost_usd": 0.0,
+            "reasoning_path": "",
+            "error": f"TigerGraph query failed: {str(e)}"
+        }
+
     prompt = f"""
 You are a quantum computing expert.
 Use ONLY the following graph context:
@@ -139,8 +177,8 @@ Explain clearly and technically.
         "entities": entities,
         "latency_ms": round(latency, 2),
         "context_length": len(context),
-        "tokens_used": response.usage.total_tokens,  # add this
-        "cost_usd": 0.0,
+        "tokens_used": tokens_used,
+        "cost_usd": cost_usd,
         "reasoning_path": ""
     }
 if __name__ == "__main__":
