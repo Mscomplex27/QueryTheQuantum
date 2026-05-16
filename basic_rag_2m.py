@@ -5,14 +5,12 @@ import chromadb
 from groq import Groq
 from dotenv import load_dotenv
 
-# Silence tokenizers parallelism warning
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 embed_model = TextEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
-# Persistent ChromaDB
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
 collection = chroma_client.get_or_create_collection("quantum_papers")
 

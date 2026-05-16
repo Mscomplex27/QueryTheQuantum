@@ -42,7 +42,6 @@ def parse_chunks(result):
 
         if isinstance(result, list):
             for item in result:
-                # SAFE fallback extraction
                 if isinstance(item, dict):
                     for k, v in item.items():
                         if isinstance(v, str) and len(v) > 20:

@@ -275,7 +275,7 @@ if st.session_state.last_results and st.session_state.last_query:
     results = st.session_state.last_results
     pipelines = list(results.keys())
     
-    st.markdown(f"### Results for: **{st.session_state.last_query}**")
+    st.markdown(f"### Results for: {st.session_state.last_query}")
     
     cols = st.columns(3, gap="medium")
     
